@@ -5,3 +5,5 @@ findings/*.raw.txt
 __pycache__/
 *.pyc
 .DS_Store
+reports/_test_*
+docs/_test_*
