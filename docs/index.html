@@ -52,6 +52,7 @@ footer a { color: var(--c-muted); }
 <div style="font-size:.75rem;color:var(--c-muted);letter-spacing:.1em;text-transform:uppercase;">whosaid · a sermon audit project</div>
 <h1>Sermon Audits</h1>
 <p class="lede">A structured audit of modern American sermons measured against four independent axes: fidelity to Jesus's teachings in the Gospels, bias-bearing or harmful rhetoric, factual accuracy of empirical claims, and whole-Bible engagement (cherry-picking and unacknowledged canonical tension).</p>
+<p style="font-size:.9rem;margin:0 0 1.5rem;">Source &amp; methodology: <a href="https://github.com/chicks/whosaid">github.com/chicks/whosaid</a></p>
 
 <div class="disclaimer">
 <strong>This is a methodology experiment.</strong>
@@ -213,6 +214,7 @@ footer a { color: var(--c-muted); }
 <footer>
 <p><strong>Pipeline:</strong> yt-dlp (transcript) → cleaner → Claude Opus 4.7 (structured findings via JSON Schema) → HTML/PDF generator. Each sermon audit runs ~$1 and ~5 min of model time. Reach data from YouTube + public megachurch attendance figures.</p>
 <p><strong>Rubrics:</strong> Whitehead &amp; Perry 2020; Du Mez 2020; Alberta 2023. Gospel quotations: ESV.</p>
+<p><strong>Source repository:</strong> <a href="https://github.com/chicks/whosaid">github.com/chicks/whosaid</a> — all prompts, rubrics, findings JSONs, and pipeline scripts are published there.</p>
 <p><strong>Contact / corrections:</strong> <a href="mailto:charles@reliable.cx">charles@reliable.cx</a></p>
 </footer>
 
