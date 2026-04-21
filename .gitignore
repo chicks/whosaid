@@ -1,0 +1,7 @@
+logs/
+*.raw.txt
+findings/_test_*
+findings/*.raw.txt
+__pycache__/
+*.pyc
+.DS_Store

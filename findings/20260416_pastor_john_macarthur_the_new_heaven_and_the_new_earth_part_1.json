@@ -1,0 +1,496 @@
+{
+  "meta": {
+    "sermon_title": "The New Heaven and the New Earth, Part 1 (Revelation 21:1–3) John MacArthur",
+    "preacher": "Pastor John MacArthur",
+    "church": "Grace Community Church",
+    "church_location": "Sun Valley, CA",
+    "series": "",
+    "preaching_text": "",
+    "youtube_id": "wirnL4nli1Y",
+    "upload_date": "2026-04-16",
+    "runtime_seconds": 4083,
+    "transcript_path": "transcripts/20260416_pastor_john_macarthur_the_new_heaven_and_the_new_earth_part_1.txt",
+    "gospel_translation": "ESV"
+  },
+  "summary": "MacArthur preaches a dispensationalist exposition of Revelation 21:1–3, arguing that the present universe will be \"unccreated\" and replaced by a literal new heaven and new earth containing the New Jerusalem as its capital. The sermon's pastoral thesis is that Christians are insufficiently \"heavenly-minded\" and that the comfort of Western culture has made the church worldly. Along the way MacArthur dismisses creation-care (\"save the planet people are really wasting their time\"), reads Ecclesiastes 7:1 as \"better to die than to be born,\" characterizes the world's cities as uniformly unholy, offers a 5-minute astronomy illustration with several factually wrong distance figures, and takes a brief swipe at evolution. Unlike much of MacArthur's public corpus, this particular sermon is largely free of politically charged rhetoric — no identifiable anti-Muslim, anti-LGBTQ, misogynistic, anti-Jewish, or Christian-nationalist content is present. The audit's concerns are primarily Axis 1 (tension between heaven-escape framing and Jesus's this-world kingdom teaching, plus notable absence of Matt 25 and the Lord's Prayer) and Axis 3 (multiple astronomy figures off by orders of magnitude, plus an overstated \"blood is 90% water\" claim).",
+  "scorecard": {
+    "axis_1": {
+      "label": "Fidelity to Jesus's Teachings (Red Letters)",
+      "verdict": "Mixed — faithful on some, selective on others",
+      "severity": "moderate",
+      "headline": "Four flagged items. Jesus's direct quotations (John 14:1–3, Matt 5:8, Luke 23:43) are rendered faithfully, but the sermon's central pastoral thrust — that disengagement from earth is the mark of spiritual maturity — sits in tension with Jesus's Lord's Prayer ('on earth as it is in heaven') and Matthew 25's embodied this-world criterion for inheriting the kingdom. Matthew 25:31–46 is absent from a sermon about the eternal state."
+    },
+    "axis_2": {
+      "label": "Identifiable Biases / Harmful Rhetoric",
+      "verdict": "Largely absent",
+      "severity": "low",
+      "headline": "No anti-Muslim, anti-LGBTQ, misogynistic, anti-Jewish, or Christian-nationalist content detected. A mild jeremiad about 'Western culture' and 'instant gratification' is present but generic. One low-level dismissal of creation-care and one throwaway anti-evolution remark; neither rises to harmful rhetoric."
+    },
+    "axis_3": {
+      "label": "Factual Claims & Evidence Check",
+      "verdict": "Multiple astronomy errors",
+      "severity": "moderate",
+      "headline": "The 5-minute astronomy illustration contains several distance figures wrong by orders of magnitude (Alpha Centauri stated as '20 billion years away'; Betelgeuse distance ~280× actual; lunar distance off by ~27,000 mi). Separately, 'your blood is 90% water' overstates whole-blood water content. The astronomical error set does not undermine the theological point (the universe is vast) but is delivered with authoritative precision it does not have."
+    },
+    "axis_4": {
+      "label": "Whole-Bible Engagement",
+      "verdict": "Selective — one canonical strand preached as the canon",
+      "severity": "moderate",
+      "headline": "On heaven, earth, and the body, the Bible holds several voices in tension: heaven-escape (2 Cor 5; Phil 3:20), earth-renewal (Rom 8:19–23; Isa 65 read whole; Rev 21:3 itself — God comes DOWN), and this-world kingdom (Matt 6:10; Matt 25). MacArthur preaches strand 1 robustly, strand 2 selectively, and strand 3 barely at all."
+    }
+  },
+  "tenets_affirmed": [
+    "Direct Jesus quotations are rendered faithfully: 'Let not your heart be troubled' and 'I go to prepare a place for you' (John 14:1–3); 'Blessed are the pure in heart, for they shall see God' (Matt 5:8); 'Today you will be with me in paradise' (Luke 23:43) — all handled accurately in their Gospel context.",
+    "Resurrection realism is affirmed explicitly against disembodied-soul spiritualism: 'We will be literally raised. We will be literally given resurrection bodies' — consistent with 1 Cor 15 and the creedal tradition.",
+    "Eschatological hope is grounded in God's presence, not rewards or real estate: the sermon's climax is Rev 21:3 ('the dwelling place of God is with man') and the repeated refrain from Ps 73:25 ('Whom have I in heaven but thee?'), locating heaven's goodness in God himself.",
+    "Verse-by-verse exposition from the actual biblical text, with Hebrew (shamayim) and Greek (ouranos, kainos vs. neos) lexical distinctions noted correctly."
+  ],
+  "counter_signals": [
+    "Explicit disavowal of wanton pollution: 'I'm not saying that you should wantingly pollute the world and make life difficult.'",
+    "No named political party, candidate, movement, or voting instruction.",
+    "No flag, pledge, or civil-religion imagery; no 'America' framing at all.",
+    "No attack on any identifiable religious, ethnic, gender, or sexual-minority group.",
+    "Closes with a gospel invitation for 'anyone who hears this message that is not on the way to heaven' rather than a call to political or cultural action.",
+    "Emphasizes God-centeredness ('We want to be there because God is there') over reward-centeredness."
+  ],
+  "findings": [
+    {
+      "id": "f1-1",
+      "axis": 1,
+      "severity": "moderate",
+      "headline": true,
+      "title": "'Save the planet people are really wasting their time' — creation-care dismissed",
+      "timestamp_seconds": 1770,
+      "timestamp_display": "00:29:30",
+      "pastor_quote": "The goals of all those who want to save the earth, the save the planet people are really wasting their time because this one will be replaced by an eternal new heaven and new earth… the earth is not headed for an ecological crisis. I want to take that burden off your back. The earth is not headed for an ecological crisis. It is not headed for an ecological holocaust. It is headed for an escatological holocaust.",
+      "jesus_quotes": [
+        {
+          "citation": "Matt 6:10 (Lord's Prayer)",
+          "text": "Your kingdom come, your will be done, on earth as it is in heaven."
+        },
+        {
+          "citation": "Matt 25:14–30 (Parable of the Talents — the wicked servant is the one who buries the master's property assuming the master's disposition is destructive)",
+          "text": "You wicked and slothful servant!… You ought to have invested my money with the bankers, and at my coming I should have received what was my own with interest."
+        },
+        {
+          "citation": "Luke 16:10–12",
+          "text": "One who is faithful in a very little is also faithful in much, and one who is dishonest in a very little is also dishonest in much… if you have not been faithful in that which is another's, who will give you what is your own?"
+        },
+        {
+          "citation": "Gen 2:15 — the vocation Jesus's Scripture opens with",
+          "text": "The Lord God took the man and put him in the garden of Eden to work it and keep it."
+        }
+      ],
+      "why_flagged": "Jesus's red-letter prayer is that God's will be done 'on earth as it is in heaven' — not that earth be abandoned. His parables assume faithful stewardship of the master's property in his absence; the servant who writes off the master's holdings is the one condemned. Framing ecological concern as a waste of time ('take that burden off your back') while assuring the congregation that God's plan requires the earth's destruction short-circuits the biblical stewardship vocation. The caveat ('not saying you should wantingly pollute') softens but does not restore the imperative."
+    },
+    {
+      "id": "f1-2",
+      "axis": 1,
+      "severity": "moderate",
+      "headline": true,
+      "title": "Matthew 25 absent from a sermon on the eternal state",
+      "timestamp_seconds": null,
+      "timestamp_display": "(absent from a sermon on heaven and the final state)",
+      "pastor_quote": "[absent] — In a 67-minute sermon on the new heaven and new earth, Jesus's own most extended teaching on what he will do when the nations are gathered before his throne (Matt 25:31–46) is never referenced.",
+      "jesus_quotes": [
+        {
+          "citation": "Matt 25:31–46",
+          "text": "When the Son of Man comes in his glory… before him will be gathered all the nations… 'I was hungry and you gave me food, I was thirsty and you gave me drink, I was a stranger and you welcomed me, I was naked and you clothed me, I was sick and you visited me, I was in prison and you came to me.'… 'Truly, I say to you, as you did it to one of the least of these my brothers, you did it to me.'"
+        },
+        {
+          "citation": "Matt 6:19–21",
+          "text": "Do not lay up for yourselves treasures on earth… but lay up for yourselves treasures in heaven… For where your treasure is, there your heart will be also."
+        },
+        {
+          "citation": "Luke 12:33",
+          "text": "Sell your possessions, and give to the needy. Provide yourselves with moneybags that do not grow old, with a treasure in the heavens that does not fail."
+        }
+      ],
+      "why_flagged": "The sermon's pastoral diagnosis is that Christians are 'laying up treasure on earth' rather than heaven. Jesus's own instructions on how, concretely, to lay up treasure in heaven — Matt 6:19–21, Luke 12:33, and most extensively Matt 25 — describe embodied care for the hungry, thirsty, stranger, naked, sick, and imprisoned. A heaven-focused sermon that exhorts congregants toward heavenly-mindedness without engaging Jesus's direct answer omits the passage most directly on topic."
+    },
+    {
+      "id": "f1-3",
+      "axis": 1,
+      "severity": "low",
+      "headline": false,
+      "title": "Ecclesiastes 7:1 inverted — 'better to die than to be born'",
+      "timestamp_seconds": 285,
+      "timestamp_display": "00:04:45",
+      "pastor_quote": "The preacher in Ecclesiastes chapter 7 and verse one was right. He didn't intend it this way. But he was right when he said the day of one's death is better than the day of one's birth… though he may have approached it cynically, what he said was indeed truth. It is better to die than to be born.",
+      "jesus_quotes": [
+        {
+          "citation": "John 10:10",
+          "text": "I came that they may have life and have it abundantly."
+        },
+        {
+          "citation": "John 11:25–26, 35 (at Lazarus's tomb — Jesus weeps before raising him)",
+          "text": "I am the resurrection and the life. Whoever believes in me, though he die, yet shall he live… Jesus wept."
+        },
+        {
+          "citation": "Mark 5:41 (raising Jairus's daughter)",
+          "text": "Taking her by the hand he said to her, 'Talitha cumi,' which means, 'Little girl, I say to you, arise.'"
+        },
+        {
+          "citation": "Luke 12:6–7",
+          "text": "Are not five sparrows sold for two pennies? And not one of them is forgotten before God. Why, even the hairs of your head are all numbered. Fear not; you are of more value than many sparrows."
+        }
+      ],
+      "why_flagged": "Ecclesiastes 7:1 says 'a good name is better than precious ointment, and the day of death than the day of birth' — in Qoheleth's ironic wisdom register, not a generalized preference for death. Generalizing it into 'it is better to die than to be born' as a Christian truism runs against Jesus's red-letter ministry, which is conspicuously pro-life-now: he raises the dead, weeps at death (John 11:35), values even sparrows' lives, and calls himself the giver of abundant life. Paul's 'to depart and be with Christ is far better' (cited in the sermon) explicitly pairs 'far better' for Paul with 'more necessary for you' for the church (Phil 1:24) — Paul chooses to stay. The sermon uses only the half of the tension that fits its thesis."
+    },
+    {
+      "id": "f1-4",
+      "axis": 1,
+      "severity": "low",
+      "headline": false,
+      "title": "Cities as uniformly wicked — against Jesus's urban lament",
+      "timestamp_seconds": 2580,
+      "timestamp_display": "00:43:00",
+      "pastor_quote": "Certainly, Los Angeles wouldn't qualify the world's cities. In fact, just the opposite of being holy of all of human society, the most unholy is in the cities, isn't it? The world's cities are pockets of wickedness, pockets of unholy living and unholy thinking… From New York to Tokyo, from Los Angeles to Moscow, from Rio to Paris, we don't know anything about a holy city.",
+      "jesus_quotes": [
+        {
+          "citation": "Luke 19:41",
+          "text": "And when he drew near and saw the city, he wept over it."
+        },
+        {
+          "citation": "Matt 23:37",
+          "text": "O Jerusalem, Jerusalem, the city that kills the prophets and stones those who are sent to it! How often would I have gathered your children together as a hen gathers her brood under her wings, and you were not willing!"
+        },
+        {
+          "citation": "Luke 4:43",
+          "text": "I must preach the good news of the kingdom of God to the other towns as well; for I was sent for this purpose."
+        },
+        {
+          "citation": "Isa 56:6–7 — cited by Jesus in Matt 21:13, Mark 11:17 when cleansing the Temple",
+          "text": "For my house shall be called a house of prayer for all peoples."
+        }
+      ],
+      "why_flagged": "Jesus's posture toward cities is lament and mission, not categorical dismissal. He weeps over Jerusalem rather than writing it off and commits to preaching 'in the other towns as well.' Categorical city-derogation ('we don't know anything about a holy city') sits in tension with the Bible's own ending image — a city descending from God to dwell with humanity, precisely the text being preached. Low-severity tension, but directional."
+    },
+    {
+      "id": "f2-1",
+      "axis": 2,
+      "severity": "low",
+      "headline": false,
+      "title": "Throwaway anti-evolution aside",
+      "timestamp_seconds": 2130,
+      "timestamp_display": "00:35:30",
+      "pastor_quote": "The earth, did you know, is the only place in the known universe where there's water enough to sustain man, plants, and animals? Tell me that's evolution. Can't be.",
+      "jesus_quotes": [
+        {
+          "citation": "Mark 12:30 (Greatest Commandment — includes 'mind')",
+          "text": "And you shall love the Lord your God with all your heart and with all your soul and with all your mind and with all your strength."
+        },
+        {
+          "citation": "Matt 10:16",
+          "text": "Be wise as serpents and innocent as doves."
+        }
+      ],
+      "why_flagged": "Low-severity flag: the rhetorical dismissal conflates 'abiogenesis / habitability' (the uniqueness-of-Earth question) with 'biological evolution' (the descent-with-modification question). These are distinct scientific questions; dismissing the second by appeal to the first is a category error. Not a harm-driving rhetorical move on its own, but representative of the sermon's pattern of asserting scientific-sounding claims without evidentiary grounding."
+    }
+  ],
+  "axis4_findings": [
+    {
+      "id": "f4-1",
+      "axis": 4,
+      "severity": "moderate",
+      "headline": true,
+      "title": "Earth as 'disposable' — the escape strand preached as the whole canon",
+      "topic": "What God intends to do with the material creation",
+      "timestamp_seconds": 1770,
+      "timestamp_display": "00:29:30",
+      "pastor_quote": "The earth we live on is temporary disposable. We're not to preserve it. That's pointless… It is disposable. It is unraveling. It is declining. It is winding down… The goals of all those who want to save the earth, the save the planet people are really wasting their time.",
+      "jesus_passages": [
+        {
+          "citation": "Matt 6:10 (Lord's Prayer)",
+          "text": "Your kingdom come, your will be done, on earth as it is in heaven."
+        },
+        {
+          "citation": "Matt 5:5 (Beatitudes)",
+          "text": "Blessed are the meek, for they shall inherit the earth."
+        },
+        {
+          "citation": "Matt 25:14–30 (the master returns and expects stewardship of what was entrusted)",
+          "text": "You wicked and slothful servant!… Take the talent from him and give it to him who has the ten talents."
+        },
+        {
+          "citation": "Gen 1:31; Gen 2:15 — the Scripture Jesus inherited",
+          "text": "And God saw everything that he had made, and behold, it was very good… The Lord God took the man and put him in the garden of Eden to work it and keep it."
+        }
+      ],
+      "wider_bible_passages": [
+        {
+          "citation": "Rom 8:19–23 (Paul)",
+          "text": "For the creation waits with eager longing for the revealing of the sons of God… that the creation itself will be set free from its bondage to corruption and obtain the freedom of the glory of the children of God. For we know that the whole creation has been groaning together in the pains of childbirth until now."
+        },
+        {
+          "citation": "Rev 21:3 (the sermon's own text)",
+          "text": "Behold, the dwelling place of God is with man. He will dwell with them, and they will be his people, and God himself will be with them as their God."
+        },
+        {
+          "citation": "Rev 11:18",
+          "text": "The time for the dead to be judged, and for rewarding your servants, the prophets and saints, and those who fear your name, both small and great, and for destroying the destroyers of the earth."
+        },
+        {
+          "citation": "Isa 65:17–25 (read whole — the 'new heaven and new earth' passage MacArthur cites verse 17 from)",
+          "text": "They shall build houses and inhabit them; they shall plant vineyards and eat their fruit… The wolf and the lamb shall graze together; the lion shall eat straw like the ox, and dust shall be the serpent's food. They shall not hurt or destroy in all my holy mountain, says the Lord."
+        },
+        {
+          "citation": "Ps 24:1",
+          "text": "The earth is the Lord's and the fullness thereof, the world and those who dwell therein."
+        },
+        {
+          "citation": "Col 1:20 (Paul)",
+          "text": "Through him to reconcile to himself all things, whether on earth or in heaven, making peace by the blood of his cross."
+        }
+      ],
+      "analysis": "The canon holds two images of creation's end in unresolved tension: destruction/replacement (2 Pet 3:10–13; aspects of Rev 20–21) and renewal/reconciliation (Rom 8:19–23; Col 1:20; Isa 65 read whole; Rev 21:3 itself). The Greek of 2 Pet 3:10 is textually contested — the oldest manuscripts read 'will be found' (heurethēsetai), not 'will be burned up.' The sermon's own preaching text (Rev 21:3) envisions God coming DOWN to dwell with humanity on a renewed earth — an incarnational direction, not an evacuation. Isaiah 65:17 (cited by MacArthur) keeps going: vs. 21–22 describe people building houses and planting vineyards — continuity, not just replacement. Rev 11:18 promises judgment on 'the destroyers of the earth' — a verse that makes little sense if the earth is meant to be destroyed anyway. MacArthur preaches the 'disposable' strand as if it were the canon's single voice and draws the ethical conclusion (creation care is pointless) from it. Even within a conservative evangelical hermeneutic (N.T. Wright, Richard Bauckham, Douglas Moo, Jonathan Moo) this is a minority reading. The practical upshot — 'I want to take that burden off your back' — discourages the congregation from engaging a canonical vocation on the grounds of an uncertain eschatological mechanism.",
+      "why_flagged": "The pastor presents one canonical strand (earth-replacement) as the Bible's single voice while omitting the renewal strand (Rom 8; Col 1:20; Isa 65 read whole) and underreading his own preaching text (Rev 21:3 God-comes-down). The ethical conclusion drawn — that creation care is 'wasting their time' — is derived from the selective reading."
+    },
+    {
+      "id": "f4-2",
+      "axis": 4,
+      "severity": "moderate",
+      "headline": false,
+      "title": "Heavenly-minded / earthly-minded binary — underreads 'on earth as it is in heaven'",
+      "topic": "Where Christians should direct their attention and effort",
+      "timestamp_seconds": 120,
+      "timestamp_display": "00:02:00",
+      "pastor_quote": "We are living in a society of instant gratification, material comfort, and endless indulgences. And the church has become worldly. Nothing demonstrates that, I don't think, any more graphically than the lack of interest in heaven. Most Christians are to some degree or another more interested in laying up treasure on earth than in heaven… We waste our lives. They hinder the power of the church and they are consumed with fading things.",
+      "jesus_passages": [
+        {
+          "citation": "Matt 6:9–10 (Lord's Prayer)",
+          "text": "Our Father in heaven, hallowed be your name. Your kingdom come, your will be done, on earth as it is in heaven."
+        },
+        {
+          "citation": "Luke 17:20–21",
+          "text": "The kingdom of God is not coming in ways that can be observed, nor will they say, 'Look, here it is!' or 'There!' for behold, the kingdom of God is in the midst of you."
+        },
+        {
+          "citation": "Matt 25:31–46 (the criterion for inheriting the kingdom is embodied this-world care)",
+          "text": "'I was hungry and you gave me food… I was a stranger and you welcomed me, I was naked and you clothed me…' 'Truly, I say to you, as you did it to one of the least of these my brothers, you did it to me.'"
+        },
+        {
+          "citation": "John 17:15 (Jesus's high-priestly prayer)",
+          "text": "I do not ask that you take them out of the world, but that you keep them from the evil one."
+        },
+        {
+          "citation": "Deut 6:5 — cited by Jesus in Matt 22:37, Mark 12:30 as the great commandment",
+          "text": "You shall love the Lord your God with all your heart and with all your soul and with all your might."
+        }
+      ],
+      "wider_bible_passages": [
+        {
+          "citation": "Col 3:1–2 (cited by MacArthur)",
+          "text": "Set your minds on things that are above, not on things that are on earth."
+        },
+        {
+          "citation": "Phil 3:20 (cited by MacArthur)",
+          "text": "But our citizenship is in heaven, and from it we await a Savior, the Lord Jesus Christ."
+        },
+        {
+          "citation": "Jas 1:27 — the canonical balance",
+          "text": "Religion that is pure and undefiled before God the Father is this: to visit orphans and widows in their affliction, and to keep oneself unstained from the world."
+        },
+        {
+          "citation": "Mic 6:8",
+          "text": "He has told you, O man, what is good; and what does the Lord require of you but to do justice, and to love kindness, and to walk humbly with your God?"
+        },
+        {
+          "citation": "1 John 3:17 — test of whether heaven-focus is real",
+          "text": "But if anyone has the world's goods and sees his brother in need, yet closes his heart against him, how does God's love abide in him?"
+        }
+      ],
+      "analysis": "MacArthur's framing ('heavenly-minded' vs. 'earthly-minded' as a zero-sum) draws heavily on Col 3:1–2 and Phil 3:20 — both legitimate Pauline voices. The selectivity lies in treating those two passages as decisive while omitting the texts where heaven-focus is tested specifically by this-world behavior: Matt 25 (which the sermon never cites), Jas 1:27 (religion tested by orphans and widows), 1 John 3:17 (love for God tested by material generosity to a brother in need), Mic 6:8 (what God actually requires). Jesus's own framing in the Lord's Prayer is not 'get me out of earth' but 'bring your kingdom here.' His high-priestly prayer explicitly disclaims the take-them-out-of-the-world request. The resulting pastoral exhortation is lopsided: it defines spiritual maturity primarily as inner longing for heaven, never defining it in terms of the actual Jesus-criteria (hungry fed, stranger welcomed, sick visited, widow cared for). The sermon could have affirmed heaven-hope AND this-world embodiment — the canon does. It affirms only the first.",
+      "why_flagged": "Selecting two Pauline passages (Col 3; Phil 3) as the canonical framing while omitting Matt 25, Jas 1:27, 1 John 3:17, and Mic 6:8 produces a truncated spirituality. The canonical counter-voice — that heaven-focus is tested by embodied love of concrete neighbors — is not engaged."
+    },
+    {
+      "id": "f4-3",
+      "axis": 4,
+      "severity": "moderate",
+      "headline": false,
+      "title": "New Jerusalem read only as destination, not as pattern for the church's life now",
+      "topic": "How Rev 21 should shape present Christian practice",
+      "timestamp_seconds": 3180,
+      "timestamp_display": "00:53:00",
+      "pastor_quote": "I saw the new Jerusalem coming down and it's made ready as a bride adorned for her husband. It's time for the consummation… The capital city of eternity… home will be the new Jerusalem.",
+      "jesus_passages": [
+        {
+          "citation": "Matt 5:14 (Sermon on the Mount)",
+          "text": "You are the light of the world. A city set on a hill cannot be hidden."
+        },
+        {
+          "citation": "John 13:34–35",
+          "text": "A new commandment I give to you, that you love one another: just as I have loved you, you also are to love one another. By this all people will know that you are my disciples, if you have love for one another."
+        },
+        {
+          "citation": "Matt 6:10 (Lord's Prayer)",
+          "text": "Your kingdom come, your will be done, on earth as it is in heaven."
+        }
+      ],
+      "wider_bible_passages": [
+        {
+          "citation": "Rev 21:24–26 (the same passage MacArthur is preaching — later in the chapter)",
+          "text": "By its light will the nations walk, and the kings of the earth will bring their glory into it… They will bring into it the glory and the honor of the nations."
+        },
+        {
+          "citation": "Rev 22:2",
+          "text": "The leaves of the tree were for the healing of the nations."
+        },
+        {
+          "citation": "Eph 2:19–22 (Paul's present-tense 'holy temple' / 'city' language for the church)",
+          "text": "You are fellow citizens with the saints and members of the household of God… being joined together, grows into a holy temple in the Lord."
+        },
+        {
+          "citation": "Heb 13:14",
+          "text": "For here we have no lasting city, but we seek the city that is to come."
+        }
+      ],
+      "analysis": "Rev 21–22 is a picture of the New Jerusalem drawing the nations into itself and producing healing for them. The dominant patristic, Augustinian, and much Protestant reading treats this city as both telos and pattern — a vision that forms the church's present common life and outward posture toward 'the nations' and 'the kings of the earth.' Paul's Eph 2 applies 'city / holy temple' language to the church's present existence. The sermon treats the New Jerusalem strictly as a future destination — a geographic endpoint 1,500 miles cubed that descends to the post-destruction universe. This is defensible as a dispensationalist reading, but it leaves the sermon with no practical payoff: the vision of Rev 21:3 ('God dwells with them') has no bearing on how this congregation should live differently on Monday, because the vision is reserved entirely for the post-destruction future. The wider canon reads Rev 21 and Matt 5:14 together: the city-that-comes-down shapes the city-on-a-hill. The sermon reads only the first.",
+      "why_flagged": "The pastor treats the New Jerusalem as destination only, not as pattern. Rev 21:24–26 and 22:2 (nations walking by its light, leaves for healing of the nations) are within the preaching text's immediate neighborhood but are not engaged. The result is a vision of heaven that does not require anything of the present church."
+    }
+  ],
+  "factual_claims": [
+    {
+      "id": "fc-1",
+      "timestamp_seconds": 1140,
+      "timestamp_display": "00:19:00",
+      "claim": "Alpha Centauri is '20 billion years away'; the North Star is '400 billion'; Betelgeuse is '880 quadrillion miles away' with 'a 200 million mile diameter.'",
+      "evidence_cited_by_pastor": "None. Delivered as precise astronomical fact in an illustration about heaven's distance.",
+      "verdict": "false",
+      "analysis": "All three figures are significantly wrong relative to modern astronomical consensus. (1) Alpha Centauri: ~4.37 light-years, which is ~25.7 trillion miles; '20 billion years' is a category error (years, not miles) and even reading it charitably as '20 billion miles' is off by ~1,300×. (2) Polaris (North Star): ~433 light-years ≈ ~2.5 quadrillion miles, not 400 billion; off by roughly 6,000×. (3) Betelgeuse: distance ~500–550 light-years ≈ ~3.1 quadrillion miles, not 880 quadrillion — off by ~280×; and Betelgeuse's diameter is estimated at roughly 700 million miles (~1.2 billion km), not 200 million. The figures are presented with the rhetorical confidence of a fact-check-ready illustration; they do not survive one. The underlying theological point (the universe is vast) is unaffected, but delivering wrong figures with authority undermines pulpit credibility on verifiable claims.",
+      "sources": [
+        {
+          "title": "NASA Science — Alpha Centauri",
+          "url": "https://science.nasa.gov/exoplanets/alpha-centauri/"
+        },
+        {
+          "title": "NASA — Polaris (The North Star)",
+          "url": "https://science.nasa.gov/resource/polaris-the-north-star/"
+        },
+        {
+          "title": "ESA/Hubble — Betelgeuse (size and distance)",
+          "url": "https://esahubble.org/images/opo9604a/"
+        }
+      ]
+    },
+    {
+      "id": "fc-2",
+      "timestamp_seconds": 1110,
+      "timestamp_display": "00:18:30",
+      "claim": "The moon is 211,463 miles away; 'you could walk to it in 27 years if you could walk 24 miles a day.'",
+      "evidence_cited_by_pastor": "None.",
+      "verdict": "false",
+      "analysis": "The mean Earth–Moon distance is approximately 238,855 miles; perigee ~225,000 mi and apogee ~252,000 mi. 211,463 miles falls below even the closest recorded perigee and does not correspond to any standard NASA reference figure. The walking-time arithmetic is also internally inconsistent with the figure: 211,463 ÷ 24 ≈ 8,811 days ≈ 24.1 years, not 27. Minor error, low stakes, but delivered with specificity.",
+      "sources": [
+        {
+          "title": "NASA — Earth's Moon: Facts",
+          "url": "https://science.nasa.gov/moon/facts/"
+        }
+      ]
+    },
+    {
+      "id": "fc-3",
+      "timestamp_seconds": 2070,
+      "timestamp_display": "00:34:30",
+      "claim": "'Your blood is 90% water; your flesh is 65% water.'",
+      "evidence_cited_by_pastor": "None.",
+      "verdict": "partially supported / overstated",
+      "analysis": "Human blood plasma is approximately 92% water, but plasma makes up only ~55% of whole blood; the remainder (red and white cells, platelets) is cellular mass. Whole-blood water content is therefore closer to 50%, not 90%. The 90% figure applies to plasma specifically. 'Flesh is 65% water' is roughly defensible for overall adult body composition (~60% in men, ~55% in women) and skeletal-muscle tissue is ~75% water — the 65% figure sits inside the plausible range. The substantive point (humans and earth are water-dependent) is correct; the specific blood figure materially overstates whole-blood water content.",
+      "sources": [
+        {
+          "title": "USGS — The Water in You: Water and the Human Body",
+          "url": "https://www.usgs.gov/special-topics/water-science-school/science/water-you-water-and-human-body"
+        },
+        {
+          "title": "NIH / StatPearls — Physiology, Blood Plasma",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK531504/"
+        }
+      ]
+    },
+    {
+      "id": "fc-4",
+      "timestamp_seconds": 930,
+      "timestamp_display": "00:15:30",
+      "claim": "'Heaven is referred to 550 times or so in scripture. Heaven is referred to 54 times in the book of Revelation.'",
+      "evidence_cited_by_pastor": "None.",
+      "verdict": "needs verification",
+      "analysis": "These are lexical counts that depend on translation (ESV vs. KJV vs. NASB) and whether 'heavens' (plural) is included alongside 'heaven.' Broadly plausible — a KJV English concordance count for 'heaven' is in the 550–600 range, and 'heaven' appears dozens of times in Revelation — but verifying the exact 550 / 54 figures requires specifying translation and lemma rules. Low-stakes claim; noted for completeness rather than concern."
+    }
+  ],
+  "cn_markers": [
+    {
+      "marker": "A. Conflation of national & Christian identity",
+      "status": "None detected",
+      "note": "No reference to America, any nation, or national inheritance."
+    },
+    {
+      "marker": "B. Militaristic / warrior framing",
+      "status": "None detected",
+      "note": "No combat, armor-of-God, or masculine-warrior rhetoric."
+    },
+    {
+      "marker": "C. Political opponents as spiritual enemies",
+      "status": "None detected"
+    },
+    {
+      "marker": "D. Dominionist rhetoric",
+      "status": "None detected",
+      "note": "The sermon's direction is disengagement from the world, the opposite of institutional capture."
+    },
+    {
+      "marker": "E. Civil religion (flag, pledge)",
+      "status": "None detected"
+    },
+    {
+      "marker": "F. Jeremiad / 'Christianity under attack'",
+      "status": "Low",
+      "note": "'Western world… society of instant gratification, material comfort, and endless indulgences… the church has become worldly' — cultural critique rather than persecution claim; no targets named."
+    },
+    {
+      "marker": "G. Ethno-cultural 'real American' undertones",
+      "status": "None detected"
+    },
+    {
+      "marker": "H. Strongman / authoritarian affinity",
+      "status": "None detected"
+    }
+  ],
+  "other_axis2_rubrics": [
+    {
+      "rubric": "Anti-Muslim framing",
+      "status": "Not present in this sermon"
+    },
+    {
+      "rubric": "Anti-LGBTQ framing",
+      "status": "Not present in this sermon"
+    },
+    {
+      "rubric": "Misogynistic framing",
+      "status": "Not present in this sermon",
+      "note": "Bride-of-Christ imagery is handled corporately (all the redeemed) rather than gendered-role prescriptively."
+    },
+    {
+      "rubric": "Anti-Jewish framing",
+      "status": "Low / contextual",
+      "note": "Dispensationalist framework distinguishes Israel from the church and routes 'tribulation saints,' 'Old Testament saints,' etc. as separate categories. The parenthetical 'a Jew who wouldn't even say the name of God because of fearful reverence' is stated respectfully. No supersessionist triumphalism in this sermon."
+    },
+    {
+      "rubric": "Dismissal of creation-care",
+      "status": "Present — see Finding f1-1 and f4-1",
+      "note": "Not a standard named rubric, but the sermon's most identifiable rhetorical move with real-world consequences for how the congregation engages environmental questions."
+    }
+  ],
+  "reach": {
+    "view_count": 8009,
+    "like_count": null,
+    "channel": "Grace to You",
+    "channel_id": "UCneKpMu9SFGlt2usTdAI75A",
+    "channel_follower_count": 974000,
+    "upload_date": "20260416",
+    "source": "yt-dlp",
+    "congregation": {
+      "weekly_attendance_est": 8000,
+      "source": "Hartford Institute for Religion Research megachurch database"
+    }
+  }
+}

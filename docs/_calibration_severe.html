@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>whosaid — Calibration Comparison</title>
+<style>
+* { box-sizing: border-box; }
+:root {
+  --c-bg: #fafaf7; --c-fg: #1d1d1b; --c-muted: #6b6b67; --c-border: #d8d6cf;
+  --c-card: #ffffff;
+  --c-severe: #9b1c1c; --c-severe-bg: #fde8e8;
+  --c-moderate: #c2410c; --c-moderate-bg: #ffedd5;
+  --c-low: #a16207; --c-low-bg: #fef3c7;
+  --c-link: #1e40af;
+}
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
+  background: var(--c-bg); color: var(--c-fg);
+  max-width: 1400px; margin: 0 auto; padding: 2rem 1.5rem 5rem;
+  line-height: 1.5;
+}
+h1 { font-size: 1.9rem; margin: 0 0 .25rem; letter-spacing: -0.01em; }
+h2 { font-size: 1.3rem; margin: 2.5rem 0 .75rem; border-bottom: 1px solid var(--c-border); padding-bottom: .3rem; }
+h3 { font-size: 1rem; margin: 1rem 0 .3rem; }
+a { color: var(--c-link); text-decoration: none; border-bottom: 1px solid rgba(30,64,175,0.3); }
+
+.pastor-cols { display: grid; gap: 1rem; }
+.pastor-header-row { display: grid; gap: 1rem; }
+
+.pastor-card {
+  background: var(--c-card); border: 1px solid var(--c-border); border-radius: 6px;
+  padding: .75rem 1rem;
+}
+.pastor-card .name { font-weight: 700; font-size: 1.05rem; }
+.pastor-card .church { font-size: .82rem; color: var(--c-muted); }
+.pastor-card .sermon { font-size: .82rem; margin-top: .3rem; font-style: italic; color: var(--c-muted); }
+.pastor-card .reach-line { font-size: .78rem; margin-top: .4rem; font-variant-numeric: tabular-nums; color: var(--c-fg); }
+.pastor-card .reach-line strong { font-weight: 700; }
+
+.marker-row {
+  display: grid; gap: 1rem; margin: .5rem 0; padding: .75rem;
+  background: var(--c-card); border: 1px solid var(--c-border); border-radius: 6px;
+}
+.marker-row .marker-title {
+  grid-column: 1 / -1;
+  font-weight: 600; font-size: .9rem;
+  color: var(--c-muted); text-transform: uppercase; letter-spacing: .05em;
+  border-bottom: 1px dashed var(--c-border); padding-bottom: .25rem; margin-bottom: .25rem;
+}
+.marker-cell { font-size: .88rem; line-height: 1.45; }
+.marker-cell .status-tag {
+  display: inline-block; font-size: .7rem; font-weight: 600;
+  padding: 2px 7px; border-radius: 3px;
+  text-transform: uppercase; letter-spacing: .05em;
+}
+.marker-cell .status-tag.status-severe { background: var(--c-severe); color: white; }
+.marker-cell .status-tag.status-present { background: var(--c-moderate); color: white; }
+.marker-cell .status-tag.status-low { background: var(--c-low); color: white; }
+.marker-cell .status-tag.status-none { background: #e5e2d8; color: var(--c-muted); }
+.marker-cell .note { font-size: .82rem; color: var(--c-fg); margin-top: .4rem; padding: .4rem .55rem; background: #f5f4ee; border-radius: 3px; border-left: 2px solid var(--c-border); }
+
+.axis2-headline {
+  background: var(--c-card); border: 1px solid var(--c-border); border-radius: 6px;
+  padding: .75rem 1rem; font-size: .9rem; line-height: 1.5;
+}
+.axis2-headline.severity-severe { border-left: 4px solid var(--c-severe); }
+.axis2-headline.severity-moderate { border-left: 4px solid var(--c-moderate); }
+.axis2-headline.severity-low { border-left: 4px solid var(--c-low); }
+.axis2-headline .verdict-line { font-weight: 600; margin-bottom: .3rem; }
+.axis2-headline .headline-body { color: var(--c-fg); font-size: .88rem; }
+
+.finding-card {
+  background: var(--c-card); border: 1px solid var(--c-border); border-radius: 6px;
+  padding: .75rem 1rem; margin-top: .5rem; font-size: .88rem;
+}
+.finding-card.severity-severe { border-left: 4px solid var(--c-severe); }
+.finding-card.severity-moderate { border-left: 4px solid var(--c-moderate); }
+.finding-card.severity-low { border-left: 4px solid var(--c-low); }
+.finding-card .finding-title { font-weight: 600; }
+.finding-card .pastor-quote { font-size: .83rem; background: #fef7f4; padding: .4rem .55rem; border-radius: 3px; margin: .4rem 0; border-left: 2px solid #f3d6c5; }
+.finding-card .why-flagged-short { font-size: .82rem; color: var(--c-muted); }
+
+.severity-rank {
+  background: var(--c-card); border: 1px solid var(--c-border); border-radius: 6px;
+  padding: 1rem 1.25rem;
+}
+.severity-rank table { width: 100%; border-collapse: collapse; font-size: .9rem; }
+.severity-rank th, .severity-rank td { text-align: left; padding: .4rem .5rem; border-bottom: 1px solid var(--c-border); }
+.severity-rank th { background: #ebe9e1; font-weight: 600; font-size: .78rem; text-transform: uppercase; letter-spacing: .05em; }
+
+footer { margin-top: 3rem; padding-top: 1.5rem; border-top: 1px solid var(--c-border); color: var(--c-muted); font-size: .85rem; }
+</style>
+</head><body>
+<div style="font-size:.75rem; color: var(--c-muted); letter-spacing:.1em; text-transform: uppercase;">Calibration — side-by-side per-marker comparison</div>
+<h1>whosaid — Calibration Comparison</h1>
+<p style="color: var(--c-muted); margin-top:.5rem;">Cross-checks that severity ratings are applied consistently across 3 pastors on the same topic. For each CN marker and Axis-2 sub-rubric, shows the status + supporting note/evidence from each pastor's findings side-by-side.</p>
+
+<h2>Pastors</h2>
+<div class="pastor-header-row" style="grid-template-columns: repeat(3, 1fr);"><div class="pastor-card"><div class="name">Pastor Jack Hibbs</div><div class="church">Calvary Chapel Chino Hills</div><div class="sermon">“The Stage Is Being Set For The End Times!” (2026-02-26)</div><div class="reach-line"><strong>809K</strong> views · ~<strong>10K</strong>/wk</div></div><div class="pastor-card"><div class="name">Pastor John Hagee</div><div class="church">Cornerstone Church</div><div class="sermon">“Pastor John Hagee - &quot;The End of Days&quot;” (2025-06-18)</div><div class="reach-line"><strong>497K</strong> views · <strong>1.3M</strong> subs · ~<strong>22K</strong>/wk</div></div><div class="pastor-card"><div class="name">Pastor Josh Howerton</div><div class="church">Lakepointe Church</div><div class="sermon">“When Will Jesus Return? 4 Predictions About the End Times” (2026-04-12)</div><div class="reach-line"><strong>153K</strong> views · <strong>882K</strong> subs · ~<strong>26K</strong>/wk</div></div></div>
+
+<h2>Axis 2 — Headline Verdict</h2>
+<div class="pastor-header-row" style="grid-template-columns: repeat(3, 1fr);"><div class="axis2-headline severity-severe"><div class="verdict-line">[severe] Severe anti-Muslim and political-enemy rhetoric</div><div class="headline-body">An hour-plus sustained framing of Shia Islam as an eschatological death cult, specific partisan attacks on Democrats, Mamdani, Tucker Carlson, and Biden (framed as possibly Satan-indwelt or God&#x27;s judgment instrument), plus an off-hand anti-LGBTQ &#x27;should have sunk the ship&#x27; remark aimed at U.S. sailors. Four CN markers present, including strongman affinity and political-opponents-as-spiritual-enemies.</div></div><div class="axis2-headline severity-severe"><div class="verdict-line">[severe] Severe xenophobic and anti-Muslim framing paired with authoritarian political directives</div><div class="headline-body">Explicit calls from the pulpit to deport protesters, defund universities, and fire professors; an &#x27;Islamic coalition&#x27; framing of a prophesied divine-destruction war; and a theological threat that America&#x27;s divine favor is contingent on unconditional support for Israel&#x27;s military campaigns.</div></div><div class="axis2-headline severity-severe"><div class="verdict-line">[severe] Severe anti-Muslim eschatology</div><div class="headline-body">A 5-minute structured argument identifying Islam as the religion of the Antichrist, preached to ~53,000 weekly attendees. Plus three Christian nationalism markers (national identity, political opponents as spiritual enemies, persecution jeremiad).</div></div></div>
+
+<h2>Axis 2 — Top Findings (with pastor quote)</h2>
+<div class="pastor-header-row" style="grid-template-columns: repeat(3, 1fr);"><div><div class="finding-card severity-severe"><div class="finding-title">Sustained anti-Muslim eschatology framed as exposition</div><div class="pastor-quote">“Islam is divided into two camps, Sunni and Shia... they both cannot allow you to live, but one will kill you sooner. Shia is very violent... Shia will kill Sunni... [later] The government went into the hands of a deat…”</div><div class="why-flagged-short">Calvary Chapel Chino Hills reports weekly attendance in the thousands with wide YouTube and podcast distribution; Hibbs is a nationally-known evangelical voice with political access. A confident, repe</div></div><div class="finding-card severity-moderate"><div class="finding-title">Political opponents cast as Satan-indwelt, Biden as possible instrument of judgment</div><div class="pastor-quote">“Those bozo podcasters that have gone insane... I think I actually think Satan has gotten inside of their head. Why? Because they have turned against Israel... [01:06:30] What if God had Biden in office so that the bor…”</div><div class="why-flagged-short">CN marker C (political opponents as spiritual enemies). Naming a living public figure (Tucker Carlson) as Satan-influenced for disagreeing on Israel policy, and positing a prior U.S. president as God&#x27;</div></div><div class="finding-card severity-moderate"><div class="finding-title">Christianity-under-attack / Biden-opened-borders-for-judgment jeremiad</div><div class="pastor-quote">“Why would you, as a government, leave your borders unchecked and wide open for four years?... What if God had Biden in office so that the borders would be left open to set this nation up to be dealt with because of al…”</div><div class="why-flagged-short">CN marker F (jeremiad / &#x27;Christianity under attack&#x27;) combined with a specific, partisan geopolitical diagnosis of the cause. Presents a contested immigration-policy critique as a candidate divine-judg</div></div></div><div><div class="finding-card severity-severe"><div class="finding-title">Direct political directives from the pulpit: deport protesters, defund universities, fire professors</div><div class="pastor-quote">“These flag burning, god-hating, anti-semitic garbage needs to be deported. Send them back where they come from. Anti-semitic universities that plant the virus of anti-semitism into the hearts and minds of the next gen…”</div><div class="why-flagged-short">Three specific state-action demands delivered from the pulpit (deportation, defunding, firing) framed as the Christian response to protest speech. &#x27;Garbage&#x27; is the rhetorical register — dehumanizing l</div></div><div class="finding-card severity-severe"><div class="finding-title">America&#x27;s divine favor framed as conditional on supporting Israeli military campaigns</div><div class="pastor-quote">“The day America stops blessing Israel will be the day God stops blessing this country. And I want to tell you, there are people in our Congress and in our national leadership that are doing just that. It&#x27;s high time t…”</div><div class="why-flagged-short">Combines two Christian-nationalism markers: (1) conflation of national &amp; Christian identity — the US&#x27;s divine standing is presented as contingent on geopolitical alignment with a specific foreign stat</div></div><div class="finding-card severity-moderate"><div class="finding-title">Anti-Muslim framing folded into eschatology (&#x27;Russian Islamic coalition&#x27;)</div><div class="pastor-quote">“A Russian Islamic coalition will attack Israel. This will be the Gog Magog war… Russia and Iran are destroyed by the hand of God in the middle of the tribulation.”</div><div class="why-flagged-short">&#x27;Islamic coalition&#x27; functions as an ethno-religious identifier of divine-destruction targets. The biblical Ezek 38 list (Gog, Magog, Meshech, Tubal, Persia, Cush, Put, Beth-togarmah) predates Islam by</div></div></div><div><div class="finding-card severity-moderate"><div class="finding-title">Persecution jeremiad paired with voting warning</div><div class="pastor-quote">“Tolerance for Christianity is decreasing… there have been more martyrs for the Christian faith in the last one century in the world than in every previous century of church history combined… You be careful how you vot…”</div><div class="why-flagged-short">Jesus predicts persecution too — this isn&#x27;t the disagreement. The disagreement is what persecution authorizes. Jesus&#x27;s response in the red letters: rejoice, love, pray for, forgive. Howerton&#x27;s respons</div></div></div></div>
+
+<h2>Christian Nationalism Markers — Side by Side</h2>
+<div class="marker-row" style="grid-template-columns: repeat(3, 1fr);"><div class="marker-title">A. Conflation of national &amp; Christian identity</div><div class="marker-cell"><span class="status-tag status-present">Present (mixed)</span><div class="note">See Finding 4.5 — Trump administration framed as possible divine instrument for Jer 49; &#x27;I think Israel&#x27;s is an insurance policy&#x27; for the U.S.; counter-signal is the closing prayer of national confession.</div></div><div class="marker-cell"><span class="status-tag status-present">Present</span><div class="note">See Finding 2.2 — &#x27;The day America stops blessing Israel will be the day God stops blessing this country.&#x27;</div></div><div class="marker-cell"><span class="status-tag status-present">Present</span><div class="note">See Finding 1.3</div></div></div>
+<div class="marker-row" style="grid-template-columns: repeat(3, 1fr);"><div class="marker-title">B. Militaristic / warrior framing</div><div class="marker-cell"><span class="status-tag status-present">Moderate</span><div class="note">Pastor walks through U.S. military assets — F-22s, F-35s, Growlers, Gerald Ford carrier, AWACS — in tactical detail from the pulpit; frames the imminent strike on Iran as potential divine fulfillment. Not imagery only — real-world military action is being narrated approvingly.</div></div><div class="marker-cell"><span class="status-tag status-present">Moderate</span><div class="note">Churchill/MacArthur &#x27;no substitute for victory&#x27; quoted approvingly [00:22:20]; applause invited for God &#x27;crushing&#x27; named nations [00:03:00]; &#x27;bold as a lion in defense of Zion&#x27; [00:22:40]. Biblical warrior-Messiah imagery (Rev 19) rendered in an explicitly contemporary-military register.</div></div><div class="marker-cell"><span class="status-tag status-low">Low</span><div class="note">‘Team Jesus / team world… walked across the battlefield’ [00:45:30]; warrior-king rendering of returning Christ [00:53:00] — biblical (Rev 19) but rendered in the masculinised register Du Mez documents.</div></div></div>
+<div class="marker-row" style="grid-template-columns: repeat(3, 1fr);"><div class="marker-title">C. Political opponents as spiritual enemies</div><div class="marker-cell"><span class="status-tag status-present">Present</span><div class="note">See Finding 2.2 — &#x27;Satan has gotten inside of their head&#x27; re: podcasters who disagree on Israel; Biden framed as possibly God&#x27;s judgment instrument via border policy.</div></div><div class="marker-cell"><span class="status-tag status-present">Present</span><div class="note">See Findings 2.1 and 2.2 — protesters, professors, and members of Congress identified as aligned against God&#x27;s blessing.</div></div><div class="marker-cell"><span class="status-tag status-present">Present</span><div class="note">See Finding 1.1</div></div></div>
+<div class="marker-row" style="grid-template-columns: repeat(3, 1fr);"><div class="marker-title">D. Dominionist rhetoric</div><div class="marker-cell"><span class="status-tag status-none">None detected</span></div><div class="marker-cell"><span class="status-tag status-present">Low–Moderate</span><div class="note">Direct policy prescriptions (defund universities, fire professors, deport protesters, US should &#x27;butt out&#x27; of Israel&#x27;s war) delivered as the Christian posture.</div></div><div class="marker-cell"><span class="status-tag status-none">None detected</span></div></div>
+<div class="marker-row" style="grid-template-columns: repeat(3, 1fr);"><div class="marker-title">E. Civil religion (flag, pledge)</div><div class="marker-cell"><span class="status-tag status-low">Low</span><div class="note">Standing ovations in Congress framed approvingly; &#x27;God bless America&#x27; register used; no flag imagery or pledge in the sermon itself.</div></div><div class="marker-cell"><span class="status-tag status-present">Present</span><div class="note">References to &#x27;flag burning&#x27; as disqualifying, framing of the US as a nation with conditional divine blessing, &#x27;Send them back where they come from.&#x27;</div></div><div class="marker-cell"><span class="status-tag status-none">None detected</span></div></div>
+<div class="marker-row" style="grid-template-columns: repeat(3, 1fr);"><div class="marker-title">F. Jeremiad / &quot;Christianity under attack&quot;</div><div class="marker-cell"><span class="status-tag status-present">Present</span><div class="note">See Finding 2.3 — open-borders-as-judgment framing; terror-cell activation risk positioned as consequence of national sin.</div></div><div class="marker-cell"><span class="status-tag status-present">Moderate</span><div class="note">The sermon&#x27;s jeremiad target is antisemitism in the US rather than anti-Christian persecution per se, but the structural grammar (&#x27;virus… planted in the next generation,&#x27; imminent divine withdrawal of blessing) is classic.</div></div><div class="marker-cell"><span class="status-tag status-present">Present</span><div class="note">See Finding 2.1</div></div></div>
+<div class="marker-row" style="grid-template-columns: repeat(3, 1fr);"><div class="marker-title">G. Ethno-cultural &quot;real American&quot; undertones</div><div class="marker-cell"><span class="status-tag status-low">None–Low</span><div class="note">Counter-signal present: Hibbs distinguishes Iranian regime from Iranian people and affirms protesters.</div></div><div class="marker-cell"><span class="status-tag status-present">Present</span><div class="note">&#x27;Send them back where they come from&#x27; conflates ideological opposition with non-belonging; &#x27;flag burning, god-hating… garbage&#x27; fuses political, religious, and patriotic disqualifiers.</div></div><div class="marker-cell"><span class="status-tag status-low">None–Low</span><div class="note">Sermon affirms multi-ethnic congregation; counter-signal.</div></div></div>
+<div class="marker-row" style="grid-template-columns: repeat(3, 1fr);"><div class="marker-title">H. Strongman / authoritarian affinity</div><div class="marker-cell"><span class="status-tag status-present">Present</span><div class="note">Trump portrayed approvingly throughout — &#x27;Trump looked over to them and said you are sick&#x27;; Trump&#x27;s rhetorical tactics toward Iran&#x27;s supreme leader applauded (&#x27;Trump&#x27;s playing with his head&#x27;); &#x27;If God is using this Trump administration for such a time as this to fulfill Jeremiah 49, then we&#x27;re going to watch it happen.&#x27;</div></div><div class="marker-cell"><span class="status-tag status-present">Moderate</span><div class="note">Boasts of direct private access to a head of state (Finding 2.4); calls for state action to fire professors and university presidents and defund institutions.</div></div><div class="marker-cell"><span class="status-tag status-none">None detected</span></div></div>
+
+<h2>Other Axis-2 Sub-Rubrics — Side by Side</h2>
+<div class="marker-row" style="grid-template-columns: repeat(3, 1fr);"><div class="marker-title">Anti-Muslim framing</div><div class="marker-cell"><span class="status-tag status-severe">Severe</span><div class="note">See Finding 2.1 — sustained hour-plus framing of Shia Islam as a &#x27;death cult&#x27; that &#x27;cannot allow you to live&#x27;; Islam characterized as God&#x27;s eschatological adversary.</div></div><div class="marker-cell"><span class="status-tag status-present">Present (moderate)</span><div class="note">See Finding 2.3 — Ezek 38 coalition consistently characterized as &#x27;Islamic,&#x27; with Iran, Turkey, and implicitly other Muslim-majority nations as end-times destruction targets.</div></div><div class="marker-cell"><span class="status-tag status-none">—</span></div></div>
+<div class="marker-row" style="grid-template-columns: repeat(3, 1fr);"><div class="marker-title">Anti-LGBTQ framing</div><div class="marker-cell"><span class="status-tag status-present">Low-present</span><div class="note">See Finding 2.4 — &#x27;I would have sunk the ship right then and there&#x27; re: drag performance-associated aircraft carrier.</div></div><div class="marker-cell"><span class="status-tag status-present">Not present in this sermon</span></div><div class="marker-cell"><span class="status-tag status-present">Not present in this sermon</span></div></div>
+<div class="marker-row" style="grid-template-columns: repeat(3, 1fr);"><div class="marker-title">Misogynistic framing</div><div class="marker-cell"><span class="status-tag status-present">Not present in this sermon</span></div><div class="marker-cell"><span class="status-tag status-present">Not present in this sermon</span></div><div class="marker-cell"><span class="status-tag status-present">Not present in this sermon</span></div></div>
+<div class="marker-row" style="grid-template-columns: repeat(3, 1fr);"><div class="marker-title">Anti-Jewish framing</div><div class="marker-cell"><span class="status-tag status-present">Not present</span><div class="note">Sermon is strongly pro-Israel in a Christian-Zionist register; no supersessionism detected; Jewish identity affirmed in closing prayer and in Jer 49 exposition.</div></div><div class="marker-cell"><span class="status-tag status-present">Not present</span><div class="note">The sermon is emphatically and programmatically philo-Semitic. Separate question whether Christian-Zionist instrumentalization of Jewish people in an end-times schema (where Jews ultimately convert or perish at Armageddon, per the dispensationalist framework Hagee preaches) constitutes a different kind of theological concern is outside this rubric; on anti-Jewish framing specifically, the sermon is firmly against.</div></div><div class="marker-cell"><span class="status-tag status-present">Not present</span><div class="note">Jewish-specific content (Temple destruction, Jerusalem siege) is historical exposition without supersessionist triumphalism.</div></div></div>
+
+<h2>Reach-Weighted Severity Ranking</h2>
+<div class="severity-rank"><table><thead><tr><th>Pastor</th><th>YT views (1×)</th><th>Weekly</th><th>Annualized reach</th><th>CN markers</th><th>Axis-sum</th><th>Axis 2</th></tr></thead><tbody><tr><td>Pastor John Hagee</td><td>497K</td><td>~22K</td><td><strong>~1.6M</strong></td><td>8/8</td><td>11/12</td><td>severe</td></tr><tr><td>Pastor Josh Howerton</td><td>153K</td><td>~26K</td><td><strong>~1.5M</strong></td><td>3/8</td><td>10/12</td><td>severe</td></tr><tr><td>Pastor Jack Hibbs</td><td>809K</td><td>~10K</td><td><strong>~1.3M</strong></td><td>5/8</td><td>11/12</td><td>severe</td></tr></tbody></table><p style='font-size:.82rem;color:var(--c-muted);margin-top:.5rem;'><em>Annualized reach</em> = YouTube views (one-time) + weekly congregation × 52. A rough aggregate of sermon-level plus congregation-level reach for the year following publication. Ordering by annualized reach surfaces who is likely to be heard the most, not who preaches the worst content. Pair with the CN-marker and axis-severity columns to see the combined picture.</p></div>
+
+<footer>
+<p>Calibration generated 2026-04-21 05:46 UTC from 3 findings JSON files. Methodology and rubrics: see any individual report's footer.</p>
+</footer>
+</body></html>

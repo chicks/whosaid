@@ -1,0 +1,764 @@
+{
+  "meta": {
+    "sermon_title": "The Stage Is Being Set For The End Times!",
+    "preacher": "Pastor Jack Hibbs",
+    "church": "Calvary Chapel Chino Hills",
+    "church_location": "Chino Hills, CA",
+    "series": "",
+    "preaching_text": "",
+    "youtube_id": "sHVcTXEHm_U",
+    "upload_date": "2026-02-26",
+    "runtime_seconds": 4333,
+    "transcript_path": "transcripts/20260226_pastor_jack_hibbs_the_stage_is_being_set_for_the_end_times.txt",
+    "gospel_translation": "ESV"
+  },
+  "summary": "Hibbs delivers a \"prophecy update\" that ties an active U.S. naval buildup in the Persian Gulf (late February 2026) to Jeremiah 49:34–39 and Ezekiel 38, arguing that Iran (\"Elam\") is living through a near-literal unfolding of biblical prophecy — its \"bow\" about to be broken by the United States as God's agent. He identifies Shia Islam as a \"death cult,\" claims Iranian religious leaders believe they are called to produce a \"cataclysmic ball of fire\" to usher in the Mahdi, and frames the Biden administration's border policy as potentially a divinely-permitted judgment on the U.S. via pre-positioned Iranian terror cells. The sermon praises Trump's State of the Union, mocks Mamdani, Tucker Carlson, and seated Democratic legislators, and ends with a jab that the USS Gerald R. Ford should have been sunk by God for hosting a \"Drag Queen parade\" on its flight deck. Closing prayer calls the nation to repent of arrogance and gives a brief gospel altar call.",
+  "scorecard": {
+    "axis_1": {
+      "label": "Fidelity to Jesus's Teachings (Red Letters)",
+      "verdict": "Significant divergence",
+      "severity": "severe",
+      "headline": "Six flagged items. Islam is characterized as a 'death cult' whose adherents 'cannot allow you to live' — the structural inverse of Jesus's treatment of religious outsiders (Luke 9:55; Luke 10:33; John 4). Matt 24:36 ('no one knows the day or hour') appears in the discourse Hibbs is preaching but is never addressed."
+    },
+    "axis_2": {
+      "label": "Identifiable Biases / Harmful Rhetoric",
+      "verdict": "Severe anti-Muslim and political-enemy rhetoric",
+      "severity": "severe",
+      "headline": "An hour-plus sustained framing of Shia Islam as an eschatological death cult, specific partisan attacks on Democrats, Mamdani, Tucker Carlson, and Biden (framed as possibly Satan-indwelt or God's judgment instrument), plus an off-hand anti-LGBTQ 'should have sunk the ship' remark aimed at U.S. sailors. Four CN markers present, including strongman affinity and political-opponents-as-spiritual-enemies."
+    },
+    "axis_3": {
+      "label": "Factual Claims & Evidence Check",
+      "verdict": "Poor evidence hygiene; high-confidence assertions with no verifiable sourcing",
+      "severity": "moderate",
+      "headline": "Hibbs asserts a string of specific claims — largest Middle East buildup since Gulf War, China hypersonic missile the US 'has no defense against,' Iran can hit London with nuclear warhead, IRG colonel arrested at the border, sleeper-cell activation risk — none delivered with a primary source. Of the claims checkable without live reporting, most require verification; one (drag performance on a carrier flight deck) is framed in a way that distorts what actually occurred."
+    },
+    "axis_4": {
+      "label": "Whole-Bible Engagement",
+      "verdict": "Heavily selective; prophetic-geopolitical template overrides canonical counter-witness",
+      "severity": "severe",
+      "headline": "The sermon's central exegetical move — reading Jeremiah 49 and Ezekiel 38 as an almost-literal script for 2026 headlines — draws on a single dispensationalist reading tradition and omits both the dominant biblical counter-witness on foreign religious outsiders (Jonah, Ruth, Isa 19:24–25, Luke 4:25–27, Luke 10:33, Matt 12:41) and Jesus's explicit resistance to sign-reading (Matt 16:1–4; Matt 24:36; Acts 1:7)."
+    }
+  },
+  "tenets_affirmed": [
+    "Closing prayer explicitly confesses national arrogance: 'We confess we are an arrogant nation and we are proud and... we are so often godless.'",
+    "Affirms the penal-substitutionary gospel and calls for personal repentance: 'Jesus Christ died on the cross for the sins of each and every one of us... salvation only belongs to those who will come to you, repenting of their sin.'",
+    "Cites Psalm 20:7 in substance against military triumphalism: 'You told us to never trust in chariots and never trust in horses.'",
+    "Distinguishes Iranian people from Iranian regime: 'rioting is still taking place on the streets by the people uh who want these religious leaders to be removed... They're waving Iranian flags and Israeli flags in Iran.'",
+    "Affirms an eventual divine redemption of Elam/Iran from Jer 49:39 ('I will bring back the captives of Elam') — refuses to read Iran as a permanently cursed people."
+  ],
+  "counter_signals": [
+    "Explicit national self-critique in closing prayer (arrogant, proud, godless, narcissistic)",
+    "Acknowledges Sunni Muslims as people who 'just want to be left alone... just want to live life'",
+    "Notes Iranian protesters waving Israeli flags — humanizes the Iranian populace",
+    "Warns against trusting military might: invokes Ps 20:7 framing against U.S. power",
+    "Includes a future-redemption passage for Iran (Jer 49:39) rather than treating Iran as purely a villain",
+    "Does not endorse a named political candidate by name for a vote (distinct from direct candidate endorsement), though partisan steering is clear"
+  ],
+  "findings": [
+    {
+      "id": "f1-1",
+      "axis": 1,
+      "severity": "severe",
+      "headline": true,
+      "title": "Shia Islam characterized as a 'death cult' whose adherents 'cannot allow you to live'",
+      "timestamp_seconds": 2580,
+      "timestamp_display": "00:43:00",
+      "pastor_quote": "The government went into the hands of a death cult of Islam and has terrorized their people since 1979... Islam is divided into two camps, Sunni and Shia... they're both they both cannot allow you to live, but one will kill you sooner. Shia is very violent... Shia will kill Sunni.",
+      "jesus_quotes": [
+        {
+          "citation": "Luke 9:52–55",
+          "text": "And he sent messengers ahead of him, who went and entered a village of the Samaritans, to make preparations for him. But the people did not receive him... And when his disciples James and John saw it, they said, 'Lord, do you want us to tell fire to come down from heaven and consume them?' But he turned and rebuked them."
+        },
+        {
+          "citation": "Luke 10:33–37 (the Good Samaritan — the 'good' figure is a religious outsider the audience despised)",
+          "text": "But a Samaritan, as he journeyed, came to where he was, and when he saw him, he had compassion... 'Which of these three, do you think, proved to be a neighbor to the man who fell among the robbers?' He said, 'The one who showed him mercy.' And Jesus said to him, 'You go, and do likewise.'"
+        },
+        {
+          "citation": "Matt 5:44–45",
+          "text": "Love your enemies and pray for those who persecute you, so that you may be sons of your Father who is in heaven. For he makes his sun rise on the evil and on the good."
+        },
+        {
+          "citation": "Lev 19:18 — cited by Jesus in Matt 22:39, Mark 12:31, Luke 10:27 as the second great commandment",
+          "text": "You shall love your neighbor as yourself."
+        },
+        {
+          "citation": "Lev 19:33–34 — adjacent to the verse Jesus cited, binding 'love' to the foreigner",
+          "text": "When a stranger sojourns with you in your land, you shall not do him wrong. You shall treat the stranger who sojourns with you as the native among you, and you shall love him as yourself."
+        }
+      ],
+      "why_flagged": "The claim that Muslims 'both cannot allow you to live' is not an assertion about the regime in Tehran; it is a categorical claim about ~1.9 billion people worldwide. Every Gospel encounter Jesus has with a contemporary religious-outsider group (Samaritan village, Samaritan woman, Syrophoenician woman, Roman centurion) runs opposite to this framing — and the single closest parallel (disciples proposing to destroy an outgroup religious village) ends with Jesus turning and rebuking the disciples. Hibbs's OT reasoning also collides with Jesus's own summary of the law: the chapter Jesus cited for 'love your neighbor' (Lev 19) also binds the command to the foreigner."
+    },
+    {
+      "id": "f1-2",
+      "axis": 1,
+      "severity": "severe",
+      "headline": true,
+      "title": "Claim that the Iranian regime's theology authorizes biblical-scale violence — uncorrected for the parallel claim about the sermon's own framework",
+      "timestamp_seconds": 1980,
+      "timestamp_display": "00:33:00",
+      "pastor_quote": "They believe that they're actually called by their God to create a cataclysmic ball of fire on the earth that will bring their Messiah, the Mahdi, to rescue and establish the world as a Muslim caliphate, the entire globe. That is their that's their Quran esquetology. Guess what the Bible says? The opposite.",
+      "jesus_quotes": [
+        {
+          "citation": "Matt 7:3–5",
+          "text": "Why do you see the speck that is in your brother's eye, but do not notice the log that is in your own eye?... first take the log out of your own eye, and then you will see clearly to take the speck out of your brother's eye."
+        },
+        {
+          "citation": "Matt 26:52",
+          "text": "Put your sword back into its place. For all who take the sword will perish by the sword."
+        },
+        {
+          "citation": "John 18:36",
+          "text": "My kingdom is not of this world. If my kingdom were of this world, my servants would have been fighting."
+        },
+        {
+          "citation": "Matt 5:9",
+          "text": "Blessed are the peacemakers, for they shall be called sons of God."
+        }
+      ],
+      "why_flagged": "The characterization collapses a minority Twelver-Shia apocalyptic thread into normative 'Quran eschatology.' More sharply: Hibbs's own sermon is structured around the converse move — reading a buildup of U.S./Israeli warplanes as the agent of biblical end-times judgment, and praying effectively for Jer 49 to be fulfilled now. Jesus's 'log in your own eye' critique applies directly: the rhetorical form of the accusation (God authorizes our violence against them as eschatological completion) is what the sermon itself performs."
+    },
+    {
+      "id": "f1-3",
+      "axis": 1,
+      "severity": "moderate",
+      "headline": false,
+      "title": "Matt 24:36 — the key verse in the discourse being preached — is not addressed",
+      "timestamp_seconds": null,
+      "timestamp_display": "(absent from a sermon explicitly reading current events as end-times signs)",
+      "pastor_quote": "[absent] — In a 72-minute sermon titled 'The Stage Is Being Set For The End Times' arguing current Middle East events fulfill Jeremiah 49 and Ezekiel 38, Matthew 24:36 is never engaged. Instead: 'The hour is late... we're on the brink of something very big. How is it going to go? Only God knows. But if I had to trust the Bible tonight instead of the news, I'm going to go with the Bible.'",
+      "jesus_quotes": [
+        {
+          "citation": "Matt 24:36 (in the Olivet Discourse)",
+          "text": "But concerning that day and hour no one knows, not even the angels of heaven, nor the Son, but the Father only."
+        },
+        {
+          "citation": "Matt 16:1–4",
+          "text": "The Pharisees and Sadducees came, and to test him they asked him to show them a sign from heaven... An evil and adulterous generation seeks for a sign, but no sign will be given to it except the sign of Jonah."
+        },
+        {
+          "citation": "Acts 1:7 (Jesus, just before the ascension)",
+          "text": "It is not for you to know times or seasons that the Father has fixed by his own authority."
+        },
+        {
+          "citation": "Matt 24:37–39 — Jesus's one OT analogy for his return (Gen 6–9): the point is UNEXPECTEDNESS",
+          "text": "For as were the days of Noah, so will be the coming of the Son of Man... they were eating and drinking, marrying and giving in marriage, until the day when Noah entered the ark, and they were unaware."
+        }
+      ],
+      "why_flagged": "Jesus's explicit teaching on sign-reading is resistant-to-negative: no one, including Jesus in his earthly ministry, knows the timeline; an evil generation seeks signs; the day comes unexpectedly. A sermon whose central rhetorical engine is 'look how specifically current headlines fulfill prophecy' is structurally incompatible with the verses Jesus himself placed at the center of eschatological discourse."
+    },
+    {
+      "id": "f1-4",
+      "axis": 1,
+      "severity": "moderate",
+      "headline": false,
+      "title": "Framing of political opponents as Satan-indwelt and Biden as instrument of divine judgment",
+      "timestamp_seconds": 540,
+      "timestamp_display": "00:09:00",
+      "pastor_quote": "All the rhetoric that's going on around with all these bozo podcasters that have gone insane, those people have gone nuts. I think I actually think Satan has gotten inside of their head... [later, 01:06:30] What if God had Biden in office so that the borders would be left open to set this nation up to be dealt with because of all of our sins...",
+      "jesus_quotes": [
+        {
+          "citation": "Matt 5:22",
+          "text": "I say to you that everyone who is angry with his brother will be liable to judgment; whoever insults his brother will be liable to the council; and whoever says, 'You fool!' will be liable to the hell of fire."
+        },
+        {
+          "citation": "Matt 7:1–2",
+          "text": "Judge not, that you be not judged. For with the judgment you pronounce you will be judged, and with the measure you use it will be measured to you."
+        },
+        {
+          "citation": "Luke 6:27–28",
+          "text": "Love your enemies, do good to those who hate you, bless those who curse you, pray for those who abuse you."
+        },
+        {
+          "citation": "Matt 12:24–28 (Jesus on the accusation that opponents are satanically driven)",
+          "text": "If Satan casts out Satan, he is divided against himself. How then will his kingdom stand?"
+        }
+      ],
+      "why_flagged": "Assigning satanic agency to podcast hosts Hibbs disagrees with, and casting a former U.S. president as potentially God's instrument for opening borders to destructive terror cells, moves named political opponents into the category of spiritual enemies. Jesus was accused in exactly this idiom (Beelzebul controversy) and treated the move as theologically illegitimate."
+    },
+    {
+      "id": "f1-5",
+      "axis": 1,
+      "severity": "moderate",
+      "headline": false,
+      "title": "'I would have sunk the ship' — divine violence invoked over a drag performance",
+      "timestamp_seconds": 4290,
+      "timestamp_display": "01:11:30",
+      "pastor_quote": "That very aircraft carrier hosted a Drag Queen parade on the flight deck. And if I were you [God], I would have sunk the ship right then and there. But thank God, you're not me.",
+      "jesus_quotes": [
+        {
+          "citation": "Luke 9:54–55 (disciples propose divine fire on an outgroup; Jesus rebukes them)",
+          "text": "'Lord, do you want us to tell fire to come down from heaven and consume them?' But he turned and rebuked them."
+        },
+        {
+          "citation": "John 8:10–11",
+          "text": "'Has no one condemned you?' She said, 'No one, Lord.' And Jesus said, 'Neither do I condemn you; go, and from now on sin no more.'"
+        },
+        {
+          "citation": "Matt 5:44",
+          "text": "Love your enemies and pray for those who persecute you."
+        },
+        {
+          "citation": "Luke 23:34 (from the cross)",
+          "text": "Father, forgive them, for they know not what they do."
+        }
+      ],
+      "why_flagged": "The remark — even delivered as 'thank God you're not me' — publicly wishes the death of several thousand U.S. sailors from the pulpit as a reasonable response to a drag event. The closest Gospel parallel (James and John's fire-from-heaven proposal) is the move Jesus explicitly rebuked. From-the-cross Jesus prays forgiveness for his executioners; sermon Jesus is not."
+    },
+    {
+      "id": "f1-6",
+      "axis": 1,
+      "severity": "low",
+      "headline": false,
+      "title": "Jokes about political figures delivered as pastoral commentary",
+      "timestamp_seconds": 2220,
+      "timestamp_display": "00:37:00",
+      "pastor_quote": "Don't tell Tucker Carlson that. He'll he'll wet his pants. He'll have a heart attack... [earlier, 00:16:30] I'm not saying it's the Democrat party, but... Look what's going on in NEW YORK CITY. THAT GUY PROMISED EVERYTHING AND BOY IS HE IN TROUBLE TONIGHT. WHAT'S HIS NAME? MANDANI. Poor guy. He doesn't know what he's doing.",
+      "jesus_quotes": [
+        {
+          "citation": "Matt 12:36",
+          "text": "I tell you, on the day of judgment people will give account for every careless word they speak."
+        },
+        {
+          "citation": "Matt 5:22",
+          "text": "Whoever says, 'You fool!' will be liable to the hell of fire."
+        },
+        {
+          "citation": "Eph 4:29 (a wider NT frame aligned with Jesus's speech ethic)",
+          "text": "Let no corrupting talk come out of your mouths, but only such as is good for building up, as fits the occasion, that it may give grace to those who hear."
+        }
+      ],
+      "why_flagged": "Individual mockery of named living public figures from the pulpit — especially paired with laughter and applause — is in friction with Jesus's exacting speech ethic. Not a contradiction of doctrine, but a tonal tension worth naming."
+    },
+    {
+      "id": "f2-1",
+      "axis": 2,
+      "severity": "severe",
+      "headline": true,
+      "title": "Sustained anti-Muslim eschatology framed as exposition",
+      "timestamp_seconds": 1800,
+      "timestamp_display": "00:30:00",
+      "timestamp_end_seconds": 2100,
+      "pastor_quote": "Islam is divided into two camps, Sunni and Shia... they both cannot allow you to live, but one will kill you sooner. Shia is very violent... Shia will kill Sunni... [later] The government went into the hands of a death cult of Islam... [later] They believe that they're actually called by their God to create a cataclysmic ball of fire on the earth that will bring their Messiah, the Mahdi...",
+      "jesus_quotes": [
+        {
+          "citation": "Matt 5:43–45",
+          "text": "You have heard that it was said, 'You shall love your neighbor and hate your enemy.' But I say to you, Love your enemies and pray for those who persecute you, so that you may be sons of your Father who is in heaven."
+        },
+        {
+          "citation": "Luke 10:33–37 (Good Samaritan)",
+          "text": "'Which of these three, do you think, proved to be a neighbor...?' He said, 'The one who showed him mercy.' And Jesus said to him, 'You go, and do likewise.'"
+        },
+        {
+          "citation": "Luke 4:25–27 (Jesus's first recorded sermon — citing 1 Kings 17 and 2 Kings 5)",
+          "text": "There were many widows in Israel in the days of Elijah... and Elijah was sent to none of them but only to Zarephath, in the land of Sidon... and none of them was cleansed, but only Naaman the Syrian."
+        }
+      ],
+      "why_flagged": "Calvary Chapel Chino Hills reports weekly attendance in the thousands with wide YouTube and podcast distribution; Hibbs is a nationally-known evangelical voice with political access. A confident, repeated, hour-long framing of a specific world religion (~1.9B adherents) as a 'death cult' whose adherents categorically 'cannot allow you to live' — preached at that reach — meets the reach × specificity × harm threshold for severe regardless of whether it ticks named rubric boxes. The framing will predictably shape how listeners see Muslim neighbors, classmates, refugees, and ballot questions about Muslim communities."
+    },
+    {
+      "id": "f2-2",
+      "axis": 2,
+      "severity": "moderate",
+      "headline": false,
+      "title": "Political opponents cast as Satan-indwelt, Biden as possible instrument of judgment",
+      "timestamp_seconds": 540,
+      "timestamp_display": "00:09:00",
+      "timestamp_end_seconds": 4020,
+      "pastor_quote": "Those bozo podcasters that have gone insane... I think I actually think Satan has gotten inside of their head. Why? Because they have turned against Israel... [01:06:30] What if God had Biden in office so that the borders would be left open to set this nation up to be dealt with because of all of our sins...",
+      "jesus_quotes": [
+        {
+          "citation": "Mark 3:28–30 (warning against attributing to Satan what is not Satan's)",
+          "text": "Truly, I say to you, all sins will be forgiven the children of man, and whatever blasphemies they utter, but whoever blasphemes against the Holy Spirit never has forgiveness... for they were saying, 'He has an unclean spirit.'"
+        },
+        {
+          "citation": "Matt 5:44",
+          "text": "Love your enemies and pray for those who persecute you."
+        },
+        {
+          "citation": "John 13:35",
+          "text": "By this all people will know that you are my disciples, if you have love for one another."
+        }
+      ],
+      "why_flagged": "CN marker C (political opponents as spiritual enemies). Naming a living public figure (Tucker Carlson) as Satan-influenced for disagreeing on Israel policy, and positing a prior U.S. president as God's judgment instrument for opening borders, both move policy disputes into spiritual-warfare territory."
+    },
+    {
+      "id": "f2-3",
+      "axis": 2,
+      "severity": "moderate",
+      "headline": false,
+      "title": "Christianity-under-attack / Biden-opened-borders-for-judgment jeremiad",
+      "timestamp_seconds": 4020,
+      "timestamp_display": "01:07:00",
+      "pastor_quote": "Why would you, as a government, leave your borders unchecked and wide open for four years?... What if God had Biden in office so that the borders would be left open to set this nation up to be dealt with because of all of our sins and all of our...",
+      "jesus_quotes": [
+        {
+          "citation": "John 18:36",
+          "text": "My kingdom is not of this world. If my kingdom were of this world, my servants would have been fighting."
+        },
+        {
+          "citation": "Matt 5:10–12",
+          "text": "Blessed are those who are persecuted for righteousness' sake... Rejoice and be glad, for your reward is great in heaven."
+        }
+      ],
+      "why_flagged": "CN marker F (jeremiad / 'Christianity under attack') combined with a specific, partisan geopolitical diagnosis of the cause. Presents a contested immigration-policy critique as a candidate divine-judgment explanation, then couples it with imminent terror-cell risk — a standard jeremiad move."
+    },
+    {
+      "id": "f2-4",
+      "axis": 2,
+      "severity": "low",
+      "headline": false,
+      "title": "Anti-LGBTQ aside: wished destruction of USS Gerald R. Ford over a drag performance",
+      "timestamp_seconds": 4290,
+      "timestamp_display": "01:11:30",
+      "pastor_quote": "That very aircraft carrier hosted a Drag Queen parade on the flight deck. And if I were you, I would have sunk the ship right then and there. But thank God, you're not me.",
+      "jesus_quotes": [
+        {
+          "citation": "John 8:11",
+          "text": "Neither do I condemn you; go, and from now on sin no more."
+        },
+        {
+          "citation": "Luke 9:55",
+          "text": "He turned and rebuked them."
+        }
+      ],
+      "why_flagged": "Relatively brief, but the specific content — 'I would have sunk the ship' — combines anti-LGBTQ contempt with a wish for mass U.S. military fatalities as a fitting divine response. Severity held to low only because it's a single unscripted line rather than a sustained argument; the theology it displays is still notable."
+    }
+  ],
+  "axis4_findings": [
+    {
+      "id": "f4-1",
+      "axis": 4,
+      "severity": "severe",
+      "headline": true,
+      "title": "Jeremiah 49 and Ezekiel 38 as real-time script for Iran in 2026",
+      "topic": "How God relates to foreign nations and religious outsiders",
+      "timestamp_seconds": 1680,
+      "timestamp_display": "00:28:00",
+      "pastor_quote": "God says, 'I will break the bow of Elam.' But how God does that, that's where you and I better pay attention because God doesn't reach down out of a cloud and break the bow... How does God deal with nations? With other nations... Is God going to break the bow of Elam? You're looking at the answer... If God is using this Trump administration for such a time as this to fulfill Jeremiah 49, then we're going to watch it happen.",
+      "jesus_passages": [
+        {
+          "citation": "Matt 5:44–45",
+          "text": "Love your enemies and pray for those who persecute you, so that you may be sons of your Father who is in heaven."
+        },
+        {
+          "citation": "Luke 9:52–55",
+          "text": "'Lord, do you want us to tell fire to come down from heaven and consume them?' But he turned and rebuked them."
+        },
+        {
+          "citation": "Luke 10:33–37 (Good Samaritan — religious outsider modeled as exemplar)",
+          "text": "But a Samaritan, as he journeyed, came to where he was, and when he saw him, he had compassion... 'You go, and do likewise.'"
+        },
+        {
+          "citation": "Matt 12:39–41 (Jesus holds up a foreign enemy city as morally superior to his own generation)",
+          "text": "The men of Nineveh will rise up at the judgment with this generation and condemn it, for they repented at the preaching of Jonah, and behold, something greater than Jonah is here."
+        },
+        {
+          "citation": "Luke 4:25–27 (citing 1 Kings 17 and 2 Kings 5 — God's favor falling on foreigners)",
+          "text": "There were many widows in Israel in the days of Elijah... and Elijah was sent to none of them but only to Zarephath, in the land of Sidon... and none of them was cleansed, but only Naaman the Syrian."
+        },
+        {
+          "citation": "Lev 19:18 — cited by Jesus in Matt 22:39, Mark 12:31, Luke 10:27 as the second great commandment",
+          "text": "You shall love your neighbor as yourself."
+        }
+      ],
+      "wider_bible_passages": [
+        {
+          "citation": "Jonah 3:10–4:11 (Yahweh sends an Israelite prophet to Israel's enemy empire — and spares it)",
+          "text": "When God saw what they did, how they turned from their evil way, God relented of the disaster... 'Should I not pity Nineveh, that great city, in which there are more than 120,000 persons who do not know their right hand from their left?'"
+        },
+        {
+          "citation": "Ezek 33:11 (the same prophet as Ezek 38)",
+          "text": "As I live, declares the Lord God, I have no pleasure in the death of the wicked, but that the wicked turn from his way and live."
+        },
+        {
+          "citation": "Isa 19:24–25 (the paradigmatic enemies blessed by name)",
+          "text": "In that day Israel will be the third with Egypt and Assyria, a blessing in the midst of the earth, whom the Lord of hosts has blessed, saying, 'Blessed be Egypt my people, and Assyria the work of my hands, and Israel my inheritance.'"
+        },
+        {
+          "citation": "Lev 19:33–34 (in the same chapter as the command Jesus summarized the law with)",
+          "text": "You shall treat the stranger who sojourns with you as the native among you, and you shall love him as yourself, for you were strangers in the land of Egypt."
+        },
+        {
+          "citation": "Jer 49:39 (the verse Hibbs reads — but underweights)",
+          "text": "'But in the days to come I will restore the fortunes of Elam,' declares the Lord."
+        }
+      ],
+      "analysis": "The Ezekiel 38 'Gog = Russia / Rosh = Russia / Meshech = Moscow / Togarmah = Turkey' geographic identification Hibbs treats as settled is a 20th-century dispensationalist reading (Hal Lindsey, 1970; earlier Scofield notes). Academic Ezekiel scholarship (Daniel Block, Walther Zimmerli, Moshe Greenberg) treats 'Rosh' as 'chief' rather than a proper noun, and Meshech/Tubal as Anatolian peoples contemporaneous with Ezekiel, not modern Russia. More significantly, even Jer 49 itself ends in restoration of Elam — a verse Hibbs reads but does not weight — and the wider canon on foreign peoples is dominated by mercy, surprise inclusion, and rebuke of Israelite tribal exclusivism (Jonah entire; Ezek 33:11 from the same prophet; Isa 19; Ruth; Amos 9:7). Jesus's own OT citations in Luke 4 (Sidonian widow, Naaman the Syrian) are the opposite-direction move from Hibbs's reading. Selecting the single most militant apocalyptic passage and treating it as the canonical voice — without engaging any of the counter-voices — is cherry-picking at significant scale.",
+      "why_flagged": "The dominant canonical witness on foreign religious outsiders runs the opposite direction of the framing chosen. A geographically-specified apocalyptic reading is treated as 'what the Bible says,' while the counter-voices — including Jer 49:39's own closing turn — are either minimized or omitted."
+    },
+    {
+      "id": "f4-2",
+      "axis": 4,
+      "severity": "moderate",
+      "headline": false,
+      "title": "1948 as the start of 'the last days' — a single reading presented as the reading",
+      "topic": "Whether modern political events fulfill biblical prophecy",
+      "timestamp_seconds": 2460,
+      "timestamp_display": "00:41:00",
+      "pastor_quote": "Ever since May 14th, 1948, when Israel became a nation a second time based upon Isaiah chapter 66. Okay. The ancient prophet Isaiah said Israel would be born a second time in one day. And that happened on May 14th, 1948. The United Nations recognized Israel as a nation. That started the last days in many ways.",
+      "jesus_passages": [
+        {
+          "citation": "Matt 24:36",
+          "text": "But concerning that day and hour no one knows, not even the angels of heaven, nor the Son, but the Father only."
+        },
+        {
+          "citation": "Matt 16:1–4",
+          "text": "An evil and adulterous generation seeks for a sign, but no sign will be given to it except the sign of Jonah."
+        },
+        {
+          "citation": "Acts 1:7",
+          "text": "It is not for you to know times or seasons that the Father has fixed by his own authority."
+        }
+      ],
+      "wider_bible_passages": [
+        {
+          "citation": "Heb 1:1–2 ('the last days' began at the incarnation, not in 1948)",
+          "text": "Long ago, at many times and in many ways, God spoke to our fathers by the prophets, but in these last days he has spoken to us by his Son."
+        },
+        {
+          "citation": "Acts 2:16–17 (Peter at Pentecost — the last days are already here)",
+          "text": "This is what was uttered through the prophet Joel: 'And in the last days it shall be, God declares, that I will pour out my Spirit on all flesh.'"
+        },
+        {
+          "citation": "1 John 2:18 (written ~AD 90, calling its own time 'the last hour')",
+          "text": "Children, it is the last hour, and as you have heard that antichrist is coming, so now many antichrists have come. Therefore we know that it is the last hour."
+        },
+        {
+          "citation": "2 Pet 3:8–9",
+          "text": "With the Lord one day is as a thousand years, and a thousand years as one day. The Lord is not slow to fulfill his promise as some count slowness, but is patient toward you."
+        }
+      ],
+      "analysis": "The specific identification Hibbs offers — 'May 14, 1948' = the start of the last days, based on Isa 66 — is a dispensationalist reading that competes with the mainstream NT view that the 'last days' began with the incarnation/Pentecost (Heb 1:2; Acts 2:17; 1 John 2:18). Each of those NT texts names its own moment as the 'last days' or 'last hour.' The NT's internal reading is that the church has been living in the eschaton for ~2,000 years. Hibbs presents 1948 as simple fact ('that started the last days in many ways'), but this requires rejecting or reassigning three explicit NT self-datings. The wider hermeneutical point: treating 1948 as the prophetic hinge effectively dates the 'countdown' a particular way and then reads current events through that grid.",
+      "why_flagged": "A contested dispensationalist identification is presented as uncontroversial biblical teaching, and the NT's own self-dating of 'the last days' (already begun at Christ's coming) is not engaged."
+    },
+    {
+      "id": "f4-3",
+      "axis": 4,
+      "severity": "severe",
+      "headline": true,
+      "title": "Islam as the eschatological enemy; Iran as God's target — with Israel (and the U.S.) as God's agent",
+      "topic": "Whether Christians should identify a living world religion as the end-times adversary",
+      "timestamp_seconds": 1920,
+      "timestamp_display": "00:32:00",
+      "pastor_quote": "What is the Khamenei saying that he's going to do that if we attack Iran for their nuclear weapons program? They are going to incinerate Israel... How would they do that? They would use a bow, a launcher... God says, 'I'm going to break your bow.' ... If God is using this Trump administration for such a time as this to fulfill Jeremiah 49, then we're going to watch it happen.",
+      "jesus_passages": [
+        {
+          "citation": "Matt 5:43–45",
+          "text": "You have heard that it was said, 'You shall love your neighbor and hate your enemy.' But I say to you, Love your enemies and pray for those who persecute you."
+        },
+        {
+          "citation": "Matt 26:52",
+          "text": "Put your sword back into its place. For all who take the sword will perish by the sword."
+        },
+        {
+          "citation": "John 18:36",
+          "text": "My kingdom is not of this world. If my kingdom were of this world, my servants would have been fighting."
+        },
+        {
+          "citation": "Luke 9:54–55",
+          "text": "'Lord, do you want us to tell fire to come down from heaven and consume them?' But he turned and rebuked them."
+        }
+      ],
+      "wider_bible_passages": [
+        {
+          "citation": "1 John 2:18, 22 (the NT's actual teaching on 'antichrist')",
+          "text": "Many antichrists have come... Who is the liar but he who denies that Jesus is the Christ? This is the antichrist, he who denies the Father and the Son."
+        },
+        {
+          "citation": "Rom 12:19–21",
+          "text": "Beloved, never avenge yourselves, but leave it to the wrath of God... 'if your enemy is hungry, feed him; if he is thirsty, give him something to drink'... Do not be overcome by evil, but overcome evil with good."
+        },
+        {
+          "citation": "Eph 6:12",
+          "text": "For we do not wrestle against flesh and blood, but against the rulers, against the authorities, against the cosmic powers over this present darkness."
+        },
+        {
+          "citation": "Rev 7:9 (the final canonical picture)",
+          "text": "A great multitude that no one could number, from every nation, from all tribes and peoples and languages, standing before the throne."
+        }
+      ],
+      "analysis": "The NT's actual usage of 'antichrist' (the Johannine epistles) is definitional — antichrist is whoever denies Christ — and 1 John 2:18 is explicit that 'many antichrists' were already active in the 1st century. The NT nowhere identifies any specific world religion (which, for Islam, wouldn't exist for another 500 years) as the eschatological enemy. Eph 6:12 pointedly locates the Christian's actual enemy on the spiritual plane, not in 'flesh and blood.' Hibbs's move — identifying Shia Islam as the force whose 'bow' God is about to break via the U.S. Navy and Israeli Air Force — treats current geopolitics as an eschatological judgment script with God's agent clearly named. Jesus's Gethsemane rebuke ('all who take the sword will perish by the sword') and his refusal to be made a military-political king (John 6:15; 18:36) both run against the genre. Rev 7:9's 'every nation, tribe, people, and language' includes the population Hibbs categorically writes out.",
+      "why_flagged": "Identifying a specific world religion as the eschatological target of divine military judgment — and one's own nation's military as God's instrument — is a move with no NT precedent and multiple explicit Jesus counter-teachings. The framing also encourages listeners to read actual war as prophecy fulfillment, which lowers the cost of cheering for it."
+    },
+    {
+      "id": "f4-4",
+      "axis": 4,
+      "severity": "moderate",
+      "headline": false,
+      "title": "End-times sign-reading as sermon genre",
+      "topic": "Whether Christians should read current events as specific prophetic signs",
+      "timestamp_seconds": null,
+      "timestamp_display": "(throughout)",
+      "pastor_quote": "These things together have never happened before. And we're on the brink of something very big... The hour is late... These things together have never happened before. If I had to trust the Bible tonight instead of the news, I'm going to go with the Bible.",
+      "jesus_passages": [
+        {
+          "citation": "Matt 24:36 (in the discourse Hibbs cross-references)",
+          "text": "But concerning that day and hour no one knows, not even the angels of heaven, nor the Son, but the Father only."
+        },
+        {
+          "citation": "Matt 16:1–4",
+          "text": "An evil and adulterous generation seeks for a sign, but no sign will be given to it except the sign of Jonah."
+        },
+        {
+          "citation": "Matt 24:37–39 — Jesus's Genesis 6–9 analogy: return is UNEXPECTED, not signposted",
+          "text": "As were the days of Noah, so will be the coming of the Son of Man... they were eating and drinking, marrying and giving in marriage... and they were unaware until the flood came."
+        },
+        {
+          "citation": "Acts 1:7",
+          "text": "It is not for you to know times or seasons that the Father has fixed by his own authority."
+        }
+      ],
+      "wider_bible_passages": [
+        {
+          "citation": "1 Thess 5:2",
+          "text": "For you yourselves are fully aware that the day of the Lord will come like a thief in the night."
+        },
+        {
+          "citation": "2 Pet 3:8–10",
+          "text": "With the Lord one day is as a thousand years, and a thousand years as one day... But the day of the Lord will come like a thief."
+        },
+        {
+          "citation": "Deut 29:29",
+          "text": "The secret things belong to the Lord our God, but the things that are revealed belong to us and to our children forever."
+        }
+      ],
+      "analysis": "Jesus is notably resistant to sign-seeking: he refuses the Pharisees outright, his single OT analogy for his return is unexpectedness (Noah), and he tells the disciples at the ascension that timing is not theirs to know. The NT's consensus metaphor is 'thief in the night.' A sermon whose explicit thesis is 'these specific news items are end-times signs, and the hour is late' operates in precisely the mode Jesus declined. Prophetic-update preaching is an identifiable genre with a real audience; the canonical question is whether the genre is itself scripturally warranted, and the red-letter evidence is that it isn't.",
+      "why_flagged": "The sermon's central rhetorical device — naming specific current events as specific biblical-prophecy fulfillments — sits against Jesus's explicit teaching on sign-seeking and unknowability, and against the broader NT 'thief in the night' framing."
+    },
+    {
+      "id": "f4-5",
+      "axis": 4,
+      "severity": "moderate",
+      "headline": false,
+      "title": "America as Christian nation / God's instrument — under strain but still present",
+      "topic": "Whether God operates through a modern nation-state as biblical agent",
+      "timestamp_seconds": 2670,
+      "timestamp_display": "00:44:30",
+      "pastor_quote": "Who or what nation is Iran's number one target to remove first?... United States. America, not Israel. That's the second choice. Because they know they can't take out Israel until they take out America... I think if we obey God and bless Israel, I think that protects us. I really do. I think Israel's is an insurance policy... If God is using this Trump administration for such a time as this to fulfill Jeremiah 49, then we're going to watch it happen.",
+      "jesus_passages": [
+        {
+          "citation": "John 18:36",
+          "text": "My kingdom is not of this world. If my kingdom were of this world, my servants would have been fighting."
+        },
+        {
+          "citation": "Mark 12:17",
+          "text": "Render to Caesar the things that are Caesar's, and to God the things that are God's."
+        },
+        {
+          "citation": "Matt 8:10–12 (Jesus on national spiritual hierarchy)",
+          "text": "Truly, I tell you, with no one in Israel have I found such faith... many will come from east and west and recline at table with Abraham, Isaac, and Jacob in the kingdom of heaven, while the sons of the kingdom will be thrown into the outer darkness."
+        },
+        {
+          "citation": "Luke 4:25–27",
+          "text": "Elijah was sent to none of them but only to Zarephath... and none of them was cleansed, but only Naaman the Syrian."
+        }
+      ],
+      "wider_bible_passages": [
+        {
+          "citation": "Rev 17–18 (the NT's actual posture toward empire)",
+          "text": "'Fallen, fallen is Babylon the great!'... 'Come out of her, my people, lest you take part in her sins.'"
+        },
+        {
+          "citation": "Amos 9:7 (prophet to Israel itself)",
+          "text": "Are you not like the Cushites to me, O people of Israel? declares the Lord. Did I not bring up Israel from the land of Egypt, and the Philistines from Caphtor and the Syrians from Kir?"
+        },
+        {
+          "citation": "Phil 3:20",
+          "text": "But our citizenship is in heaven, and from it we await a Savior, the Lord Jesus Christ."
+        },
+        {
+          "citation": "Gal 3:28",
+          "text": "There is neither Jew nor Greek, there is neither slave nor free, there is no male and female, for you are all one in Christ Jesus."
+        }
+      ],
+      "analysis": "Hibbs does offer a genuine counter-voice in his closing prayer ('we are an arrogant nation... never trust in chariots'), which is a real canonical note. But the operational posture through most of the sermon treats the U.S. military as potentially God's arm for fulfilling Jer 49, and treats 'bless Israel' as a national insurance policy — a reading with roots in one stream of Puritan and later dispensationalist covenant-thinking, but not in Jesus's own teaching about national spiritual inheritance (Luke 4; Matt 8). Revelation's posture toward empire — including the empire within which John was writing — is prophetic denunciation, not instrumental partnership. The canonical tension is real enough that the sermon ought to engage it; Hibbs notices it (prayer of confession) without letting it modify the operational frame (Trump admin as possible Jer 49 instrument).",
+      "why_flagged": "The sermon's practical framing — U.S. military as potential divine agent, Israel-blessing as national protection — sits uneasily with Jesus's explicit decoupling of God's favor from national identity (Luke 4:25–27; Matt 8:10–12) and with the NT's more general posture toward empire (Rev 17–18; Phil 3:20)."
+    }
+  ],
+  "factual_claims": [
+    {
+      "id": "fc-1",
+      "timestamp_seconds": 195,
+      "timestamp_display": "00:03:15",
+      "claim": "There is currently the largest U.S. military buildup in the Middle East since the Gulf War, expanding rapidly, with Russia and China flying constant cargo flights into Iran over the past eight days.",
+      "evidence_cited_by_pastor": "None. Delivered as situational reporting with no source attribution. Later in the sermon Hibbs references 'we have some of the numbers but the numbers changed two hours ago' — implying he is tracking open-source reporting but does not name outlets.",
+      "verdict": "needs verification",
+      "analysis": "A claim of 'largest buildup since the Gulf War' is a measurable historical comparison that would require verification against Department of Defense / CENTCOM public posture statements, open-source ship-tracking (e.g., USNI News Fleet and Marine Tracker), and reporting from outlets like the Wall Street Journal, Reuters, or the Institute for the Study of War around late February 2026. The specific sub-claim of Russian/Chinese cargo flights to Iran in the preceding eight days would need to be verified against reporting such as AP, Reuters, or open-source aviation trackers (e.g., Flightradar24-sourced analyses) and not inferred from commentary. Hibbs offers no named source at the claim point. Without access to late-February 2026 primary reporting, this claim is not verifiable from training knowledge alone. Listeners should treat the specific comparison ('largest since Gulf War') as an unsourced assertion until confirmed against named reporting.",
+      "sources": []
+    },
+    {
+      "id": "fc-2",
+      "timestamp_seconds": 2880,
+      "timestamp_display": "00:48:00",
+      "claim": "China has brought a hypersonic missile into the region that the United States has no defense against and that can be launched by three people and can completely destroy an aircraft carrier.",
+      "evidence_cited_by_pastor": "None.",
+      "verdict": "partially supported / overstated",
+      "analysis": "Chinese hypersonic weapon development is real and well-documented — notably the DF-17 (HGV) and DF-ZF hypersonic glide vehicle, as well as the anti-ship DF-21D and DF-26 ballistic missiles often described as 'carrier killers.' U.S. defense reporting (CRS, DoD China Military Power Report) has long acknowledged that these systems pose serious challenges to carrier survivability and that dedicated hypersonic-intercept capability is still maturing (e.g., Glide Phase Interceptor, in development). However, three specific parts of Hibbs's claim are either overstated or unsupported: (1) 'three guys can launch this thing' — hypersonic missile launch involves command-and-control infrastructure well beyond a three-person crew; (2) 'the United States has no defense against' — Aegis BMD, SM-3/SM-6 interceptors, and emerging GPI offer layered (if imperfect) defense; 'no defense' overstates the current posture; (3) any claim about specific Chinese hardware 'now' pre-positioned near Iran would need open-source verification (naval deployment trackers, OSINT analysts like H.I. Sutton, USNI News). The underlying concern about hypersonic threats is grounded; the specifics stated are overdrawn.",
+      "sources": [
+        {
+          "title": "Congressional Research Service — Hypersonic Weapons: Background and Issues for Congress (R45811)",
+          "url": "https://crsreports.congress.gov/product/pdf/R/R45811"
+        },
+        {
+          "title": "U.S. Department of Defense — 2023 Annual Report on Military and Security Developments Involving the People's Republic of China",
+          "url": "https://media.defense.gov/2023/Oct/19/2003323409/-1/-1/1/2023-MILITARY-AND-SECURITY-DEVELOPMENTS-INVOLVING-THE-PEOPLES-REPUBLIC-OF-CHINA.PDF"
+        },
+        {
+          "title": "Missile Defense Agency — Glide Phase Interceptor Program",
+          "url": "https://www.mda.mil/system/gpi.html"
+        }
+      ]
+    },
+    {
+      "id": "fc-3",
+      "timestamp_seconds": 3750,
+      "timestamp_display": "01:02:30",
+      "claim": "Iran has announced that it has a nuclear warhead capable of hitting London.",
+      "evidence_cited_by_pastor": "None. Attributed to 'this week' without citation.",
+      "verdict": "needs verification",
+      "analysis": "This is a high-stakes specific claim: that Iran has publicly announced a deliverable nuclear warhead with range to London (~4,000 km / ~2,500 mi from Iranian territory — roughly consistent with Iran's Khorramshahr-class IRBM range). As of publicly-available information through 2024, the consensus of IAEA and Western intelligence assessments has been that Iran has enriched uranium to near-weapons-grade (60%+) but has not publicly declared or tested a functioning nuclear warhead. A February 2026 announcement by Iran of an operational London-range nuclear warhead would be a historic disclosure requiring primary-source verification (IAEA statements, IRNA/PressTV direct Iranian announcements, reporting by Reuters/AP/FT). This is not verifiable from training knowledge alone and should be treated as an unverified claim pending primary reporting. If Hibbs is conflating an Iranian statement about missile range with a claim about warhead readiness, that distinction matters substantially.",
+      "sources": [
+        {
+          "title": "IAEA — Verification and Monitoring in the Islamic Republic of Iran (most recent quarterly reports)",
+          "url": "https://www.iaea.org/newscenter/focus/iran"
+        },
+        {
+          "title": "Arms Control Association — Iran's Nuclear Program Timeline and Status",
+          "url": "https://www.armscontrol.org/factsheets/IranProfile"
+        }
+      ]
+    },
+    {
+      "id": "fc-4",
+      "timestamp_seconds": 3960,
+      "timestamp_display": "01:06:00",
+      "claim": "An active colonel in the Iranian Revolutionary Guard was arrested crossing into California from Mexico.",
+      "evidence_cited_by_pastor": "None. No name, date, case number, or reporting outlet cited.",
+      "verdict": "needs verification",
+      "analysis": "Reports of Iranian nationals encountered at the southwest border have been covered periodically (CBP encounter data does log nationality; a 2024 House Homeland Security Committee report flagged Iranian border encounters). However, the specific claim — an active IRGC colonel arrested crossing into California from Mexico — is a highly specific counterintelligence fact-pattern that, if true, would typically surface in DOJ/FBI press releases, court filings, or reporting from outlets like the Washington Post, NYT, or specialized venues (Long War Journal, Homeland Security Today). Without a named subject, date, venue, or filing, the claim cannot be verified from training data. Listeners should ask: what is the person's name, what was the charge, which U.S. Attorney's office filed, and has any indictment been unsealed? Absent those anchors, this should be treated as an unverified claim.",
+      "sources": [
+        {
+          "title": "U.S. Customs and Border Protection — Nationwide Encounters data",
+          "url": "https://www.cbp.gov/newsroom/stats/nationwide-encounters"
+        },
+        {
+          "title": "House Committee on Homeland Security — Reports on terror-related encounters at the border",
+          "url": "https://homeland.house.gov/"
+        }
+      ]
+    },
+    {
+      "id": "fc-5",
+      "timestamp_seconds": 4290,
+      "timestamp_display": "01:11:30",
+      "claim": "The USS Gerald R. Ford 'hosted a Drag Queen parade on the flight deck' approximately two years ago.",
+      "evidence_cited_by_pastor": "None.",
+      "verdict": "misleading",
+      "analysis": "The underlying event Hibbs is almost certainly referring to is the U.S. Navy's brief 2023 use of drag performer Joshua Kelley (stage name 'Harpy Daniels'), a Navy Yeoman Second Class, as a 'Digital Ambassador' in a recruitment pilot — a program that drew political criticism and was quickly ended. There is no credible public reporting of a 'Drag Queen parade on the flight deck' of the USS Gerald R. Ford. The actual flight-deck usage of the Ford in the relevant period includes standard carrier operations and, notably, a widely-publicized crew performance of Taylor Swift's 'Shake It Off' during 2023 deployment. Hibbs's framing compresses an off-ship social-media program with a specific high-profile warship into a vivid image ('parade on the flight deck') that doesn't match documented events. The claim overstates what actually occurred.",
+      "sources": [
+        {
+          "title": "Associated Press — Navy says it used drag queen as digital ambassador but program has ended",
+          "url": "https://apnews.com/article/navy-drag-queen-ambassador-recruiting-c7fa5f34c7d3a3c4c9d83f39e4a2e8b1"
+        },
+        {
+          "title": "U.S. Navy — USS Gerald R. Ford (CVN 78) official command page",
+          "url": "https://www.airlant.usff.navy.mil/cvn78/"
+        }
+      ]
+    },
+    {
+      "id": "fc-6",
+      "timestamp_seconds": 1980,
+      "timestamp_display": "00:33:00",
+      "claim": "Iranian Shia religious leaders believe they are 'called by their God to create a cataclysmic ball of fire on the earth that will bring their Messiah, the Mahdi, to rescue and establish the world as a Muslim caliphate.'",
+      "evidence_cited_by_pastor": "None.",
+      "verdict": "partially supported / overstated",
+      "analysis": "There is a real, documented current of Twelver Shia apocalyptic thought in Iran sometimes called 'hojjatieh' or associated with some Mahdist-leaning clerics — this has been discussed by scholars including Mehdi Khalaji (Washington Institute) and has received attention in Western coverage of figures like former president Mahmoud Ahmadinejad. However, several Hibbs specifics overstate the scholarly picture: (1) Twelver Shia eschatology generally frames the Mahdi's return as God-initiated, not human-engineered by creating a fireball; the 'hasten the Mahdi by causing chaos' reading is a *minority* position even within Iran's clerical establishment, explicitly rejected by others (including Ayatollah Khamenei at various points, per Khalaji's analysis). (2) 'Muslim caliphate' is Sunni eschatological vocabulary — the Shia category is the Mahdi's reign, not a restored caliphate. (3) Presenting this as 'their Quran eschatology' treats a minority Iranian clerical reading as normative Islamic theology for ~1.9B Muslims. The underlying concern (apocalyptic hojjatieh currents in Iranian politics) is real and has serious observers; the framing Hibbs uses flattens it into a characterization of Islam writ large.",
+      "sources": [
+        {
+          "title": "Mehdi Khalaji — Apocalyptic Politics: On the Rationality of Iranian Policy (Washington Institute for Near East Policy, Policy Focus 79)",
+          "url": "https://www.washingtoninstitute.org/policy-analysis/apocalyptic-politics-rationality-iranian-policy"
+        },
+        {
+          "title": "Council on Foreign Relations — The Role of Shiism in Iranian Politics",
+          "url": "https://www.cfr.org/backgrounder/irans-religious-leaders-and-revolutionary-guard"
+        }
+      ]
+    }
+  ],
+  "cn_markers": [
+    {
+      "marker": "A. Conflation of national & Christian identity",
+      "status": "Present (mixed)",
+      "reference": "See Finding 4.5 — Trump administration framed as possible divine instrument for Jer 49; 'I think Israel's is an insurance policy' for the U.S.; counter-signal is the closing prayer of national confession."
+    },
+    {
+      "marker": "B. Militaristic / warrior framing",
+      "status": "Moderate",
+      "note": "Pastor walks through U.S. military assets — F-22s, F-35s, Growlers, Gerald Ford carrier, AWACS — in tactical detail from the pulpit; frames the imminent strike on Iran as potential divine fulfillment. Not imagery only — real-world military action is being narrated approvingly."
+    },
+    {
+      "marker": "C. Political opponents as spiritual enemies",
+      "status": "Present",
+      "reference": "See Finding 2.2 — 'Satan has gotten inside of their head' re: podcasters who disagree on Israel; Biden framed as possibly God's judgment instrument via border policy."
+    },
+    {
+      "marker": "D. Dominionist rhetoric",
+      "status": "None detected"
+    },
+    {
+      "marker": "E. Civil religion (flag, pledge)",
+      "status": "Low",
+      "note": "Standing ovations in Congress framed approvingly; 'God bless America' register used; no flag imagery or pledge in the sermon itself."
+    },
+    {
+      "marker": "F. Jeremiad / 'Christianity under attack'",
+      "status": "Present",
+      "reference": "See Finding 2.3 — open-borders-as-judgment framing; terror-cell activation risk positioned as consequence of national sin."
+    },
+    {
+      "marker": "G. Ethno-cultural 'real American' undertones",
+      "status": "None–Low",
+      "note": "Counter-signal present: Hibbs distinguishes Iranian regime from Iranian people and affirms protesters."
+    },
+    {
+      "marker": "H. Strongman / authoritarian affinity",
+      "status": "Present",
+      "reference": "Trump portrayed approvingly throughout — 'Trump looked over to them and said you are sick'; Trump's rhetorical tactics toward Iran's supreme leader applauded ('Trump's playing with his head'); 'If God is using this Trump administration for such a time as this to fulfill Jeremiah 49, then we're going to watch it happen.'"
+    }
+  ],
+  "other_axis2_rubrics": [
+    {
+      "rubric": "Anti-Muslim framing",
+      "status": "Severe",
+      "note": "See Finding 2.1 — sustained hour-plus framing of Shia Islam as a 'death cult' that 'cannot allow you to live'; Islam characterized as God's eschatological adversary."
+    },
+    {
+      "rubric": "Anti-LGBTQ framing",
+      "status": "Low-present",
+      "note": "See Finding 2.4 — 'I would have sunk the ship right then and there' re: drag performance-associated aircraft carrier."
+    },
+    {
+      "rubric": "Misogynistic framing",
+      "status": "Not present in this sermon"
+    },
+    {
+      "rubric": "Anti-Jewish framing",
+      "status": "Not present",
+      "note": "Sermon is strongly pro-Israel in a Christian-Zionist register; no supersessionism detected; Jewish identity affirmed in closing prayer and in Jer 49 exposition."
+    }
+  ],
+  "reach": {
+    "view_count": 808818,
+    "like_count": 23049,
+    "channel": "Real Life with Jack Hibbs",
+    "channel_id": "UCzvq_2THJhueXOP8JdAO2-A",
+    "channel_follower_count": null,
+    "upload_date": "20260226",
+    "source": "yt-dlp",
+    "congregation": {
+      "weekly_attendance_est": 10000,
+      "source": "Hartford Institute megachurch database; recent self-reports from Hibbs's ministry"
+    }
+  }
+}

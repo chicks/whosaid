@@ -1,0 +1,627 @@
+{
+  "meta": {
+    "sermon_title": "The King is Coming - Bishop T.D. Jakes | The Pacemaker Series",
+    "preacher": "Bishop T.D. Jakes",
+    "church": "The Potter's House",
+    "church_location": "Dallas, TX",
+    "series": "The Pacemaker Series",
+    "preaching_text": "",
+    "youtube_id": "imx8S-gl53c",
+    "upload_date": "2020-05-30",
+    "runtime_seconds": 5448,
+    "transcript_path": "transcripts/20200530_bishop_t_d_jakes_the_king_is_coming_bishop_t_d_jakes_the.txt",
+    "gospel_translation": "ESV"
+  },
+  "summary": "Jakes preaches on David bringing the Ark of the Covenant to Zion (2 Sam 6) as a typological precursor to Acts 15, where James cites Amos 9 ('I will rebuild David's fallen tent') to justify Gentile inclusion. His four organizing headings are tradition, exemption, transition, and opposition — though he only substantively treats the first two before closing. The core thrust is radical grace, scandalous inclusion of 'unlikely people,' and a call to break religious tradition in favor of charismatic worship. The sermon is heavily charismatic-Pentecostal in register, closes with a healing/deliverance appeal ('lumps and tumors will shrink'), and is largely apolitical. Significant tensions emerge around (1) gendered framing of worship and masculinity, (2) supersessionist language about Judaism, (3) stereotyped characterization of first-century Gentiles, and (4) implied faith-over-medicine framing in the close.",
+  "scorecard": {
+    "axis_1": {
+      "label": "Fidelity to Jesus's Teachings (Red Letters)",
+      "verdict": "Largely aligned, with specific tensions",
+      "severity": "low",
+      "headline": "The sermon's core thesis — radical grace for unlikely outsiders, tradition must yield to the Spirit — is one of the more Jesus-aligned moves a pastor can make (Mark 7:1-13; Matt 9:10-13; Luke 15). Flagged items are specific: gendered framing of worship, faith-over-medicine rhetoric, and an uncharacteristic omission — Jesus's own red-letter teaching on outsider inclusion is never quoted in a sermon whose thesis is outsider inclusion."
+    },
+    "axis_2": {
+      "label": "Identifiable Biases / Harmful Rhetoric",
+      "verdict": "Moderate — supersessionism and gendered framing",
+      "severity": "moderate",
+      "headline": "Two substantive concerns: (1) supersessionist framing of Christianity as 'the better-ism' replacing Judaism, and (2) a gendered theology of worship that codes submission as feminine and restraint as masculine. No Christian-nationalism content. No anti-Muslim, anti-LGBTQ, or political-opponent content."
+    },
+    "axis_3": {
+      "label": "Factual Claims & Evidence Check",
+      "verdict": "Mostly rhetorical; a few checkable claims",
+      "severity": "low",
+      "headline": "The sermon is light on empirical claims. The historical claims about David, Ish-bosheth, Acts 15, and MLK are largely accurate to their sources. The characterization of first-century Gentiles as uniformly engaged in 'open sex in the street' and 'orgies' is a homiletic exaggeration of a more complex historical record."
+    },
+    "axis_4": {
+      "label": "Whole-Bible Engagement",
+      "verdict": "Strong narrative engagement; selective on Judaism and healing",
+      "severity": "moderate",
+      "headline": "Jakes's move from 2 Sam 6 to Acts 15 is a legitimate canonical arc and follows James's own hermeneutic. But on Judaism post-Christ, the sermon leans heavily on Hebrews and ignores Paul's explicit counter-voice in Romans 9-11 (Israel's gifts are 'irrevocable'). On healing, the sermon promises physical outcomes that the wider canon treats with more reserve (2 Cor 12:7-9; 1 Tim 5:23; 2 Tim 4:20)."
+    }
+  },
+  "tenets_affirmed": [
+    "Radical grace toward outsiders is presented as the heart of God's action — directly consonant with Jesus's ministry pattern (Luke 15; Matt 9:10-13; Luke 19:1-10).",
+    "Tradition must yield to the Spirit's fresh work — echoing Jesus's own critique of the Pharisees ('you leave the commandment of God and hold to the tradition of men,' Mark 7:8).",
+    "God's forgiveness pre-exists human mistakes ('God's purpose pre-exists your pain and your mistake'), aligning with the father's running-toward posture in Luke 15:20.",
+    "Humility before God required of the powerful ('the more important you are perceived to be... the more important it is that you cast your crowns at the feet of Jesus') — echoing Luke 14:11 and Matt 23:12.",
+    "Exposition of 2 Sam 6 and Acts 15 is textually grounded; James's citation of Amos 9 as the rationale for Gentile inclusion is rendered faithfully."
+  ],
+  "counter_signals": [
+    "No named-party political content; no voting guidance; no 'Christianity under attack' jeremiad.",
+    "Explicitly inclusive list of whom God saves: 'hookers and prostitutes and drug dealers and liars and mother[s]... Mormons and people you don't agree with.'",
+    "Self-aware critique of church culture: 'Church makes me sick anyway — the folks always sitting in judgment.'",
+    "Explicit pastoral critique of expelling sinners: 'we got to stop putting people out of the church; we got to disciple them.'",
+    "Explicit rejection of cheap-grace antinomianism: 'I am not saying we should continue in sin that grace may abound.'",
+    "No anti-Muslim, anti-LGBTQ, anti-immigrant, or Christian-nationalist content.",
+    "Affirmation of MLK as a rule-breaker against *both* white and Black traditional resistance — historically honest."
+  ],
+  "findings": [
+    {
+      "id": "f1-1",
+      "axis": 1,
+      "severity": "moderate",
+      "headline": false,
+      "title": "Gendered theology of worship — masculinity as obstacle, femininity as fit",
+      "timestamp_seconds": 1920,
+      "timestamp_display": "00:32:00",
+      "pastor_quote": "Sometimes it seems like it's easier for women to submit to worship than men because men have been taught to be macho, and it's all right to be macho. I like being a man, I like walking like a man, talking like a man, moving like a man, thinking like a man. I like to play on my chest, I've let my muscles bulk and be a real dude for Jesus until the Holy Ghost come.",
+      "jesus_quotes": [
+        {
+          "citation": "Matt 11:29",
+          "text": "Take my yoke upon you, and learn from me, for I am gentle and lowly in heart, and you will find rest for your souls."
+        },
+        {
+          "citation": "John 13:14-15",
+          "text": "If I then, your Lord and Teacher, have washed your feet, you also ought to wash one another's feet. For I have given you an example, that you also should do just as I have done to you."
+        },
+        {
+          "citation": "Matt 5:5",
+          "text": "Blessed are the meek, for they shall inherit the earth."
+        },
+        {
+          "citation": "Luke 22:26",
+          "text": "Let the greatest among you become as the youngest, and the leader as one who serves."
+        }
+      ],
+      "why_flagged": "The framing codes submission to God as gender-mismatched for men and gender-natural for women. Jesus's own self-description is 'gentle and lowly' — the exact register the quote marks as effeminate ('play on my chest... muscles bulk... real dude'). Jesus neither treats male submission to God as awkward nor frames masculinity as something the Holy Ghost has to overcome. The disciples' rebuked impulse is precisely the 'who is greatest' impulse Jakes describes here as masculine default (Luke 22:24-27)."
+    },
+    {
+      "id": "f1-2",
+      "axis": 1,
+      "severity": "moderate",
+      "headline": false,
+      "title": "Supersessionist framing: Judaism as inferior '-ism' to be replaced",
+      "timestamp_seconds": 4020,
+      "timestamp_display": "01:07:00",
+      "pastor_quote": "That's why the book of Hebrews is written, to put up an argument to try to convince Jews to convert to the better-ism of Christianity... By and large, the Jews were turning away from Christianity.",
+      "jesus_quotes": [
+        {
+          "citation": "Matt 5:17",
+          "text": "Do not think that I have come to abolish the Law or the Prophets; I have not come to abolish them but to fulfill them."
+        },
+        {
+          "citation": "John 4:22",
+          "text": "You worship what you do not know; we worship what we know, for salvation is from the Jews."
+        },
+        {
+          "citation": "Matt 15:24",
+          "text": "I was sent only to the lost sheep of the house of Israel."
+        },
+        {
+          "citation": "Luke 24:44 — Jesus grounding his identity entirely in the Hebrew canon",
+          "text": "Everything written about me in the Law of Moses and the Prophets and the Psalms must be fulfilled."
+        }
+      ],
+      "why_flagged": "Framing Judaism as an '-ism' that Christianity is 'better' than inverts Jesus's own self-positioning. Jesus insists he has not come to abolish the Law, that salvation *is from* the Jews, and grounds his messianic identity in the Hebrew scriptures. The 'better-ism' register also flattens Paul's much more careful argument in Rom 9-11 that Israel's gifts and calling are 'irrevocable' (Rom 11:29). Moderate because Jakes is using supersessionist shorthand without sustained anti-Jewish rhetoric — but the shorthand is the kind the canon itself has repeatedly cautioned against."
+    },
+    {
+      "id": "f1-3",
+      "axis": 1,
+      "severity": "moderate",
+      "headline": false,
+      "title": "Faith-over-medicine framing in the close",
+      "timestamp_seconds": 5100,
+      "timestamp_display": "01:25:00",
+      "pastor_quote": "I don't care what the doctor says, I don't care what the accountant says... lumps and tumors will shrink while we are praising God... what your therapist could not do, what your counselor could not do, what some twelve steps couldn't do — if we get to worship and God like we're supposed to, and the King comes in this place, every yoke will be broken.",
+      "jesus_quotes": [
+        {
+          "citation": "Matt 9:12",
+          "text": "Those who are well have no need of a physician, but those who are sick."
+        },
+        {
+          "citation": "Luke 10:34 (Good Samaritan — Jesus commending practical medical care)",
+          "text": "He went to him and bound up his wounds, pouring on oil and wine."
+        },
+        {
+          "citation": "Matt 4:7 — Jesus refusing the temptation to stage a miraculous rescue",
+          "text": "You shall not put the Lord your God to the test."
+        }
+      ],
+      "why_flagged": "Jesus treats physicians as a positive category (Matt 9:12), commends practical medical care (the Good Samaritan's oil and wine), and explicitly refuses to test God through theatrical miraculous expectation. Promising that lumps, tumors, and counseling-resistant conditions will resolve 'if we worship like we're supposed to' puts congregants' trust in a charismatic outcome over the clinical care Jesus's own parables and ministry affirmed. Moderate because Jakes does not explicitly tell anyone to stop medical treatment — but 'I don't care what the doctor says' said from the pulpit over a congregation that includes cancer patients is a rhetorical trade worth naming."
+    },
+    {
+      "id": "f1-4",
+      "axis": 1,
+      "severity": "low",
+      "headline": false,
+      "title": "Caricatured Gentiles used as rhetorical foil",
+      "timestamp_seconds": 4140,
+      "timestamp_display": "01:09:00",
+      "pastor_quote": "The Gentiles — the polygamists — the Gentiles — the people who were having orgies, the Gentiles who were having open sex in the street, the Gentiles who were offering all their bodies to their gods, the Gentiles who the Jews wouldn't eat with... the pig-eating Gentiles.",
+      "jesus_quotes": [
+        {
+          "citation": "Matt 8:10-11",
+          "text": "Truly, I tell you, with no one in Israel have I found such faith. I tell you, many will come from east and west and recline at table with Abraham, Isaac, and Jacob in the kingdom of heaven."
+        },
+        {
+          "citation": "Luke 7:9 (of the Roman centurion — a Gentile)",
+          "text": "I tell you, not even in Israel have I found such faith."
+        },
+        {
+          "citation": "Mark 7:26-29 (Syrophoenician Gentile woman)",
+          "text": "The woman was a Gentile, a Syrophoenician by birth... And he said to her, 'For this statement you may go your way; the demon has left your daughter.'"
+        }
+      ],
+      "why_flagged": "Jesus's on-the-ground engagements with specific Gentiles — the centurion, the Syrophoenician woman, the Gerasene — present them with dignity and in many cases as having greater faith than Israel. Jakes's sweeping characterization of first-century Gentiles as uniformly engaged in orgies and street sex serves his rhetorical point about grace reaching the disreputable, but flattens a historical and scriptural picture that Jesus himself treated with more particularity. Low because the overall move is pro-inclusion — but the rhetorical caricature does sustained work in the sermon."
+    },
+    {
+      "id": "f1-5",
+      "axis": 1,
+      "severity": "low",
+      "headline": false,
+      "title": "Notably absent: Jesus's own outsider-inclusion sayings in a sermon about outsider inclusion",
+      "timestamp_seconds": null,
+      "timestamp_display": "(absent from a sermon on radical grace and outsider inclusion)",
+      "pastor_quote": "[absent] — In a 90-minute sermon whose thesis is the scandalous inclusion of 'unlikely people' by grace, Jesus's own red-letter teachings on this exact theme — Luke 15 (lost sheep / lost coin / prodigal son), Luke 19:1-10 (Zacchaeus), Matt 9:10-13 ('I desire mercy, not sacrifice'), Luke 7:36-50 (sinful woman anointing Jesus), Luke 4:25-27 (Elijah-to-Sidonian, Naaman) — are never quoted. The entire outsider-inclusion case is built from James and Peter in Acts 15.",
+      "jesus_quotes": [
+        {
+          "citation": "Luke 15:1-2, 7",
+          "text": "Now the tax collectors and sinners were all drawing near to hear him. And the Pharisees and the scribes grumbled, saying, 'This man receives sinners and eats with them.'... Just so, I tell you, there will be more joy in heaven over one sinner who repents than over ninety-nine righteous persons who need no repentance."
+        },
+        {
+          "citation": "Matt 9:13 — Jesus citing Hos 6:6",
+          "text": "Go and learn what this means: 'I desire mercy, and not sacrifice.' For I came not to call the righteous, but sinners."
+        },
+        {
+          "citation": "Luke 19:9-10",
+          "text": "Today salvation has come to this house, since he also is a son of Abraham. For the Son of Man came to seek and to save the lost."
+        },
+        {
+          "citation": "Luke 4:25-27 — Jesus citing 1 Kgs 17 and 2 Kgs 5 in his first recorded sermon",
+          "text": "Elijah was sent to none of them but only to Zarephath, in the land of Sidon, to a woman who was a widow. And there were many lepers in Israel in the time of the prophet Elisha, and none of them was cleansed, but only Naaman the Syrian."
+        }
+      ],
+      "why_flagged": "The sermon's thesis is that God's signature move is saving the 'unlikely' — and Jakes argues this almost entirely through David's Ark, Amos 9 (via James), and Peter's Cornelius defense. Jesus has more direct teaching on this theme than anyone else in the canon, and none of it is quoted. Low severity — the sermon's direction is right, but the argument is weaker than it could be, because Jesus's own red-letter voice is not marshalled."
+    },
+    {
+      "id": "f2-1",
+      "axis": 2,
+      "severity": "moderate",
+      "headline": true,
+      "title": "Supersessionist framing: 'the better-ism of Christianity'",
+      "timestamp_seconds": 4020,
+      "timestamp_display": "01:07:00",
+      "pastor_quote": "The book of Hebrews is written to put up an argument to try to convince Jews to convert to the better-ism of Christianity... and it is impossible for those who were once enlightened and taste of the heavenly gift, if they should fall away, to renew them again to repentance... was written about Jews apostasizing and leaving Christianity.",
+      "jesus_quotes": [
+        {
+          "citation": "John 4:22",
+          "text": "Salvation is from the Jews."
+        },
+        {
+          "citation": "Matt 5:17-18",
+          "text": "Do not think that I have come to abolish the Law or the Prophets... not an iota, not a dot, will pass from the Law until all is accomplished."
+        },
+        {
+          "citation": "Rom 11:28-29 (Paul, cited as wider-canon counter-witness)",
+          "text": "As regards the gospel, they are enemies for your sake. But as regards election, they are beloved for the sake of their forefathers. For the gifts and the calling of God are irrevocable."
+        }
+      ],
+      "why_flagged": "'Better-ism of Christianity' is the exact rhetorical register that post-Holocaust Christian theology across traditions (Nostra Aetate 1965; Lutheran World Federation 1984; PCUSA 1987) has flagged as supersessionist and historically dangerous. The sermon does not escalate into explicit anti-Jewish attack — but the 'Jews who stayed Jews were apostatizing' framing inverts Paul's careful argument in Rom 11, which insists Israel's election remains. Moderate because the language is passing, not sustained; but it is a recognizable marker with real historical weight."
+    },
+    {
+      "id": "f2-2",
+      "axis": 2,
+      "severity": "moderate",
+      "headline": false,
+      "title": "Gendered worship framing: submission coded feminine, restraint coded masculine",
+      "timestamp_seconds": 1920,
+      "timestamp_display": "00:32:00",
+      "pastor_quote": "Sometimes it seems like it's easier for women to submit to worship than men because men have been taught to be macho... I like to play on my chest, I've let my muscles bulk and be a real dude for Jesus until the Holy Ghost come.",
+      "jesus_quotes": [
+        {
+          "citation": "Matt 11:29",
+          "text": "Take my yoke upon you, and learn from me, for I am gentle and lowly in heart."
+        },
+        {
+          "citation": "John 11:35",
+          "text": "Jesus wept."
+        },
+        {
+          "citation": "Luke 22:26",
+          "text": "Let the greatest among you become as the youngest, and the leader as one who serves."
+        }
+      ],
+      "why_flagged": "Categorized under Axis 2 (gender-bias rubric) in addition to Axis 1. The framing reinforces a binary in which emotional expressiveness and yielded-ness are female defaults and muscular self-assertion is the male default the Spirit must overcome. Du Mez (*Jesus and John Wayne*) documents exactly this rhetorical move as a durable driver of gendered dysfunction in evangelical and charismatic spaces. Jakes is not weaponizing the frame against women — but he is installing a gender hierarchy in the spiritual register ('women find this easier') that the Gospel portrait of Jesus does not sustain."
+    }
+  ],
+  "axis4_findings": [
+    {
+      "id": "f4-1",
+      "axis": 4,
+      "severity": "moderate",
+      "headline": true,
+      "title": "Judaism and the early Jesus movement — Hebrews amplified, Romans 9-11 silent",
+      "topic": "How Christians should relate to Judaism and the ongoing Jewish people",
+      "timestamp_seconds": 4020,
+      "timestamp_display": "01:07:00",
+      "pastor_quote": "That's why the book of Hebrews is written, to put up an argument to try to convince Jews to convert to the better-ism of Christianity... By and large, the Jews were turning away from Christianity.",
+      "jesus_passages": [
+        {
+          "citation": "Matt 5:17",
+          "text": "Do not think that I have come to abolish the Law or the Prophets; I have not come to abolish them but to fulfill them."
+        },
+        {
+          "citation": "John 4:22",
+          "text": "Salvation is from the Jews."
+        },
+        {
+          "citation": "Matt 15:24",
+          "text": "I was sent only to the lost sheep of the house of Israel."
+        },
+        {
+          "citation": "Luke 24:44 — Jesus grounding his whole identity in the Hebrew canon",
+          "text": "Everything written about me in the Law of Moses and the Prophets and the Psalms must be fulfilled."
+        },
+        {
+          "citation": "Deut 6:4 — the Shema, cited by Jesus in Mark 12:29 as the first of all commandments",
+          "text": "Hear, O Israel: The Lord our God, the Lord is one."
+        }
+      ],
+      "wider_bible_passages": [
+        {
+          "citation": "Rom 9:4-5 (Paul)",
+          "text": "They are Israelites, and to them belong the adoption, the glory, the covenants, the giving of the law, the worship, and the promises. To them belong the patriarchs, and from their race, according to the flesh, is the Christ."
+        },
+        {
+          "citation": "Rom 11:1-2",
+          "text": "I ask, then, has God rejected his people? By no means!... God has not rejected his people whom he foreknew."
+        },
+        {
+          "citation": "Rom 11:28-29",
+          "text": "As regards election, they are beloved for the sake of their forefathers. For the gifts and the calling of God are irrevocable."
+        },
+        {
+          "citation": "Eph 2:11-16",
+          "text": "He himself is our peace, who has made us both one and has broken down in his flesh the dividing wall of hostility... that he might create in himself one new man in place of the two."
+        },
+        {
+          "citation": "Heb 8:13",
+          "text": "In speaking of a new covenant, he makes the first one obsolete. And what is becoming obsolete and growing old is ready to vanish away."
+        }
+      ],
+      "analysis": "This is a genuine canonical tension, not a cherry-pick invented from nothing. Hebrews 8:13 really does frame the Mosaic covenant as 'obsolete.' Jakes is reading Hebrews faithfully. The problem is that Hebrews is one voice, and the canon contains other voices that directly qualify it. Paul — writing to Gentile Christians who were beginning to develop exactly the 'we replaced them' attitude — spends three full chapters (Rom 9-11) insisting that Israel's election and gifts remain 'irrevocable,' that God has not rejected his people, and that Gentile believers are grafted in rather than replacements. Ephesians frames the new relationship as 'one new man' from both, not one new replacing the other. Jesus himself in the Gospels (Matt 5:17; John 4:22) explicitly forecloses replacement readings. A sermon that wants to summarize 'Judaism and Christianity' as 'the better-ism' has picked one canonical voice and silenced two others. The practical stakes of this cherry-pick are not small — 'better-ism' language is a recognizable historical driver of anti-Jewish theology.",
+      "why_flagged": "The pastor presents a single canonical voice (Hebrews) as if it were the whole Bible's position, while the direct counter-voices in Paul's letters and Jesus's own Gospel sayings are not engaged. The stakes are real because supersessionist rhetoric has a long and documented history of harm."
+    },
+    {
+      "id": "f4-2",
+      "axis": 4,
+      "severity": "moderate",
+      "headline": false,
+      "title": "Healing and suffering — charismatic outcome promised without the canon's counter-testimony",
+      "topic": "What Christians should expect from God regarding physical healing",
+      "timestamp_seconds": 5100,
+      "timestamp_display": "01:25:00",
+      "pastor_quote": "Lumps and tumors will shrink while we are praising God... yokes and stronghold will be broken off the backs of people, what your therapist could not do, what your counselor could not do, what some twelve steps couldn't do if we get to worship and God like we're supposed to and the King comes in this place, every yoke will be broken.",
+      "jesus_passages": [
+        {
+          "citation": "Matt 4:7 — Jesus citing Deut 6:16 to refuse staged supernatural rescue",
+          "text": "You shall not put the Lord your God to the test."
+        },
+        {
+          "citation": "Luke 10:34 — Good Samaritan, Jesus commending practical medical treatment",
+          "text": "He went to him and bound up his wounds, pouring on oil and wine."
+        },
+        {
+          "citation": "Matt 9:12",
+          "text": "Those who are well have no need of a physician, but those who are sick."
+        },
+        {
+          "citation": "John 9:1-3 — Jesus refusing to moralize suffering",
+          "text": "Rabbi, who sinned, this man or his parents, that he was born blind? Jesus answered, 'It was not that this man sinned, or his parents, but that the works of God might be displayed in him.'"
+        }
+      ],
+      "wider_bible_passages": [
+        {
+          "citation": "2 Cor 12:7-9 (Paul)",
+          "text": "A thorn was given me in the flesh... Three times I pleaded with the Lord about this, that it should leave me. But he said to me, 'My grace is sufficient for you, for my power is made perfect in weakness.'"
+        },
+        {
+          "citation": "1 Tim 5:23 (Paul to Timothy)",
+          "text": "No longer drink only water, but use a little wine for the sake of your stomach and your frequent ailments."
+        },
+        {
+          "citation": "2 Tim 4:20 (Paul notes a coworker left sick)",
+          "text": "Trophimus I left ill at Miletus."
+        },
+        {
+          "citation": "Phil 2:27 (of Epaphroditus)",
+          "text": "Indeed he was ill, near to death. But God had mercy on him."
+        },
+        {
+          "citation": "James 5:14-15",
+          "text": "Is anyone among you sick? Let him call for the elders of the church, and let them pray over him, anointing him with oil in the name of the Lord. And the prayer of faith will save the one who is sick."
+        },
+        {
+          "citation": "Job 2:7-10; 42:12",
+          "text": "[Job's restoration comes, but only after extended unanswered suffering, and Job's friends' confident promises of quick resolution are rebuked.]"
+        }
+      ],
+      "analysis": "The canon contains a genuine healing tradition — James 5, many of Jesus's Gospel miracles, the apostolic healings in Acts — and Jakes's framing is not without scriptural ground. But the canon *also* contains an unavoidable counter-witness: Paul's thorn, which God declines to remove; Trophimus left sick; Epaphroditus ill to near-death; Timothy's chronic stomach trouble, for which Paul's counsel is wine, not more worship; Job's long unanswered suffering; John 9's explicit refusal to tie sickness to sin or faithlessness. A pastoral promise that tumors will shrink if worship is correct puts the outcome on the congregation's spiritual performance in a way the Pauline and Johannine material directly resists. The sermon engages only the healing voice; the canon's counter-testimony is absent.",
+      "why_flagged": "The promised outcome is presented as contingent on the quality of worship — which the Pauline corpus and the Gospel of John specifically refuse to do with sickness. When the promise does not materialize for a listener's specific case, the sermon's own logic points back to them."
+    },
+    {
+      "id": "f4-3",
+      "axis": 4,
+      "severity": "low",
+      "headline": false,
+      "title": "Breaking tradition — strong Jesus alignment, weakly argued from Jesus",
+      "topic": "The legitimacy of breaking religious tradition for the Spirit's new work",
+      "timestamp_seconds": 2760,
+      "timestamp_display": "00:46:00",
+      "pastor_quote": "The traditions of men make the Word of God of no effect... some people love their traditions more than they love their God... in the last days according to the book of Acts God is going to restore the tabernacle of David, which means that God is about to break some rules.",
+      "jesus_passages": [
+        {
+          "citation": "Mark 7:6-8 — Jesus citing Isa 29:13",
+          "text": "Well did Isaiah prophesy of you hypocrites, as it is written, 'This people honors me with their lips, but their heart is far from me; in vain do they worship me, teaching as doctrines the commandments of men.' You leave the commandment of God and hold to the tradition of men."
+        },
+        {
+          "citation": "Matt 15:3",
+          "text": "Why do you break the commandment of God for the sake of your tradition?"
+        },
+        {
+          "citation": "Mark 2:27",
+          "text": "The Sabbath was made for man, not man for the Sabbath."
+        },
+        {
+          "citation": "Luke 6:2-5",
+          "text": "Some of the Pharisees said, 'Why are you doing what is not lawful to do on the Sabbath?'... 'The Son of Man is lord of the Sabbath.'"
+        }
+      ],
+      "wider_bible_passages": [
+        {
+          "citation": "Gal 2:11-14 (Paul confronting Peter over table fellowship rules)",
+          "text": "When I saw that their conduct was not in step with the truth of the gospel, I said to Cephas before them all, 'If you, though a Jew, live like a Gentile and not like a Jew, how can you force the Gentiles to live like Jews?'"
+        },
+        {
+          "citation": "Col 2:20-23",
+          "text": "If with Christ you died to the elemental spirits of the world, why, as if you were still alive in the world, do you submit to regulations — 'Do not handle, Do not taste, Do not touch'?"
+        },
+        {
+          "citation": "Acts 10:14-15 (Peter's vision)",
+          "text": "By no means, Lord; for I have never eaten anything that is common or unclean. And the voice came to him again a second time, 'What God has made clean, do not call common.'"
+        }
+      ],
+      "analysis": "This is the strongest alignment in the sermon. The canonical convergence is real: Jesus in Mark 7 — citing Isaiah 29 with explicit provenance — takes exactly the position Jakes takes. Paul confronts Peter in Gal 2 on the same logic. Col 2 dismantles ritual-purity gatekeeping. Peter's rooftop vision in Acts 10 makes the point God is making *through* James in Acts 15 — which is the text Jakes is preaching. The low-severity critique is only that Jakes's own exposition pulls mostly from Acts and from the David narrative and does not marshal Jesus's own Mark 7 / Matt 15 material, which would have strengthened the case. This is a strong sermon move undersold by its own exposition.",
+      "why_flagged": "Counter-signal note, not a substantive critique. The pastoral move on tradition vs. the Spirit is one of the more Jesus-aligned moves available to a preacher, and the canon converges on it. The only audit note is that Jakes argues this case without deploying Jesus's own most direct statements on it."
+    },
+    {
+      "id": "f4-4",
+      "axis": 4,
+      "severity": "low",
+      "headline": false,
+      "title": "Grace for the 'unlikely' — whose voices are present, whose are absent",
+      "topic": "God's posture toward moral outsiders and religious outsiders",
+      "timestamp_seconds": 4380,
+      "timestamp_display": "01:13:00",
+      "pastor_quote": "God will bless hookers and prostitutes and drug dealers and liars and mothers; he will save Mormons and people you don't agree with, God will do it because he's God... grace promiscuous, grace flamboyant... it hangs around in the club at three o'clock in the morning.",
+      "jesus_passages": [
+        {
+          "citation": "Luke 15:1-2",
+          "text": "Now the tax collectors and sinners were all drawing near to hear him. And the Pharisees and the scribes grumbled, saying, 'This man receives sinners and eats with them.'"
+        },
+        {
+          "citation": "Luke 19:9-10 (Zacchaeus)",
+          "text": "Today salvation has come to this house, since he also is a son of Abraham. For the Son of Man came to seek and to save the lost."
+        },
+        {
+          "citation": "Matt 9:13 — Jesus citing Hos 6:6",
+          "text": "Go and learn what this means: 'I desire mercy, and not sacrifice.' For I came not to call the righteous, but sinners."
+        },
+        {
+          "citation": "Luke 7:47",
+          "text": "Therefore I tell you, her sins, which are many, are forgiven — for she loved much."
+        },
+        {
+          "citation": "Luke 4:25-27 — Jesus citing Elijah to the Sidonian widow (1 Kgs 17) and Elisha to Naaman the Syrian (2 Kgs 5)",
+          "text": "Elijah was sent to none of them but only to Zarephath, in the land of Sidon... And none of them was cleansed, but only Naaman the Syrian."
+        }
+      ],
+      "wider_bible_passages": [
+        {
+          "citation": "Rom 5:8",
+          "text": "But God shows his love for us in that while we were still sinners, Christ died for us."
+        },
+        {
+          "citation": "1 Cor 6:9-11",
+          "text": "And such were some of you. But you were washed, you were sanctified, you were justified in the name of the Lord Jesus Christ."
+        },
+        {
+          "citation": "1 Tim 1:15 (Paul)",
+          "text": "Christ Jesus came into the world to save sinners, of whom I am the foremost."
+        },
+        {
+          "citation": "Jonah 3:10-4:11",
+          "text": "When God saw what they did, how they turned from their evil way, God relented of the disaster... 'Should I not pity Nineveh, that great city?'"
+        },
+        {
+          "citation": "Rom 6:1-2",
+          "text": "What shall we say then? Are we to continue in sin that grace may abound? By no means!"
+        }
+      ],
+      "analysis": "Convergence between pastor, Jesus, and the wider canon is strong on the *principle* — God's grace reaches unlikely people. Jesus's entire Luke 15, the Zacchaeus story, his Matt 9 citation of Hos 6:6, his Luke 4 invocation of the Sidonian widow and Naaman, and his treatment of the sinful woman in Luke 7 all pull in the same direction. Paul's 1 Cor 6 and 1 Tim 1 extend it. Jakes even handles the cheap-grace objection directly ('I am not saying we should continue in sin that grace may abound' — which is an almost direct quotation of Rom 6:1). The minor canonical caution worth naming: Jakes frames this inclusion primarily through Acts (James, Peter) rather than through Jesus's own on-the-ground Gospel encounters, which would be the most direct support. The picture is right; the argument is weaker than it could be.",
+      "why_flagged": "Included primarily as a positive counter-signal: the canon broadly converges with Jakes's thesis here. The audit note is on argument architecture (absence of Luke 15, Luke 19, Luke 4:25-27, Matt 9:13), not on substance."
+    }
+  ],
+  "factual_claims": [
+    {
+      "id": "fc-1",
+      "timestamp_seconds": 2160,
+      "timestamp_display": "00:36:00",
+      "claim": "Dr. Martin Luther King Jr. 'had finished his work before 40.' Christ 'had finished his work by the time he was 33 years old,' and 'began his ministry at 30.'",
+      "evidence_cited_by_pastor": "None cited directly; delivered as general historical knowledge.",
+      "verdict": "supported",
+      "analysis": "King was assassinated April 4, 1968, at age 39 — so 'finished his work before 40' is factually accurate. The dating of Jesus's ministry derives from Luke 3:23 ('Jesus, when he began his ministry, was about thirty years of age'); the ~3-year ministry ending at ~age 33 is the traditional harmonization based on John's three Passovers. These are standard, widely accepted datings and reasonable to cite from the pulpit without attribution.",
+      "sources": [
+        {
+          "title": "Stanford / The Martin Luther King, Jr. Research and Education Institute — biographical data",
+          "url": "https://kinginstitute.stanford.edu/king-encyclopedia/king-martin-luther-jr"
+        },
+        {
+          "title": "Luke 3:23 (ESV)",
+          "url": "https://www.esv.org/Luke+3:23/"
+        }
+      ]
+    },
+    {
+      "id": "fc-2",
+      "timestamp_seconds": 1320,
+      "timestamp_display": "00:22:00",
+      "claim": "Ish-bosheth, son of Saul, held the throne of Israel for two years after Saul's death, with Abner as the actual power behind him; Abner was later killed; by agreement, David (king of Judah) became king of Israel.",
+      "evidence_cited_by_pastor": "Implicit appeal to 2 Samuel.",
+      "verdict": "supported",
+      "analysis": "This tracks 2 Sam 2:8-10 (Abner 'took Ish-bosheth the son of Saul and brought him over to Mahanaim, and he made him king... Ish-bosheth, Saul's son, was forty years old when he began to reign over Israel, and he reigned two years'), 2 Sam 3:27 (Abner killed by Joab), 2 Sam 4:5-7 (Ish-bosheth assassinated), and 2 Sam 5:1-3 (David anointed king over all Israel). The historical summary is accurate to the biblical text.",
+      "sources": [
+        {
+          "title": "2 Samuel 2-5 (ESV)",
+          "url": "https://www.esv.org/2+Samuel+2/"
+        }
+      ]
+    },
+    {
+      "id": "fc-3",
+      "timestamp_seconds": 1440,
+      "timestamp_display": "00:24:00",
+      "claim": "'Almost thirty years they've been without the glory of the Lord' — the Ark of the Covenant was away from its proper place with no access for about thirty years prior to David's retrieval.",
+      "evidence_cited_by_pastor": "None cited directly.",
+      "verdict": "needs verification",
+      "analysis": "The biblical chronology is complex. The Ark was captured by the Philistines (1 Sam 4), held by them seven months (1 Sam 6:1), returned to Beth-Shemesh and then Kiriath-jearim where it stayed with Abinadab 'twenty years' (1 Sam 7:2) before the events of David's early reign. The 'thirty years' figure is in the plausible range if one adds Saul's reign and early David — but the biblical text does not provide an exact total, and calculations vary between ~20 and ~70 years depending on reckoning of Saul's reign length (1 Sam 13:1 is textually uncertain). The claim is approximately defensible; the precise number depends on chronological assumptions the pastor does not specify.",
+      "sources": [
+        {
+          "title": "1 Samuel 4-7 and 2 Samuel 6 (ESV)",
+          "url": "https://www.esv.org/1+Samuel+4/"
+        }
+      ]
+    },
+    {
+      "id": "fc-4",
+      "timestamp_seconds": 4140,
+      "timestamp_display": "01:09:00",
+      "claim": "The Gentiles of the first-century Mediterranean were characterized by 'orgies,' 'open sex in the street,' 'polygamy,' and 'offering their bodies to their gods.'",
+      "evidence_cited_by_pastor": "None cited.",
+      "verdict": "partially supported / overstated",
+      "analysis": "Elements have historical basis: temple prostitution existed in some Greco-Roman and Near Eastern cult settings (Corinth's Aphrodite cult being the stock example, though the scale is debated by recent scholarship — Strabo's claim of 1,000 sacred prostitutes at Corinth is now considered likely exaggerated or confused with earlier periods per Conzelmann and others). Bacchanalia and some mystery cults involved ritualized sexual elements. Polygamy was *not* a standard Roman or Greek practice — Roman law required monogamy; polygamy was more associated with some Eastern contexts. 'Open sex in the street' as a routine feature is a rhetorical caricature not supported by primary-source historical evidence. Public decency laws (e.g., the *lex Julia de adulteriis*, 18 BCE) were actually quite strict in much of the empire. The broader point — that Christian converts came from a sexually permissive ambient culture — is defensible in general terms. The specific imagery is homiletic exaggeration.",
+      "sources": [
+        {
+          "title": "Sarah Ruden, Paul Among the People (2010) — on the actual texture of Greco-Roman sexual culture vs. homiletic caricature",
+          "url": "https://www.penguinrandomhouse.com/books/102471/paul-among-the-people-by-sarah-ruden/"
+        },
+        {
+          "title": "Kyle Harper, From Shame to Sin: The Christian Transformation of Sexual Morality in Late Antiquity (Harvard, 2013)",
+          "url": "https://www.hup.harvard.edu/catalog.php?isbn=9780674660014"
+        }
+      ]
+    },
+    {
+      "id": "fc-5",
+      "timestamp_seconds": 4020,
+      "timestamp_display": "01:07:00",
+      "claim": "The book of Hebrews 'is written to put up an argument to try to convince Jews to convert to the better-ism of Christianity.'",
+      "evidence_cited_by_pastor": "None; delivered as standard exegetical framing.",
+      "verdict": "contested",
+      "analysis": "The framing has substantial support in traditional commentary: majority scholarly view is that Hebrews addresses Jewish Christians tempted to revert to synagogue-based Judaism under social pressure, and the book's sustained argument is that Christ is superior to angels, Moses, Aaronic priesthood, and the Sinai covenant. However, 'convert Jews to Christianity' overstates the case — the audience is widely considered by contemporary scholars (e.g., Luke Timothy Johnson, Craig Koester, Amy Peeler) to be already-Christian Jewish believers being urged not to *retreat*, not outsiders being proselytized. More importantly, the term 'better-ism' carries supersessionist baggage that post-1965 Christian biblical scholarship — across Catholic, mainline, and many evangelical streams — has specifically cautioned against (Nostra Aetate; scholarly consensus on reading Hebrews' 'obsolete' language in its first-century intra-Jewish setting rather than as a programmatic replacement theology). The characterization is a common pulpit gloss but is contested by the dominant strand of current scholarship.",
+      "sources": [
+        {
+          "title": "Luke Timothy Johnson, Hebrews: A Commentary (New Testament Library, 2006)",
+          "url": "https://www.wjkbooks.com/Products/0664221181/hebrews.aspx"
+        },
+        {
+          "title": "Amy Peeler, You Are My Son: The Family of God in the Epistle to the Hebrews (2014)",
+          "url": "https://www.bloomsbury.com/us/you-are-my-son-9780567656391/"
+        },
+        {
+          "title": "Vatican II, Nostra Aetate §4 (1965)",
+          "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_en.html"
+        }
+      ]
+    }
+  ],
+  "cn_markers": [
+    {
+      "marker": "A. Conflation of national & Christian identity",
+      "status": "None detected"
+    },
+    {
+      "marker": "B. Militaristic / warrior framing",
+      "status": "Low",
+      "note": "David described as 'warrior... used to fighting on the battlefield' as historical characterization; no contemporary combat application."
+    },
+    {
+      "marker": "C. Political opponents as spiritual enemies",
+      "status": "None detected"
+    },
+    {
+      "marker": "D. Dominionist rhetoric",
+      "status": "None detected"
+    },
+    {
+      "marker": "E. Civil religion (flag, pledge)",
+      "status": "None detected"
+    },
+    {
+      "marker": "F. Jeremiad / 'Christianity under attack'",
+      "status": "None detected"
+    },
+    {
+      "marker": "G. Ethno-cultural 'real American' undertones",
+      "status": "None detected",
+      "note": "Jakes explicitly critiques traditionalism in both 'white America' and 'black America.'"
+    },
+    {
+      "marker": "H. Strongman / authoritarian affinity",
+      "status": "None detected"
+    }
+  ],
+  "other_axis2_rubrics": [
+    {
+      "rubric": "Anti-Muslim framing",
+      "status": "Not present in this sermon"
+    },
+    {
+      "rubric": "Anti-LGBTQ framing",
+      "status": "Not present in this sermon"
+    },
+    {
+      "rubric": "Misogynistic framing",
+      "status": "Low — see Finding 2.2",
+      "note": "No body-policing, no restrictions on women's roles; the concern is a gendered default in spiritual disposition."
+    },
+    {
+      "rubric": "Anti-Jewish framing",
+      "status": "Present — moderate",
+      "note": "See Finding 2.1 on the 'better-ism of Christianity' framing and the characterization of first-century Jews 'apostatizing' from a movement that at that time was still internal to Judaism."
+    }
+  ],
+  "reach": {
+    "view_count": 461071,
+    "like_count": 9343,
+    "channel": "The Potter’s House of Dallas",
+    "channel_id": "UCjQbTcszB-gRhDByY9WhySw",
+    "channel_follower_count": 2970000,
+    "upload_date": "20200530",
+    "source": "yt-dlp",
+    "congregation": {
+      "weekly_attendance_est": 30000,
+      "source": "Church-reported multi-campus weekly; Outreach Magazine"
+    }
+  }
+}

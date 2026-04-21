@@ -1,0 +1,536 @@
+{
+  "meta": {
+    "sermon_title": "Sticks & Stones - Bishop T.D. Jakes",
+    "preacher": "Bishop T.D. Jakes",
+    "church": "The Potter's House",
+    "church_location": "Dallas, TX",
+    "series": "",
+    "preaching_text": "",
+    "youtube_id": "8mXUiZFRdCc",
+    "upload_date": "2026-04-05",
+    "runtime_seconds": 4041,
+    "transcript_path": "transcripts/20260405_bishop_t_d_jakes_sticks_stones_bishop_t_d_jakes.txt",
+    "gospel_translation": "ESV"
+  },
+  "summary": "A Resurrection-Sunday sermon built on Exodus 17:1–6 (Moses striking the rock at Rephidim). Jakes develops a typological chain — stick + stone → cross + tomb — arguing that the OT rock-and-rod pattern foreshadows Calvary and Easter morning. The back half is an extended altar-call exhortation to 'get up out of the grave' and 'roll the stone' of depression, pride, lust, addiction, and insecurity. The sermon is pastorally oriented (personal deliverance, resurrection life, autobiographical testimony from his West Virginia childhood) rather than politically or culturally oriented; it contains minimal engagement with contemporary political issues, no named out-groups, and a notable explicit critique of scapegoating. Closes with a Potter's House membership / sowing appeal.",
+  "scorecard": {
+    "axis_1": {
+      "label": "Fidelity to Jesus's Teachings (Red Letters)",
+      "verdict": "Mostly faithful with moderate tensions",
+      "severity": "moderate",
+      "headline": "Resurrection proclamation is biblically grounded. Two prosperity-adjacent obedience promises, a 'warfare praise' framing that sidesteps Matt 5:44, a sin doctrine restricted to the private/personal register, and the conspicuous absence of Matt 25 from a sermon about what it means to 'have life.'"
+    },
+    "axis_2": {
+      "label": "Identifiable Biases / Harmful Rhetoric",
+      "verdict": "Largely absent",
+      "severity": "low",
+      "headline": "No Christian-nationalism markers, no anti-Muslim, anti-LGBTQ, misogynistic, or anti-Jewish content. Sermon actively names scapegoating ('mad at immigrants… mad at white people… mad at black people') as symptom of displaced anger. One low-severity note: a mild othering of African diasporic folk-religious practice ('stronger than witchcraft… stronger than roots')."
+    },
+    "axis_3": {
+      "label": "Factual Claims & Evidence Check",
+      "verdict": "Mostly minor textual/historical slips",
+      "severity": "low",
+      "headline": "One biblical-numerical slip (400 vs. 600 chariots in Exod 14:7), one uncited popular-neuroscience claim about confabulation, and crucifixion-anatomy specifics that exceed the Gospel text. No claim reaches the level of 'severe' misinformation and none targets a living group."
+    },
+    "axis_4": {
+      "label": "Whole-Bible Engagement",
+      "verdict": "Selective but not weaponized",
+      "severity": "moderate",
+      "headline": "Heavy use of typology (Ex 17 → Calvary) is legitimate but operates largely without engaging the wider canon's counter-voices on suffering, obedience, and the content of resurrection life. Paul's hardship catalog, James on works, Matt 25, and Isaiah 58 — all load-bearing for the sermon's own themes — are unreferenced."
+    }
+  },
+  "tenets_affirmed": [
+    "Bodily resurrection of Jesus is proclaimed plainly and centrally: 'HE GOT UP OUT of the grave… he got up out of the grave' [00:43:30].",
+    "Universal scope of grace is affirmed without qualification: 'There is nothing in your life, on your life or in your past that God cannot forgive' [01:04:30].",
+    "Exposition of Exodus 17:1–6 stays close to the text: the setting (Rephidim), the murmuring, Moses's cry, the command to strike the rock, and the provision of water are all rendered faithfully.",
+    "Scapegoating is explicitly named and rejected: 'the human brain if it cannot find a reason to explain the turmoil will make up a reason… You'll be mad at the immigrants. You'll be mad at white people. You'll be mad at black people' [00:31:00] — framed as pathology, not prescription.",
+    "Altar call is inclusive of the socially marked: 'I'm coming if I got to come with liquor on my breath. I'm coming if I was smoking a joint last night' [01:01:00]."
+  ],
+  "counter_signals": [
+    "No named political party, politician, or movement is endorsed or attacked.",
+    "No flag, pledge, or civil-religion imagery anywhere in the sermon.",
+    "No anti-immigrant, anti-LGBTQ, anti-Muslim, anti-Jewish, or misogynistic rhetoric — and the sermon explicitly names ethnic scapegoating as displaced anger.",
+    "Self-deprecating recollection of small-church origins ('seven people was a big crowd… 30 people on Easter counting pregnant people and dead folks') [00:19:30] cuts against crowd-metric boasting.",
+    "Grace language is unusually expansive: 'He didn't die for you to have church. He died for you to have life' [01:00:30].",
+    "Communal accountability is affirmed: 'we need one another to be holy, to hold each other accountable, and to keep growing' [01:06:00]."
+  ],
+  "findings": [
+    {
+      "id": "f1-1",
+      "axis": 1,
+      "severity": "low",
+      "headline": false,
+      "title": "Obedience promised to yield enviable jobs and enviable spouses",
+      "timestamp_seconds": 1830,
+      "timestamp_display": "00:10:30",
+      "pastor_quote": "If you obey me, I'll make things that's not supposed to bless you. Let me tell y'all, if you obey me, I'll give you jobs that you're not supposed to have. If you obey me, I'll give you the kind of spouse that make folks jealous when you walk in.",
+      "jesus_quotes": [
+        {
+          "citation": "Mark 10:29–30",
+          "text": "There is no one who has left house or brothers or sisters or mother or father or children or lands, for my sake and for the gospel, who will not receive a hundredfold now in this time, houses and brothers and sisters and mothers and children and lands, with persecutions, and in the age to come eternal life."
+        },
+        {
+          "citation": "Luke 14:27–28, 33",
+          "text": "Whoever does not bear his own cross and come after me cannot be my disciple. For which of you, desiring to build a tower, does not first sit down and count the cost?… So therefore, any one of you who does not renounce all that he has cannot be my disciple."
+        },
+        {
+          "citation": "Matt 6:19–21",
+          "text": "Do not lay up for yourselves treasures on earth, where moth and rust destroy and where thieves break in and steal, but lay up for yourselves treasures in heaven… For where your treasure is, there your heart will be also."
+        },
+        {
+          "citation": "John 16:33",
+          "text": "In the world you will have tribulation. But take heart; I have overcome the world."
+        }
+      ],
+      "why_flagged": "Jesus's own obedience-reward framing is conspicuously double-edged: the hundredfold promise of Mark 10 explicitly includes 'with persecutions.' Framing obedience as a pipeline to jobs and spouses that make onlookers jealous selects only the top half of Jesus's sentence. It is not prosperity gospel in the hard-edged sense, but it is directionally adjacent."
+    },
+    {
+      "id": "f1-2",
+      "axis": 1,
+      "severity": "low",
+      "headline": false,
+      "title": "Warfare-praise framing: enemies 'drown' as you praise",
+      "timestamp_seconds": 1650,
+      "timestamp_display": "00:27:30",
+      "pastor_quote": "Praise is a weapon. And the more she beat the tambourine, the more Pharaoh's army drowned in the Red Sea… I'm going to dance while the devil drowns.",
+      "jesus_quotes": [
+        {
+          "citation": "Matt 5:43–45",
+          "text": "You have heard that it was said, 'You shall love your neighbor and hate your enemy.' But I say to you, Love your enemies and pray for those who persecute you, so that you may be sons of your Father who is in heaven."
+        },
+        {
+          "citation": "Luke 9:54–55 (when disciples wanted fire on a religious out-group)",
+          "text": "'Lord, do you want us to tell fire to come down from heaven and consume them?' But he turned and rebuked them."
+        },
+        {
+          "citation": "Matt 26:52",
+          "text": "Put your sword back into its place. For all who take the sword will perish by the sword."
+        },
+        {
+          "citation": "Lev 19:17–18 — cited by Jesus in Matt 22:39, Mark 12:31, Luke 10:27 as the second great commandment",
+          "text": "You shall not hate your brother in your heart… you shall love your neighbor as yourself."
+        }
+      ],
+      "why_flagged": "The Exodus 15 Miriam-and-tambourine echo is canonical and Jakes's explicit referents are spiritual ('bills,' 'cancer,' 'devils') rather than human groups — which keeps the severity low. Still, a formulaic 'the more you praise, the more your enemies drown' builds a register Jesus explicitly redirects: his disciples are to love enemies, not choreograph their destruction. The tension is directional rather than flatly contradictory."
+    },
+    {
+      "id": "f1-3",
+      "axis": 1,
+      "severity": "moderate",
+      "headline": false,
+      "title": "Sin restricted to the secret/private/personal register",
+      "timestamp_seconds": 2340,
+      "timestamp_display": "00:39:00",
+      "pastor_quote": "He died for your sins. I'm not talking about the sins you testify about. I'm talking about the sins you don't tell nobody about. He died for your secret sins. He died for your private sins. He died for your personal sin.",
+      "jesus_quotes": [
+        {
+          "citation": "Matt 25:41–45",
+          "text": "'Depart from me, you cursed, into the eternal fire prepared for the devil and his angels. For I was hungry and you gave me no food, I was thirsty and you gave me no drink, I was a stranger and you did not welcome me, naked and you did not clothe me, sick and in prison and you did not visit me.'… 'Truly, I say to you, as you did not do it to one of the least of these, you did not do it to me.'"
+        },
+        {
+          "citation": "Matt 23:23",
+          "text": "You tithe mint and dill and cumin, and have neglected the weightier matters of the law: justice and mercy and faithfulness."
+        },
+        {
+          "citation": "Luke 19:8–9 (Zacchaeus's repentance is public and restitutionary)",
+          "text": "'Behold, Lord, the half of my goods I give to the poor. And if I have defrauded anyone of anything, I restore it fourfold.' And Jesus said to him, 'Today salvation has come to this house.'"
+        },
+        {
+          "citation": "Isa 58:6–7 — the passage Jesus reads from in Luke 4:18–19 to open his public ministry",
+          "text": "Is not this the fast that I choose: to loose the bonds of wickedness, to undo the straps of the yoke, to let the oppressed go free… Is it not to share your bread with the hungry…?"
+        }
+      ],
+      "why_flagged": "Jesus's catalog of sins is overwhelmingly relational and social: religious hypocrisy, withholding mercy, neglect of the poor and stranger, oppression, hardness of heart. Locating the cross's work exclusively in the 'secret/private/personal' register reduces sin to a privatized interiority that Jesus's own teaching does not match. This framing is common in American evangelicalism; that commonness is what makes it worth flagging."
+    },
+    {
+      "id": "f1-4",
+      "axis": 1,
+      "severity": "moderate",
+      "headline": true,
+      "title": "Matt 25 is absent from a sermon about 'getting up' into resurrection life",
+      "timestamp_seconds": null,
+      "timestamp_display": "(absent from an Easter sermon on 'He died for you to have life')",
+      "pastor_quote": "[absent] — In a 67-minute Resurrection Sunday sermon whose defining exhortation is 'He didn't die for you to have church. He died for you to have life' [01:00:30], and whose repeated refrain is 'get up out of the grave,' Jesus's own fullest description of what the risen Son of Man will do — Matt 25:31–46 — is never referenced.",
+      "jesus_quotes": [
+        {
+          "citation": "Matt 25:31–46",
+          "text": "When the Son of Man comes in his glory… he will separate people one from another as a shepherd separates the sheep from the goats… 'Come, you who are blessed by my Father, inherit the kingdom prepared for you from the foundation of the world. For I was hungry and you gave me food, I was thirsty and you gave me drink, I was a stranger and you welcomed me, I was naked and you clothed me, I was sick and you visited me, I was in prison and you came to me.'… 'As you did it to one of the least of these my brothers, you did it to me.'"
+        },
+        {
+          "citation": "John 10:10 (the verse Jakes alludes to but does not cite)",
+          "text": "The thief comes only to steal and kill and destroy. I came that they may have life and have it abundantly."
+        },
+        {
+          "citation": "Luke 4:18–19 (Isa 61:1–2 on Jesus's lips in his first recorded sermon)",
+          "text": "The Spirit of the Lord is upon me, because he has anointed me to proclaim good news to the poor. He has sent me to proclaim liberty to the captives and recovering of sight to the blind, to set at liberty those who are oppressed, to proclaim the year of the Lord's favor."
+        }
+      ],
+      "why_flagged": "The sermon's governing question — what does life-on-the-other-side-of-the-stone look like? — is the exact question Jesus answers in Matt 25. Omitting it is not heresy, but it leaves the hearer with 'get up, give God praise, stop letting pride/lust/depression bury you' as the content of resurrection life, when Jesus's own content is concrete care for the hungry, thirsty, stranger, naked, sick, and imprisoned. The gap is significant for an Easter sermon."
+    },
+    {
+      "id": "f2-1",
+      "axis": 2,
+      "severity": "low",
+      "headline": false,
+      "title": "Brief othering of African diasporic folk-religious practice",
+      "timestamp_seconds": 2970,
+      "timestamp_display": "00:49:30",
+      "pastor_quote": "He's stronger than witchcraft. He's stronger than roots. He's stronger than Satan. He's stronger than the enemy.",
+      "jesus_quotes": [
+        {
+          "citation": "Matt 12:28",
+          "text": "If it is by the Spirit of God that I cast out demons, then the kingdom of God has come upon you."
+        },
+        {
+          "citation": "Luke 10:33–37 (a religious outsider held up as the exemplar of neighbor-love)",
+          "text": "But a Samaritan, as he journeyed, came to where he was, and when he saw him, he had compassion… 'You go, and do likewise.'"
+        }
+      ],
+      "why_flagged": "'Roots' in this context is Black-church vernacular for hoodoo / rootwork — an African-diasporic folk-religious practice still alive in parts of the American South and Caribbean. Listing it alongside 'Satan' and 'the enemy' frames a named cultural-religious practice as spiritual opposition. The reference is brief, undeveloped, and drawn from a register internal to Black Pentecostal rhetoric (mitigating severity), but worth noting as a low-grade out-grouping of a living practice."
+    }
+  ],
+  "axis4_findings": [
+    {
+      "id": "f4-1",
+      "axis": 4,
+      "severity": "moderate",
+      "headline": true,
+      "title": "What does obedience yield? — selecting Mark 10's first half while omitting 'with persecutions'",
+      "topic": "The relationship between obedience and material outcomes",
+      "timestamp_seconds": 1830,
+      "timestamp_display": "00:10:30",
+      "pastor_quote": "If you obey me, I'll give you jobs that you're not supposed to have. If you obey me, I'll give you the kind of spouse that make folks jealous when you walk in.",
+      "jesus_passages": [
+        {
+          "citation": "Mark 10:29–30 (the canonical 'hundredfold' promise)",
+          "text": "There is no one who has left house or brothers or sisters or mother or father or children or lands, for my sake and for the gospel, who will not receive a hundredfold now in this time, houses and brothers and sisters and mothers and children and lands, with persecutions, and in the age to come eternal life."
+        },
+        {
+          "citation": "Matt 6:19–21, 24",
+          "text": "Do not lay up for yourselves treasures on earth… You cannot serve God and money."
+        },
+        {
+          "citation": "Luke 9:57–58",
+          "text": "Foxes have holes, and birds of the air have nests, but the Son of Man has nowhere to lay his head."
+        },
+        {
+          "citation": "Luke 14:33",
+          "text": "Any one of you who does not renounce all that he has cannot be my disciple."
+        },
+        {
+          "citation": "John 16:33",
+          "text": "In the world you will have tribulation. But take heart; I have overcome the world."
+        }
+      ],
+      "wider_bible_passages": [
+        {
+          "citation": "2 Cor 11:23–28 (Paul cataloguing his obedience)",
+          "text": "Far greater labors, far more imprisonments, with countless beatings, and often near death. Five times I received at the hands of the Jews the forty lashes less one. Three times I was beaten with rods. Once I was stoned. Three times I was shipwrecked… danger in the city, danger in the wilderness…"
+        },
+        {
+          "citation": "Heb 11:36–38 (the faithful through every era)",
+          "text": "Others suffered mocking and flogging, and even chains and imprisonment. They were stoned, they were sawn in two, they were killed with the sword. They went about in skins of sheep and goats, destitute, afflicted, mistreated — of whom the world was not worthy."
+        },
+        {
+          "citation": "Jas 1:2–4",
+          "text": "Count it all joy, my brothers, when you meet trials of various kinds, for you know that the testing of your faith produces steadfastness."
+        },
+        {
+          "citation": "Job 1–2; Ecclesiastes (wisdom canon's refusal of a clean obedience-prosperity formula)",
+          "text": "[The canonical wisdom tradition explicitly rejects the assumption that faithful obedience predictably yields visible flourishing — Job's 'friends' make exactly that argument and are rebuked by God.]"
+        },
+        {
+          "citation": "Phil 4:12 (Paul)",
+          "text": "I know how to be brought low, and I know how to abound. In any and every circumstance, I have learned the secret of facing plenty and hunger, abundance and need."
+        }
+      ],
+      "analysis": "The biblical witness on what obedience produces is bi-modal and the two modes are held together canonically: (1) real provision — Ps 37, Prov 10, Mark 10's hundredfold; and (2) real hardship — Job, Ecclesiastes, the martyrs of Heb 11, Paul's beatings, Jesus's own 'nowhere to lay his head.' Mark 10:29–30 is striking precisely because it fuses both into one sentence: 'a hundredfold now… with persecutions.' Selecting the 'jobs you're not supposed to have / spouse that makes folks jealous' side without the 'with persecutions' side — and without Job or Paul's scar-catalog or Hebrews 11's saints sawn in two — produces a version of obedience pitched to aspirational upward mobility. Jakes earlier in the sermon actually models the wider witness well ('I have learned whatever state I'm in, therewith to be content' — Phil 4:11 paraphrase at 00:04:00). The tension is between the testimony the sermon opens with and the promise it offers at 00:10:30.",
+      "why_flagged": "The pastor's framing draws on one biblical register (provision) while the canon holds provision and suffering together. His own earlier Phil 4 quotation supplies the corrective he then declines to apply."
+    },
+    {
+      "id": "f4-2",
+      "axis": 4,
+      "severity": "low",
+      "headline": false,
+      "title": "Praise as warfare — Ex 15 typology without Matt 5 counterweight",
+      "topic": "How Christians should respond to enemies, whether spiritual or human",
+      "timestamp_seconds": 1650,
+      "timestamp_display": "00:27:30",
+      "pastor_quote": "Praise is a weapon. And the more she beat the tambourine, the more Pharaoh's army drowned in the Red Sea… I'm going to dance while the devil drowns.",
+      "jesus_passages": [
+        {
+          "citation": "Matt 5:43–45",
+          "text": "Love your enemies and pray for those who persecute you, so that you may be sons of your Father who is in heaven. For he makes his sun rise on the evil and on the good."
+        },
+        {
+          "citation": "Luke 6:27–28",
+          "text": "Love your enemies, do good to those who hate you, bless those who curse you, pray for those who abuse you."
+        },
+        {
+          "citation": "Luke 9:54–55",
+          "text": "'Lord, do you want us to tell fire to come down from heaven and consume them?' But he turned and rebuked them."
+        },
+        {
+          "citation": "Luke 23:34 (from the cross)",
+          "text": "Father, forgive them, for they know not what they do."
+        },
+        {
+          "citation": "Lev 19:17–18 — cited by Jesus in Matt 22:39, Mark 12:31, Luke 10:27",
+          "text": "You shall not hate your brother in your heart… you shall love your neighbor as yourself."
+        }
+      ],
+      "wider_bible_passages": [
+        {
+          "citation": "Exod 15:1–21 (Miriam's tambourine — the exact passage Jakes is echoing)",
+          "text": "Then Miriam the prophetess, the sister of Aaron, took a tambourine in her hand, and all the women went out after her with tambourines and dancing. And Miriam sang to them: 'Sing to the Lord, for he has triumphed gloriously; the horse and his rider he has thrown into the sea.'"
+        },
+        {
+          "citation": "Ps 149:6–9",
+          "text": "Let the high praises of God be in their throats and two-edged swords in their hands, to execute vengeance on the nations and punishments on the peoples, to bind their kings with chains…"
+        },
+        {
+          "citation": "2 Cor 10:3–5 (Paul's re-definition of warfare)",
+          "text": "For though we walk in the flesh, we are not waging war according to the flesh. For the weapons of our warfare are not of the flesh but have divine power to destroy strongholds."
+        },
+        {
+          "citation": "Eph 6:12",
+          "text": "We do not wrestle against flesh and blood, but against the rulers, against the authorities, against the cosmic powers over this present darkness."
+        },
+        {
+          "citation": "Rom 12:19–21",
+          "text": "Beloved, never avenge yourselves, but leave it to the wrath of God… Do not be overcome by evil, but overcome evil with good."
+        }
+      ],
+      "analysis": "The Exodus 15 / Miriam base-text is there in scripture; the formal move ('enemies drown while the redeemed dance') is biblical. Paul's reframing in 2 Cor 10 and Eph 6, however, deliberately relocates the battlefield — the enemy is not human, and the weapons are not of the flesh. Jesus's red-letter ethic then goes one step further: even toward those who do qualify as human enemies, the imperative is love, prayer, and forgiveness. Jakes's referents in this sermon are explicitly spiritual ('bills,' 'cancer,' 'devils'), which keeps his rhetoric inside the Pauline frame rather than crossing into human-enemies territory. This is why the severity here is low. The missing canonical counterweight is not against what Jakes says but against what his rhetoric could authorize if applied to human opponents — a move Jakes himself does not make but others using the same script often do.",
+      "why_flagged": "A 'praise drowns enemies' rhetoric lifted out of Exodus 15 needs the Matt 5 / Rom 12 / 2 Cor 10 counterweight to keep it inside the NT's redefinition of warfare. Jakes applies it to spiritual foes and therefore stays within bounds; the framing is still worth noting because the script itself is portable."
+    },
+    {
+      "id": "f4-3",
+      "axis": 4,
+      "severity": "moderate",
+      "headline": false,
+      "title": "'Resurrection life' defined privately — Isa 58, Matt 25, Acts 2, Jas 2 all unreferenced",
+      "topic": "What the risen life looks like in the Christian vocation",
+      "timestamp_seconds": 3630,
+      "timestamp_display": "01:00:30",
+      "pastor_quote": "He didn't die for you to have church. He died for you to have life… if you get to the point that you want to come out of that grave… to have the abundant life that Jesus died for you to have life.",
+      "jesus_passages": [
+        {
+          "citation": "John 10:10 (the verse echoed)",
+          "text": "I came that they may have life and have it abundantly."
+        },
+        {
+          "citation": "Matt 25:31–46",
+          "text": "'I was hungry and you gave me food, I was thirsty and you gave me drink, I was a stranger and you welcomed me, I was naked and you clothed me, I was sick and you visited me, I was in prison and you came to me.'… 'As you did it to one of the least of these my brothers, you did it to me.'"
+        },
+        {
+          "citation": "Luke 4:18–19 — Jesus reads Isa 61:1–2 as his inaugural job description",
+          "text": "The Spirit of the Lord is upon me… to proclaim good news to the poor… liberty to the captives… to set at liberty those who are oppressed."
+        },
+        {
+          "citation": "Matt 22:37–40 (Lev 19:18 + Deut 6:5 as Jesus's summary of the Law)",
+          "text": "You shall love the Lord your God with all your heart… And a second is like it: You shall love your neighbor as yourself."
+        }
+      ],
+      "wider_bible_passages": [
+        {
+          "citation": "Isa 58:6–10 (on what 'life' looks like once you are free)",
+          "text": "Is not this the fast that I choose: to loose the bonds of wickedness… to share your bread with the hungry and bring the homeless poor into your house… then your light shall break forth like the dawn, and your healing shall spring up speedily."
+        },
+        {
+          "citation": "Acts 2:44–45 (what the post-resurrection church did)",
+          "text": "And all who believed were together and had all things in common. And they were selling their possessions and belongings and distributing the proceeds to all, as any had need."
+        },
+        {
+          "citation": "Jas 2:14–17",
+          "text": "What good is it, my brothers, if someone says he has faith but does not have works? Can that faith save him?… So also faith by itself, if it does not have works, is dead."
+        },
+        {
+          "citation": "1 John 3:17–18",
+          "text": "But if anyone has the world's goods and sees his brother in need, yet closes his heart against him, how does God's love abide in him? Little children, let us not love in word or talk but in deed and in truth."
+        },
+        {
+          "citation": "Rev 21:3–4 (the telos of resurrection life — embodied, communal, embedded)",
+          "text": "Behold, the dwelling place of God is with man. He will dwell with them, and they will be their God… He will wipe away every tear from their eyes, and death shall be no more."
+        }
+      ],
+      "analysis": "Jakes's question — what does 'getting up' into resurrection life actually mean? — is the same question Jesus answers in Matt 25, Luke 4, and the dual love-command; the same question Isaiah answers in 58; the same question Luke answers in the Acts 2 summary of the early church; the same question James answers in James 2; the same question John answers in 1 John 3. The canonical consensus is striking: the life on the other side of the stone is materially extended to the hungry, the stranger, the sick, the imprisoned, and the poor. Jakes, preaching to a large congregation with significant reach, names the stones of depression, pride, lust, poverty, and insecurity — all real — but the content of the life on the far side is essentially internal ('new joy… new dance'). The selection is coherent and pastorally useful; it is also narrower than the canon's answer to its own question.",
+      "why_flagged": "A sermon whose thesis is 'Jesus died for you to have life, not church' can only properly handle the word 'life' by engaging the canonical sources that define it. Matt 25, Isa 58, Acts 2, Jas 2, and 1 John 3 converge on an outward, materially-extended definition that the sermon leaves untouched."
+    }
+  ],
+  "factual_claims": [
+    {
+      "id": "fc-1",
+      "timestamp_seconds": 1380,
+      "timestamp_display": "00:23:00",
+      "claim": "Pharaoh had 400 chosen chariots. That was the best fleet he had for warfare.",
+      "evidence_cited_by_pastor": "None. Delivered as a straight biblical fact.",
+      "verdict": "false",
+      "analysis": "Exodus 14:7 (ESV): 'and took six hundred chosen chariots and all the other chariots of Egypt with officers over all of them.' The text specifies 600 chosen chariots, not 400. This is a minor biblical-numerical slip, easily verifiable against the primary text Jakes is exegeting. It is also possible Jakes has conflated the number of chosen chariots (600) with the 400 years of oppression he referenced earlier in the sermon.",
+      "sources": [
+        {
+          "title": "Exodus 14:7 (ESV), via Bible Gateway",
+          "url": "https://www.biblegateway.com/passage/?search=Exodus%2014%3A7&version=ESV"
+        }
+      ]
+    },
+    {
+      "id": "fc-2",
+      "timestamp_seconds": 1860,
+      "timestamp_display": "00:31:00",
+      "claim": "The human brain, if it cannot find a reason to explain the turmoil, will make up a reason because it needs to rationalize to you why you are going through what you're going through.",
+      "evidence_cited_by_pastor": "'I was studying on the human brain and the study that I was reading said…' — no researcher, institution, or publication named.",
+      "verdict": "partially supported",
+      "analysis": "The underlying phenomenon is real and has a substantial cognitive-science literature. Michael Gazzaniga's split-brain research established the 'interpreter' function of the left hemisphere — the brain manufactures post-hoc narratives to explain behavior whose real cause it does not have access to (confabulation). The broader literature on motivated reasoning (Kunda 1990), cognitive dissonance reduction (Festinger 1957), and the illusion of introspection (Nisbett & Wilson 1977) supports the general claim that humans construct causal stories to resolve unexplained distress. However, Jakes is not citing any of that literature specifically — he is generalizing from an unspecified 'study.' The core concept is defensible; the presentation ('the study I was reading said') is evidentially thin and the application (explaining why people are 'mad at immigrants, mad at white people, mad at black people') is a pastoral inference rather than a research finding.",
+      "sources": [
+        {
+          "title": "Gazzaniga, M. S. — 'Cerebral specialization and interhemispheric communication: Does the corpus callosum enable the human condition?' Brain, 2000",
+          "url": "https://academic.oup.com/brain/article/123/7/1293/311751"
+        },
+        {
+          "title": "Kunda, Z. — 'The case for motivated reasoning.' Psychological Bulletin, 108(3), 1990",
+          "url": "https://psycnet.apa.org/record/1991-06822-001"
+        },
+        {
+          "title": "Nisbett, R. E., & Wilson, T. D. — 'Telling more than we can know: Verbal reports on mental processes.' Psychological Review, 84(3), 1977",
+          "url": "https://psycnet.apa.org/record/1978-00295-001"
+        }
+      ]
+    },
+    {
+      "id": "fc-3",
+      "timestamp_seconds": 2220,
+      "timestamp_display": "00:37:00",
+      "claim": "They drove a nail into his wrist on the right side and the left side [and] they took a spike and drove it through both feet.",
+      "evidence_cited_by_pastor": "None. Delivered as historical reconstruction of the crucifixion.",
+      "verdict": "partially supported / overstated",
+      "analysis": "Two pieces of specificity go beyond the Gospel text. (1) 'Wrist' vs. 'hand': The Greek word used in the Gospels and in Paul (cheir) covers both wrist and hand; the text does not specify. The wrist hypothesis is associated with French surgeon Pierre Barbet (1950s) based on the Shroud of Turin and became popular in evangelical preaching. It is plausible anatomically but not established from the text, and the Shroud's provenance is itself contested. (2) 'Both feet with a single spike': The primary archaeological evidence for first-century crucifixion is the Jehohanan ossuary (found at Givat ha-Mivtar, Jerusalem, 1968), which showed the victim's ankles were nailed individually through the sides, not both feet together through the top of the foot. Later medieval Christian iconography standardized the 'both feet together, one spike' image. So the claim reflects Christian pious tradition and Barbet's anatomy more than the Gospel text or the best archaeological evidence.",
+      "sources": [
+        {
+          "title": "Zias, J. & Sekeles, E. — 'The Crucified Man from Giv'at ha-Mivtar: A Reappraisal.' Israel Exploration Journal, 1985",
+          "url": "https://www.jstor.org/stable/27925978"
+        },
+        {
+          "title": "Barbet, P. — A Doctor at Calvary (1953; translation 1963)",
+          "url": "https://archive.org/details/ADoctorAtCalvaryPierreBarbet"
+        }
+      ]
+    },
+    {
+      "id": "fc-4",
+      "timestamp_seconds": 720,
+      "timestamp_display": "00:12:00",
+      "claim": "I have been in Dallas for the last 30 years. I am 69 years old come June. I have been preaching for nearly 50 years. It'll be 50 years in September.",
+      "evidence_cited_by_pastor": "Autobiographical; no external citation.",
+      "verdict": "supported",
+      "analysis": "T.D. Jakes was born June 9, 1957, making him 68 at the time of the April 2026 sermon and turning 69 in June 2026 — matches. The Potter's House was founded in Dallas in 1996, putting Dallas tenure at ~30 years by 2026 — matches. Jakes is widely reported to have begun preaching at age 19 in 1976 (in West Virginia); September 2026 would therefore mark 50 years. All three biographical claims are internally consistent and match publicly available records.",
+      "sources": [
+        {
+          "title": "Britannica — T.D. Jakes biography",
+          "url": "https://www.britannica.com/biography/T-D-Jakes"
+        },
+        {
+          "title": "The Potter's House — About Bishop T.D. Jakes",
+          "url": "https://www.thepottershouse.org/leadership/"
+        }
+      ]
+    },
+    {
+      "id": "fc-5",
+      "timestamp_seconds": 90,
+      "timestamp_display": "00:01:30",
+      "claim": "The children of Israel lived in Egypt for 430 years. The first 30 years they were not oppressed. But when Joseph died and another Pharaoh came in… they lived in oppression for 400 years.",
+      "evidence_cited_by_pastor": "None; delivered as biblical exposition.",
+      "verdict": "partially supported",
+      "analysis": "Exodus 12:40 gives 430 years as the duration of Israel's sojourn in Egypt. Genesis 15:13 and Acts 7:6 give 400 years as the period of affliction/enslavement. Jakes harmonizes these by proposing the first 30 were non-oppressive, aligning the difference (430 − 400 = 30) with the period from Jacob's arrival until a post-Joseph Pharaoh. This is a traditional harmonization used by many commentators but is not stated in the text. Complications: (1) the LXX and Samaritan Pentateuch of Exod 12:40 read the 430 years as covering Canaan + Egypt, which Paul follows in Gal 3:17 (430 years from Abrahamic promise to Sinai) — on that reading the Egypt-only duration would be ~215 years, not 430. (2) Joseph lived long past Jacob's arrival (Gen 50 places him at 110 at death), making a clean 30-year pre-oppression period hard to locate chronologically. The harmonization Jakes offers is defensible within a conservative reading tradition but papers over a well-known chronological problem.",
+      "sources": [
+        {
+          "title": "Exodus 12:40; Genesis 15:13; Acts 7:6; Galatians 3:17 (ESV) via Bible Gateway",
+          "url": "https://www.biblegateway.com/passage/?search=Exodus+12%3A40%3B+Genesis+15%3A13%3B+Acts+7%3A6%3B+Galatians+3%3A17&version=ESV"
+        },
+        {
+          "title": "Kitchen, K. A. — On the Reliability of the Old Testament (2003), chapter on Egyptian sojourn chronology",
+          "url": "https://www.eerdmans.com/9780802849601/on-the-reliability-of-the-old-testament/"
+        }
+      ]
+    }
+  ],
+  "cn_markers": [
+    {
+      "marker": "A. Conflation of national & Christian identity",
+      "status": "None detected",
+      "note": "No appeals to America, no national-chosenness language, no 'Christian nation' framing."
+    },
+    {
+      "marker": "B. Militaristic / warrior framing",
+      "status": "Low",
+      "reference": "See Finding f1-2",
+      "note": "'Praise is a weapon… warfare praise… I'm going to dance while the devil drowns' — biblically-inflected spiritual-warfare register, not extended to political opponents."
+    },
+    {
+      "marker": "C. Political opponents as spiritual enemies",
+      "status": "None detected",
+      "note": "Sermon does the opposite — names ethnic/political scapegoating as pathology."
+    },
+    {
+      "marker": "D. Dominionist rhetoric",
+      "status": "None detected"
+    },
+    {
+      "marker": "E. Civil religion (flag, pledge)",
+      "status": "None detected"
+    },
+    {
+      "marker": "F. Jeremiad / 'Christianity under attack'",
+      "status": "None detected",
+      "note": "Closest gesture ('vitriol in this country… things have tightened up') is framed as a general social diagnosis, not a persecution narrative."
+    },
+    {
+      "marker": "G. Ethno-cultural 'real American' undertones",
+      "status": "None detected",
+      "note": "Autobiography foregrounds West Virginia working-class Black origins; no nativist undertones."
+    },
+    {
+      "marker": "H. Strongman / authoritarian affinity",
+      "status": "None detected"
+    }
+  ],
+  "other_axis2_rubrics": [
+    {
+      "rubric": "Anti-Muslim framing",
+      "status": "Not present in this sermon"
+    },
+    {
+      "rubric": "Anti-LGBTQ framing",
+      "status": "Not present in this sermon"
+    },
+    {
+      "rubric": "Misogynistic framing",
+      "status": "Not present in this sermon",
+      "note": "Brief gendered affirmation ('make women of God cry unto God') is complementary rather than subordinating."
+    },
+    {
+      "rubric": "Anti-Jewish framing",
+      "status": "Not present",
+      "note": "Passing 'Jew and the Gentile coming together up under one gospel' language is unification-framed rather than supersessionist; no replacement-theology claims are asserted."
+    },
+    {
+      "rubric": "Prosperity-gospel indicators",
+      "status": "Low / adjacent",
+      "note": "Obedience-→-enviable-job/spouse promise (see f1-1) plus the sermon's closing 'act of sowing is an act of faith' partnership appeal sit in the softer prosperity register rather than the hard-sell 'seed for a miracle' variety."
+    }
+  ],
+  "reach": {
+    "view_count": 207140,
+    "like_count": 5994,
+    "channel": "The Potter’s House of Dallas",
+    "channel_id": "UCjQbTcszB-gRhDByY9WhySw",
+    "channel_follower_count": 2970000,
+    "upload_date": "20260405",
+    "source": "yt-dlp",
+    "congregation": {
+      "weekly_attendance_est": 30000,
+      "source": "Church-reported multi-campus weekly; Outreach Magazine"
+    }
+  }
+}

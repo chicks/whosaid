@@ -1,0 +1,560 @@
+{
+  "meta": {
+    "sermon_title": "Last Days, Last Call: God’s Instructions to the Church",
+    "preacher": "Pastor Greg Locke",
+    "church": "Global Vision Bible Church",
+    "church_location": "Mount Juliet, TN",
+    "series": "",
+    "preaching_text": "",
+    "youtube_id": "kxobm0FnTB8",
+    "upload_date": "2026-02-09",
+    "runtime_seconds": 2789,
+    "transcript_path": "transcripts/20260209_pastor_greg_locke_last_days_last_call_god_s_instructions_t.txt",
+    "gospel_translation": "ESV"
+  },
+  "summary": "Locke walks through 1 Thess 5:14–28 as a 'New Testament laundry list' of commands for believers to flourish in 'evil days' before Christ's return. The actual exhortation is largely benign and occasionally self-corrective (don't retaliate online, don't repay evil for evil, don't chase Washington). But it is framed by hard dispensational pessimism ('it's going to get worse and worse'), leans into Word-of-Faith / positive-confession language ('death and life are in the power of the tongue… I'm not going to speak death over stuff'), and builds a Billy-Graham-rule gender-segregation framework on the KJV mistranslation 'appearance of evil' (the Greek eidos = form/kind, not appearance). Several confidently-delivered historical and textual claims (Noah Webster as polymath 'biologist/mathematician/scientist'; Webster's supposed 'God lives in my body' quote; 'only four times' God says 'this is my will' in the Bible) are asserted without sources and do not hold up to basic checking.",
+  "scorecard": {
+    "axis_1": {
+      "label": "Fidelity to Jesus's Teachings (Red Letters)",
+      "verdict": "Mixed",
+      "severity": "moderate",
+      "headline": "Five flagged items. Strong fidelity on retaliation ethics ('don't render evil for evil'); real tension on eschatology (Matt 24:36), on positive-confession theology, and on a 'Billy Graham rule' built from a mistranslation that runs against Jesus's actual practice with women (John 4)."
+    },
+    "axis_2": {
+      "label": "Identifiable Biases / Harmful Rhetoric",
+      "verdict": "Low-moderate; mostly jeremiad register",
+      "severity": "moderate",
+      "headline": "No targeted attack on an identifiable group in this sermon. Persistent 'Bible vs. culture on a collision course' jeremiad and caricature of protesters ('people are mad at America and don't even know why') carry Christian-nationalism adjacency, but Locke explicitly de-centers partisan politics ('it doesn't matter if a Republican's in there… I'm not looking to the White House'). A 'Billy Graham rule' section casts adult women as presumed-suspect counseling partners."
+    },
+    "axis_3": {
+      "label": "Factual Claims & Evidence Check",
+      "verdict": "Poor evidence hygiene",
+      "severity": "moderate",
+      "headline": "Of 6 empirical claims extracted, 0 are delivered with a source. The Noah Webster biographical frame is significantly overstated; the celebrated 'God lives in my body' quote cannot be independently located; the 'ICE shootings in Minneapolis' reference needs verification; the 'only four times' God states his will claim is presented as certainty but is an interpretive count."
+    },
+    "axis_4": {
+      "label": "Whole-Bible Engagement",
+      "verdict": "Selective; KJV-dependent and dispensationalist",
+      "severity": "moderate",
+      "headline": "On three of the sermon's framing devices — end-times sign-reading, 'appearance of evil' as gender-segregation rule, and positive-confession 'don't speak death over your life' — the pastor draws from one canonical strand while omitting substantial counter-voices: Jesus's 'no one knows the hour' inside the Olivet Discourse, Jesus's pattern of engaging women directly, and the entire biblical lament tradition (Job, Psalms, Lamentations, Jesus in Gethsemane)."
+    }
+  },
+  "tenets_affirmed": [
+    "Strong exposition of 1 Thess 5:15 — 'do not render evil for evil' — applied concretely to online retaliation, with public self-correction ('I've done it from the pulpit and I've had to publicly repent').",
+    "Explicit de-centering of partisan politics: 'It doesn't matter if a Republican's in there. It doesn't matter if a Democrat's in there… I'm not looking to the White House. I'm looking to God's house.' [00:03:30]",
+    "Nehemiah 8:10 ('the joy of the Lord is your strength') and Matt 7:7–8 ('ask and it shall be given') are cited accurately and in context.",
+    "Pastoral care for 'the weak' and 'the feeble-minded' is framed as active support, not exclusion: 'Comfort people that are weak-minded and weak in body.' [00:07:00]",
+    "Repeated instruction that lost people are not the enemy: 'Lost people do not need me punching back at them. They need the love and the patience and the clarity of the gospel.' [00:11:00]"
+  ],
+  "counter_signals": [
+    "Non-partisan political framing, rare for this preacher",
+    "Self-disclosed repentance for previous pulpit retaliation",
+    "Explicit command to love enemies and not return evil for evil",
+    "No named political party, candidate, or ethnic group targeted in this sermon",
+    "No civil-religion (flag, pledge) imagery",
+    "Care for the poor/impoverished explicitly commanded",
+    "Watchman/warning framework tempered by 'that's on them, not you' — no threats of divine retribution directed at opponents"
+  ],
+  "findings": [
+    {
+      "id": "f1-1",
+      "axis": 1,
+      "severity": "moderate",
+      "headline": true,
+      "title": "'Appearance of evil' → Billy Graham rule cast on all adult women",
+      "timestamp_seconds": 2040,
+      "timestamp_display": "00:34:00",
+      "pastor_quote": "I will never ever — shout never — I will never ride in a vehicle with a female by myself who's not my wife… when I'm driving someone somewhere and maybe there's even other people in the car, the female is not going to sit up front… Somebody's like, 'Oh, could you come to my house and counsel me?' Not if your husband ain't home.",
+      "jesus_quotes": [
+        {
+          "citation": "John 4:7–27 (Jesus alone with the Samaritan woman at the well)",
+          "text": "A woman from Samaria came to draw water. Jesus said to her, 'Give me a drink.'… Just then his disciples came back. They marveled that he was talking with a woman, but no one said, 'What do you seek?' or, 'Why are you talking with her?'"
+        },
+        {
+          "citation": "Luke 7:36–50 (a woman of ill repute touches Jesus publicly at dinner)",
+          "text": "And behold, a woman of the city, who was a sinner… began to wet his feet with her tears and wiped them with the hair of her head and kissed his feet and anointed them with the ointment."
+        },
+        {
+          "citation": "Luke 8:1–3 (Jesus travels with women financially supporting him)",
+          "text": "The twelve were with him, and also some women who had been healed of evil spirits and infirmities… who provided for them out of their means."
+        },
+        {
+          "citation": "John 8:10–11 (Jesus alone with the woman caught in adultery)",
+          "text": "Jesus stood up and said to her, 'Woman, where are they? Has no one condemned you?' She said, 'No one, Lord.' And Jesus said, 'Neither do I condemn you; go, and from now on sin no more.'"
+        }
+      ],
+      "why_flagged": "The exegesis rests on a contested KJV rendering. The Greek word in 1 Thess 5:22 is *eidos* (εἶδος), which in this context means 'form' or 'kind' — modern translations (ESV: 'every form of evil'; NIV: 'every kind of evil'; NASB: 'every form of evil'; NRSV: 'every form of evil') read it as 'abstain from every form of evil,' not 'avoid things that merely look bad.' Locke uses the KJV's 'appearance' to build a framework where an adult woman riding in a front seat or being counseled in her own home is a per-se evidence-of-evil risk. Jesus's own practice runs directly opposite — he converses alone with a foreign woman at a well (John 4), allows a 'sinner' woman to touch him in public (Luke 7), travels with women disciples (Luke 8), and is alone with the woman caught in adultery (John 8). The Billy Graham rule is a prudential modern convention; presenting it as a biblical imperative derived from 1 Thess 5:22 is an exegetical overreach that treats women as default-suspect."
+    },
+    {
+      "id": "f1-2",
+      "axis": 1,
+      "severity": "moderate",
+      "headline": false,
+      "title": "Positive confession: 'don't speak death over your life'",
+      "timestamp_seconds": 870,
+      "timestamp_display": "00:14:30",
+      "pastor_quote": "Well, you know, I'm just — I just got a dead-end job and a dead-end marriage and dead-end finances, and I'm always going to be sick. Yep. Because you're speaking that mess over your life. Death and life are in the power of the tongue. I'm not going to walk around, well, I'm just so unhealthy. I'm just so broke. Oh, no. I'm an heir to the kingdom of God… I'm not going to, you know, speak death over stuff.",
+      "jesus_quotes": [
+        {
+          "citation": "Matt 26:38–39 (Jesus naming despair in Gethsemane)",
+          "text": "My soul is very sorrowful, even to death; remain here, and watch with me… My Father, if it be possible, let this cup pass from me."
+        },
+        {
+          "citation": "Matt 27:46 (Jesus citing Ps 22:1 from the cross)",
+          "text": "And about the ninth hour Jesus cried out with a loud voice, saying, 'Eli, Eli, lema sabachthani?' that is, 'My God, my God, why have you forsaken me?'"
+        },
+        {
+          "citation": "John 11:35",
+          "text": "Jesus wept."
+        },
+        {
+          "citation": "Ps 22:1 — cited by Jesus in Matt 27:46 and Mark 15:34 from the cross; one of Jesus's own two recorded scriptural citations while dying",
+          "text": "My God, my God, why have you forsaken me? Why are you so far from saving me, from the words of my groaning?"
+        }
+      ],
+      "why_flagged": "Prov 18:21 ('death and life are in the power of the tongue') is a real wisdom-tradition verse, but the use Locke puts it to here — that honestly naming one's circumstances as bad is a kind of self-curse that blocks blessing — runs against Jesus's own practice. Jesus groaned, wept, confessed sorrow 'even to death,' and cried out the opening line of Ps 22 from the cross. Jesus's own most scriptural moment in suffering was to name abandonment, not to speak prosperity. This is Word-of-Faith / positive-confession adjacency, and it tensions with Jesus's red-letter modeling of lament."
+    },
+    {
+      "id": "f1-3",
+      "axis": 1,
+      "severity": "moderate",
+      "headline": false,
+      "title": "Eschatological certainty: 'it's going to get worse and worse'",
+      "timestamp_seconds": 105,
+      "timestamp_display": "00:01:45",
+      "pastor_quote": "It's not going to get goodter and goodter. It's going to get worse and worse. It's going to get so bad, in fact, that the Bible says it's going to get so evil and wicked that the only way to change things is for Jesus to return… You understand prophetically that it was nearly 4,000 years predicted before his first coming. And so, it's only been 2,000 years. We're closer now than they were when it was written in the New Testament.",
+      "jesus_quotes": [
+        {
+          "citation": "Matt 24:36 (inside the Olivet Discourse Locke is contextually invoking)",
+          "text": "But concerning that day and hour no one knows, not even the angels of heaven, nor the Son, but the Father only."
+        },
+        {
+          "citation": "Acts 1:7 (Jesus immediately before the ascension)",
+          "text": "It is not for you to know times or seasons that the Father has fixed by his own authority."
+        },
+        {
+          "citation": "Matt 13:31–33 (Jesus's own kingdom metaphors — mustard seed, leaven — describe expansion, not collapse)",
+          "text": "The kingdom of heaven is like a grain of mustard seed… it is the smallest of all seeds, but when it has grown it is larger than all the garden plants and becomes a tree… The kingdom of heaven is like leaven that a woman took and hid in three measures of flour, till it was all leavened."
+        },
+        {
+          "citation": "Matt 16:18",
+          "text": "I will build my church, and the gates of hell shall not prevail against it."
+        }
+      ],
+      "why_flagged": "Jesus is notably cagey about eschatological timing — including, pointedly, *inside* the Olivet Discourse that the Thessalonian 'last days' framing draws from (Matt 24:36). The claim 'we're closer now than they were when it was written' is tautologically true but rhetorically does the opposite of what Jesus did with sign-seekers. Jesus's own kingdom metaphors (mustard seed, leaven) describe leavening expansion, not terminal decline. There is a premillennial-dispensational strand that reads decline-until-Christ-returns, but it is one canonical voice, not Jesus's — and Locke presents it as self-evident."
+    },
+    {
+      "id": "f1-4",
+      "axis": 1,
+      "severity": "low",
+      "headline": false,
+      "title": "'Let the unruly remain unruly… ignore them' — tension with Matt 18",
+      "timestamp_seconds": 315,
+      "timestamp_display": "00:05:15",
+      "pastor_quote": "If people want to live wicked and you've warned them, you know what God says to do? Let them live wicked. Ignore them. Let the unruly remain unruly. Let the wicked remain wicked… My grandfather used to say the five greatest ways to get through adversity and criticism… Ignore them. Ignore them. Ignore them. Ignore them. Ignore them.",
+      "jesus_quotes": [
+        {
+          "citation": "Matt 18:15–17 (Jesus's explicit process for unruly brothers)",
+          "text": "If your brother sins against you, go and tell him his fault, between you and him alone. If he listens to you, you have gained your brother. But if he does not listen, take one or two others along with you… If he refuses to listen even to the church, let him be to you as a Gentile and a tax collector."
+        },
+        {
+          "citation": "Luke 15:4 (the shepherd who does not ignore the one who wanders)",
+          "text": "What man of you, having a hundred sheep, if he has lost one of them, does not leave the ninety-nine in the open country, and go after the one that is lost, until he finds it?"
+        },
+        {
+          "citation": "Luke 19:10",
+          "text": "For the Son of Man came to seek and to save the lost."
+        }
+      ],
+      "why_flagged": "1 Thess 5:14 itself says 'admonish the idle' (the underlying Greek *ataktos*), but Jesus's pattern with persistent wrongdoers is not 'ignore' — it is a graduated engagement (Matt 18) and a pursuit (Luke 15, 19). Locke's 'ignore them, ignore them, ignore them, ignore them, ignore them' — delivered five times for emphasis — collapses this into a withdrawal posture that Jesus specifically doesn't model."
+    },
+    {
+      "id": "f1-5",
+      "axis": 1,
+      "severity": "low",
+      "headline": false,
+      "title": "Transactional prayer: 'best business partner you've ever had'",
+      "timestamp_seconds": 1035,
+      "timestamp_display": "00:17:15",
+      "pastor_quote": "If you will consult God first, he'll be the best business partner you've ever had. He'll be the best assistant you've ever had in the ministry.",
+      "jesus_quotes": [
+        {
+          "citation": "Matt 6:33",
+          "text": "But seek first the kingdom of God and his righteousness, and all these things will be added to you."
+        },
+        {
+          "citation": "Matt 6:7–8",
+          "text": "And when you pray, do not heap up empty phrases as the Gentiles do, for they think that they will be heard for their many words. Do not be like them, for your Father knows what you need before you ask him."
+        },
+        {
+          "citation": "Luke 9:23",
+          "text": "If anyone would come after me, let him deny himself and take up his cross daily and follow me."
+        }
+      ],
+      "why_flagged": "Prayer-as-business-partnership language reverses the direction of Jesus's prayer teaching, where the self is denied rather than optimized. Low severity because framed inside a larger call to pray constantly, but the register ('assistant,' 'business partner') is notably instrumental."
+    },
+    {
+      "id": "f2-1",
+      "axis": 2,
+      "severity": "moderate",
+      "headline": true,
+      "title": "Jeremiad: 'the Bible and the culture are on a collision course'",
+      "timestamp_seconds": 1860,
+      "timestamp_display": "00:31:00",
+      "pastor_quote": "I'm not a cultural Christian. I'm a Bible Christian. Because the Bible and the culture are on a collision course. You are one or the other, but you are not both at the same time. We have to hold fast what we know to be good, what we know to be righteous. Even when the world hates it, even when the internet can't stand you, even when people get mad, even when people leave…",
+      "jesus_quotes": [
+        {
+          "citation": "Matt 5:13–16",
+          "text": "You are the salt of the earth… You are the light of the world. A city set on a hill cannot be hidden… let your light shine before others, so that they may see your good works and give glory to your Father who is in heaven."
+        },
+        {
+          "citation": "John 17:15",
+          "text": "I do not ask that you take them out of the world, but that you keep them from the evil one."
+        },
+        {
+          "citation": "Luke 7:34 (Jesus's opponents naming his cultural engagement)",
+          "text": "The Son of Man has come eating and drinking, and you say, 'Look at him! A glutton and a drunkard, a friend of tax collectors and sinners!'"
+        }
+      ],
+      "why_flagged": "Jeremiad / 'Christianity under attack' is a recognized CN rubric (Whitehead & Perry; Du Mez). The 'collision course' frame positions 'the world' and 'the internet' as unified adversaries before laying out examples of social consequences ('even when people leave'). It is lower-intensity than comparable sermons (no named political movement, no call to arms), but the binary — 'you are one or the other, but you are not both' — runs against Jesus's salt-and-light engagement and his prayer in John 17 to *keep disciples in the world*. Severity is moderate because the rhetoric is generic and the pastor elsewhere counsels non-retaliation."
+    },
+    {
+      "id": "f2-2",
+      "axis": 2,
+      "severity": "low",
+      "headline": false,
+      "title": "Caricature of protesters: 'mad and don't even know why'",
+      "timestamp_seconds": 825,
+      "timestamp_display": "00:13:45",
+      "pastor_quote": "If people in America would learn to just rejoice, we wouldn't have all these riots in the streets. People are mad at America and don't even know why people are ticked off and don't even know what they're mad about.",
+      "jesus_quotes": [
+        {
+          "citation": "Matt 7:1–2",
+          "text": "Judge not, that you be not judged. For with the judgment you pronounce you will be judged, and with the measure you use it will be measured to you."
+        },
+        {
+          "citation": "Luke 6:37",
+          "text": "Judge not, and you will not be judged; condemn not, and you will not be condemned; forgive, and you will be forgiven."
+        },
+        {
+          "citation": "Matt 9:36",
+          "text": "When he saw the crowds, he had compassion for them, because they were harassed and helpless, like sheep without a shepherd."
+        }
+      ],
+      "why_flagged": "Sweeping from-the-pulpit psychoanalysis of protesters ('don't even know what they're mad about') is a low-severity but real instance of uncharitable characterization of a broad outgroup. Jesus's instinct on encountering aggrieved crowds was compassion — his explanation of their state was not 'they don't know why they're angry' but 'they are harassed and helpless.'"
+    }
+  ],
+  "axis4_findings": [
+    {
+      "id": "f4-1",
+      "axis": 4,
+      "severity": "moderate",
+      "headline": true,
+      "title": "'Appearance of evil' reads one KJV rendering as the whole Bible on gender boundaries",
+      "topic": "How men and women in ministry should relate to each other",
+      "timestamp_seconds": 2040,
+      "timestamp_display": "00:34:00",
+      "pastor_quote": "I will never ever ride in a vehicle with a female by myself who's not my wife… the female is not going to sit up front… Somebody's like, 'Oh, could you come to my house and counsel me?' Not if your husband ain't home.",
+      "jesus_passages": [
+        {
+          "citation": "John 4:7–27 (alone with the Samaritan woman)",
+          "text": "A woman from Samaria came to draw water. Jesus said to her, 'Give me a drink.'… His disciples came back. They marveled that he was talking with a woman, but no one said… 'Why are you talking with her?'"
+        },
+        {
+          "citation": "Luke 8:1–3 (women traveled with Jesus and the Twelve)",
+          "text": "The twelve were with him, and also some women who had been healed of evil spirits and infirmities: Mary, called Magdalene… and Joanna… and Susanna, and many others, who provided for them out of their means."
+        },
+        {
+          "citation": "John 11:5; 11:28–35 (Jesus's close, private relationship with Mary and Martha)",
+          "text": "Now Jesus loved Martha and her sister and Lazarus… When Mary came to where Jesus was and saw him, she fell at his feet… Jesus wept."
+        },
+        {
+          "citation": "Luke 7:36–50 (a woman publicly touches Jesus at a Pharisee's dinner — he defends her)",
+          "text": "Turning toward the woman he said to Simon, 'Do you see this woman?… she has wet my feet with her tears and wiped them with her hair.'"
+        }
+      ],
+      "wider_bible_passages": [
+        {
+          "citation": "1 Thess 5:22 (ESV — the actual verse Locke is citing, translated from KJV)",
+          "text": "Abstain from every form of evil."
+        },
+        {
+          "citation": "1 Thess 5:22 (NIV)",
+          "text": "Reject every kind of evil."
+        },
+        {
+          "citation": "Rom 16:1–2 (Phoebe as deacon and Paul's patron)",
+          "text": "I commend to you our sister Phoebe, a servant of the church at Cenchreae, that you may welcome her in the Lord in a way worthy of the saints, and help her in whatever she may need from you, for she has been a patron of many and of myself as well."
+        },
+        {
+          "citation": "Rom 16:3–4 (Priscilla named before Aquila as coworker)",
+          "text": "Greet Prisca and Aquila, my fellow workers in Christ Jesus, who risked their necks for my life."
+        },
+        {
+          "citation": "Acts 18:26 (Priscilla teaching Apollos)",
+          "text": "Priscilla and Aquila… took him aside and explained to him the way of God more accurately."
+        }
+      ],
+      "analysis": "The 'appearance of evil' translation is a KJV-era artifact. Greek *eidos* (εἶδος) means 'form,' 'kind,' or 'species' — not 'appearance' in the sense of 'what looks bad to onlookers.' Every major modern translation (ESV, NIV, NASB, NRSV, CSB) renders it 'every form/kind of evil,' turning the verse from 'avoid what looks bad' into 'avoid every *kind* of evil.' This is not a minor nuance — it is the hinge the entire 'Billy Graham rule' section swings on. Read correctly, the verse has nothing to do with gender-segregation optics. Jesus's own practice runs opposite: he is alone with women (John 4, John 8:10), travels in mixed company (Luke 8), has a close personal friendship with two unmarried sisters (John 11), defends a woman touching him in public (Luke 7), and is the first to appear to women after the resurrection (John 20). Paul's own practice commends women as deacons and patrons (Rom 16:1–2), names Priscilla before her husband (Rom 16:3), and has her teaching a male apostle (Acts 18:26). The canonical witness on men and women in ministry is substantially more integrated than the Billy Graham rule — which is a 1948 Modesto prudential convention, not a biblical command — implies. Presenting it as a Bible-derived rule for the laity is cherry-picking on a translation that most current scholarship doesn't support.",
+      "why_flagged": "A full pastoral framework (whom you ride with, where they sit, whom you counsel, under what conditions) is built on one word's KJV rendering. The dominant modern translation tradition reads the verse differently, and Jesus's and Paul's actual practice with women in ministry pulls in the opposite direction."
+    },
+    {
+      "id": "f4-2",
+      "axis": 4,
+      "severity": "moderate",
+      "headline": false,
+      "title": "End-times sign-reading vs. Jesus's 'no one knows'",
+      "topic": "Whether believers should read current events as eschatological signs",
+      "timestamp_seconds": 180,
+      "timestamp_display": "00:03:00",
+      "pastor_quote": "We could talk about AI and we could talk about what's in the news and we could talk about literally Minneapolis and the ice shootings and all of these things and crimes and wars and rumors of wars and what's happening in Iran and addiction at an all-time high… It's going to get worse and worse… We're closer now than they were when it was written in the New Testament.",
+      "jesus_passages": [
+        {
+          "citation": "Matt 24:36 (inside the Olivet Discourse that frames this whole sermon)",
+          "text": "But concerning that day and hour no one knows, not even the angels of heaven, nor the Son, but the Father only."
+        },
+        {
+          "citation": "Matt 16:1–4 (Jesus refuses sign-readers)",
+          "text": "An evil and adulterous generation seeks for a sign, but no sign will be given to it except the sign of Jonah."
+        },
+        {
+          "citation": "Matt 24:37–39 — Jesus's one OT eschatological analogy (Gen 6–9, Noah), framed around UNEXPECTEDNESS rather than signposts",
+          "text": "For as were the days of Noah, so will be the coming of the Son of Man… they were eating and drinking, marrying and giving in marriage, until the day when Noah entered the ark, and they were unaware until the flood came."
+        },
+        {
+          "citation": "Acts 1:7",
+          "text": "It is not for you to know times or seasons that the Father has fixed by his own authority."
+        }
+      ],
+      "wider_bible_passages": [
+        {
+          "citation": "2 Pet 3:8–9",
+          "text": "With the Lord one day is as a thousand years, and a thousand years as one day. The Lord is not slow to fulfill his promise as some count slowness."
+        },
+        {
+          "citation": "1 Thess 5:2 (in the very chapter Locke is preaching)",
+          "text": "For you yourselves are fully aware that the day of the Lord will come like a thief in the night."
+        },
+        {
+          "citation": "Deut 29:29",
+          "text": "The secret things belong to the Lord our God, but the things that are revealed belong to us and to our children forever."
+        },
+        {
+          "citation": "2 Pet 3:3–4 (the scoffers' argument — and Peter's answer is patience, not event-matching)",
+          "text": "Scoffers will come in the last days… saying, 'Where is the promise of his coming?'"
+        }
+      ],
+      "analysis": "Jesus is consistently deflationary about sign-reading. Inside the Olivet Discourse itself — the passage conceptually feeding 1 Thess 4–5 — he says neither angels nor he himself knows the day or hour (Matt 24:36). He refuses the Pharisees' sign request (Matt 16). His one extended OT analogy for the coming (Noah, Gen 6–9) is structured around *unexpectedness* — people were eating, drinking, marrying, unaware. Paul adds 'like a thief in the night' — unpredictable, not signposted — in the chapter Locke is preaching from. The posture of the canon is: the day is coming; you don't know when; live ready. Locke's move is softer than full 'countdown' dispensationalism (he says 'this is not a theological message on when and how'), but the implicit list — AI, Iran, shootings, addiction, weather — invites the congregation to read current events as a worsening timeline. That is the posture Jesus declines.",
+      "why_flagged": "The Olivet tradition that 1 Thess 5 draws from includes Jesus's explicit 'no one knows.' A pastor riffing a current-events sign list in the very chapter that says the day comes 'like a thief' (1 Thess 5:2) is working against the grain of his own preaching text."
+    },
+    {
+      "id": "f4-3",
+      "axis": 4,
+      "severity": "moderate",
+      "headline": false,
+      "title": "Positive confession vs. biblical lament",
+      "topic": "Whether honestly naming suffering is a form of unbelief",
+      "timestamp_seconds": 870,
+      "timestamp_display": "00:14:30",
+      "pastor_quote": "People like, 'Well, you know, I'm just… I just got a dead-end job and a dead-end marriage and dead-end finances, and I'm always going to be sick.' Yep. Because you're speaking that mess over your life. Death and life are in the power of the tongue… I'm not going to, you know, speak death over stuff.",
+      "jesus_passages": [
+        {
+          "citation": "Matt 26:38",
+          "text": "My soul is very sorrowful, even to death; remain here, and watch with me."
+        },
+        {
+          "citation": "John 11:33–35",
+          "text": "When Jesus saw her weeping… he was deeply moved in his spirit and greatly troubled… Jesus wept."
+        },
+        {
+          "citation": "Matt 27:46 (Jesus citing Ps 22:1 from the cross)",
+          "text": "My God, my God, why have you forsaken me?"
+        },
+        {
+          "citation": "Ps 22:1 — cited by Jesus in Matt 27:46 and Mark 15:34 while dying",
+          "text": "My God, my God, why have you forsaken me? Why are you so far from saving me?"
+        }
+      ],
+      "wider_bible_passages": [
+        {
+          "citation": "Job 3:1–3",
+          "text": "Job opened his mouth and cursed the day of his birth… 'Let the day perish on which I was born.'"
+        },
+        {
+          "citation": "Ps 88:18 (a lament psalm with no resolution)",
+          "text": "You have caused my beloved and my friend to shun me; my companions have become darkness."
+        },
+        {
+          "citation": "Lam 3:1–3",
+          "text": "I am the man who has seen affliction under the rod of his wrath; he has driven and brought me into darkness without any light."
+        },
+        {
+          "citation": "2 Cor 12:7–9 (Paul names his 'thorn' and is told grace, not its removal, is the answer)",
+          "text": "There was given me a thorn in the flesh… Three times I pleaded with the Lord about this, that it should leave me. But he said to me, 'My grace is sufficient for you.'"
+        },
+        {
+          "citation": "Rom 8:22–23",
+          "text": "We know that the whole creation has been groaning together in the pains of childbirth until now. And not only the creation, but we ourselves, who have the firstfruits of the Spirit, groan inwardly."
+        }
+      ],
+      "analysis": "Locke's framing — that saying 'I'm sick' or 'I'm broke' *produces* sickness or brokenness via the tongue — is a soft version of Word-of-Faith / positive-confession theology (Kenneth Hagin, Kenneth Copeland). The biblical witness on naming suffering runs powerfully in the opposite direction. Jesus names his grief in Gethsemane, weeps at Lazarus's tomb, and ends his life quoting the opening of the starkest lament psalm. Job gets a full book for his complaint. Ps 88 is a lament with no resolution at all — it is in the canon. Lamentations is named after the genre. Paul names his thorn and receives grace, not removal. Rom 8 says the Spirit-filled *groan*. The canon gives extraordinary room to honest naming of pain, and structures lament as an act of faith, not its opposite. Treating 'I'm broke' as self-curse collapses that entire tradition.",
+      "why_flagged": "One proverb is used to override the lament tradition (Job, Lamentations, 40% of the Psalms), Jesus's own Gethsemane and cross language, and Paul's thorn theology. This is cherry-picking the canon's most triumphal voice against its most honest one."
+    }
+  ],
+  "factual_claims": [
+    {
+      "id": "fc-1",
+      "timestamp_seconds": 1470,
+      "timestamp_display": "00:24:30",
+      "claim": "Noah Webster was 'probably known as one of the greatest scientists, biologists, mathematicians, theologians. This guy was known for everything. I mean, there's not anything he could not do well.'",
+      "evidence_cited_by_pastor": "None. No biography, letter, or source is named.",
+      "verdict": "false",
+      "analysis": "Noah Webster (1758–1843) was primarily a lexicographer (American Dictionary of the English Language, 1828), educator, political essayist, and spelling reformer. He authored 'A Grammatical Institute of the English Language' (the 'Blue-Backed Speller'). He is not classified by historians as a scientist, biologist, or mathematician, and is not historically considered one of the 'greatest' in any of those fields. The sweeping 'there's not anything he could not do well' framing inflates a real historical figure into a polymath he was not, to land a later quote. This is presented as common knowledge ('probably known as'), which is the characteristic move of an unsourced pulpit claim.",
+      "sources": [
+        {
+          "title": "Encyclopedia Britannica — Noah Webster",
+          "url": "https://www.britannica.com/biography/Noah-Webster"
+        },
+        {
+          "title": "Noah Webster House & West Hartford Historical Society — Biography",
+          "url": "https://noahwebsterhouse.org/about-noah-webster/"
+        }
+      ]
+    },
+    {
+      "id": "fc-2",
+      "timestamp_seconds": 1500,
+      "timestamp_display": "00:25:00",
+      "claim": "A reporter asked Webster what the greatest thought that ever coursed through his brilliant mind was, and Webster said, 'God lives in my body.'",
+      "evidence_cited_by_pastor": "None. No date, publication, interviewer name, or primary source is given.",
+      "verdict": "needs verification",
+      "analysis": "This specific quote — 'God lives in my body' attributed to Noah Webster in response to a reporter's question about his greatest thought — does not correspond to any well-documented Webster saying I can confirm. There is a different, more famous attribution to Daniel Webster (the 19th-century senator, no relation) about his 'greatest thought' being 'his accountability to God,' which is itself contested in its original form. It is possible Locke is confusing Noah Webster with Daniel Webster and further paraphrasing a secondary tradition. Verification would require a primary-source interview, letter, or biography quoting Noah Webster in these words. The confidence with which the anecdote is told ('without hesitation, Webster said…') is not matched by any cited source.",
+      "sources": []
+    },
+    {
+      "id": "fc-3",
+      "timestamp_seconds": 930,
+      "timestamp_display": "00:15:30",
+      "claim": "In the four chapters of Philippians, Paul uses the word joy (or 'rejoice') 17 times.",
+      "evidence_cited_by_pastor": "None.",
+      "verdict": "partially supported",
+      "analysis": "The joy word-family (chara, chairō, sunchairō) appears frequently in Philippians — most scholarly counts land at 14–16 occurrences depending on whether cognates and compound forms are counted, and which Greek text is used. '17' is at the upper end of what a generous count (including all cognates) would produce. It is a commonly repeated preacher's statistic and is close enough to be defensible but not precise; Locke presents it as flat fact.",
+      "sources": [
+        {
+          "title": "Blue Letter Bible — Lexical concordance search for χαρά and χαίρω in Philippians",
+          "url": "https://www.blueletterbible.org/lexicon/g5479/kjv/tr/0-1/"
+        }
+      ]
+    },
+    {
+      "id": "fc-4",
+      "timestamp_seconds": 1140,
+      "timestamp_display": "00:19:00",
+      "claim": "'I can only find like four in the whole Bible… four times in the whole Bible where God specifically said, \"This is my will for your life.\"'",
+      "evidence_cited_by_pastor": "None. The one instance named in the sermon is 1 Thess 5:18.",
+      "verdict": "needs verification",
+      "analysis": "This is an interpretive count, not a hard fact. The phrase 'this is the will of God' (τοῦτο θέλημα θεοῦ) in the exact NT sense appears most famously in 1 Thess 4:3 (sanctification/sexual purity), 1 Thess 5:18 (give thanks), and 1 Pet 2:15 (by doing good silence ignorant people) — three passages, not four, in the tightest form. Adding looser phrases (Eph 5:17; Rom 12:2; Heb 10:36) changes the count. The claim's veracity depends entirely on which Greek phrase one counts as fitting. Locke hedges ('like four,' 'correct me if I'm wrong') but then delivers the conclusion as certain: 'just a handful of times, this being one of them.' Verification would require specifying the lexical criterion.",
+      "sources": [
+        {
+          "title": "Blue Letter Bible — θέλημα (thelēma) occurrences in NT",
+          "url": "https://www.blueletterbible.org/lexicon/g2307/kjv/tr/0-1/"
+        }
+      ]
+    },
+    {
+      "id": "fc-5",
+      "timestamp_seconds": 180,
+      "timestamp_display": "00:03:00",
+      "claim": "Current events include 'Minneapolis and the ice shootings' as markers of increasing evil.",
+      "evidence_cited_by_pastor": "None. No specific date, outlet, or incident is cited.",
+      "verdict": "needs verification",
+      "analysis": "The reference to 'Minneapolis and the ice shootings' (likely shorthand for an ICE-related shooting incident or a Minneapolis-area shooting incident prior to the Feb 2026 preach date) cannot be pinned down without a specific date or outlet. The listener is expected to recognize the events. This is not a factual claim of the form 'X is true' — it is a rhetorical enumeration — but listed here because the sermon leans on contemporary events as evidence the 'last days' are intensifying, and specificity matters for that claim. Verification would need: which incident, on what date, and whether any causal pattern beyond coincidence is asserted.",
+      "sources": []
+    },
+    {
+      "id": "fc-6",
+      "timestamp_seconds": 135,
+      "timestamp_display": "00:02:15",
+      "claim": "It was 'nearly 4,000 years predicted before his first coming. And so, it's only been 2,000 years.'",
+      "evidence_cited_by_pastor": "None.",
+      "verdict": "partially supported",
+      "analysis": "The '4,000 years' figure reflects Archbishop James Ussher's 1650 biblical chronology (creation ~4004 BC), which places roughly 4,000 years from creation to Christ. Ussher's chronology is widely cited in young-earth creationist literature but is not accepted by mainstream biblical scholarship or historical-critical OT timelines, and it does not correspond to the actual dates of the earliest messianic prophecies (Gen 3:15 is read as proto-evangelium by Christian tradition, but most datable messianic texts — Isaiah, Micah, etc. — are 8th–6th century BC, not 4,000 BC). So the claim is supported *if* one accepts Ussher-style young-earth chronology and *if* one counts Gen 3:15 as a messianic prediction; it is otherwise significantly overstated.",
+      "sources": [
+        {
+          "title": "Ussher chronology — overview",
+          "url": "https://en.wikipedia.org/wiki/Ussher_chronology"
+        }
+      ]
+    }
+  ],
+  "cn_markers": [
+    {
+      "marker": "A. Conflation of national & Christian identity",
+      "status": "None–Low",
+      "note": "Language about 'America on fire with revival' [00:20:00] is generic and paired with 'America going to hell in a hand basket' — no spiritual-inheritance-of-citizenship claim in this sermon."
+    },
+    {
+      "marker": "B. Militaristic / warrior framing",
+      "status": "Low",
+      "note": "'Plant your feet. Stand your ground. Throw your shoulders back' [00:12:15] — masculine-warrior register but not weaponized toward a named opponent."
+    },
+    {
+      "marker": "C. Political opponents as spiritual enemies",
+      "status": "None detected in this sermon",
+      "note": "Atypical restraint for this preacher — no political party, candidate, or movement named."
+    },
+    {
+      "marker": "D. Dominionist rhetoric",
+      "status": "None detected"
+    },
+    {
+      "marker": "E. Civil religion (flag, pledge)",
+      "status": "None detected"
+    },
+    {
+      "marker": "F. Jeremiad / 'Christianity under attack'",
+      "status": "Present",
+      "reference": "See Finding 2.1 — 'Bible and culture are on a collision course' [00:31:00]"
+    },
+    {
+      "marker": "G. Ethno-cultural 'real American' undertones",
+      "status": "None detected in this sermon"
+    },
+    {
+      "marker": "H. Strongman / authoritarian affinity",
+      "status": "None detected in this sermon"
+    }
+  ],
+  "other_axis2_rubrics": [
+    {
+      "rubric": "Anti-Muslim framing",
+      "status": "Not present in this sermon"
+    },
+    {
+      "rubric": "Anti-LGBTQ framing",
+      "status": "Not present in this sermon"
+    },
+    {
+      "rubric": "Misogynistic framing",
+      "status": "Present — low-moderate",
+      "note": "The Billy Graham rule section treats adult women as default-suspect counseling/ride partners; see Finding 1.1. No explicit teaching on women's roles in marriage or church office is given."
+    },
+    {
+      "rubric": "Anti-Jewish framing",
+      "status": "Not present in this sermon"
+    }
+  ],
+  "reach": {
+    "view_count": 2188,
+    "like_count": 162,
+    "channel": "Pastor Greg Locke",
+    "channel_id": "UCSSF1IV11l3RYo0uq9uFiug",
+    "channel_follower_count": 100000,
+    "upload_date": "20260209",
+    "source": "yt-dlp",
+    "congregation": {
+      "weekly_attendance_est": 3500,
+      "source": "Reporting by The Tennessean and Religion News Service; Locke's broader social-media reach is much larger than in-person attendance"
+    }
+  }
+}

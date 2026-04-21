@@ -1,0 +1,516 @@
+{
+  "meta": {
+    "sermon_title": "Genesis: Retracing Our Spiritual Roots | Dr. Robert Jeffress | April 19, 2026",
+    "preacher": "Dr. Robert Jeffress",
+    "church": "First Baptist Dallas",
+    "church_location": "Dallas, TX",
+    "series": "",
+    "preaching_text": "",
+    "youtube_id": "8zp8i0bMH-0",
+    "upload_date": "2026-04-20",
+    "runtime_seconds": 2461,
+    "transcript_path": "transcripts/20260420_dr_robert_jeffress_genesis_retracing_our_spiritual_roots_dr.txt",
+    "gospel_translation": "ESV"
+  },
+  "summary": "A 41-minute opening sermon introducing a Genesis series. Jeffress spends the bulk of his time (1) defending Mosaic authorship of the Pentateuch against the documentary hypothesis, (2) framing higher criticism as the gateway to loss of faith and deconstruction, (3) presenting a literal/\"normal\" hermeneutic — historical Adam, six-day creation, global flood — as the only defensible reading, and (4) closing with a traditional evangelical gospel invitation. The rhetorical core argues a forced-choice trilemma: Moses wrote Genesis because Jesus said so, and denying this makes Jesus \"mistaken\" or \"a deceiver.\" Secondary moves include dismissing evolution as \"absolute idiocy,\" asserting \"the secular world absolutely hates God,\" and recounting approvingly a talk-radio caller who framed Princess Diana's death as \"the consequences of a sinful life.\" The sermon ends with a faithful, Christ-centered altar call grounded in grace through faith.",
+  "scorecard": {
+    "axis_1": {
+      "label": "Fidelity to Jesus's Teachings (Red Letters)",
+      "verdict": "Mixed — traditional gospel frame; contempt speech and judgment theology in tension with Jesus",
+      "severity": "moderate",
+      "headline": "Three flagged items. An approvingly recounted anecdote framing Princess Diana's death as divine judgment runs directly against Luke 13:1–5 and John 9:1–3. Dismissive rhetoric about evolution and 'the secular world' sits in tension with Jesus's speech ethics."
+    },
+    "axis_2": {
+      "label": "Identifiable Biases / Harmful Rhetoric",
+      "verdict": "Moderate — jeremiad and contempt rhetoric; no identifiable-group attack",
+      "severity": "moderate",
+      "headline": "A sustained 'the world absolutely hates God / evolution is absolute idiocy' jeremiad, and a specific woman's (Princess Diana's) death framed as sin-consequence. No CN, anti-Muslim, anti-LGBTQ, anti-Jewish, or misogynistic sub-rubric is heavy, but the contempt register is preached to a large audience."
+    },
+    "axis_3": {
+      "label": "Factual Claims & Evidence Check",
+      "verdict": "Mixed — one supported, two demonstrably wrong, others uncited",
+      "severity": "moderate",
+      "headline": "Two central factual supports for the authorship argument are wrong: Wellhausen is placed in the 1700s (he lived 1844–1918) and writing is claimed to have been 'invented as early as 7,000 BC' (mainstream dating is c. 3200 BC). A Gallup creation statistic is correctly stated. Other claims are delivered without sources."
+    },
+    "axis_4": {
+      "label": "Whole-Bible Engagement",
+      "verdict": "Narrow — a single interpretive tradition presented as THE biblical view",
+      "severity": "moderate",
+      "headline": "A literal/young-earth hermeneutic is preached as the only Christian option, erasing 1,800 years of allegorical and typological Christian reading (Origen, Augustine, Aquinas). Genesis 6:5 is used as blanket human-nature doctrine without Genesis 1:27's image-of-God counterweight. Jesus's explicit teaching on suffering (Luke 13; John 9) is absent where the sermon most needs it."
+    }
+  },
+  "tenets_affirmed": [
+    "Scripture-centered pulpit: sermon repeatedly opens the text, reads verses aloud in context, and expects hearers to follow along in their own Bibles.",
+    "Christ-centered gospel invitation at close: 'not in my good works, but in what Jesus did for me to save me from my sins' — grace-through-faith articulated clearly and without admixture of works-righteousness or prosperity promises.",
+    "John 3:16 quoted directly and applied pastorally: 'For God so loved the world that he gave his only begotten son that whosoever believes in him will not perish but will have eternal life.'",
+    "Affirms the Jesus–Genesis linkage on marriage (Matt 19:4–6): that God's design is 'one man with one woman for life' — faithful to Jesus's own citation of Gen 1:27 and Gen 2:24."
+  ],
+  "counter_signals": [
+    "No endorsement of a named political candidate or party in this sermon.",
+    "No flag, pledge, or civil-religion imagery.",
+    "No anti-Muslim, anti-Jewish, anti-LGBTQ, or anti-immigrant content in this sermon (Jewish Torah reverence is affirmed positively).",
+    "Traditional gospel altar call — call to personal faith in Christ, not to political action, cultural war, or consumer discipleship.",
+    "Models the practice of disagreeing with a professor in public on substance rather than on identity ('I beg to disagree, sir')."
+  ],
+  "findings": [
+    {
+      "id": "f1-1",
+      "axis": 1,
+      "severity": "moderate",
+      "headline": true,
+      "title": "Princess Diana's death framed as 'consequences of a sinful life'",
+      "timestamp_seconds": 2130,
+      "timestamp_display": "00:35:30",
+      "pastor_quote": "Well, let me get this straight. Here's a woman in a relationship with a man not her husband, having sexual immorality, committing sexual immorality with him, choosing to get into the car with a drunk driver. I mean, could it just be that her situation is the result of her own choices? It's just the consequences of a sinful life. [retold approvingly] … People hate the idea that there's divine judgment when we disobey God. But that's the message of Genesis.",
+      "jesus_quotes": [
+        {
+          "citation": "Luke 13:1–5",
+          "text": "There were some present at that very time who told him about the Galileans whose blood Pilate had mingled with their sacrifices. And he answered them, 'Do you think that these Galileans were worse sinners than all the other Galileans, because they suffered in this way? No, I tell you… Or those eighteen on whom the tower in Siloam fell and killed them: do you think that they were worse offenders than all the others who lived in Jerusalem? No, I tell you.'"
+        },
+        {
+          "citation": "John 9:1–3",
+          "text": "As he passed by, he saw a man blind from birth. And his disciples asked him, 'Rabbi, who sinned, this man or his parents, that he was born blind?' Jesus answered, 'It was not that this man sinned, or his parents, but that the works of God might be displayed in him.'"
+        },
+        {
+          "citation": "Matt 7:1–2",
+          "text": "Judge not, that you be not judged. For with the judgment you pronounce you will be judged, and with the measure you use it will be measured to you."
+        }
+      ],
+      "why_flagged": "The pastor approvingly endorses a talk-radio caller's framing of Princess Diana's death as 'the consequences of a sinful life' and generalizes it into a sermon point about divine judgment. This is precisely the reasoning Jesus explicitly refuses in Luke 13:1–5 and John 9:1–3 — in both passages he is asked whether a specific victim's suffering was proportional judgment for specific sin, and in both he says no. A named, non-consenting, deceased individual is being used from the pulpit as a moral exhibit in a way Jesus's red letters specifically foreclose."
+    },
+    {
+      "id": "f1-2",
+      "axis": 1,
+      "severity": "moderate",
+      "headline": false,
+      "title": "'Absolute idiocy' and 'the secular world absolutely hates God'",
+      "timestamp_seconds": 1860,
+      "timestamp_display": "00:31:00",
+      "pastor_quote": "Did you know the world, the secular world, absolutely hates God? And they hate the things of God. And that explains, by the way, the emphasis on pushing the absolute idiocy of evolution.",
+      "jesus_quotes": [
+        {
+          "citation": "Matt 5:22",
+          "text": "Whoever insults his brother will be liable to the council; and whoever says, 'You fool!' will be liable to the hell of fire."
+        },
+        {
+          "citation": "Matt 5:44–45",
+          "text": "Love your enemies and pray for those who persecute you, so that you may be sons of your Father who is in heaven. For he makes his sun rise on the evil and on the good, and sends rain on the just and on the unjust."
+        },
+        {
+          "citation": "John 4:7–10 (Jesus engaging a religious outsider rather than denouncing her culture)",
+          "text": "A woman from Samaria came to draw water. Jesus said to her, 'Give me a drink.'… Jesus answered her, 'If you knew the gift of God, and who it is that is saying to you, Give me a drink, you would have asked him, and he would have given you living water.'"
+        },
+        {
+          "citation": "Matt 7:1–5",
+          "text": "Why do you see the speck that is in your brother's eye, but do not notice the log that is in your own eye?"
+        }
+      ],
+      "why_flagged": "Two rhetorical moves in one sentence: (a) the flat categorical claim that 'the secular world absolutely hates God' attributes a hostile inner disposition to ~1.7B non-religious humans — a mindreading move Matt 7:1–5 specifically cautions against; and (b) 'absolute idiocy' as a description of the scientific consensus on evolutionary biology falls inside the category Matt 5:22 names (contemptuous speech about others as 'fool'). Jesus's own practice with outsiders — tax collectors, the Samaritan woman, the Roman centurion — is engagement, not categorical denunciation."
+    },
+    {
+      "id": "f1-3",
+      "axis": 1,
+      "severity": "low",
+      "headline": false,
+      "title": "Forced-choice trilemma about Mosaic authorship projects modern inerrancy onto Jesus",
+      "timestamp_seconds": 540,
+      "timestamp_display": "00:09:00",
+      "pastor_quote": "If Moses is not the author, then Jesus was mistaken. That's one option. He didn't have a clue about who wrote the first five books of the Old Testament. Do you believe that? If you don't believe that, then the only other consideration could be, well, he knew it wasn't true, but he said it anyway to accommodate the error of the people of his day. If he accommodated error by speaking falsehood, then he's sinful. He's a deceiver.",
+      "jesus_quotes": [
+        {
+          "citation": "Mark 12:26 (Jesus referring to the Torah as 'the book of Moses' — a Jewish convention, not an authorship affidavit)",
+          "text": "And as for the dead being raised, have you not read in the book of Moses, in the passage about the bush, how God spoke to him, saying, 'I am the God of Abraham…'"
+        },
+        {
+          "citation": "Matt 23:2",
+          "text": "The scribes and the Pharisees sit on Moses' seat."
+        },
+        {
+          "citation": "Matt 22:29",
+          "text": "You are wrong, because you know neither the Scriptures nor the power of God."
+        },
+        {
+          "citation": "Phil 2:7 (Jesus's incarnational self-limitation — non-Gospel but theologically load-bearing)",
+          "text": "[He] emptied himself, by taking the form of a servant, being born in the likeness of men."
+        }
+      ],
+      "why_flagged": "Jesus refers to Torah under the customary Second-Temple shorthand ('Moses said,' 'the book of Moses,' 'Moses' seat') — the same way an observant Jew today speaks of 'the Five Books of Moses' without taking a position on documentary hypothesis. Building a 'Jesus is wrong or a deceiver' binary on top of a rhetorical convention (a) turns Jesus's use of scripture into a claim he was not making, and (b) ties the credibility of the resurrection to a specific 19th-century debate about pentateuchal source criticism that Jesus never addressed. It is a pastoral corner into which the sermon does not need to paint itself."
+    },
+    {
+      "id": "f2-1",
+      "axis": 2,
+      "severity": "moderate",
+      "headline": true,
+      "title": "Jeremiad register: 'the secular world absolutely hates God'",
+      "timestamp_seconds": 1860,
+      "timestamp_display": "00:31:00",
+      "timestamp_end_seconds": 1980,
+      "pastor_quote": "Did you know the world, the secular world, absolutely hates God? And they hate the things of God. And that explains, by the way, the emphasis on pushing the absolute idiocy of evolution… go to a school, go to a college, and you have evolution pushed down your throat that this world is by chance.",
+      "jesus_quotes": [
+        {
+          "citation": "Matt 5:44",
+          "text": "Love your enemies and pray for those who persecute you."
+        }
+      ],
+      "why_flagged": "This is the canonical 'Christianity under attack' jeremiad marker (Whitehead & Perry; Du Mez): an undifferentiated secular 'they' is framed as driven by hatred of God, with public-school and university science education as the mechanism. Delivered from a megachurch pulpit, it authorizes a posture of defensive grievance toward institutions most of the congregation's children attend. Axis-2 moderate rather than severe because no specific identifiable group (by race, religion, orientation, gender) is named as the enemy — the target is diffuse 'secularism.'"
+    },
+    {
+      "id": "f2-2",
+      "axis": 2,
+      "severity": "moderate",
+      "headline": false,
+      "title": "Deconstruction panic framing higher education as a faith threat",
+      "timestamp_seconds": 630,
+      "timestamp_display": "00:10:30",
+      "pastor_quote": "Your children and grandchildren, if they go to school, if they go to college, even a Christian college, they're going to hear this and it's going to blow some of them right out of their saddle when it comes to their Christian faith. They're going to start deconstructing and abandoning the Christian faith.",
+      "jesus_quotes": [
+        {
+          "citation": "Matt 22:29",
+          "text": "You are wrong, because you know neither the Scriptures nor the power of God."
+        },
+        {
+          "citation": "John 8:32",
+          "text": "And you will know the truth, and the truth will set you free."
+        }
+      ],
+      "why_flagged": "'Deconstruction' is used here as a catch-all threat category rather than a phenomenon with content. Empirically, exposure to academic biblical studies (including to Wellhausen) does not uniformly produce apostasy; many of the most confessionally committed evangelical biblical scholars engage the documentary hypothesis directly. Framing college education — including Christian college — as a faith-threat to be inoculated against encourages an epistemic posture Jesus's own habit of public argument with the educated religious class does not model."
+    },
+    {
+      "id": "f2-3",
+      "axis": 2,
+      "severity": "low",
+      "headline": false,
+      "title": "Named deceased woman used as moral exhibit for sexual-sin judgment",
+      "timestamp_seconds": 2100,
+      "timestamp_display": "00:35:00",
+      "pastor_quote": "Here's a woman in a relationship with a man not her husband, having sexual immorality, committing sexual immorality with him, choosing to get into the car with a drunk driver… It's just the consequences of a sinful life.",
+      "jesus_quotes": [
+        {
+          "citation": "John 8:7",
+          "text": "Let him who is without sin among you be the first to throw a stone at her."
+        },
+        {
+          "citation": "Luke 7:47",
+          "text": "Therefore I tell you, her sins, which are many, are forgiven — for she loved much."
+        }
+      ],
+      "why_flagged": "Using a named, deceased woman's alleged sexual behavior as a sermon-level moral exhibit, delivered to a large public audience, approaches but does not fully cross the misogynistic sub-rubric. Flagged LOW because it is a single anecdote rather than a structural framing, but noted because the gendered pattern (woman's body + sexual behavior + divine judgment narrative) is a familiar rhetorical shape worth naming."
+    }
+  ],
+  "axis4_findings": [
+    {
+      "id": "f4-1",
+      "axis": 4,
+      "severity": "moderate",
+      "headline": true,
+      "title": "A single interpretive tradition presented as THE biblical reading of Genesis",
+      "topic": "How Christians have historically read Genesis 1–11",
+      "timestamp_seconds": 1560,
+      "timestamp_display": "00:26:00",
+      "pastor_quote": "The allegorical interpretation… it contradicts how the Bible treats these events. The Bible treats these events as historical realities… A typological interpretation… the problem in only seeing things as a picture of something else is sometimes you forget the importance of the actual event that happened… And then the third way to interpret Genesis, and it's the way I think is most accurate, is the normal interpretation… When the plain sense makes good sense, seek no other sense.",
+      "jesus_passages": [
+        {
+          "citation": "Matt 19:4–6 (Jesus cites Gen 1:27 and Gen 2:24 on marriage — applying, not age-dating)",
+          "text": "He answered, 'Have you not read that he who created them from the beginning made them male and female, and said, Therefore a man shall leave his father and his mother and hold fast to his wife, and the two shall become one flesh?'"
+        },
+        {
+          "citation": "Matt 24:37–39 (Jesus cites Noah — emphasizing UNEXPECTEDNESS, not chronology)",
+          "text": "For as were the days of Noah, so will be the coming of the Son of Man… they were unaware until the flood came and swept them all away, so will be the coming of the Son of Man."
+        },
+        {
+          "citation": "John 3:14 (Jesus uses OT narrative typologically — an interpretive move the sermon's 'plain sense' hermeneutic underweights)",
+          "text": "As Moses lifted up the serpent in the wilderness, so must the Son of Man be lifted up."
+        },
+        {
+          "citation": "Matt 13:13–15 (Jesus affirms that scripture and his own speech operate on multiple layers)",
+          "text": "This is why I speak to them in parables, because seeing they do not see, and hearing they do not hear, nor do they understand."
+        }
+      ],
+      "wider_bible_passages": [
+        {
+          "citation": "Gal 4:24 (Paul — explicitly allegorical reading of Genesis)",
+          "text": "Now this may be interpreted allegorically: these women are two covenants."
+        },
+        {
+          "citation": "1 Cor 10:1–11 (Paul reads the Exodus typologically)",
+          "text": "Now these things took place as examples for us… Now these things happened to them as an example, but they were written down for our instruction."
+        },
+        {
+          "citation": "Heb 7:1–3 (Melchizedek read typologically, without birth or death genealogy)",
+          "text": "He is without father or mother or genealogy, having neither beginning of days nor end of life, but resembling the Son of God."
+        },
+        {
+          "citation": "Augustine, De Genesi ad litteram (5th c.) — a 'literal' reading that explicitly rejects six 24-hour days",
+          "text": "[Augustine argues the days of creation are not ordinary solar days and that Christians who insist on a wooden reading against natural philosophy bring scripture into disrepute — a paraphrase, provided as historical context, not biblical quotation.]"
+        },
+        {
+          "citation": "2 Pet 3:8",
+          "text": "But do not overlook this one fact, beloved, that with the Lord one day is as a thousand years, and a thousand years as one day."
+        }
+      ],
+      "analysis": "Christian interpretation of Genesis has never been a single tradition. Origen (3rd c.) read the garden narrative allegorically. Augustine's De Genesi ad litteram — a work specifically committed to 'literal' reading — explicitly argued the six days are not ordinary days. Aquinas treated the creation account with multiple legitimate senses. Paul himself, in Galatians 4, says of a Genesis narrative, 'this may be interpreted allegorically.' Hebrews reads Melchizedek typologically against his plain biographical description. Jesus's own moves on Genesis in Matt 19 are ethical-applicational (on marriage) and in Matt 24 are analogical (on unexpectedness) — he never makes age-of-earth or flood-geography claims. Jeffress presents the 20th-century young-earth hermeneutic as the only alternative to liberal mythologization, collapsing a spectrum the canon and the tradition both recognize. The 'plain sense / good sense' rule is itself a choice about which sense looks plain — a choice Paul, Hebrews, and Augustine did not share on Genesis 1–3.",
+      "why_flagged": "The sermon presents its own interpretive choice as the biblical default, and the alternatives as sub-Christian. The canonical witness — including Paul's own allegorical reading in Galatians 4 and typological reading in 1 Corinthians 10 — is more plural than the sermon acknowledges."
+    },
+    {
+      "id": "f4-2",
+      "axis": 4,
+      "severity": "moderate",
+      "headline": false,
+      "title": "Suffering-as-judgment theology preached without the canonical counter-voices",
+      "topic": "How Christians should interpret personal suffering and public tragedy",
+      "timestamp_seconds": 2130,
+      "timestamp_display": "00:35:30",
+      "pastor_quote": "It's just the consequences of a sinful life… People hate the idea that there's divine judgment when we disobey God. But that's the message of Genesis. God said, 'In the day that you sin, you shall surely die.' And because of our sin, we are facing a judgment much more fiery than an automobile crash.",
+      "jesus_passages": [
+        {
+          "citation": "Luke 13:1–5 (Jesus directly refuses the 'they suffered because they sinned worse' framing)",
+          "text": "Do you think that these Galileans were worse sinners than all the other Galileans, because they suffered in this way? No, I tell you; but unless you repent, you will all likewise perish."
+        },
+        {
+          "citation": "John 9:1–3",
+          "text": "'Rabbi, who sinned, this man or his parents, that he was born blind?' Jesus answered, 'It was not that this man sinned, or his parents, but that the works of God might be displayed in him.'"
+        },
+        {
+          "citation": "Matt 5:45",
+          "text": "For he makes his sun rise on the evil and on the good, and sends rain on the just and on the unjust."
+        }
+      ],
+      "wider_bible_passages": [
+        {
+          "citation": "Job 42:7 (God rebukes the friends' retribution theology by name)",
+          "text": "My anger burns against you and against your two friends, for you have not spoken of me what is right, as my servant Job has."
+        },
+        {
+          "citation": "Eccl 9:11",
+          "text": "The race is not to the swift, nor the battle to the strong, nor bread to the wise, nor riches to the intelligent, nor favor to those with knowledge, but time and chance happen to them all."
+        },
+        {
+          "citation": "Ps 73:3–5 (the wicked prosper — the cleanest canonical refutation of mechanical retribution)",
+          "text": "For I was envious of the arrogant when I saw the prosperity of the wicked. For they have no pangs until death; their bodies are fat and sleek. They are not in trouble as others are; they are not stricken like the rest of mankind."
+        },
+        {
+          "citation": "Rom 2:4",
+          "text": "Do you presume on the riches of his kindness and forbearance and patience, not knowing that God's kindness is meant to lead you to repentance?"
+        }
+      ],
+      "analysis": "The canon contains both Genesis-style 'sin brings consequences' framing AND an extensive counter-witness. The book of Job is a 42-chapter argument specifically against the theology that visible suffering is a reliable read of invisible sin, and God at the end explicitly rebukes the friends who argue what Jeffress is arguing ('you have not spoken of me what is right'). Ecclesiastes denies the retribution mapping more cheerfully. Psalm 73 records the wicked prospering. Jesus's two most direct engagements with the question — Luke 13 (Pilate's victims and the tower of Siloam) and John 9 (the man born blind) — both refuse the framing. A sermon deploying 'consequences of a sinful life' as a read on a specific public death without engaging any of this material is drawing from a minority canonical voice while ignoring the dominant one.",
+      "why_flagged": "Jesus's two most direct Gospel statements on the relationship between suffering and specific sin both refuse the sermon's framing. The book of Job exists to refute it. Neither is engaged."
+    },
+    {
+      "id": "f4-3",
+      "axis": 4,
+      "severity": "low",
+      "headline": false,
+      "title": "Genesis 6:5 as blanket human-nature doctrine without Genesis 1:27",
+      "topic": "The biblical doctrine of the human person",
+      "timestamp_seconds": 2040,
+      "timestamp_display": "00:34:00",
+      "pastor_quote": "You know, we talk about the goodness of man. How everybody has a spark of divinity in them. There's some good in every person. That's not what God says. Here's Genesis 6:5, God's diagnosis of every human being. Every intent of the thoughts of our hearts are only evil continually… So much for the basic goodness of mankind.",
+      "jesus_passages": [
+        {
+          "citation": "Mark 10:14–15 (children held up as a positive paradigm of the kingdom)",
+          "text": "Let the children come to me; do not hinder them, for to such belongs the kingdom of God. Truly, I say to you, whoever does not receive the kingdom of God like a child shall not enter it."
+        },
+        {
+          "citation": "Luke 10:30–37 (the Samaritan is genuinely praised for doing good)",
+          "text": "'Which of these three, do you think, proved to be a neighbor to the man who fell among the robbers?' He said, 'The one who showed him mercy.' And Jesus said to him, 'You go, and do likewise.'"
+        },
+        {
+          "citation": "Matt 7:11",
+          "text": "If you then, who are evil, know how to give good gifts to your children, how much more will your Father who is in heaven give good things to those who ask him!"
+        },
+        {
+          "citation": "Matt 8:10 (Jesus marvels at genuine faith in a Roman occupier)",
+          "text": "When Jesus heard this, he marveled and said to those who followed him, 'Truly, I tell you, with no one in Israel have I found such faith.'"
+        }
+      ],
+      "wider_bible_passages": [
+        {
+          "citation": "Gen 1:27 (the doctrinal counterweight to Gen 6:5, from the same book)",
+          "text": "So God created man in his own image, in the image of God he created him; male and female he created them."
+        },
+        {
+          "citation": "Ps 8:5",
+          "text": "Yet you have made him a little lower than the heavenly beings and crowned him with glory and honor."
+        },
+        {
+          "citation": "Jas 3:9",
+          "text": "With it we bless our Lord and Father, and with it we curse people who are made in the likeness of God."
+        },
+        {
+          "citation": "Rom 2:14–15 (Paul — even Gentiles 'who do not have the law' can act rightly by conscience)",
+          "text": "For when Gentiles, who do not have the law, by nature do what the law requires… they show that the work of the law is written on their hearts."
+        }
+      ],
+      "analysis": "Genesis 6:5 is a description of the antediluvian generation that occasioned the flood, not a timeless anthropology of 'every human being.' The same book opens with Gen 1:27 — humans as image-bearers — which the New Testament itself (Jas 3:9) invokes as the reason speech-ethics matter. Jesus repeatedly treats children, Samaritans, centurions, and 'those who are evil' as capable of genuine goodness. The Reformation doctrine of total depravity is a more careful claim than 'every thought only evil continually' — it is about the reach of sin into every faculty, not about the impossibility of any good act. Jeffress moves from a single verse to a global anthropological claim without the image-of-God counterweight from the same chapter-cluster.",
+      "why_flagged": "A contested theological claim ('so much for the basic goodness of mankind') is grounded in a single pre-flood narrative verse while Gen 1:27, Ps 8, Jas 3:9, and Jesus's actual engagement with 'evil' people are not cited."
+    }
+  ],
+  "factual_claims": [
+    {
+      "id": "fc-1",
+      "timestamp_seconds": 570,
+      "timestamp_display": "00:09:30",
+      "claim": "Julius Wellhausen, the founder of higher criticism, lived in the 1700s (the 18th century).",
+      "evidence_cited_by_pastor": "None. Delivered as a specific historical attribution, repeated twice for emphasis ('He lived in the 1700s in the 18th century').",
+      "verdict": "false",
+      "analysis": "Julius Wellhausen lived 1844–1918 — the 19th and early 20th century, not the 1700s. His landmark work Prolegomena zur Geschichte Israels was published in 1878. The documentary hypothesis does have 18th-century precursors (Jean Astruc, 1753; Eichhorn), but those are not Wellhausen, and Wellhausen's role in the story the sermon is telling is precisely his 19th-century synthesis (the JEDP theory). The 100-year error undermines the sermon's own timeline argument that 'for 1800 years' Mosaic authorship was accepted until Wellhausen — if Wellhausen lived when Jeffress says, the number should be 1700 years.",
+      "sources": [
+        {
+          "title": "Encyclopaedia Britannica — Julius Wellhausen",
+          "url": "https://www.britannica.com/biography/Julius-Wellhausen"
+        },
+        {
+          "title": "Stanford Encyclopedia of Philosophy — Biblical Criticism",
+          "url": "https://plato.stanford.edu/entries/biblical-criticism/"
+        }
+      ]
+    },
+    {
+      "id": "fc-2",
+      "timestamp_seconds": 930,
+      "timestamp_display": "00:15:30",
+      "claim": "Archaeology has revealed that writing was invented as early as 7,000 BC.",
+      "evidence_cited_by_pastor": "'Tablets found in Egypt and Mesopotamia.' No specific site, tablet, or scholarly citation.",
+      "verdict": "misleading",
+      "analysis": "Mainstream archaeology dates the earliest true writing systems to c. 3400–3200 BC: proto-cuneiform from Uruk (Mesopotamia) and early Egyptian hieroglyphs appearing at roughly the same time. Claims of writing at 7,000 BC are based on much more contested 'proto-writing' artifacts — Jiahu symbols (c. 6600 BC, China), Vinča symbols (c. 5300 BC, Balkans), Tărtăria tablets — which are symbolic notation but are not accepted as true writing systems by the mainstream. The sermon's own point — that writing existed by Moses's 15th-century-BC era — is uncontroversially correct and does not require the 7,000 BC claim. Pushing writing to 7,000 BC overstates the archaeological record by ~4,000 years. 'Misleading' rather than 'false' because 'proto-writing' advocates do exist, but the sermon does not distinguish proto-writing from writing proper.",
+      "sources": [
+        {
+          "title": "British Museum — Cuneiform: the world's oldest writing",
+          "url": "https://www.britishmuseum.org/blog/cuneiform-worlds-oldest-writing-system"
+        },
+        {
+          "title": "Encyclopaedia Britannica — Writing: History",
+          "url": "https://www.britannica.com/topic/writing"
+        }
+      ]
+    },
+    {
+      "id": "fc-3",
+      "timestamp_seconds": 1920,
+      "timestamp_display": "00:32:00",
+      "claim": "A Gallup poll in 2024 showed that 71% of Americans believe God played a role in creation; only 22% believe there is no God who had no role in creation.",
+      "evidence_cited_by_pastor": "Attributed to Gallup 2024.",
+      "verdict": "supported",
+      "analysis": "Gallup's May 2024 update to its long-running human-origins question (asked periodically since 1982) found: 37% strict creationism ('God created human beings pretty much in their present form within the last 10,000 years'), 34% God-guided evolution, and 24% naturalistic evolution (humans developed without God's involvement). 37 + 34 = 71%, which matches the sermon's first figure exactly. The '22%' for no-God involvement is close to but slightly below Gallup's 24% figure — minor rounding/misremembering. The headline claim is well-supported.",
+      "sources": [
+        {
+          "title": "Gallup — Majority in U.S. Still Believe God Had a Role in Creating Humans (2024)",
+          "url": "https://news.gallup.com/poll/647594/majority-believe-god-role-creating-humans.aspx"
+        }
+      ]
+    },
+    {
+      "id": "fc-4",
+      "timestamp_seconds": 1800,
+      "timestamp_display": "00:30:00",
+      "claim": "There are 200 allusions or quotations from Genesis in the New Testament, and 100 of those come from Genesis 1–11.",
+      "evidence_cited_by_pastor": "None. Asserted as a round statistic without source.",
+      "verdict": "needs verification",
+      "analysis": "Counts of OT quotations and allusions in the NT vary widely by methodology. The UBS Greek NT and the Nestle-Aland index list explicit Genesis citations; broader 'allusion' counts (e.g., the 1,000+ cross-references in tools like the Treasury of Scripture Knowledge) include weaker parallels. A round figure of '200 allusions/quotations, 100 from Genesis 1–11' is in the ballpark of some evangelical handbooks but is not a verified scholarly consensus figure. Independent verification would require checking a standard reference (e.g., NA28 marginal apparatus; G.K. Beale and D.A. Carson's Commentary on the NT Use of the OT; UBS index).",
+      "sources": []
+    },
+    {
+      "id": "fc-5",
+      "timestamp_seconds": 1830,
+      "timestamp_display": "00:30:30",
+      "claim": "Revelation quotes the book of Genesis more than the book of Daniel.",
+      "evidence_cited_by_pastor": "None. Delivered as an aside.",
+      "verdict": "needs verification",
+      "analysis": "Mainstream scholarship on Revelation's OT background (G.K. Beale; Steve Moyise; Jan Fekkes) typically highlights Ezekiel, Daniel, Isaiah, Psalms, and Exodus as Revelation's primary OT sources — with Daniel especially prominent (e.g., the Son of Man imagery from Dan 7; the beast sequence). Genesis material is present (tree of life, serpent, Babel-like imagery of Babylon) but is not usually identified as the dominant source. The claim that Revelation cites Genesis more than Daniel cuts against the prevailing scholarly view. Verification would require a side-by-side count from a standard reference such as NA28's marginal apparatus or Beale's NIGTC Revelation commentary.",
+      "sources": []
+    },
+    {
+      "id": "fc-6",
+      "timestamp_seconds": 1020,
+      "timestamp_display": "00:17:00",
+      "claim": "Archaeological discoveries show that practices in the second millennium BC (Moses's era) — double portion to the oldest son, oral wills, sale of birthright — had disappeared and were unknown in the first millennium BC (c. 450 BC, supposed era of unknown JEDP authors), proving Genesis was written in the 2nd millennium.",
+      "evidence_cited_by_pastor": "Attributed to Charles Ryrie's writings.",
+      "verdict": "contested",
+      "analysis": "This is a conservative evangelical argument drawn from mid-20th-century scholarship on the Nuzi tablets (E.A. Speiser, Cyrus Gordon) that saw patriarchal customs in Genesis as mirrored in 2nd-millennium-BC Hurrian legal texts. That scholarship has been significantly revised since the 1970s: Thomas L. Thompson (The Historicity of the Patriarchal Narratives, 1974) and John Van Seters (Abraham in History and Tradition, 1975) argued that most of the proposed 'exclusively 2nd-millennium' customs have 1st-millennium parallels too, and the field has largely moved away from the Nuzi-based dating argument. The claim as delivered reflects the older, minority-now view without noting the 50 years of subsequent scholarship. Verification would require comparing Speiser's parallels against Thompson/Van Seters/Finkelstein's critiques.",
+      "sources": [
+        {
+          "title": "Oxford Research Encyclopedia — Patriarchal Narratives in Genesis",
+          "url": "https://oxfordre.com/religion/display/10.1093/acrefore/9780199340378.001.0001/acrefore-9780199340378-e-253"
+        }
+      ]
+    }
+  ],
+  "cn_markers": [
+    {
+      "marker": "A. Conflation of national & Christian identity",
+      "status": "None detected",
+      "note": "Sermon does not reference America, American identity, or national providence."
+    },
+    {
+      "marker": "B. Militaristic / warrior framing",
+      "status": "None detected"
+    },
+    {
+      "marker": "C. Political opponents as spiritual enemies",
+      "status": "None detected",
+      "note": "No political party, movement, or candidate referenced; the 'they' is generic secularism, not a political faction."
+    },
+    {
+      "marker": "D. Dominionist rhetoric",
+      "status": "None detected"
+    },
+    {
+      "marker": "E. Civil religion (flag, pledge)",
+      "status": "None detected"
+    },
+    {
+      "marker": "F. Jeremiad / 'Christianity under attack'",
+      "status": "Present",
+      "reference": "See Finding 2.1 — 'the secular world absolutely hates God'; evolution 'pushed down your throat'; deconstruction panic."
+    },
+    {
+      "marker": "G. Ethno-cultural 'real American' undertones",
+      "status": "None detected"
+    },
+    {
+      "marker": "H. Strongman / authoritarian affinity",
+      "status": "None detected",
+      "note": "Jeffress is publicly associated with strongman-affinity politics in other contexts, but this sermon does not include such content."
+    }
+  ],
+  "other_axis2_rubrics": [
+    {
+      "rubric": "Anti-Muslim framing",
+      "status": "Not present in this sermon"
+    },
+    {
+      "rubric": "Anti-LGBTQ framing",
+      "status": "Not present",
+      "note": "Brief deacon-qualification example mentions divorce/polygamy without attack on LGBTQ persons."
+    },
+    {
+      "rubric": "Misogynistic framing",
+      "status": "Low",
+      "note": "See Finding 2.3 — Princess Diana anecdote uses a specific deceased woman's alleged sexual behavior as moral exhibit; single instance, not structural."
+    },
+    {
+      "rubric": "Anti-Jewish framing",
+      "status": "Not present",
+      "note": "Jewish Second-Temple practice and Torah reverence are affirmed; 'the Jews saw these five books as one' is descriptive and respectful."
+    },
+    {
+      "rubric": "Anti-intellectual / anti-science framing",
+      "status": "Present",
+      "note": "'Absolute idiocy of evolution'; framing of college and 'even Christian college' as faith threats; deconstruction panic."
+    }
+  ],
+  "reach": {
+    "view_count": 153,
+    "like_count": 13,
+    "channel": "First Baptist Dallas",
+    "channel_id": "UCoifM1VPrNtxh5DCIANaxJA",
+    "channel_follower_count": 206000,
+    "upload_date": "20260420",
+    "source": "yt-dlp",
+    "congregation": {
+      "weekly_attendance_est": 16000,
+      "source": "Hartford Institute megachurch database"
+    }
+  }
+}

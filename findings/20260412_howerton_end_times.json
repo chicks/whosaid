@@ -1,0 +1,676 @@
+{
+  "meta": {
+    "sermon_title": "When Will Jesus Return? 4 Predictions About the End Times",
+    "preacher": "Pastor Josh Howerton",
+    "church": "Lakepointe Church",
+    "church_location": "Rockwall, TX",
+    "series": "Investigating Jesus",
+    "preaching_text": "Luke 21:5–28 and Matthew 24 (the Olivet Discourse)",
+    "youtube_id": "7CLwe3JW9tU",
+    "upload_date": "2026-04-12",
+    "runtime_seconds": 3420,
+    "transcript_path": "transcripts/20260412_howerton_end_times.txt",
+    "gospel_translation": "ESV"
+  },
+  "summary": "Howerton frames history as three ages (Judaism → Time of the Gentiles → Return of Christ), argues the first age ended with the 70 AD destruction of the Temple, and spends the back half of the sermon walking through four \"signs\" from Matthew 24 — culminating in a 5-minute argument identifying Islam, and specifically the Mahdi of Islamic eschatology, as the biblical Antichrist. The sermon closes with an altar-style call to enroll in Lakepointe's 10-week \"Rooted\" discipleship program.",
+  "scorecard": {
+    "axis_1": {
+      "label": "Fidelity to Jesus's Teachings (Red Letters)",
+      "verdict": "Mixed",
+      "severity": "moderate",
+      "headline": "Six flagged items. Anti-Muslim eschatology inverts Jesus's pattern with religious outsiders (Luke 9:55; Luke 10:33). Matthew 25 — Jesus's own answer to the sermon's own question — is not referenced once."
+    },
+    "axis_2": {
+      "label": "Identifiable Biases / Harmful Rhetoric",
+      "verdict": "Severe anti-Muslim eschatology",
+      "severity": "severe",
+      "headline": "A 5-minute structured argument identifying Islam as the religion of the Antichrist, preached to ~53,000 weekly attendees. Plus three Christian nationalism markers (national identity, political opponents as spiritual enemies, persecution jeremiad)."
+    },
+    "axis_3": {
+      "label": "Factual Claims & Evidence Check",
+      "verdict": "Poor evidence hygiene",
+      "severity": "moderate",
+      "headline": "Of 4 fact-checked claims, 0 are fully supported. One is contested under the pastor's implied methodology, one is partially supported but overstated, one is misleading (conflates affiliation with tolerance), and one is unsupported (political voting warning with no specified referent). No claim was delivered with a cited source."
+    },
+    "axis_4": {
+      "label": "Whole-Bible Engagement",
+      "verdict": "Selective; minority readings favored",
+      "severity": "severe",
+      "headline": "On the sermon's most significant themes — enemies, political engagement, national identity, persecution, end-times sign-reading — the pastor consistently draws from minority biblical voices while omitting the dominant canonical counter-witness. Jesus's Gospel position and the wider Bible converge *against* the pastor's framing on all five themes analyzed."
+    }
+  },
+  "tenets_affirmed": [
+    "Olivet Discourse exposition (Luke 21, Matt 24) is textually grounded and historically framed (70 AD siege under Titus).",
+    "Great Commission explanation is linguistically accurate — ta ethne = “all nations / all peoples” (Matt 28:19).",
+    "Multiple direct Jesus quotations are rendered faithfully: “my words will never pass away” (Matt 24:35), “do not be afraid / let not your hearts be troubled” (John 14:1, 27), “you do not know the hour” (Matt 24:44)."
+  ],
+  "counter_signals": [
+    "Explicit crowd-metric self-critique: “Jesus did not say go into all the world and make big crowds. He said go into all the world and make disciples.”",
+    "Multi-ethnic congregational affirmation",
+    "No named-party political endorsement",
+    "No flag or civil-religion imagery",
+    "Repeated call to test the preacher against scripture",
+    "$8M/year in missions giving"
+  ],
+  "findings": [
+    {
+      "id": "f1-1",
+      "axis": 1,
+      "severity": "moderate",
+      "headline": false,
+      "title": "Political voting guidance from the pulpit",
+      "timestamp_seconds": 2640,
+      "timestamp_display": "00:44:00",
+      "pastor_quote": "You be careful how you vote. Some of you are voting for things for movements that when they get in power, they consistently when they get in power criminalize aspects of faithful Christianity.",
+      "jesus_quotes": [
+        {
+          "citation": "Mark 12:17",
+          "text": "Render to Caesar the things that are Caesar's, and to God the things that are God's."
+        },
+        {
+          "citation": "John 6:15",
+          "text": "Perceiving then that they were about to come and take him by force to make him king, Jesus withdrew again to the mountain by himself."
+        },
+        {
+          "citation": "John 18:36",
+          "text": "My kingdom is not of this world. If my kingdom were of this world, my servants would have been fighting."
+        }
+      ],
+      "why_flagged": "When directly presented with opportunities to align his followers with a political program — even a sympathetic one — Jesus deflected, withdrew, or explicitly disclaimed it. Directing congregational voting behavior is a move Jesus specifically refused."
+    },
+    {
+      "id": "f1-2",
+      "axis": 1,
+      "severity": "low",
+      "headline": false,
+      "title": "Joke trivializing terrorism",
+      "timestamp_seconds": 1530,
+      "timestamp_display": "00:25:30",
+      "pastor_quote": "Do you guys know how you can tell the difference between a redhead and a terrorist? You can negotiate with a terrorist… It's a joke. That's a joke.",
+      "jesus_quotes": [
+        {
+          "citation": "Matt 12:36",
+          "text": "I tell you, on the day of judgment people will give account for every careless word they speak."
+        },
+        {
+          "citation": "Matt 5:22",
+          "text": "Whoever insults his brother will be liable to the council; and whoever says, ‘You fool!’ will be liable to the hell of fire."
+        },
+        {
+          "citation": "Matt 5:44",
+          "text": "Love your enemies and pray for those who persecute you."
+        }
+      ],
+      "why_flagged": "The joke uses victims of terrorism (and the category “terrorist”) as a punchline. Jesus's red-letter speech ethics are exacting — careless words are judged; contemptuous speech is penalized; enemies (and therefore their victims) are to be loved and prayed for."
+    },
+    {
+      "id": "f1-3",
+      "axis": 1,
+      "severity": "moderate",
+      "headline": false,
+      "title": "American birth framed as providential spiritual inheritance",
+      "timestamp_seconds": 2550,
+      "timestamp_display": "00:42:30",
+      "pastor_quote": "You need to bless God and thank him every day that you were born in the United States of America. You need to bless God for that because… you have been the recipient of an undeserved grace from heaven handed down to you. That's a spiritual inheritance hard-earned that people in other countries are not experiencing and have not experienced for centuries.",
+      "jesus_quotes": [
+        {
+          "citation": "Luke 4:24–27",
+          "text": "Truly, I say to you, no prophet is acceptable in his hometown. But in truth, I tell you, there were many widows in Israel in the days of Elijah… and Elijah was sent to none of them but only to Zarephath, in the land of Sidon, to a woman who was a widow. And there were many lepers in Israel in the time of the prophet Elisha, and none of them was cleansed, but only Naaman the Syrian."
+        },
+        {
+          "citation": "Matt 8:10–12",
+          "text": "Truly, I tell you, with no one in Israel have I found such faith. I tell you, many will come from east and west and recline at table with Abraham, Isaac, and Jacob in the kingdom of heaven, while the sons of the kingdom will be thrown into the outer darkness."
+        },
+        {
+          "citation": "John 4:21–23",
+          "text": "The hour is coming when neither on this mountain nor in Jerusalem will you worship the Father… the true worshipers will worship the Father in spirit and truth."
+        }
+      ],
+      "why_flagged": "Jesus systematically decoupled God's favor from national birth — repeatedly commending non-Israelite faith specifically to shame any assumption of national spiritual inheritance. Framing American birth as an ‘undeserved grace from heaven’ and a ‘spiritual inheritance’ is precisely the assumption Jesus's teaching dismantles."
+    },
+    {
+      "id": "f1-4",
+      "axis": 1,
+      "severity": "severe",
+      "headline": true,
+      "title": "Islam identified as the religion of the Antichrist",
+      "timestamp_seconds": 2850,
+      "timestamp_display": "00:47:30",
+      "timestamp_end_seconds": 3120,
+      "pastor_quote": "The final boss is not going to be in the end, it's not going to be secularism. It will… be another religion that in that religion, they will kill Christians… There is only one world religion whose religion specifically prescribes beheading as the way to quote kill infidels. The Quran specifically calls it striking necks… The Islamic Mahdi is the biblical Antichrist.",
+      "jesus_quotes": [
+        {
+          "citation": "Luke 9:52–55 (when the disciples proposed identifying a religious outgroup for divine judgment)",
+          "text": "And he sent messengers ahead of him, who went and entered a village of the Samaritans, to make preparations for him. But the people did not receive him… And when his disciples James and John saw it, they said, ‘Lord, do you want us to tell fire to come down from heaven and consume them?’ But he turned and rebuked them."
+        },
+        {
+          "citation": "Luke 10:33–37 (the Good Samaritan)",
+          "text": "But a Samaritan, as he journeyed, came to where he was, and when he saw him, he had compassion… ‘Which of these three, do you think, proved to be a neighbor to the man who fell among the robbers?’ He said, ‘The one who showed him mercy.’ And Jesus said to him, ‘You go, and do likewise.’"
+        },
+        {
+          "citation": "John 4:7–9 (engaging a religious outsider)",
+          "text": "A woman from Samaria came to draw water. Jesus said to her, ‘Give me a drink.’… (For Jews have no dealings with Samaritans.)"
+        },
+        {
+          "citation": "Matt 5:44–45",
+          "text": "Love your enemies and pray for those who persecute you, so that you may be sons of your Father who is in heaven. For he makes his sun rise on the evil and on the good, and sends rain on the just and on the unjust."
+        },
+        {
+          "citation": "Matt 7:1–2",
+          "text": "Judge not, that you be not judged. For with the judgment you pronounce you will be judged, and with the measure you use it will be measured to you."
+        }
+      ],
+      "why_flagged": "Every recorded interaction Jesus has with a contemporary religious-outsider group in the Gospels runs in the opposite direction of this move. The most direct parallel — the disciples proposing to target an outgroup (Samaritans) for eschatological judgment — ends with Jesus rebuking them by name. Identifying a specific living religion (~1.8B people) as the religion of the Antichrist, with the confidence of exegesis, is the theological inverse of what Jesus modeled and taught. Secondary factual issue: the Quran does contain the phrase darb al-riqab (‘strike necks,’ Sūra 8:12, 47:4), but characterizing an entire 1,400-year tradition by a single militarily-contextual phrase would be indefensible if made of Christianity using e.g. Luke 19:27 or the imprecatory Psalms.",
+      "severity_context": {
+        "reach": "~53,000 weekly in-person attendees across six campuses; top-charting podcast on Apple & Spotify; YouTube distribution",
+        "specificity": "Not hedged as speculation — ‘The Islamic Mahdi is the biblical Antichrist’ asserted directly",
+        "provenance": "Draws on Joel Richardson's The Islamic Antichrist (2009), a contested position even within conservative evangelical eschatology",
+        "speaker_signal": "‘If you think I'm nuts, test me against scripture’ — explicit acknowledgment the claim is contested, made with confidence anyway"
+      }
+    },
+    {
+      "id": "f1-5",
+      "axis": 1,
+      "severity": "severe",
+      "headline": true,
+      "title": "Matthew 25 is absent from a sermon about Jesus's return",
+      "timestamp_seconds": null,
+      "timestamp_display": "(entire sermon)",
+      "pastor_quote": "[absent] — In a 57-minute sermon titled ‘When Will Jesus Return? 4 Predictions About the End Times,’ Matthew 25:31–46 — Jesus's own most extended description of what he will do when he returns — is never referenced.",
+      "jesus_quotes": [
+        {
+          "citation": "Matt 25:31–46",
+          "text": "When the Son of Man comes in his glory, and all the angels with him, then he will sit on his glorious throne. Before him will be gathered all the nations, and he will separate people one from another as a shepherd separates the sheep from the goats… Then the King will say to those on his right, ‘Come, you who are blessed by my Father, inherit the kingdom prepared for you from the foundation of the world. For I was hungry and you gave me food, I was thirsty and you gave me drink, I was a stranger and you welcomed me, I was naked and you clothed me, I was sick and you visited me, I was in prison and you came to me.’… ‘Truly, I say to you, as you did it to one of the least of these my brothers, you did it to me.’"
+        }
+      ],
+      "why_flagged": "The sermon is explicitly about ‘when will Jesus return and what will he do then.’ Jesus's own answer to that question — at length, in his own voice — is Matthew 25. The criterion he names is concrete care for the hungry, thirsty, stranger, naked, sick, and imprisoned. A sermon that addresses the stated topic for 57 minutes without engaging this passage has omitted Jesus's central answer to its own question."
+    },
+    {
+      "id": "f1-6",
+      "axis": 1,
+      "severity": "low",
+      "headline": false,
+      "title": "Tension: crowd celebration after acknowledging the tension",
+      "timestamp_seconds": 150,
+      "timestamp_display": "00:02:30",
+      "pastor_quote": "53,000 people into our campuses last week… 22,772 people cross a line of faith… Jesus did not say go into all the world and make big crowds. He said go into all the world and make disciples. [then continues celebrating the numbers]",
+      "jesus_quotes": [
+        {
+          "citation": "Matt 7:13–14",
+          "text": "Enter by the narrow gate. For the gate is wide and the way is easy that leads to destruction, and those who enter by it are many. For the gate is narrow and the way is hard that leads to life, and those who find it are few."
+        },
+        {
+          "citation": "John 6:60–66",
+          "text": "When many of his disciples heard it, they said, ‘This is a hard saying; who can listen to it?’… After this many of his disciples turned back and no longer walked with him."
+        },
+        {
+          "citation": "Luke 14:25–27",
+          "text": "Now great crowds accompanied him, and he turned and said to them, ‘If anyone comes to me and does not hate his own father and mother… and even his own life, he cannot be my disciple. Whoever does not bear his own cross and come after me cannot be my disciple.’"
+        }
+      ],
+      "why_flagged": "Howerton names the tension explicitly — credit to him — but the sermon's pastoral rhetoric is structured around numerical celebration. Jesus, presented with the same choice (hard saying vs. keeping the crowd), consistently chose the hard saying and watched the crowd thin. Tension, not contradiction, but directional."
+    },
+    {
+      "id": "f2-1",
+      "axis": 2,
+      "severity": "moderate",
+      "headline": false,
+      "title": "Persecution jeremiad paired with voting warning",
+      "timestamp_seconds": 2550,
+      "timestamp_display": "00:42:30",
+      "timestamp_end_seconds": 2640,
+      "pastor_quote": "Tolerance for Christianity is decreasing… there have been more martyrs for the Christian faith in the last one century in the world than in every previous century of church history combined… You be careful how you vote. Some of you are voting for things for movements that when they get in power, they consistently… criminalize aspects of faithful Christianity.",
+      "jesus_quotes": [
+        {
+          "citation": "Matt 5:10–12",
+          "text": "Blessed are those who are persecuted for righteousness' sake, for theirs is the kingdom of heaven. Blessed are you when others revile you and persecute you and utter all kinds of evil against you falsely on my account. Rejoice and be glad, for your reward is great in heaven."
+        },
+        {
+          "citation": "Matt 5:44",
+          "text": "Love your enemies and pray for those who persecute you."
+        },
+        {
+          "citation": "Luke 23:34 (from the cross)",
+          "text": "Father, forgive them, for they know not what they do."
+        }
+      ],
+      "why_flagged": "Jesus predicts persecution too — this isn't the disagreement. The disagreement is what persecution authorizes. Jesus's response in the red letters: rejoice, love, pray for, forgive. Howerton's response: direct political action against those framed as the source of it. The predicted condition is the same; the imperative is the opposite."
+    }
+  ],
+  "cn_markers": [
+    {
+      "marker": "A. Conflation of national & Christian identity",
+      "status": "Present",
+      "reference": "See Finding 1.3"
+    },
+    {
+      "marker": "B. Militaristic / warrior framing",
+      "status": "Low",
+      "note": "‘Team Jesus / team world… walked across the battlefield’ [00:45:30]; warrior-king rendering of returning Christ [00:53:00] — biblical (Rev 19) but rendered in the masculinised register Du Mez documents."
+    },
+    {
+      "marker": "C. Political opponents as spiritual enemies",
+      "status": "Present",
+      "reference": "See Finding 1.1"
+    },
+    {
+      "marker": "D. Dominionist rhetoric",
+      "status": "None detected"
+    },
+    {
+      "marker": "E. Civil religion (flag, pledge)",
+      "status": "None detected"
+    },
+    {
+      "marker": "F. Jeremiad / ‘Christianity under attack’",
+      "status": "Present",
+      "reference": "See Finding 2.1"
+    },
+    {
+      "marker": "G. Ethno-cultural ‘real American’ undertones",
+      "status": "None–Low",
+      "note": "Sermon affirms multi-ethnic congregation; counter-signal."
+    },
+    {
+      "marker": "H. Strongman / authoritarian affinity",
+      "status": "None detected"
+    }
+  ],
+  "other_axis2_rubrics": [
+    {
+      "rubric": "Anti-LGBTQ framing",
+      "status": "Not present in this sermon"
+    },
+    {
+      "rubric": "Misogynistic framing",
+      "status": "Not present in this sermon"
+    },
+    {
+      "rubric": "Anti-Jewish framing",
+      "status": "Not present",
+      "note": "Jewish-specific content (Temple destruction, Jerusalem siege) is historical exposition without supersessionist triumphalism."
+    }
+  ],
+  "axis4_findings": [
+    {
+      "id": "f4-1",
+      "axis": 4,
+      "severity": "severe",
+      "headline": true,
+      "title": "Ezekiel 38 as modern Russia/Iran invasion of Israel",
+      "topic": "How God's people should relate to foreign peoples and religions",
+      "timestamp_seconds": 3030,
+      "timestamp_display": "00:50:30",
+      "pastor_quote": "If you go later homework, read Ezekiel 38… It describes a group of nations aligning against Israel to attack Israel… Here are the nations that Ezekiel 38 describes… Russia, Turkey, Iran, Sudan, Libya, Turkey, and Turkey… every single one of those nations except one is an Islamic nation. The only one that's not is Russia. And guess what? The fastest growing religion in Russia? Islam.",
+      "jesus_passages": [
+        {
+          "citation": "Matt 5:44–45",
+          "text": "Love your enemies and pray for those who persecute you, so that you may be sons of your Father who is in heaven. For he makes his sun rise on the evil and on the good."
+        },
+        {
+          "citation": "Luke 9:52–55 (disciples propose destroying a religious-outsider village)",
+          "text": "‘Lord, do you want us to tell fire to come down from heaven and consume them?’ But he turned and rebuked them."
+        },
+        {
+          "citation": "Luke 10:33–37 (Good Samaritan)",
+          "text": "But a Samaritan, as he journeyed, came to where he was, and when he saw him, he had compassion… ‘The one who showed him mercy.’ And Jesus said to him, ‘You go, and do likewise.’"
+        },
+        {
+          "citation": "John 4:7–10 (Samaritan woman)",
+          "text": "Jesus said to her, ‘Give me a drink.’… (For Jews have no dealings with Samaritans.)"
+        },
+        {
+          "citation": "Matt 12:39–41 (Jesus holds up a foreign enemy city as morally superior to his own generation)",
+          "text": "An evil and adulterous generation seeks for a sign, but no sign will be given to it except the sign of the prophet Jonah… The men of Nineveh will rise up at the judgment with this generation and condemn it, for they repented at the preaching of Jonah, and behold, something greater than Jonah is here."
+        },
+        {
+          "citation": "Luke 4:25–27 (Jesus's first recorded sermon — citing 1 Kings 17 and 2 Kings 5 to emphasize God's mercy to foreigners)",
+          "text": "There were many widows in Israel in the days of Elijah… and Elijah was sent to none of them but only to Zarephath, in the land of Sidon, to a woman who was a widow. And there were many lepers in Israel in the time of the prophet Elisha, and none of them was cleansed, but only Naaman the Syrian."
+        },
+        {
+          "citation": "Lev 19:18 — cited by Jesus in Matt 22:39, Mark 12:31, Luke 10:27 as the second great commandment",
+          "text": "You shall love your neighbor as yourself."
+        }
+      ],
+      "wider_bible_passages": [
+        {
+          "citation": "Jonah 3:10–4:11 (the entire book is about this question)",
+          "text": "When God saw what they did, how they turned from their evil way, God relented of the disaster that he had said he would do to them, and he did not do it. But it displeased Jonah exceedingly, and he was angry… ‘Should I not pity Nineveh, that great city, in which there are more than 120,000 persons who do not know their right hand from their left?’"
+        },
+        {
+          "citation": "Ezek 33:11 (spoken by the same prophet as Ezek 38)",
+          "text": "As I live, declares the Lord God, I have no pleasure in the death of the wicked, but that the wicked turn from his way and live."
+        },
+        {
+          "citation": "Isa 19:24–25 (on Egypt and Assyria — Israel's paradigmatic foreign enemies)",
+          "text": "In that day Israel will be the third with Egypt and Assyria, a blessing in the midst of the earth, whom the Lord of hosts has blessed, saying, ‘Blessed be Egypt my people, and Assyria the work of my hands, and Israel my inheritance.’"
+        },
+        {
+          "citation": "Lev 19:33–34 (in the same chapter as the neighbor-love command Jesus cited)",
+          "text": "When a stranger sojourns with you in your land, you shall not do him wrong. You shall treat the stranger who sojourns with you as the native among you, and you shall love him as yourself, for you were strangers in the land of Egypt."
+        }
+      ],
+      "analysis": "Jesus and the wider biblical witness converge on a single point: God's posture toward foreign religious outsiders is mercy, reconciliation, and surprise inclusion — not eschatological destruction. Jesus's own scriptural grounding is striking: in Luke 4 he opens his public ministry by citing *two OT stories of God's favor falling on foreigners* (the Sidonian widow, Naaman the Syrian). In Matt 12:39–41 he holds up the foreign enemy city of Nineveh as morally superior to his own generation — invoking Jonah directly. His summary of the second great commandment is Lev 19:18, which sits in a chapter that also commands loving the foreigner (Lev 19:33–34). Paired with the Good Samaritan, the Samaritan woman, his rebuke of disciples who wanted to destroy a religious outgroup, Jonah's entire argument, Ezekiel's own prior chapter denying pleasure in the wicked's death, and Isaiah 19's startling blessing of Egypt and Assyria, the canonical picture is clear. Howerton draws on none of this, selecting instead the single most militant apocalyptic passage (Ezek 38) layered with a dispensationalist geographic identification (Hal Lindsey, 1970) that Ezekiel scholars (Block, Zimmerli) reject. The ‘Rosh = Russia’ link is phonetic, not textual. The nations listed weren't Islamic until 1,200 years after the text. This is cherry-picking on a significant scale — selecting one minority apocalyptic voice while ignoring the dominant witness including Jesus's own deliberate OT citations.",
+      "why_flagged": "The dominant canonical witness on how God relates to foreign religious outsiders runs opposite to the framing the pastor chose. A single apocalyptic passage, read through a 20th-century dispensationalist lens, is selected to speak for the whole Bible. The counter-voices (Jonah entire; Ezek 33:11 from the same prophet; Isa 19; Jesus's own rebuke of disciples wanting fire from heaven on a religious outgroup) are not engaged."
+    },
+    {
+      "id": "f4-2",
+      "axis": 4,
+      "severity": "moderate",
+      "headline": false,
+      "title": "Political engagement — one canonical voice presented as the canon's voice",
+      "topic": "How Christians should relate to governing authorities",
+      "timestamp_seconds": 2640,
+      "timestamp_display": "00:44:00",
+      "pastor_quote": "You be careful how you vote. Some of you are voting for things for movements that when they get in power, they consistently when they get in power criminalize aspects of faithful Christianity.",
+      "jesus_passages": [
+        {
+          "citation": "Mark 12:17",
+          "text": "Render to Caesar the things that are Caesar's, and to God the things that are God's."
+        },
+        {
+          "citation": "John 6:15",
+          "text": "Perceiving then that they were about to come and take him by force to make him king, Jesus withdrew again to the mountain by himself."
+        },
+        {
+          "citation": "John 18:36",
+          "text": "My kingdom is not of this world. If my kingdom were of this world, my servants would have been fighting."
+        }
+      ],
+      "wider_bible_passages": [
+        {
+          "citation": "Rom 13:1–2 (Paul)",
+          "text": "Let every person be subject to the governing authorities. For there is no authority except from God, and those that exist have been instituted by God. Therefore whoever resists the authorities resists what God has appointed."
+        },
+        {
+          "citation": "1 Pet 2:13–17 (Peter)",
+          "text": "Be subject for the Lord's sake to every human institution, whether it be to the emperor as supreme, or to governors as sent by him…"
+        },
+        {
+          "citation": "Acts 5:29 (apostles, when commanded not to preach)",
+          "text": "We must obey God rather than men."
+        },
+        {
+          "citation": "Rev 17:5–6; 18:2 (John's vision of Rome)",
+          "text": "On her forehead was written a name of mystery: ‘Babylon the great, mother of prostitutes and of earth's abominations’… ‘Fallen, fallen is Babylon the great!’"
+        }
+      ],
+      "analysis": "The biblical canon contains *four* distinguishable postures toward political power: Jesus's withdrawal (won't be made king; kingdom not of this world); Paul's and Peter's submission (authorities are God-appointed); apostolic civil disobedience when commanded to stop preaching (Acts 5:29); and Revelation's prophetic adversarial denunciation of empire as Babylon. This is genuine canonical disagreement, not a single biblical view. A pastor claiming to preach ‘the Bible' on political engagement faces a real hermeneutical task — and should, minimally, acknowledge that the question is contested within scripture itself. Howerton presents a single posture (political grievance against specific ‘movements') as if it were the biblical position. Most tellingly, he cites none of the canonical voices — not Romans 13, not Jesus's apolitical withdrawal, not Acts 5, not Revelation. The warning is pastoral assertion clothed in biblical authority.",
+      "why_flagged": "The Bible contains at least four distinct postures toward governing authorities. The pastor presents one of them as authoritative while citing none of the actual canonical voices. Jesus's own posture (Mark 12; John 6; John 18) is markedly apolitical — withdrawn from both the Zealot and the royal option."
+    },
+    {
+      "id": "f4-3",
+      "axis": 4,
+      "severity": "moderate",
+      "headline": false,
+      "title": "National chosenness language applied to America",
+      "topic": "Whether God has a favored nation",
+      "timestamp_seconds": 2550,
+      "timestamp_display": "00:42:30",
+      "pastor_quote": "You need to bless God and thank him every day that you were born in the United States of America… you have been the recipient of an undeserved grace from heaven handed down to you. That's a spiritual inheritance hard-earned that people in other countries are not experiencing and have not experienced for centuries.",
+      "jesus_passages": [
+        {
+          "citation": "Luke 4:24–27 (Jesus's first recorded sermon — directly citing 1 Kings 17 and 2 Kings 5)",
+          "text": "Truly, I say to you, no prophet is acceptable in his hometown… there were many widows in Israel in the days of Elijah… and Elijah was sent to none of them but only to Zarephath, in the land of Sidon, to a woman who was a widow. And there were many lepers in Israel in the time of the prophet Elisha, and none of them was cleansed, but only Naaman the Syrian."
+        },
+        {
+          "citation": "Matt 8:10–12 (after the Roman centurion's faith — echoing Isa 25:6, 49:12)",
+          "text": "Truly, I tell you, with no one in Israel have I found such faith… many will come from east and west and recline at table with Abraham, Isaac, and Jacob in the kingdom of heaven, while the sons of the kingdom will be thrown into the outer darkness."
+        },
+        {
+          "citation": "Matt 12:41 (on Nineveh — a foreign enemy city)",
+          "text": "The men of Nineveh will rise up at the judgment with this generation and condemn it, for they repented at the preaching of Jonah, and behold, something greater than Jonah is here."
+        },
+        {
+          "citation": "John 4:21–23 (to the Samaritan woman)",
+          "text": "The hour is coming when neither on this mountain nor in Jerusalem will you worship the Father… the true worshipers will worship the Father in spirit and truth."
+        },
+        {
+          "citation": "Isa 56:6–7 — cited by Jesus in Matt 21:13, Mark 11:17 when cleansing the Temple",
+          "text": "For my house shall be called a house of prayer for all peoples."
+        }
+      ],
+      "wider_bible_passages": [
+        {
+          "citation": "Amos 9:7 (the prophet to Israel)",
+          "text": "Are you not like the Cushites to me, O people of Israel? declares the Lord. Did I not bring up Israel from the land of Egypt, and the Philistines from Caphtor and the Syrians from Kir?"
+        },
+        {
+          "citation": "Jonah (entire book)",
+          "text": "[Yahweh sends an Israelite prophet to Nineveh — Israel's enemy empire — and demonstrates equal moral concern for them.]"
+        },
+        {
+          "citation": "Ruth (entire book)",
+          "text": "[A Moabite — a category excluded from the assembly of Israel in Deut 23 — becomes the great-grandmother of David and enters the genealogy of Jesus.]"
+        },
+        {
+          "citation": "Gal 3:28",
+          "text": "There is neither Jew nor Greek, there is neither slave nor free, there is no male and female, for you are all one in Christ Jesus."
+        },
+        {
+          "citation": "Rev 7:9",
+          "text": "A great multitude that no one could number, from every nation, from all tribes and peoples and languages, standing before the throne."
+        },
+        {
+          "citation": "Eph 2:14",
+          "text": "He himself is our peace, who has made us both one and has broken down in his flesh the dividing wall of hostility."
+        }
+      ],
+      "analysis": "The Hebrew Bible does contain national-chosenness language (Deut 7:6). But the prophetic voice *within* the OT directly qualifies it: Amos tells Israel that God's bringing-them-out-of-Egypt is not unique to them. Jonah and Ruth are canonical arguments against tribal exclusivism. And the NT *unilaterally* dismantles national-spiritual hierarchy — Galatians, Ephesians, Revelation 7. Jesus amplifies the minority OT voice: his synagogue sermon in Luke 4 deliberately cites Elijah-to-Sidonians and Elisha-to-Naaman — that's the sermon that got him chased out of town and nearly thrown off a cliff. Pure chosen-nation logic applied to any modern state does not have significant support in either testament. Howerton asserts it as obvious.",
+      "why_flagged": "Both testaments contain extensive counter-voices to the framing the pastor adopted. Jesus specifically preached against it in his first recorded sermon in Luke. The wider canon (Amos, Jonah, Ruth, Gal, Eph, Rev) converges against any modern national application."
+    },
+    {
+      "id": "f4-4",
+      "axis": 4,
+      "severity": "moderate",
+      "headline": false,
+      "title": "Persecution as end-times sign and political grievance",
+      "topic": "How persecution should be interpreted and responded to",
+      "timestamp_seconds": 2550,
+      "timestamp_display": "00:42:30",
+      "pastor_quote": "Tolerance for Christianity is decreasing… You need to be aware of what you're doing. Jesus predicted these things would happen. Watch out what kind of preaching and podcast you're listening to. [Framing persecution as a political problem requiring voting-level response.]",
+      "jesus_passages": [
+        {
+          "citation": "Matt 5:10–12 (Jesus connects persecution to the OT prophetic tradition)",
+          "text": "Blessed are those who are persecuted for righteousness' sake, for theirs is the kingdom of heaven. Blessed are you when others revile you and persecute you and utter all kinds of evil against you falsely on my account. Rejoice and be glad, for your reward is great in heaven, for so they persecuted the prophets who were before you."
+        },
+        {
+          "citation": "Matt 5:44",
+          "text": "Love your enemies and pray for those who persecute you."
+        },
+        {
+          "citation": "Luke 23:34 (from the cross)",
+          "text": "Father, forgive them, for they know not what they do."
+        },
+        {
+          "citation": "Prov 25:21–22 — cited by Paul in Rom 12:20, reflecting the wisdom tradition Jesus inherits",
+          "text": "If your enemy is hungry, give him bread to eat, and if he is thirsty, give him water to drink, for you will heap burning coals on his head."
+        }
+      ],
+      "wider_bible_passages": [
+        {
+          "citation": "1 Pet 4:12–13 (Peter, to persecuted Christians)",
+          "text": "Beloved, do not be surprised at the fiery trial when it comes upon you to test you, as though something strange were happening to you. But rejoice insofar as you share Christ's sufferings."
+        },
+        {
+          "citation": "2 Tim 3:12 (Paul)",
+          "text": "Indeed, all who desire to live a godly life in Christ Jesus will be persecuted."
+        },
+        {
+          "citation": "Heb 11:36–38 (faithful across every era — grounding NT persecution theology in OT precedent)",
+          "text": "Others suffered mocking and flogging, and even chains and imprisonment. They were stoned, they were sawn in two, they were killed with the sword. They went about in skins of sheep and goats, destitute, afflicted, mistreated — of whom the world was not worthy."
+        },
+        {
+          "citation": "Rom 12:19–21 (Paul, quoting Prov 25:21–22)",
+          "text": "Beloved, never avenge yourselves, but leave it to the wrath of God… ‘if your enemy is hungry, feed him; if he is thirsty, give him something to drink'… Do not be overcome by evil, but overcome evil with good."
+        }
+      ],
+      "analysis": "Jesus, Peter, Paul, and Hebrews converge with unusual clarity: persecution is (1) *expected* (not a special end-times marker — 2 Tim 3:12 makes it normative for all godly living), (2) an occasion for *rejoicing* (not for grievance), (3) to be met with *love and forgiveness* (not political counter-action). Revelation adds endurance. The Hebrews 11 roll-call specifically describes persecution across every era of biblical history — not as an end-times sign but as a baseline feature of faithful life. Howerton's framing — persecution is a sign of the end, a political problem, requiring watchful voting behavior — has no significant support in the canonical witness on persecution. The biblical pattern is inward (joy, forgiveness, endurance), not outward (political grievance).",
+      "why_flagged": "The canonical response to persecution — joy, forgiveness, love of enemies, endurance — is replaced in the sermon by political-grievance framing for which no biblical citation is offered. This is a prescription, not a description."
+    },
+    {
+      "id": "f4-5",
+      "axis": 4,
+      "severity": "moderate",
+      "headline": false,
+      "title": "End-times sign-reading as a sermon genre",
+      "topic": "Whether Christians should read current events as end-times signs",
+      "timestamp_seconds": null,
+      "timestamp_display": "(throughout)",
+      "pastor_quote": "Jesus made very four very specific predictions… I'll give you four other signs… Sign number one… Sign number two… Sign number three… Sign number four… The hour is late. The hour is late and it's time for you to be prepared for what comes next.",
+      "jesus_passages": [
+        {
+          "citation": "Matt 16:1–4",
+          "text": "The Pharisees and Sadducees came, and to test him they asked him to show them a sign from heaven. He answered them… ‘An evil and adulterous generation seeks for a sign, but no sign will be given to it except the sign of Jonah.'"
+        },
+        {
+          "citation": "Matt 24:36 (from the same discourse Howerton is preaching)",
+          "text": "But concerning that day and hour no one knows, not even the angels of heaven, nor the Son, but the Father only."
+        },
+        {
+          "citation": "Matt 24:37–39 — Jesus's one OT analogy for his coming (Gen 6–9, Noah). Notably about UNEXPECTEDNESS, not signposts.",
+          "text": "For as were the days of Noah, so will be the coming of the Son of Man. For as in those days before the flood they were eating and drinking, marrying and giving in marriage, until the day when Noah entered the ark, and they were unaware until the flood came and swept them all away, so will be the coming of the Son of Man."
+        },
+        {
+          "citation": "Matt 24:15 — Jesus cites Daniel by name but without attempting a geographic or political identification",
+          "text": "So when you see the abomination of desolation spoken of by the prophet Daniel, standing in the holy place (let the reader understand)…"
+        },
+        {
+          "citation": "Acts 1:7 (Jesus, immediately before the ascension)",
+          "text": "It is not for you to know times or seasons that the Father has fixed by his own authority."
+        }
+      ],
+      "wider_bible_passages": [
+        {
+          "citation": "2 Pet 3:8–9",
+          "text": "But do not overlook this one fact, beloved, that with the Lord one day is as a thousand years, and a thousand years as one day. The Lord is not slow to fulfill his promise as some count slowness, but is patient toward you…"
+        },
+        {
+          "citation": "1 Thess 5:2",
+          "text": "For you yourselves are fully aware that the day of the Lord will come like a thief in the night."
+        },
+        {
+          "citation": "Deut 29:29",
+          "text": "The secret things belong to the Lord our God, but the things that are revealed belong to us and to our children forever."
+        }
+      ],
+      "analysis": "Jesus is notably resistant to sign-seeking. He flatly refuses a sign to the Pharisees (‘an evil and adulterous generation seeks a sign'). In the Olivet Discourse *itself* — the text Howerton is preaching from — he says no one, including himself in his earthly ministry, knows the day or hour (Matt 24:36). At the ascension he tells the disciples it's not for them to know. Paul adds that the day comes like a thief (meaning: unpredictable, not signposted). Deut 29:29 puts the hidden things firmly in God's column. A sermon structured around reading five specific current-events signs as an eschatological countdown sits directly against this strand of biblical teaching — including against Matt 24:36 which is *in the passage being preached*.",
+      "why_flagged": "The sermon's central rhetorical device — reading current events as specific end-times signs — sits against Jesus's explicit teaching (including a teaching in the passage being preached, Matt 24:36) and against the broader NT framing of the day as unknowable and thief-like. The pastor's closing line, ‘you know what time it is,' inverts Acts 1:7."
+    }
+  ],
+  "factual_claims": [
+    {
+      "id": "fc-1",
+      "timestamp_seconds": 2580,
+      "timestamp_display": "00:43:00",
+      "claim": "There have been more martyrs for the Christian faith in the last one century in the world than in every previous century of church history combined.",
+      "evidence_cited_by_pastor": "None. Delivered as an authoritative statistic with no source attribution.",
+      "verdict": "contested",
+      "analysis": "This claim has a real academic source — David B. Barrett and Todd M. Johnson at the Center for the Study of Global Christianity (Gordon-Conwell Theological Seminary) published estimates that ~45 million Christians were martyred in the 20th century, vs. ~25 million in all previous centuries combined (~70M total over 2,000 years). So the claim is not fabricated. However, it is methodologically contested: Barrett's definition of \"martyr\" is notably broad — it includes anyone who died as a Christian in a situation of religious persecution, regardless of whether their faith was the specific proximate cause of death. The 20th-century figure is dominated by a small number of mass events (Armenian genocide, Stalinist purges, Nazi persecution, Rwandan genocide), many of which include victims killed for ethnic or political reasons where Christian identity was incidental. Narrower definitions (used by, e.g., the Vatican's historical commission or Open Doors International) produce much smaller numbers and do not support the \"more than all previous centuries combined\" framing. Todd Johnson himself has revised earlier Barrett estimates downward in subsequent publications — the current IBMR annual estimate is closer to 100,000 martyrs/year globally, not the 160,000 Barrett once projected. The claim is defensible under Barrett's maximalist methodology and indefensible under most others, and the pastor presents it without the caveat that it depends entirely on how \"martyr\" is defined.",
+      "sources": [
+        {
+          "title": "Johnson, Zurlo, Hickman, Crossing — Christian Martyrdom: A Global Demographic Assessment (CSGC working paper)",
+          "url": "https://mcgrath.nd.edu/assets/84231/the_demographics_of_christian_martyrdom_todd_johnson.pdf"
+        },
+        {
+          "title": "Gordon-Conwell CSGC — Counting Martyrs Methodology",
+          "url": "https://www.gordonconwell.edu/wp-content/uploads/sites/13/2019/04/2Countingmartyrsmethodology.pdf"
+        },
+        {
+          "title": "Gordon-Conwell CSGC — World Christian Trends AD 30–AD 2200 (martyrs extract)",
+          "url": "https://www.gordonconwell.edu/wp-content/uploads/sites/13/2019/04/WCT_Martyrs_Extract.pdf"
+        }
+      ]
+    },
+    {
+      "id": "fc-2",
+      "timestamp_seconds": 2580,
+      "timestamp_display": "00:43:00",
+      "claim": "Tolerance for Christianity is decreasing (in the US / Western world).",
+      "evidence_cited_by_pastor": "None. No survey, dataset, or specific policy is cited. The claim is followed by two anecdotes (a Canadian pastor, a Seattle pastor) but not evidence for a general trend.",
+      "verdict": "misleading",
+      "analysis": "Howerton conflates two distinct phenomena: declining Christian affiliation and declining tolerance. These are not the same. Christian affiliation in the US did decline from ~78% (2007) to ~62% (2024) per Pew's Religious Landscape Study — but Pew's 2025 data shows that decline has stabilized, and since 2019 the Christian share has hovered between 60%–64% with no further drop. More directly to the pastor's claim: Pew's October 2025 survey found 59% of U.S. adults now express a *positive* view of religion's influence on American life, and the share of Americans saying religion is *gaining* (not losing) influence has been rising in recent years. Pew's earlier Feeling Thermometer research consistently showed Christians rated more warmly than Muslims, Mormons, atheists, and Hindus by the US public. Globally, Pew's Government Restrictions Index has shown rising religious restrictions — but these affect Muslims at least as much as Christians, and disaggregating by country is essential (contexts like Nigeria, China, North Korea show genuine anti-Christian persecution; the US and most of Western Europe do not). The pastor's framing — that tolerance for Christianity is decreasing in the contexts his American congregation lives in — is not supported by the most recent US data and conflates losing cultural dominance with being persecuted.",
+      "sources": [
+        {
+          "title": "Pew Research Center — Decline of Christianity in the US Has Slowed, May Have Leveled Off (Feb 2025)",
+          "url": "https://www.pewresearch.org/religion/2025/02/26/decline-of-christianity-in-the-us-has-slowed-may-have-leveled-off/"
+        },
+        {
+          "title": "Pew Research Center — Religion Is Gaining Influence in American Life, More U.S. Adults Now Say (Oct 2025)",
+          "url": "https://www.pewresearch.org/religion/2025/10/20/growing-share-of-us-adults-say-religion-is-gaining-influence-in-american-life/"
+        },
+        {
+          "title": "PRRI — 2025 Census of American Religion",
+          "url": "https://prri.org/spotlight/2025-prri-census-of-american-religion/"
+        },
+        {
+          "title": "Pew Research Center — Americans Feel More Positive Than Negative About Jews, Mainline Protestants, Catholics (2023)",
+          "url": "https://www.pewresearch.org/religion/2023/03/15/americans-feel-more-positive-than-negative-about-jews-mainline-protestants-catholics/"
+        }
+      ]
+    },
+    {
+      "id": "fc-3",
+      "timestamp_seconds": 2610,
+      "timestamp_display": "00:43:30",
+      "claim": "There's a pastor in Canada who risks prison for preaching clearly from the Bible, because of legislation passed in Canada \"in the last two months.\"",
+      "evidence_cited_by_pastor": "An unnamed anecdote: \"Dude in Canada, I'm not going to say his name for legal reasons. We planted their church that has preached on this stage.\" No case citation, legislation number, or court proceeding referenced.",
+      "verdict": "partially supported / overstated",
+      "analysis": "The underlying legislation is real: Canada's Bill C-4 (an Act to amend the Criminal Code on conversion therapy) received Royal Assent in December 2021 and took effect January 8, 2022. It criminalizes providing \"conversion therapy\" — defined as a practice, treatment, or service designed to change a person's sexual orientation to heterosexual or gender identity to cisgender — with penalties up to 5 years' imprisonment for providers. Canadian evangelical groups (Liberty Coalition Canada, ~4,000 pastors via John MacArthur's network) have publicly objected that the law could criminalize sermons on biblical sexual ethics. Three important caveats the pastor omits: (1) **Timing is wrong.** The sermon was preached April 2026; Bill C-4 took effect January 2022, not \"in the last two months.\" Either the pastor is mistaken about timing or is referring to a different law not identified in public discourse. (2) **No Canadian pastor has been prosecuted for a sermon** under Bill C-4 as of 2025. The claim that a pastor \"risks prison\" is forward-looking concern, not ongoing fact. (3) **Legal experts are divided** on whether Bill C-4's language actually reaches general biblical teaching; the statute's text targets practices/treatments/services \"designed to change\" orientation, which most legal analyses read as practice-based and not capturing sermons that describe biblical sexual ethics. Evangelical advocacy groups predict broader application; civil liberties analyses and the Canadian Department of Justice's own interpretive materials are narrower. The pastor's claim combines a real statute with inaccurate timing and asserts certainty about an application that is contested.",
+      "sources": [
+        {
+          "title": "Canadian Department of Justice — Former Bill C-4 (Conversion Therapy) — An Act to amend the Criminal Code",
+          "url": "https://www.justice.gc.ca/eng/csj-sjc/pl/ct-tc/index.html"
+        },
+        {
+          "title": "Gospel Coalition Canada — What the Criminal Ban on Conversion Therapy Means for Churches in Canada",
+          "url": "https://ca.thegospelcoalition.org/article/bill-c-6-what-the-criminal-ban-on-conversion-therapy-means-for-churches-in-canada/"
+        },
+        {
+          "title": "Fox News — Thousands of churches raise alarm about scope of new Canadian conversion therapy ban",
+          "url": "https://www.foxnews.com/world/thousands-churches-raise-alarm-scope-new-canadian-conversion-therapy-ban"
+        },
+        {
+          "title": "CBN News — 4,000 Pastors Unite Against Canada's New LGBTQ Conversion Therapy Law",
+          "url": "https://www1.cbn.com/cbnnews/world/2022/january/4-000-north-american-pastors-unite-against-canada-rsquo-s-new-lgbtq-conversion-therapy-law-warn-it-will-lsquo-criminalize-christianity-rsquo"
+        }
+      ]
+    },
+    {
+      "id": "fc-4",
+      "timestamp_seconds": 2610,
+      "timestamp_display": "00:43:30",
+      "claim": "Some of you are voting for movements that, when they get in power, consistently criminalize aspects of faithful Christianity.",
+      "evidence_cited_by_pastor": "None. No movement, party, policy, or jurisdiction is specified. The claim is framed as a generalized political warning.",
+      "verdict": "unsupported",
+      "analysis": "This is a political claim delivered with the authority of the pulpit and without specification. Because no specific \"movement\" or policy is named, the claim is effectively unfalsifiable — but that in itself is a methodological problem: it asks the congregation to act on an assertion that cannot be checked. If the implied referent is US progressive/Democratic political movements, the specific evidentiary case is weak: no federal US law criminalizes faithful Christianity; the First Amendment's Free Exercise clause has been consistently upheld by the Supreme Court in recent decades, often in favor of religious exercise claims (e.g., *Masterpiece Cakeshop*, 2018; *Fulton v. Philadelphia*, 2021; *Kennedy v. Bremerton*, 2022; *303 Creative*, 2023). If the implied referent is Canadian Bill C-4, see fc-3. There are legitimate debates about the intersection of anti-discrimination law, LGBTQ protections, and religious liberty — but \"consistently criminalize\" overstates the empirical record in every major Western jurisdiction.",
+      "sources": [
+        {
+          "title": "SCOTUSblog — Fulton v. City of Philadelphia (2021)",
+          "url": "https://www.scotusblog.com/case-files/cases/fulton-v-city-of-philadelphia-pennsylvania/"
+        },
+        {
+          "title": "SCOTUSblog — Kennedy v. Bremerton School District (2022)",
+          "url": "https://www.scotusblog.com/case-files/cases/kennedy-v-bremerton-school-district/"
+        },
+        {
+          "title": "SCOTUSblog — 303 Creative LLC v. Elenis (2023)",
+          "url": "https://www.scotusblog.com/case-files/cases/303-creative-llc-v-elenis/"
+        }
+      ]
+    }
+  ],
+  "reach": {
+    "view_count": 153467,
+    "like_count": 6650,
+    "channel": "Lakepointe Church",
+    "channel_id": "UC5f7yO3WU_Ns0WDCQuP5bAw",
+    "channel_follower_count": 882000,
+    "upload_date": "20260412",
+    "source": "yt-dlp",
+    "congregation": {
+      "weekly_attendance_est": 26000,
+      "source": "Outreach Magazine Largest Churches list, 2024; pastor cited 53,000 for Easter 2026 weekend"
+    }
+  }
+}

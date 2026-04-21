@@ -1,0 +1,567 @@
+{
+  "meta": {
+    "sermon_title": "What Comes After | Pastor Steven Furtick | Elevation Church",
+    "preacher": "Pastor Steven Furtick",
+    "church": "Elevation Church",
+    "church_location": "Matthews, NC",
+    "series": "",
+    "preaching_text": "",
+    "youtube_id": "JzHga9SmA1w",
+    "upload_date": "2022-07-31",
+    "runtime_seconds": 4174,
+    "transcript_path": "transcripts/20220731_pastor_steven_furtick_what_comes_after_pastor_steven_furtick_e.txt",
+    "gospel_translation": "ESV"
+  },
+  "summary": "Furtick preaches from Peter's post-healing sermon in Acts 3, building the entire message around the conjunction in verse 15 — 'You killed the author of life, but God raised him from the dead.' The sermon's rhetorical center of gravity is the word 'but': a punctuation mark that, in Furtick's treatment, becomes a tool for reframing personal adversity — bills, jobs, broken relationships, addiction, regret — as stories whose next note has not yet been played. The message is pastoral and motivational rather than political or polemical. It contains no meaningful Christian-nationalism, anti-Muslim, anti-LGBTQ, or anti-Jewish content. The principal analytical concerns are (1) significant flattening of Peter's Acts 3 sermon into personal-breakthrough rhetoric that largely bypasses Peter's actual subject — communal repentance for rejecting the Messiah; (2) a prosperity-adjacent instrumentalisation of church attendance and faith; (3) the near-total absence of Jesus's red-letter teaching on suffering, cross-bearing, and the poor (notably given that Peter's scene opens with a beggar); and (4) a number of confidently-delivered factual claims (Bible has '62 books,' Joseph 'lived 55 more years,' Miles Davis quotation) that are wrong or contested.",
+  "scorecard": {
+    "axis_1": {
+      "label": "Fidelity to Jesus's Teachings (Red Letters)",
+      "verdict": "Mixed — motivational reframing obscures Jesus's harder teachings",
+      "severity": "moderate",
+      "headline": "The sermon quotes Hebrews 12:2 and paraphrases Jesus's Spirit promises accurately, but Jesus's teaching on cross-bearing (Luke 9:23), the poor (Luke 6:20; Matt 25), and godly sorrow (implicit in Luke 15; Matt 5:4) is largely absent from a sermon whose source text opens with a beggar and ends with a call to repent."
+    },
+    "axis_2": {
+      "label": "Identifiable Biases / Harmful Rhetoric",
+      "verdict": "Largely absent",
+      "severity": "low",
+      "headline": "No Christian-nationalism markers detected. No anti-Muslim, anti-LGBTQ, or anti-Jewish content. One minor flag: Furtick responds to a departing member's doctrinal critique by re-characterising it as hostility to outreach — a rhetorical deflection rather than engagement."
+    },
+    "axis_3": {
+      "label": "Factual Claims & Evidence Check",
+      "verdict": "Several confidently-stated errors",
+      "severity": "moderate",
+      "headline": "'The Bible has 62 separate books' is simply wrong (66 Protestant / 73 Catholic). Joseph 'lived 55 more years' and the Miles Davis quotation are partially supported at best. The Luke/Theophilus percentage and Abraham's 25-year wait are accurate."
+    },
+    "axis_4": {
+      "label": "Whole-Bible Engagement",
+      "verdict": "Selective — Peter's own sermon recontextualised as personal motivation",
+      "severity": "moderate",
+      "headline": "Acts 3 is mined for a conjunction ('but God') while Peter's actual subject — corporate repentance for rejecting Jesus — is left largely unengaged. Joseph's 'but God' is similarly abstracted from its narrative of unjust suffering and national providence into a personal 'next note' to play."
+    }
+  },
+  "tenets_affirmed": [
+    "The resurrection of Jesus is central and affirmed: 'He got up out of the grave. That's the basis of our faith.' [00:51:00]",
+    "Salvation is by grace, not works: 'You're trusting in your works, but you have to receive this gospel by grace.' [00:37:00]",
+    "The Holy Spirit is the source of Christian power and boldness, not personal willpower — 'Peter couldn't preach until the Spirit came' [00:54:30], echoing Acts 1:8 and John 15:26.",
+    "Repentance is explicitly named and preached: 'Repent. Turn around. You're going the wrong way.' [00:37:00]",
+    "Hebrews 12:2 quoted accurately: 'Jesus, the author and finisher of our faith.' [01:03:30]"
+  ],
+  "counter_signals": [
+    "No political content of any kind; no voting guidance; no party affiliation invoked.",
+    "No flag, pledge, 'Christian nation' rhetoric, or civil-religion imagery.",
+    "No characterisation of any religious outgroup (Muslims, Jews, secularists) as enemy or threat.",
+    "No anti-LGBTQ content; the sermon's one reference to a departing critic is framed around church-culture complaints, not sexuality.",
+    "Explicit affirmation of addicts and those in recovery — asks for raised hands and publicly affirms them [00:36:00–00:36:30].",
+    "Self-deprecating honesty about not reading the books his wife recommends, failing seminary Greek and Hebrew; the preacher is not self-mythologising [00:05:00; 00:42:00]."
+  ],
+  "findings": [
+    {
+      "id": "f1-1",
+      "axis": 1,
+      "severity": "moderate",
+      "headline": true,
+      "title": "Peter's subject (the crowd's guilt in killing the Messiah) is displaced by personal-circumstance framing",
+      "timestamp_seconds": 2580,
+      "timestamp_display": "00:43:00",
+      "pastor_quote": "Those two words that come after the comma… That's what I want you to remember for every battle in your life in this season, for every cross in your life in this season, for every struggle in your life in this season, for every setback in your life, for every question in your life, for every unanswered prayer in your life in this season, for every thorn in your flesh in this season, for every limp in your hip this season.",
+      "jesus_quotes": [
+        {
+          "citation": "Luke 24:46–47 (Jesus defining the apostolic preaching)",
+          "text": "Thus it is written, that the Christ should suffer and on the third day rise from the dead, and that repentance for the forgiveness of sins should be proclaimed in his name to all nations, beginning from Jerusalem."
+        },
+        {
+          "citation": "Mark 1:15",
+          "text": "The time is fulfilled, and the kingdom of God is at hand; repent and believe in the gospel."
+        },
+        {
+          "citation": "Luke 13:3",
+          "text": "Unless you repent, you will all likewise perish."
+        },
+        {
+          "citation": "Matt 16:24",
+          "text": "If anyone would come after me, let him deny himself and take up his cross and follow me."
+        }
+      ],
+      "why_flagged": "Peter's Acts 3 sermon is a confrontational call to corporate repentance: 'you handed him over to be killed… you disowned the Holy and Righteous One… you killed the author of life' (Acts 3:13–15). Jesus's own framing of this same preaching in Luke 24:47 makes repentance-for-forgiveness its content. Furtick largely bypasses this to apply the 'but God' conjunction to jobs, bills, thorns, and setbacks. The cross in the text — Jesus's — is converted into 'every cross in your life in this season,' a rhetorical move that trades Jesus's specific, singular cross for the hearer's circumstantial frustrations. Repentance is mentioned (counter-signal) but is framed chiefly as 'turn around, you have time' rather than as naming specific sin."
+    },
+    {
+      "id": "f1-2",
+      "axis": 1,
+      "severity": "moderate",
+      "headline": false,
+      "title": "The beggar at the Beautiful Gate: the sermon skips what Jesus taught about the poor",
+      "timestamp_seconds": 1110,
+      "timestamp_display": "00:18:30",
+      "pastor_quote": "They're going to the temple. This man is at the gate, and he can't walk, and he asks for money. Peter is like, 'I don't have what you asked for, but I have what you need that you wouldn't even know to ask for because it's a name. Silver and gold have I none, but such as I have I give you.'",
+      "jesus_quotes": [
+        {
+          "citation": "Luke 4:18 — cited by Jesus from Isa 61:1 in his first recorded sermon",
+          "text": "The Spirit of the Lord is upon me, because he has anointed me to proclaim good news to the poor."
+        },
+        {
+          "citation": "Luke 6:20",
+          "text": "Blessed are you who are poor, for yours is the kingdom of God."
+        },
+        {
+          "citation": "Luke 12:33",
+          "text": "Sell your possessions, and give to the needy. Provide yourselves with moneybags that do not grow old."
+        },
+        {
+          "citation": "Matt 25:35–40",
+          "text": "For I was hungry and you gave me food, I was thirsty and you gave me drink… as you did it to one of the least of these my brothers, you did it to me."
+        },
+        {
+          "citation": "Deut 15:11 — the economic-justice background to Lev 19:18 which Jesus cited as the second great commandment (Matt 22:39)",
+          "text": "You shall open wide your hand to your brother, to the needy and to the poor, in your land."
+        }
+      ],
+      "why_flagged": "The text Furtick is preaching opens with a disabled man asking for alms. Peter's 'silver and gold have I none' presupposes the legitimacy and normalness of almsgiving — it's not a dismissal of the beggar's material need, it's an acknowledgement he has none to give. Furtick uses the moment to pivot to 'what you need you wouldn't know to ask for' — spiritualising the physical request. Given Jesus's extensive red-letter teaching on concrete generosity to the poor, a sermon on Acts 3 that treats the beggar as a rhetorical springboard rather than a person in material need has missed a canonical centre of gravity. Not a contradiction — a notable absence in a text that invites the topic."
+    },
+    {
+      "id": "f1-3",
+      "axis": 1,
+      "severity": "low",
+      "headline": false,
+      "title": "'All regret is a misappropriation of imagination' — tension with Jesus on godly sorrow",
+      "timestamp_seconds": 600,
+      "timestamp_display": "00:10:00",
+      "pastor_quote": "I think all regret is a misappropriation of imagination. It's you taking the wisdom God wants you to use for your future and applying it toward a situation that is already behind you.",
+      "jesus_quotes": [
+        {
+          "citation": "Matt 5:4",
+          "text": "Blessed are those who mourn, for they shall be comforted."
+        },
+        {
+          "citation": "Luke 15:17–21 (the prodigal's regret is not pathologised; it is the turning point)",
+          "text": "But when he came to himself, he said, 'How many of my father's hired servants have more than enough bread, but I perish here with hunger! I will arise and go to my father, and I will say to him, Father, I have sinned against heaven and before you.'"
+        },
+        {
+          "citation": "Luke 22:61–62 (Peter himself — after denying Jesus)",
+          "text": "And the Lord turned and looked at Peter. And Peter remembered the saying of the Lord… And he went out and wept bitterly."
+        },
+        {
+          "citation": "Luke 18:13 (the tax collector Jesus commends)",
+          "text": "But the tax collector, standing far off, would not even lift up his eyes to heaven, but beat his breast, saying, 'God, be merciful to me, a sinner!'"
+        }
+      ],
+      "why_flagged": "Jesus's teaching and the Gospel narratives distinguish between paralysing shame and godly sorrow. Peter's bitter weeping after his denial is not a 'misappropriation of imagination' — it is the affective ground of his later boldness. The prodigal's regret is the hinge of the parable. The tax collector's self-reproach is what Jesus commends over the Pharisee's self-assurance. Furtick's aphorism, taken as pastoral counsel, risks short-circuiting the very emotion the Gospels treat as integral to repentance. Tension, not direct contradiction — Furtick does later preach 'Repent.'"
+    },
+    {
+      "id": "f1-4",
+      "axis": 1,
+      "severity": "low",
+      "headline": false,
+      "title": "Church attendance framed as a return-on-investment",
+      "timestamp_seconds": 1770,
+      "timestamp_display": "00:29:30",
+      "pastor_quote": "That's why coming to church is a better investment than the stock market. That's why coming to church is a better investment than washing your raggedy car, which is going to be dirty again in three days.",
+      "jesus_quotes": [
+        {
+          "citation": "Matt 6:19–21",
+          "text": "Do not lay up for yourselves treasures on earth, where moth and rust destroy and where thieves break in and steal, but lay up for yourselves treasures in heaven… For where your treasure is, there your heart will be also."
+        },
+        {
+          "citation": "Luke 14:26–27",
+          "text": "If anyone comes to me and does not hate his own father and mother and wife and children and brothers and sisters, yes, and even his own life, he cannot be my disciple. Whoever does not bear his own cross and come after me cannot be my disciple."
+        },
+        {
+          "citation": "John 4:23–24",
+          "text": "The true worshipers will worship the Father in spirit and truth, for the Father is seeking such people to worship him. God is spirit, and those who worship him must worship in spirit and truth."
+        }
+      ],
+      "why_flagged": "The 'better investment' framing is throwaway, but it illustrates a pattern in the sermon: faith is consistently pitched as something that yields returns on present adversity (bills paid, jobs secured, relationships restored). Jesus's invitation is repeatedly structured the opposite way — as a divestment from earthly return (Matt 6:19–21) and a call to cross-bearing that may cost rather than yield (Luke 14:26–27). Low severity because it is rhetorical shorthand, not doctrine, but directionally notable."
+    },
+    {
+      "id": "f1-5",
+      "axis": 1,
+      "severity": "moderate",
+      "headline": false,
+      "title": "'God says you get to choose your next note' — voluntarism softens the Joseph and Acts 3 witness",
+      "timestamp_seconds": 3780,
+      "timestamp_display": "01:03:00",
+      "pastor_quote": "What is your next note? God says you get to choose. 'Are you going to play the one I wrote for you? Are you going to play the one I destined for you? Are you going to play the one I created you for so that you have a story?'",
+      "jesus_quotes": [
+        {
+          "citation": "John 15:5",
+          "text": "I am the vine; you are the branches. Whoever abides in me and he in me, he it is that bears much fruit, for apart from me you can do nothing."
+        },
+        {
+          "citation": "John 6:44",
+          "text": "No one can come to me unless the Father who sent me draws him."
+        },
+        {
+          "citation": "Matt 11:28–30",
+          "text": "Come to me, all who labor and are heavy laden, and I will give you rest. Take my yoke upon you, and learn from me… for my yoke is easy, and my burden is light."
+        },
+        {
+          "citation": "Luke 22:42 (Jesus in Gethsemane)",
+          "text": "Father, if you are willing, remove this cup from me. Nevertheless, not my will, but yours, be done."
+        }
+      ],
+      "why_flagged": "Both of the 'but God' texts the sermon leans on — Gen 50:20 and Acts 3:15 — place agency squarely with God. Joseph's sentence is 'you meant evil against me, but God meant it for good' (Gen 50:20, ESV) — the verb's subject is God, not Joseph. Peter's 'you killed the author, but God raised him' similarly credits God, not the subject's next choice. The sermon's closing move — 'God says you get to choose your next note' — migrates agency back to the hearer in a way neither source text does. Jesus's own posture ('not my will, but yours') is the inverse. This is not a flat contradiction; it is a pastoral voluntarism that sits in tension with the grammar of the texts being preached."
+    },
+    {
+      "id": "f2-1",
+      "axis": 2,
+      "severity": "low",
+      "headline": false,
+      "title": "Doctrinal critique from a departing member re-characterised as hostility to outreach",
+      "timestamp_seconds": 2880,
+      "timestamp_display": "00:48:00",
+      "pastor_quote": "A lady told Holly one time, 'Don't take this personally, but we're leaving the church. We don't think Pastor Steven preaches sound doctrine or the gospel of Jesus Christ. We're just tired of seeing people come into church who are coming in high from the night before.' I couldn't understand. If they can't come to church high from the night before, how are we going to lead them to the Most High God they don't even know about?",
+      "jesus_quotes": [
+        {
+          "citation": "Matt 7:15–20",
+          "text": "Beware of false prophets, who come to you in sheep's clothing but inwardly are ravenous wolves. You will recognize them by their fruits."
+        },
+        {
+          "citation": "John 7:24",
+          "text": "Do not judge by appearances, but judge with right judgment."
+        },
+        {
+          "citation": "Luke 6:41–42",
+          "text": "Why do you see the speck that is in your brother's eye, but do not notice the log that is in your own eye?… first take the log out of your own eye, and then you will see clearly to take out the speck that is in your brother's eye."
+        }
+      ],
+      "why_flagged": "The departing member raised two distinct concerns: (a) sound doctrine / the gospel, and (b) culture around substance use in services. Furtick's response engages only (b), and does so by converting the complaint into a straw position ('they can't come to church high'). The doctrinal objection — which is the more substantive of the two — is not addressed at all. Low severity (this is a brief anecdote in a mostly pastoral sermon), but it is a textbook rhetorical deflection from the pulpit, delivered to tens of thousands, and models dismissing critique rather than weighing it. Jesus himself invited his hearers to test him against scripture and the prophets."
+    },
+    {
+      "id": "f2-2",
+      "axis": 2,
+      "severity": "low",
+      "headline": false,
+      "title": "Minor dismissive asides about wives/marriage",
+      "timestamp_seconds": 1800,
+      "timestamp_display": "00:30:00",
+      "pastor_quote": "That's a marriage seminar. Yeah, do the dishes. You might get a kiss.",
+      "jesus_quotes": [
+        {
+          "citation": "Mark 10:6–9",
+          "text": "From the beginning of creation, God made them male and female. Therefore a man shall leave his father and mother and hold fast to his wife, and the two shall become one flesh… What therefore God has joined together, let not man separate."
+        },
+        {
+          "citation": "Matt 19:4–5",
+          "text": "He who created them from the beginning made them male and female… the two shall become one flesh."
+        }
+      ],
+      "why_flagged": "A single off-hand transactional quip about domestic labour in exchange for affection. Noted for completeness rather than emphasis; it is not a theological position, and the sermon contains no substantive misogynistic framing. Included under Axis 2 only to honour the rubric of documenting what the pastor actually said."
+    }
+  ],
+  "axis4_findings": [
+    {
+      "id": "f4-1",
+      "axis": 4,
+      "severity": "moderate",
+      "headline": true,
+      "title": "Joseph's 'but God' — the passage's communal, sovereignty-centred meaning flattened to personal breakthrough",
+      "topic": "What the Bible teaches about suffering, providence, and the agency of God vs. the hearer",
+      "timestamp_seconds": 3120,
+      "timestamp_display": "00:52:00",
+      "pastor_quote": "He said, 'You intended to harm me…' Harm me. I can't change that. '…but God intended it for what is now being done.' He lived 55 more years to see his children's children's children brought to his knees. That's amazing. All because of what happened after the comma.",
+      "jesus_passages": [
+        {
+          "citation": "Luke 22:42 (Jesus in Gethsemane)",
+          "text": "Father, if you are willing, remove this cup from me. Nevertheless, not my will, but yours, be done."
+        },
+        {
+          "citation": "John 5:19",
+          "text": "Truly, truly, I say to you, the Son can do nothing of his own accord, but only what he sees the Father doing."
+        },
+        {
+          "citation": "Matt 6:10",
+          "text": "Your kingdom come, your will be done, on earth as it is in heaven."
+        }
+      ],
+      "wider_bible_passages": [
+        {
+          "citation": "Gen 50:20 (full verse, ESV)",
+          "text": "As for you, you meant evil against me, but God meant it for good, to bring it about that many people should be kept alive, as they are today."
+        },
+        {
+          "citation": "Gen 45:5–8 (Joseph's earlier statement of the same theology)",
+          "text": "And now do not be distressed or angry with yourselves because you sold me here, for God sent me before you to preserve life… So it was not you who sent me here, but God."
+        },
+        {
+          "citation": "Rom 8:28",
+          "text": "And we know that for those who love God all things work together for good, for those who are called according to his purpose."
+        },
+        {
+          "citation": "Prov 16:9",
+          "text": "The heart of man plans his way, but the Lord establishes his steps."
+        },
+        {
+          "citation": "Isa 46:9–10",
+          "text": "I am God, and there is no other; I am God, and there is none like me, declaring the end from the beginning and from ancient times things not yet done, saying, 'My counsel shall stand, and I will accomplish all my purpose.'"
+        }
+      ],
+      "analysis": "In Gen 50:20 the grammatical subject of 'meant it for good' is God — not Joseph. The point of Joseph's statement is that God's sovereign purpose ran underneath and through the brothers' evil, preserving 'many people' (national, covenantal language, not personal-breakthrough language). The Jesus-analog is Gethsemane: the agency that bears the weight is the Father's, and Jesus's posture is submission ('not my will, but yours'). Paul's Rom 8:28 preserves this — it is God who works things together, not the believer who chooses the next note. Furtick's sermon does affirm divine authorship early ('it starts with God… he's the director'), but the closing rhetorical move migrates agency to the hearer's 'next note,' making the controlling metaphor one of personal choice rather than divine providence. This is selective in the direction of the pastor's rhetorical need rather than the text's plain sense. Secondary issue: Joseph lived roughly 54–71 additional years after being reunited with his brothers, depending on which scene is counted; '55 more years' is approximately right if measured from Jacob's death (Gen 50) but is often incorrectly applied to the reunion scene.",
+      "why_flagged": "The canonical witness on Joseph's speech — and on 'but God' texts generally — centres God's sovereign agency. The sermon's climactic application reverses the subject: 'God says you get to choose.' Jesus, Paul, Proverbs, and Isaiah all converge the other way."
+    },
+    {
+      "id": "f4-2",
+      "axis": 4,
+      "severity": "moderate",
+      "headline": false,
+      "title": "Acts 3 with the beggar removed — the canonical pairing of spiritual and material mercy",
+      "topic": "Whether 'such as I have' in Acts 3 licenses spiritualising the poor's material request",
+      "timestamp_seconds": 1140,
+      "timestamp_display": "00:19:00",
+      "pastor_quote": "Peter is like, 'I don't have what you asked for, but I have what you need that you wouldn't even know to ask for because it's a name.'",
+      "jesus_passages": [
+        {
+          "citation": "Luke 4:18 — cited by Jesus from Isa 61:1 in his inaugural sermon",
+          "text": "The Spirit of the Lord is upon me, because he has anointed me to proclaim good news to the poor. He has sent me to proclaim liberty to the captives and recovering of sight to the blind, to set at liberty those who are oppressed."
+        },
+        {
+          "citation": "Matt 25:35–40",
+          "text": "For I was hungry and you gave me food… Truly, I say to you, as you did it to one of the least of these my brothers, you did it to me."
+        },
+        {
+          "citation": "Luke 14:13–14",
+          "text": "But when you give a feast, invite the poor, the crippled, the lame, the blind, and you will be blessed, because they cannot repay you."
+        },
+        {
+          "citation": "Mark 10:21",
+          "text": "Jesus, looking at him, loved him, and said to him, 'You lack one thing: go, sell all that you have and give to the poor, and you will have treasure in heaven; and come, follow me.'"
+        }
+      ],
+      "wider_bible_passages": [
+        {
+          "citation": "Acts 2:44–45 (immediately before the Acts 3 scene Furtick is preaching)",
+          "text": "And all who believed were together and had all things in common. And they were selling their possessions and belongings and distributing the proceeds to all, as any had need."
+        },
+        {
+          "citation": "Acts 4:34–35 (immediately after)",
+          "text": "There was not a needy person among them, for as many as were owners of lands or houses sold them and brought the proceeds of what was sold and laid it at the apostles' feet, and it was distributed to each as any had need."
+        },
+        {
+          "citation": "James 2:15–17",
+          "text": "If a brother or sister is poorly clothed and lacking in daily food, and one of you says to them, 'Go in peace, be warmed and filled,' without giving them the things needed for the body, what good is that? So also faith by itself, if it does not have works, is dead."
+        },
+        {
+          "citation": "1 John 3:17",
+          "text": "But if anyone has the world's goods and sees his brother in need, yet closes his heart against him, how does God's love abide in him?"
+        },
+        {
+          "citation": "Deut 15:7–11 (the Torah's economic-mercy legislation)",
+          "text": "You shall open wide your hand to your brother, to the needy and to the poor, in your land."
+        }
+      ],
+      "analysis": "Luke, who wrote Acts, bookends the Acts 3 healing with two explicit descriptions of economic sharing (Acts 2:44–45; 4:34–35). Peter's 'silver and gold have I none' is therefore a statement of empty pockets, not a rejection of the category of material help. The canonical witness on poverty is extraordinarily dense and of one voice: Jesus (Luke 4, Matt 25, Luke 14, Mark 10), James, John, the Torah, the Prophets, and Luke's own editorial frame in Acts 2 and 4. Furtick's sermon opens at the gate with a beggar and never returns to the category of poverty. This is selective in a specific direction — the 'spiritualising' direction — and omits a voice (the poor) that the pastor's source text foregrounds. Not cherry-picking to support a political position; rather, a systemic under-engagement with a theme the passage itself raises.",
+      "why_flagged": "The passage Furtick preached opens with a person asking for money. The Bible's witness on that request is unusually unified and Jesus-centred. The sermon's 45-minute treatment does not engage it."
+    },
+    {
+      "id": "f4-3",
+      "axis": 4,
+      "severity": "low",
+      "headline": false,
+      "title": "'Sin is fun for a season' — Hebrews 11:25 borrowed without its full canonical counterweight",
+      "topic": "How the Bible frames sin, pleasure, and what makes suffering 'worth it'",
+      "timestamp_seconds": 2220,
+      "timestamp_display": "00:37:00",
+      "pastor_quote": "You're living your life for sinful pleasures, and sin is fun for a season. I said, 'Sin is fun for a season,' emphasis on season, but after that season comes another season.",
+      "jesus_passages": [
+        {
+          "citation": "Mark 8:36",
+          "text": "For what does it profit a man to gain the whole world and forfeit his soul?"
+        },
+        {
+          "citation": "Matt 5:29–30",
+          "text": "If your right eye causes you to sin, tear it out and throw it away. For it is better that you lose one of your members than that your whole body be thrown into hell."
+        },
+        {
+          "citation": "John 8:34",
+          "text": "Everyone who commits sin is a slave to sin."
+        }
+      ],
+      "wider_bible_passages": [
+        {
+          "citation": "Heb 11:24–26 (the passage being paraphrased)",
+          "text": "By faith Moses, when he was grown up, refused to be called the son of Pharaoh's daughter, choosing rather to be mistreated with the people of God than to enjoy the fleeting pleasures of sin. He considered the reproach of Christ greater wealth than the treasures of Egypt."
+        },
+        {
+          "citation": "Rom 6:23",
+          "text": "For the wages of sin is death, but the free gift of God is eternal life in Christ Jesus our Lord."
+        },
+        {
+          "citation": "Gal 6:7–8",
+          "text": "Do not be deceived: God is not mocked, for whatever one sows, that will he also reap. For the one who sows to his own flesh will from the flesh reap corruption."
+        }
+      ],
+      "analysis": "The phrase is lifted from Hebrews 11:25 ('the fleeting pleasures of sin'). Furtick's paraphrase is within the canonical range, but the Hebrews frame is specific — Moses refuses Egypt's pleasures because he considers Christ's reproach greater wealth. The full biblical picture frames sin's 'season' as active slavery (Jn 8:34), wage-earning death (Rom 6:23), and soul-forfeit (Mk 8:36), not simply 'fun followed by another season.' Minor issue — the sermon does call for repentance — but the euphemism softens what Jesus himself treated with unusual severity (Matt 5:29–30).",
+      "why_flagged": "The minority euphemistic note ('fun for a season') is borrowed without its canonical counterweight. Jesus's language on sin is considerably more severe than the sermon's register."
+    }
+  ],
+  "factual_claims": [
+    {
+      "id": "fc-1",
+      "timestamp_seconds": 660,
+      "timestamp_display": "00:11:00",
+      "claim": "The Bible is not a book like we say it's a book. It has 62 separate books.",
+      "evidence_cited_by_pastor": "None. Asserted as a didactic aside to the congregation.",
+      "verdict": "false",
+      "analysis": "The Protestant Bible contains 66 books (39 OT + 27 NT). The Catholic Bible contains 73 (including seven deuterocanonical books). The Eastern Orthodox canon contains 76–81 depending on tradition. No major Christian canon contains 62 books. This appears to be a simple misstatement delivered with pulpit confidence; it is a factual error rather than a theological claim, but it is the kind of basic reference point a teaching pastor is expected to get right.",
+      "sources": [
+        {
+          "title": "Encyclopaedia Britannica — Biblical canon",
+          "url": "https://www.britannica.com/topic/biblical-literature/The-Hebrew-canon"
+        },
+        {
+          "title": "USCCB — Books of the Bible",
+          "url": "https://bible.usccb.org/bible"
+        }
+      ]
+    },
+    {
+      "id": "fc-2",
+      "timestamp_seconds": 1890,
+      "timestamp_display": "00:31:30",
+      "claim": "26 percent of the New Testament was written by Luke to Theophilus.",
+      "evidence_cited_by_pastor": "None cited; delivered as a standalone statistic.",
+      "verdict": "partially supported",
+      "analysis": "Luke-Acts, measured by word count in the Greek, comprises approximately 27.5% of the New Testament — roughly 37,900 words of ~138,000. By that measure '26 percent' is a defensible rounding (some counts place Luke-Acts slightly lower, around 25–28% depending on textual edition). The claim that both volumes are addressed to Theophilus is accurate (Luke 1:3; Acts 1:1). Classified 'partially supported' rather than 'supported' only because the stat is delivered without source and the exact figure depends on the word count used; the substantive claim is essentially correct.",
+      "sources": [
+        {
+          "title": "Felix Just, SJ — New Testament Statistics (word counts by book)",
+          "url": "https://catholic-resources.org/Bible/NT-Statistics-Greek.htm"
+        }
+      ]
+    },
+    {
+      "id": "fc-3",
+      "timestamp_seconds": 2490,
+      "timestamp_display": "00:41:30",
+      "claim": "Abraham waited 25 years between when God gave him the promise and he saw it come to pass.",
+      "evidence_cited_by_pastor": "None, but the figure is derivable from Genesis.",
+      "verdict": "supported",
+      "analysis": "Abram was 75 when he received the call in Gen 12:4 and 100 when Isaac was born in Gen 21:5. The 25-year interval is a standard and accurate computation.",
+      "sources": [
+        {
+          "title": "Gen 12:4 & Gen 21:5 (primary source)",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+12%3A4%3B+Genesis+21%3A5&version=ESV"
+        }
+      ]
+    },
+    {
+      "id": "fc-4",
+      "timestamp_seconds": 3120,
+      "timestamp_display": "00:52:00",
+      "claim": "Joseph lived 55 more years to see his children's children's children.",
+      "evidence_cited_by_pastor": "None; delivered as narrative embellishment.",
+      "verdict": "partially supported / overstated",
+      "analysis": "Joseph was approximately 39 when his brothers came to Egypt (Gen 41:46–53; 45:6) and died at 110 (Gen 50:26) — about 71 more years of life after the reunion. He was roughly 56 when Jacob died (17 years after Jacob's arrival in Egypt per Gen 47:28), meaning he lived about 54 more years after the Gen 50:20 speech Furtick quotes. '55 more years' is therefore approximately correct if measured from Jacob's death / the 'you meant evil' speech, but incorrect if taken as 'from the reunion onward.' Gen 50:23 does record that Joseph saw Ephraim's children 'of the third generation,' so the substantive claim that he saw his children's children's children is biblically grounded.",
+      "sources": [
+        {
+          "title": "Gen 41:46; 45:6; 47:28; 50:22–26 (primary source)",
+          "url": "https://www.biblegateway.com/passage/?search=Genesis+41%3A46%3B+45%3A6%3B+47%3A28%3B+50%3A22-26&version=ESV"
+        }
+      ]
+    },
+    {
+      "id": "fc-5",
+      "timestamp_seconds": 3480,
+      "timestamp_display": "00:58:00",
+      "claim": "Miles Davis said, 'It is not the note you play that is wrong. It is the next note you play that makes it wrong or right.'",
+      "evidence_cited_by_pastor": "Attributed to Miles Davis by name; no source given.",
+      "verdict": "needs verification",
+      "analysis": "This quotation circulates widely on the internet attributed to Miles Davis, but it does not appear to come from Davis's autobiography (co-written with Quincy Troupe, 1989) in this exact form. The cognate idea is often attributed instead to jazz pianist Herbie Hancock recounting a Davis anecdote, and to Thelonious Monk in various forms ('there are no wrong notes'). Without a primary-source citation (interview, autobiography, or liner notes), the quotation is best marked 'needs verification.' The sermon's illustrative point does not depend on the attribution.",
+      "sources": []
+    },
+    {
+      "id": "fc-6",
+      "timestamp_seconds": 1290,
+      "timestamp_display": "00:21:30",
+      "claim": "Philip Yancey said, 'Faith is believing in advance what will only make sense in reverse.'",
+      "evidence_cited_by_pastor": "Attributed to Philip Yancey by name; no book cited.",
+      "verdict": "supported",
+      "analysis": "The quotation is found in Philip Yancey's 'Disappointment with God' (1988) and reappears in several of his subsequent works and interviews. The attribution is standard.",
+      "sources": [
+        {
+          "title": "Philip Yancey — Disappointment with God (1988, Zondervan)",
+          "url": "https://www.zondervan.com/9780310230670/disappointment-with-god/"
+        }
+      ]
+    },
+    {
+      "id": "fc-7",
+      "timestamp_seconds": 2010,
+      "timestamp_display": "00:33:30",
+      "claim": "Corrie ten Boom said, 'Heaven has no panic, only plans.'",
+      "evidence_cited_by_pastor": "Attributed to Corrie ten Boom by name.",
+      "verdict": "needs verification",
+      "analysis": "Ten Boom is credited with a family of aphorisms on trust and God's sovereignty (including the well-attested 'There is no pit so deep that God's love is not deeper still'). This specific formulation — 'Heaven has no panic, only plans' — circulates on Christian websites and social media but I cannot confirm its presence in 'The Hiding Place' (1971) or her other published writings from my training knowledge. Primary-source verification against her published works would be required before certifying attribution.",
+      "sources": []
+    }
+  ],
+  "cn_markers": [
+    {
+      "marker": "A. Conflation of national & Christian identity",
+      "status": "None detected",
+      "note": "Sermon contains no reference to America, any nation, or national identity."
+    },
+    {
+      "marker": "B. Militaristic / warrior framing",
+      "status": "Low",
+      "note": "'The only two words you need to whip the Devil's butt' [00:43:00]; 'disrupt the Devil with a but' [00:53:00]. Combat imagery is directed at 'the Devil' as a spiritual figure — not at any human group — which is consistent with Eph 6:12. Low-level register only."
+    },
+    {
+      "marker": "C. Political opponents as spiritual enemies",
+      "status": "None detected",
+      "note": "No political opponents named or implied."
+    },
+    {
+      "marker": "D. Dominionist rhetoric",
+      "status": "None detected"
+    },
+    {
+      "marker": "E. Civil religion (flag, pledge)",
+      "status": "None detected"
+    },
+    {
+      "marker": "F. Jeremiad / 'Christianity under attack'",
+      "status": "None detected",
+      "note": "No persecution rhetoric directed at contemporary Christians."
+    },
+    {
+      "marker": "G. Ethno-cultural 'real American' undertones",
+      "status": "None detected"
+    },
+    {
+      "marker": "H. Strongman / authoritarian affinity",
+      "status": "None detected"
+    }
+  ],
+  "other_axis2_rubrics": [
+    {
+      "rubric": "Anti-Muslim framing",
+      "status": "Not present in this sermon"
+    },
+    {
+      "rubric": "Anti-LGBTQ framing",
+      "status": "Not present in this sermon"
+    },
+    {
+      "rubric": "Misogynistic framing",
+      "status": "Minimal",
+      "note": "One off-hand 'do the dishes, you might get a kiss' aside (00:30:00). See Finding 2.2."
+    },
+    {
+      "rubric": "Anti-Jewish framing",
+      "status": "Not present",
+      "note": "Peter's address 'fellow Israelites, I know that you acted in ignorance' is read directly from Acts 3:17. Furtick does not extend or weaponise the 'you killed him' material against contemporary Jewish people — the sermon's application is immediately pivoted to the hearer's personal circumstances. No supersessionist triumphalism."
+    }
+  ],
+  "reach": {
+    "view_count": 731638,
+    "like_count": 14832,
+    "channel": "Elevation Church",
+    "channel_id": "UCIQqvZbHSwX0yKNVK1MyYjQ",
+    "channel_follower_count": 3800000,
+    "upload_date": "20220731",
+    "source": "yt-dlp",
+    "congregation": {
+      "weekly_attendance_est": 28000,
+      "source": "Outreach Magazine Largest Churches list (multi-campus)"
+    }
+  }
+}

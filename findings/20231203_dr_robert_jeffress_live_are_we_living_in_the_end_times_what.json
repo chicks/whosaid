@@ -1,0 +1,579 @@
+{
+  "meta": {
+    "sermon_title": "LIVE: \"Are We Living In The End Times?:What Are The Major Events Of The End Times?\" | Dec 3 | 9:15am",
+    "preacher": "Dr. Robert Jeffress",
+    "church": "First Baptist Dallas",
+    "church_location": "Dallas, TX",
+    "series": "",
+    "preaching_text": "",
+    "youtube_id": "3b1btOtT0tE",
+    "upload_date": "2023-12-03",
+    "runtime_seconds": 4710,
+    "transcript_path": "transcripts/20231203_dr_robert_jeffress_live_are_we_living_in_the_end_times_what.txt",
+    "gospel_translation": "ESV"
+  },
+  "summary": "Jeffress lays out a classical dispensational pre-tribulation rapture timeline — Church Age → Rapture → 7-year Tribulation → Armageddon/Second Coming → Millennium → Great White Throne → Eternity — and anchors it in Paul's mystery-of-the-church framework (Rom 11; 1 Thess 4) and Harold Hoehner's date-specific reading of Daniel 9:24–27 (a 445 BC decree and a April 2, AD 32 Palm Sunday). He explicitly acknowledges that Jesus did not teach the Rapture and that it must be read through Paul. The sermon's rhetorical anchor is prophetic certainty: exact dates, named events, a 1,000-year Millennium, and eternal conscious torment described as unending. It is preached from a text (Matt 24:27–31) that was read aloud at the start of the service and whose plain sequence — gathering of the elect *after* the tribulation — runs against the sermon's pretribulational thesis. Matthew 25:31–46 — Jesus's own most extended description of what he will do when he returns — is never cited in a sermon titled \\\"the major events of the end times.\\\" The sermon includes a rhetorical comparison using \\\"members of Hamas who behead children\\\" and embeds the service within a civil-religion adjacent frame (Mike Pence and Sen. Langford celebrated as distinguished guests; \\\"Freedom Sunday\\\"; Christian Zionist Mike Evans publicly blessed from the stage).",
+  "scorecard": {
+    "axis_1": {
+      "label": "Fidelity to Jesus's Teachings (Red Letters)",
+      "verdict": "Mixed — multiple tensions with Jesus's own words in the passage being preached",
+      "severity": "moderate",
+      "headline": "Five flagged items. The preaching text (Matt 24:27–31, read aloud in the service) sequences the elect's gathering AFTER the tribulation — the opposite of the sermon's pretribulational thesis. Matt 24:36 (\"no one knows\") and Matt 25:31–46 (Jesus's own description of his return) are absent."
+    },
+    "axis_2": {
+      "label": "Identifiable Biases / Harmful Rhetoric",
+      "verdict": "Moderate — specific-group rhetorical use + civil religion adjacency",
+      "severity": "moderate",
+      "headline": "Hamas invoked as rhetorical foil (\"better than the members of Hamas who behead children\"); service celebrates VP Pence, a sitting US senator, and prominent Christian Zionist Mike Evans as platformed figures; overall framework aligns end-times fulfillment with modern-state Israel."
+    },
+    "axis_3": {
+      "label": "Factual Claims & Evidence Check",
+      "verdict": "Poor evidence hygiene on specific date claims; unverified ministry statistics",
+      "severity": "moderate",
+      "headline": "Of 4 fact-checked claims, 0 are fully supported. Hoehner's 445 BC / AD 32 chronology is one contested scholarly reconstruction presented as settled. Hamas beheading claim is partially supported but overstated as a general characterization. TBN ranking and podcast stats are asserted without public sourcing."
+    },
+    "axis_4": {
+      "label": "Whole-Bible Engagement",
+      "verdict": "Selective — one 19th-century eschatological system presented as \"the\" biblical view",
+      "severity": "severe",
+      "headline": "Dispensational premillennialism is preached as if it were the canonical consensus. Matt 25 (Jesus's own criterion), the historic/reformed/amillennial/annihilationist canonical voices, and the preaching text's own sequence are all omitted. On each of the four framings analyzed, Jesus's Gospel words and the wider canon diverge from the pastor's selection."
+    }
+  },
+  "tenets_affirmed": [
+    "The bodily return of Jesus Christ is affirmed plainly (\"Jesus Christ and his army of Believers will return… to establish his long awaited Kingdom on Earth\").",
+    "The gospel invitation is framed on grace not merit — explicit rejection of works-righteousness: \"not in my good works but in what Jesus did for me to save me from my sins.\"",
+    "God's covenant faithfulness is affirmed — Rom 11:1 cited correctly that \"God has not rejected his people.\"",
+    "The reality of bodily resurrection (1 Cor 15:50–52) is preached plainly and textually, not spiritualized away.",
+    "The sermon closes with a public invitation to trust Christ and makes the gospel content explicit rather than assumed."
+  ],
+  "counter_signals": [
+    "No named partisan endorsement from the pulpit during the sermon itself.",
+    "No anti-LGBTQ content in this sermon.",
+    "No anti-Muslim content as such — Islam is not named or framed as an eschatological enemy (a notable restraint relative to other dispensational preachers on the same topic).",
+    "Welcomes an explicitly multi-ethnic global \"iCampus\" audience and highlights new Spanish-language ministry.",
+    "Reports $0 debt and highlights international mission work (Brazil, Ukraine, Israel, Philippines, Guatemala).",
+    "Gospel call is grace-based and invitational, not coercive or fear-driven despite the end-times topic.",
+    "Pastor acknowledges his own theological novelty on one point (\"I've never done a sermon on this before\") — signaling some intellectual humility about the contested nature of the distinctions he is drawing."
+  ],
+  "findings": [
+    {
+      "id": "f1-1",
+      "axis": 1,
+      "severity": "moderate",
+      "headline": true,
+      "title": "The preaching text (Matt 24:27–31) sequences the gathering AFTER the tribulation — the opposite of the sermon's thesis",
+      "timestamp_seconds": 940,
+      "timestamp_display": "00:15:40",
+      "pastor_quote": "[Scripture reading at the start of the service, Matt 24:27–31, NASB] … 'But immediately after the tribulation of these days the sun will be darkened… and then the sign of the Son of Man will appear in the sky… and he will send forth his angels with a great trumpet and they will gather together his elect from the Four Winds…' [Jeffress then argues, 00:46:30] 'The Rapture of the church is the snatching away to heaven of all Christians from the time of Pentecost before the tribulation.'",
+      "jesus_quotes": [
+        {
+          "citation": "Matt 24:29–31 (Jesus, in the Olivet Discourse — the very passage read aloud in the service)",
+          "text": "Immediately after the tribulation of those days the sun will be darkened, and the moon will not give its light, and the stars will fall from heaven, and the powers of the heavens will be shaken… and he will send out his angels with a loud trumpet call, and they will gather his elect from the four winds, from one end of heaven to the other."
+        },
+        {
+          "citation": "Matt 24:30–31",
+          "text": "Then will appear in heaven the sign of the Son of Man… and they will see the Son of Man coming on the clouds of heaven with power and great glory."
+        },
+        {
+          "citation": "Dan 7:13–14 — cited by Jesus throughout the Olivet Discourse and at his trial (Matt 26:64, Mark 14:62) as the template for his return",
+          "text": "Behold, with the clouds of heaven there came one like a son of man… and to him was given dominion and glory and a kingdom."
+        }
+      ],
+      "why_flagged": "The text read aloud at the start of the service states — in Jesus's own voice — that the gathering of the elect by angels with a trumpet happens *immediately after* the tribulation. The sermon argues instead that this gathering (the Rapture) happens *before* the tribulation. The sequencing problem is not external to the sermon; it is internal to the very verses the congregation heard read aloud minutes earlier. Historic premillennialists, amillennialists, postmillennialists, and post-tribulation dispensationalists all read Matt 24 this way. The pastor does not engage the disagreement."
+    },
+    {
+      "id": "f1-2",
+      "axis": 1,
+      "severity": "severe",
+      "headline": true,
+      "title": "Matthew 25:31–46 is absent from a sermon on \"the major events of the end times\"",
+      "timestamp_seconds": null,
+      "timestamp_display": "(absent from a 78-minute sermon on what Jesus does when he returns)",
+      "pastor_quote": "[absent] — In a sermon explicitly titled 'What Are The Major Events Of The End Times?', Jesus's own most extended description of the Son of Man's return and what he does at it — Matt 25:31–46 — is never referenced. The sermon walks through Rapture, Tribulation, Armageddon, Second Coming, Millennium, Great White Throne, Eternity — without citing the passage in which Jesus himself describes the judgment at his coming.",
+      "jesus_quotes": [
+        {
+          "citation": "Matt 25:31–33",
+          "text": "When the Son of Man comes in his glory, and all the angels with him, then he will sit on his glorious throne. Before him will be gathered all the nations, and he will separate people one from another as a shepherd separates the sheep from the goats."
+        },
+        {
+          "citation": "Matt 25:34–36",
+          "text": "Then the King will say to those on his right, 'Come, you who are blessed by my Father, inherit the kingdom prepared for you from the foundation of the world. For I was hungry and you gave me food, I was thirsty and you gave me drink, I was a stranger and you welcomed me, I was naked and you clothed me, I was sick and you visited me, I was in prison and you came to me.'"
+        },
+        {
+          "citation": "Matt 25:40",
+          "text": "Truly, I say to you, as you did it to one of the least of these my brothers, you did it to me."
+        },
+        {
+          "citation": "Isa 58:6–7 — the prophetic text Jesus draws on in Matt 25 and which he cites directly in Luke 4:18",
+          "text": "Is not this the fast that I choose… to share your bread with the hungry and bring the homeless poor into your house; when you see the naked, to cover him, and not to hide yourself from your own flesh?"
+        }
+      ],
+      "why_flagged": "Jesus's own answer to the sermon's stated question — what happens when he returns — is Matt 25:31–46. The criterion he names for that judgment is concrete care for the hungry, the stranger, the naked, the sick, and the imprisoned. Preaching a 78-minute sermon on \"the major events of the end times\" without engaging this passage is omitting Jesus's most direct answer to the sermon's own title question."
+    },
+    {
+      "id": "f1-3",
+      "axis": 1,
+      "severity": "moderate",
+      "headline": false,
+      "title": "Sign-reading rhetoric contradicts Jesus's explicit teaching in the passage being preached",
+      "timestamp_seconds": 2750,
+      "timestamp_display": "00:45:50",
+      "pastor_quote": "We know the date this stopwatch started counting down the final 490 years… from the time the decree goes out 445 BC until AD 32 was exactly 483 years… My old Seminary Professor Harold Hoehner has done a chronology of this to show exactly to the date how these prophecies were fulfilled.",
+      "jesus_quotes": [
+        {
+          "citation": "Matt 24:36 (Jesus, in the very Olivet Discourse passage being preached)",
+          "text": "But concerning that day and hour no one knows, not even the angels of heaven, nor the Son, but the Father only."
+        },
+        {
+          "citation": "Matt 16:1–4",
+          "text": "The Pharisees and Sadducees came, and to test him they asked him to show them a sign from heaven. He answered them… 'An evil and adulterous generation seeks for a sign, but no sign will be given to it except the sign of Jonah.'"
+        },
+        {
+          "citation": "Acts 1:7 (Jesus, immediately before the ascension)",
+          "text": "It is not for you to know times or seasons that the Father has fixed by his own authority."
+        },
+        {
+          "citation": "Dan 12:9 — cited by Jesus in Matt 24:15 without offering a date-calculation for its fulfillment",
+          "text": "Go your way, Daniel, for the words are shut up and sealed until the time of the end."
+        }
+      ],
+      "why_flagged": "Jesus himself — in the Olivet Discourse, the preaching text — says neither he nor the angels know the day or hour; he rebukes sign-seekers as 'an evil and adulterous generation'; and his last recorded words before ascending are that knowing 'times or seasons' is not the disciples' task. A sermon whose central rhetorical hook is a date-exact prophetic stopwatch ('exactly 483 years,' 'April 2, AD 32') sits against Jesus's explicit teaching in the same discourse."
+    },
+    {
+      "id": "f1-4",
+      "axis": 1,
+      "severity": "moderate",
+      "headline": false,
+      "title": "Pastor concedes Jesus did not teach the Rapture, then makes it the sermon's structural event",
+      "timestamp_seconds": 2730,
+      "timestamp_display": "00:45:30",
+      "pastor_quote": "People say the Rapture — that's not found in the Bible… the Old Testament never talked about it, true. Jesus never talked about it, maybe true, with the exception of John 14. Why didn't these people talk about it? When the disciples asked the Lord on the Mount of Olives, 'Lord, what will be the sign of your coming and the end of the age,' did Jesus answer, 'the Rapture will be the next thing'? No. Jesus never talked about it… why? Because the Rapture is for the church alone. Paul was the one who was given the job of revealing the mystery of the church.",
+      "jesus_quotes": [
+        {
+          "citation": "Matt 24:3–31 (Jesus, answering the exact question the pastor names)",
+          "text": "'Tell us, when will these things be, and what will be the sign of your coming and of the end of the age?' [Jesus's entire answer follows — one coming, gathering after tribulation, no two-stage return described.]"
+        },
+        {
+          "citation": "John 14:3 (the one Jesus text the pastor concedes)",
+          "text": "And if I go and prepare a place for you, I will come again and will take you to myself, that where I am you may be also."
+        },
+        {
+          "citation": "Mark 13:26–27 (Jesus's parallel Olivet teaching)",
+          "text": "And then they will see the Son of Man coming in clouds with great power and glory. And then he will send out the angels and gather his elect from the four winds, from the ends of the earth to the ends of heaven."
+        }
+      ],
+      "why_flagged": "The pastor openly acknowledges that Jesus, asked directly on the Mount of Olives what the sign of his coming would be, did not answer with the event the sermon builds around. The resolution offered — that Jesus did not teach it because it was a mystery reserved for Paul — places a Pauline mystery-revelation above Jesus's direct answer to the exact question being preached. This is a methodological inversion of the project of following Jesus's red letters."
+    },
+    {
+      "id": "f2-1",
+      "axis": 2,
+      "severity": "moderate",
+      "headline": false,
+      "title": "Hamas used as rhetorical comparison from the pulpit",
+      "timestamp_seconds": 4050,
+      "timestamp_display": "01:07:30",
+      "pastor_quote": "He may be better than the members of Hamas who behead children, but that doesn't make him worthy of Heaven, because there's only one standard of comparison and that is the perfect righteousness of Jesus Christ.",
+      "jesus_quotes": [
+        {
+          "citation": "Matt 5:44",
+          "text": "Love your enemies and pray for those who persecute you."
+        },
+        {
+          "citation": "Matt 12:36",
+          "text": "I tell you, on the day of judgment people will give account for every careless word they speak."
+        },
+        {
+          "citation": "Luke 6:27–28",
+          "text": "But I say to you who hear, Love your enemies, do good to those who hate you, bless those who curse you, pray for those who abuse you."
+        },
+        {
+          "citation": "Luke 23:34 (from the cross, for actual killers)",
+          "text": "Father, forgive them, for they know not what they do."
+        }
+      ],
+      "why_flagged": "Preached in December 2023, eight weeks after the October 7 attacks, this is a specific named group being deployed as rhetorical foil for a theological point (that works-righteousness fails). The sermon's use — naming 'Hamas' and the specific act of 'beheading children' in a casual comparative — heightens dehumanization of a living opponent rather than grieving the actual atrocity or praying for enemies in Jesus's explicit mode. Moderate, not severe, because it is a passing comparison rather than a sustained argument, but it names a living collective violently in the middle of theological prose, which Jesus's speech ethics (Matt 5:22; 12:36) flag."
+    },
+    {
+      "id": "f2-2",
+      "axis": 2,
+      "severity": "moderate",
+      "headline": false,
+      "title": "Service frames political figures as honored guests; Christian Zionism normalized on stage",
+      "timestamp_seconds": 1430,
+      "timestamp_display": "00:23:50",
+      "pastor_quote": "[Mission 18 video report] '…we welcomed distinguished guests like vice president Mike Pence, Ken Ham, and Shannon Bream… Freedom Sunday with guests US senator James Langford and Guy Penrod — we celebrated our faith and freedom in Christ.' [Then 00:44:30, during the sermon] 'Our friend Mike Evans here today is on the way back to Israel. He's working — he's shining the witness of Christ.'",
+      "jesus_quotes": [
+        {
+          "citation": "John 18:36",
+          "text": "My kingdom is not of this world. If my kingdom were of this world, my servants would have been fighting."
+        },
+        {
+          "citation": "John 6:15",
+          "text": "Perceiving then that they were about to come and take him by force to make him king, Jesus withdrew again to the mountain by himself."
+        },
+        {
+          "citation": "Mark 12:17",
+          "text": "Render to Caesar the things that are Caesar's, and to God the things that are God's."
+        }
+      ],
+      "why_flagged": "The service's highlight reel celebrates a Republican former Vice President and a sitting Republican US senator as 'distinguished guests' under a 'Freedom Sunday' branding that fuses 'faith and freedom' as a unit. The sermon itself publicly blesses Mike Evans — a prominent Christian-Zionist political operator with direct ties to Israeli right-wing coalitions and Trump-era Middle East policy — as doing Christ's work via his Israel advocacy. This is not a partisan sermon-line, but it is the civil-religion / political-network scaffolding around the sermon, and it shapes how the sermon's pro-Israel eschatology lands. Jesus systematically declined alignment with the political options (royal, Zealot, collaborationist) offered to him."
+    }
+  ],
+  "cn_markers": [
+    {
+      "marker": "A. Conflation of national & Christian identity",
+      "status": "Low–Moderate",
+      "reference": "Ethno-national Israel is theologically central to the sermon's prophetic framework; American identity is not fused with Christian identity in this sermon as such.",
+      "note": "Dispensational framework treats modern-state Israel as the prophetically required end-times actor; this is a form of national-spiritual conflation (of a different nation) even if not applied to America."
+    },
+    {
+      "marker": "B. Militaristic / warrior framing",
+      "status": "Low",
+      "reference": "See worship-set language",
+      "note": "Opening worship: 'Crown the Victorious King of Kings.' Rev 19 warrior-Christ imagery ('Jesus Christ and his army of Believers will return') is rendered descriptively within biblical text, not applied to real-world combatants."
+    },
+    {
+      "marker": "C. Political opponents as spiritual enemies",
+      "status": "None detected in this sermon"
+    },
+    {
+      "marker": "D. Dominionist rhetoric",
+      "status": "None detected"
+    },
+    {
+      "marker": "E. Civil religion (flag, pledge, \"America as Christian nation\")",
+      "status": "Present (service-level, not sermon-level)",
+      "reference": "See Finding 2.2",
+      "note": "'Freedom Sunday' with sitting US senator; VP Pence platformed as distinguished guest. Not present in the sermon text itself."
+    },
+    {
+      "marker": "F. Jeremiad / 'Christianity under attack'",
+      "status": "None detected in this sermon"
+    },
+    {
+      "marker": "G. Ethno-cultural 'real American' undertones",
+      "status": "None detected",
+      "note": "Sermon explicitly welcomes global, multi-ethnic online audience; new Spanish-language ministry highlighted."
+    },
+    {
+      "marker": "H. Strongman / authoritarian affinity",
+      "status": "Low",
+      "note": "VP Pence platformed in the mission report; Mike Evans, whose ministry is directly tied to Netanyahu-coalition political figures and Trump-era policy, publicly blessed from the pulpit. Not endorsement of authoritarianism as such, but alignment with a specific political-religious network."
+    }
+  ],
+  "other_axis2_rubrics": [
+    {
+      "rubric": "Anti-Muslim framing",
+      "status": "Not present in this sermon",
+      "note": "Notable given dispensational preachers' frequent drift in this direction; Islam is not named in the sermon's eschatology."
+    },
+    {
+      "rubric": "Anti-LGBTQ framing",
+      "status": "Not present in this sermon"
+    },
+    {
+      "rubric": "Misogynistic framing",
+      "status": "Not present in this sermon"
+    },
+    {
+      "rubric": "Anti-Jewish framing",
+      "status": "Not present",
+      "note": "Jewish people and Israel are centered positively in the eschatological frame (dispensationalism explicitly refuses supersessionism). Rom 11 cited correctly that God has not rejected Israel. The 'hardening' language used is Paul's own."
+    }
+  ],
+  "axis4_findings": [
+    {
+      "id": "f4-1",
+      "axis": 4,
+      "severity": "severe",
+      "headline": true,
+      "title": "Dispensational pre-tribulation premillennialism preached as \"the\" biblical timeline",
+      "topic": "How the Bible as a whole speaks about Christ's return",
+      "timestamp_seconds": 2430,
+      "timestamp_display": "00:40:30",
+      "pastor_quote": "We've said so far in our series that technically we're not in the end times yet — we're in the time that precedes the end times called the Last Days… The end times begins after the Rapture until the second coming of Christ… The Rapture of the church is the snatching away to heaven of all Christians from the time of Pentecost before the tribulation… It is a seven-year period of time when… that final world dictator signs a peace Covenant with Israel.",
+      "jesus_passages": [
+        {
+          "citation": "Matt 24:29–31 (Jesus, in the very passage being preached)",
+          "text": "Immediately after the tribulation of those days… he will send out his angels with a loud trumpet call, and they will gather his elect from the four winds."
+        },
+        {
+          "citation": "Matt 24:36",
+          "text": "But concerning that day and hour no one knows, not even the angels of heaven, nor the Son, but the Father only."
+        },
+        {
+          "citation": "Matt 13:24–30, 36–43 (Jesus's wheat-and-tares parable)",
+          "text": "Let both grow together until the harvest, and at harvest time I will tell the reapers, Gather the weeds first and bind them in bundles to be burned, but gather the wheat into my barn. [i.e., wicked and righteous grow together until ONE judgment.]"
+        },
+        {
+          "citation": "John 5:28–29 (one resurrection, two outcomes)",
+          "text": "An hour is coming when all who are in the tombs will hear his voice and come out, those who have done good to the resurrection of life, and those who have done evil to the resurrection of judgment."
+        },
+        {
+          "citation": "Dan 7:13–14 — cited by Jesus at Matt 26:64 as the template of his coming",
+          "text": "Behold, with the clouds of heaven there came one like a son of man… and to him was given dominion and glory and a kingdom."
+        }
+      ],
+      "wider_bible_passages": [
+        {
+          "citation": "1 Cor 15:23, 52 (Paul, on ONE resurrection 'at the last trumpet')",
+          "text": "Christ the firstfruits, then at his coming those who belong to Christ… in a moment, in the twinkling of an eye, at the last trumpet. For the trumpet will sound, and the dead will be raised imperishable."
+        },
+        {
+          "citation": "2 Thess 2:1–3 (Paul — 'our being gathered to him' follows the man of lawlessness, not precedes him)",
+          "text": "Concerning the coming of our Lord Jesus Christ and our being gathered together to him… that day will not come, unless the rebellion comes first, and the man of lawlessness is revealed."
+        },
+        {
+          "citation": "Rev 20:4–5 (John — resurrection of martyrs AFTER tribulation, not before)",
+          "text": "Then I saw thrones… Also I saw the souls of those who had been beheaded for the testimony of Jesus… They came to life and reigned with Christ for a thousand years."
+        },
+        {
+          "citation": "2 Pet 3:10 (Peter)",
+          "text": "The day of the Lord will come like a thief, and then the heavens will pass away with a roar, and the heavenly bodies will be burned up and dissolved."
+        }
+      ],
+      "analysis": "The specific seven-step timeline the pastor preaches (Church Age → Rapture → 7-year Tribulation → Armageddon → Millennium → Great White Throne → Eternity) is the Scofield / Darby dispensational system, constructed between 1830 and 1909. Before Darby, no major branch of Christianity — Catholic, Orthodox, Reformed, Lutheran, Wesleyan, Anabaptist — taught a two-stage return of Christ separated by a seven-year tribulation. Historic premillennialism (early church, John Piper, Ladd), amillennialism (Augustine, Calvin, most Reformed and Orthodox), postmillennialism (Edwards, many Puritans), and post-tribulation dispensationalism all read Matt 24:29–31, 1 Cor 15, and Rev 20 as describing ONE return with the gathering of the elect AFTER tribulation. Jesus's own language in the preaching text aligns with that majority reading. Paul's own language in 2 Thess 2:1–3 explicitly sequences 'our gathering' AFTER the man of lawlessness is revealed. The sermon does not acknowledge that this is a contested system — it is preached as if dispensationalism simply IS what the Bible says. That is a significant canonical overclaim.",
+      "why_flagged": "A 19th-century theological system is presented without acknowledgment as the biblical timeline. Jesus's own words in the preaching text (Matt 24:29–31), Paul's own words in 2 Thess 2:1–3, and the dominant reading of 1 Cor 15 and Rev 20 all align against the two-stage framework. Alternative eschatologies held by the bulk of historic Christianity are not mentioned."
+    },
+    {
+      "id": "f4-2",
+      "axis": 4,
+      "severity": "severe",
+      "headline": true,
+      "title": "Matthew 25 absent: Jesus's own criterion for final judgment is omitted from a sermon on the Great White Throne",
+      "topic": "On what basis Christ judges at the end",
+      "timestamp_seconds": 3960,
+      "timestamp_display": "01:06:00",
+      "pastor_quote": "The sea gave up the dead which were in it and Hades was empty, death and Hades gave up the dead which were in them, and they were judged every one of them according to their deeds… The only problem is, no matter how good he is, he's not good enough. He may be better than the members of Hamas who behead children, but that doesn't make him worthy of Heaven — because there's only one standard of comparison and that is the perfect righteousness of Jesus Christ.",
+      "jesus_passages": [
+        {
+          "citation": "Matt 25:31–40 (Jesus's own description of judgment at his return)",
+          "text": "Then the King will say to those on his right, 'Come, you who are blessed by my Father, inherit the kingdom prepared for you from the foundation of the world. For I was hungry and you gave me food… as you did it to one of the least of these my brothers, you did it to me.'"
+        },
+        {
+          "citation": "Matt 25:41–46",
+          "text": "Then he will say to those on his left, 'Depart from me, you cursed… For I was hungry and you gave me no food…' And these will go away into eternal punishment, but the righteous into eternal life."
+        },
+        {
+          "citation": "Matt 7:21–23",
+          "text": "Not everyone who says to me, 'Lord, Lord,' will enter the kingdom of heaven, but the one who does the will of my Father who is in heaven."
+        },
+        {
+          "citation": "Isa 58:6–10 — the prophetic tradition Jesus draws on at Matt 25 and reads aloud at Luke 4:18",
+          "text": "Is not this the fast that I choose: to loose the bonds of wickedness… to share your bread with the hungry and bring the homeless poor into your house?"
+        }
+      ],
+      "wider_bible_passages": [
+        {
+          "citation": "James 2:14–17",
+          "text": "What good is it, my brothers, if someone says he has faith but does not have works? Can that faith save him? If a brother or sister is poorly clothed and lacking in daily food, and one of you says to them, 'Go in peace, be warmed and filled,' without giving them the things needed for the body, what good is that? So also faith by itself, if it does not have works, is dead."
+        },
+        {
+          "citation": "Rev 20:12 (the actual Great White Throne text the pastor is preaching)",
+          "text": "And the dead were judged by what was written in the books, according to what they had done."
+        },
+        {
+          "citation": "2 Cor 5:10 (Paul)",
+          "text": "For we must all appear before the judgment seat of Christ, so that each one may receive what is due for what he has done in the body, whether good or evil."
+        },
+        {
+          "citation": "Rom 2:6–8 (Paul)",
+          "text": "He will render to each one according to his works: to those who by patience in well-doing seek for glory and honor and immortality, he will give eternal life."
+        }
+      ],
+      "analysis": "The pastor preaches the Great White Throne scene — which Rev 20:12 explicitly says judges 'according to what they had done' — and then reframes 'according to their deeds' as self-defeating: the deeds are only evidence that works-righteousness fails. This is a valid Protestant point (sola fide; Rom 3:23 is cited), but it is delivered at the cost of the canonical witness, including Jesus's own explicit description of the judgment in Matt 25. In Jesus's own scene, the criterion is concrete care for the hungry, the stranger, the prisoner, the sick. Paul (Rom 2, 2 Cor 5), James (Jas 2), and Revelation itself (Rev 20:12) all speak of works as germane to final judgment — not as contra-gospel but as the fruit of true faith. The sermon's compressed framing, in which 'works' just means 'comparing yourself to terrorists,' rhetorically forecloses the canonical texts that treat works as integral to faith's authenticity. A fair whole-Bible treatment would hold Rom 3:23 together with Matt 25, Jas 2, and Rev 20:12 — not set them against each other.",
+      "why_flagged": "A sermon on the final judgment that quotes Rev 20:12 ('judged according to their deeds') and then never references Matt 25 — Jesus's own picture of that judgment — has omitted the Red-Letter center of the topic. The rhetorical flattening of 'works' (reduced to 'Hamas comparison') sidesteps Jesus, James, Paul, and Revelation all at once."
+    },
+    {
+      "id": "f4-3",
+      "axis": 4,
+      "severity": "moderate",
+      "headline": false,
+      "title": "Eternal conscious torment preached as the only canonical view",
+      "topic": "The nature of final judgment for the lost",
+      "timestamp_seconds": 4090,
+      "timestamp_display": "01:08:10",
+      "pastor_quote": "The horrible truth about hell is: when we have spent ten billion trillion years there, we will not have lessened by one second the time we have left to spend there.",
+      "jesus_passages": [
+        {
+          "citation": "Matt 10:28 (Jesus — cited by both ECT and conditionalist traditions)",
+          "text": "Do not fear those who kill the body but cannot kill the soul. Rather fear him who can destroy both soul and body in hell."
+        },
+        {
+          "citation": "Matt 25:46 (Jesus — the classic ECT proof-text)",
+          "text": "And these will go away into eternal punishment, but the righteous into eternal life."
+        },
+        {
+          "citation": "John 3:16 (Jesus)",
+          "text": "For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life."
+        },
+        {
+          "citation": "Mark 9:48 — Jesus citing Isa 66:24",
+          "text": "Where their worm does not die and the fire is not quenched."
+        },
+        {
+          "citation": "Isa 66:24 — cited by Jesus at Mark 9:48",
+          "text": "And they shall go out and look on the dead bodies of the men who have rebelled against me. For their worm shall not die, their fire shall not be quenched, and they shall be an abhorrence to all flesh."
+        }
+      ],
+      "wider_bible_passages": [
+        {
+          "citation": "Mal 4:1–3 (closes the Hebrew Bible; cited by Jesus at Matt 11:14, 17:12–13 regarding Elijah)",
+          "text": "Behold, the day is coming, burning like an oven, when all the arrogant and all evildoers will be stubble. The day that is coming shall set them ablaze, says the Lord of hosts, so that it will leave them neither root nor branch… you shall tread down the wicked, for they will be ashes under the soles of your feet."
+        },
+        {
+          "citation": "2 Thess 1:9 (Paul)",
+          "text": "They will suffer the punishment of eternal destruction, away from the presence of the Lord and from the glory of his might."
+        },
+        {
+          "citation": "Rev 20:14 (the text the pastor is preaching)",
+          "text": "Then Death and Hades were thrown into the lake of fire. This is the second death, the lake of fire."
+        },
+        {
+          "citation": "1 Cor 15:28 (Paul)",
+          "text": "When all things are subjected to him, then the Son himself will also be subjected to him who put all things in subjection under him, that God may be all in all."
+        }
+      ],
+      "analysis": "Eternal conscious torment (ECT) is a mainstream historical Christian view and has real biblical warrant (Matt 25:46; Rev 14:11). But two other canonical readings exist and are held by serious evangelical scholars: (1) Conditional immortality / annihilationism (John Stott, John Wenham, Edward Fudge, Preston Sprinkle) reads Matt 10:28 'destroy both soul and body,' Mal 4:1–3 'neither root nor branch / they will be ashes,' John 3:16 'should not perish,' and 2 Thess 1:9 'eternal destruction' as pointing to final cessation rather than unending conscious torment; 'eternal punishment' (aiōnios kolasis) is read as punishment of the age to come whose effects are eternal, not as endless duration of conscious suffering. (2) Christian universalism / ultimate reconciliation has a minority but ancient pedigree (Gregory of Nyssa) and reads 1 Cor 15:28 'God all in all' and passages like Col 1:20 as teaching eventual reconciliation. The pastor's 'ten billion trillion years and the time is not lessened' framing is ECT at its most rhetorically extreme, preached as if it were the obvious biblical meaning. Conditionalist readings of the very verses he cites (Rev 20:14 'the second death') are not engaged. A fair whole-Bible treatment would at least acknowledge the canonical ambiguity.",
+      "why_flagged": "The pastor asserts ECT with quantitative vividness ('ten billion trillion years') as though it were the only faithful reading. Jesus's own 'destroy both soul and body' (Matt 10:28), Paul's 'eternal destruction' (2 Thess 1:9), Malachi's 'neither root nor branch' (cited by Jesus at Matt 11:14), and John 3:16's 'should not perish' have sustained a parallel conditionalist reading within conservative evangelicalism for decades. None is engaged."
+    },
+    {
+      "id": "f4-4",
+      "axis": 4,
+      "severity": "moderate",
+      "headline": false,
+      "title": "Modern-state Israel treated as the prophetic Israel; canonical reframing of \"Israel\" in Christ omitted",
+      "topic": "What \"Israel\" means after the coming of Christ",
+      "timestamp_seconds": 2640,
+      "timestamp_display": "00:44:00",
+      "pastor_quote": "The nation as a whole has hardened their heart, but it won't always be that way — it's a temporary hardening of the heart while the fullness of the Gentiles comes in… When every Gentile is finally saved whom God has ordained to be saved, God will resume his plan with Israel in a final seven-week period… That final world dictator signs a peace Covenant with Israel… [00:44:30] Our friend Mike Evans here today is on the way back to Israel. He's working — he's shining the witness of Christ.",
+      "jesus_passages": [
+        {
+          "citation": "Luke 4:24–27 (Jesus's first recorded sermon — directly citing 1 Kings 17 and 2 Kings 5)",
+          "text": "Truly, I say to you, no prophet is acceptable in his hometown… there were many widows in Israel in the days of Elijah… and Elijah was sent to none of them but only to Zarephath, in the land of Sidon… And there were many lepers in Israel in the time of the prophet Elisha, and none of them was cleansed, but only Naaman the Syrian."
+        },
+        {
+          "citation": "Matt 8:10–12 (after the Roman centurion's faith)",
+          "text": "Truly, I tell you, with no one in Israel have I found such faith. I tell you, many will come from east and west and recline at table with Abraham, Isaac, and Jacob in the kingdom of heaven, while the sons of the kingdom will be thrown into the outer darkness."
+        },
+        {
+          "citation": "John 4:21–23 (to the Samaritan woman)",
+          "text": "The hour is coming when neither on this mountain nor in Jerusalem will you worship the Father… the true worshipers will worship the Father in spirit and truth."
+        },
+        {
+          "citation": "Matt 21:43 (Jesus to the temple authorities)",
+          "text": "Therefore I tell you, the kingdom of God will be taken away from you and given to a people producing its fruits."
+        }
+      ],
+      "wider_bible_passages": [
+        {
+          "citation": "Rom 9:6–8 (Paul — the same epistle the pastor cites)",
+          "text": "For not all who are descended from Israel belong to Israel, and not all are children of Abraham because they are his offspring… it is not the children of the flesh who are the children of God, but the children of the promise are counted as offspring."
+        },
+        {
+          "citation": "Gal 3:28–29 (Paul)",
+          "text": "There is neither Jew nor Greek, there is neither slave nor free, there is no male and female, for you are all one in Christ Jesus. And if you are Christ's, then you are Abraham's offspring, heirs according to promise."
+        },
+        {
+          "citation": "Gal 6:16 (Paul)",
+          "text": "And as for all who walk by this rule, peace and mercy be upon them, and upon the Israel of God."
+        },
+        {
+          "citation": "Eph 2:14–16 (Paul)",
+          "text": "For he himself is our peace, who has made us both one and has broken down in his flesh the dividing wall of hostility… that he might create in himself one new man in place of the two."
+        },
+        {
+          "citation": "1 Pet 2:9–10 (Peter, applying Exod 19:6 language to the church)",
+          "text": "But you are a chosen race, a royal priesthood, a holy nation, a people for his own possession… Once you were not a people, but now you are God's people."
+        }
+      ],
+      "analysis": "Rom 11 is canonically real — Paul does say God has not finally rejected ethnic Israel, and the pastor cites it correctly. But Rom 11 sits inside a canonical conversation in which Paul himself (Rom 9:6; Gal 3:28–29; Gal 6:16; Eph 2:14–16) radically reframes who counts as 'Israel,' and in which Jesus (Matt 8:10–12; Matt 21:43; John 4:21–23; Luke 4:24–27) consistently decouples national-ethnic identity from participation in God's kingdom. Peter takes the Exodus 'chosen nation' language and applies it to the church (1 Pet 2:9). The pastor's framework — that God's prophetic clock pauses until modern ethnic-state Israel is the stage for a seven-year tribulation — depends on treating Rom 11 as the controlling text and Gal 3 / Eph 2 / 1 Pet 2 / Matt 8 / Matt 21 as subordinate (or silent). Historic Christianity, both pre-Darby Catholic-Orthodox tradition and the Reformers, read the canon the other direction. The fusion with modern-state Israel is a further step: the pastor's framework treats the 1948 state as prophetic necessity, with all the political downstream implications of that (including the blessing of Mike Evans's Israel work from the pulpit). This is not antisemitism — dispensationalism explicitly refuses supersessionism — but it IS a theological posture that reliably routes American evangelical political energy toward a specific national project.",
+      "why_flagged": "Rom 11 is cited to anchor a framework in which Paul's own broader rewriting of 'Israel' (Rom 9:6; Gal 3:28–29; Gal 6:16; Eph 2; 1 Pet 2) is silent. Jesus's systematic decoupling of ethnic-national identity from kingdom participation is not engaged. The theological framework is then politically operationalized via the on-stage blessing of a prominent Christian Zionist figure."
+    }
+  ],
+  "factual_claims": [
+    {
+      "id": "fc-1",
+      "timestamp_seconds": 3480,
+      "timestamp_display": "00:58:00",
+      "claim": "The decree to rebuild Jerusalem went out on March 14, 445 BC, from Artaxerxes Longimanus, and exactly 483 years later on Palm Sunday, April 2, AD 32, the Messiah was presented — fulfilling Daniel 9:25 to the day.",
+      "evidence_cited_by_pastor": "Harold Hoehner's chronology is named (\"my old Seminary Professor Harold Hoehner has done a chronology of this\"). Hoehner taught at Dallas Theological Seminary; the work referenced is Chronological Aspects of the Life of Christ (1977).",
+      "verdict": "contested",
+      "analysis": "Hoehner's chronology exists and is real scholarship (updated from Sir Robert Anderson's 1894 The Coming Prince), but it is one contested reconstruction within conservative evangelical dispensationalism — not a settled historical fact. Key problems the sermon does not flag: (1) The starting decree is disputed. Three candidates exist: Cyrus's decree (538 BC), Artaxerxes' decree to Ezra (458 BC, which Reformed scholars and many conservative OT scholars favor), and Artaxerxes' 20th-year commission to Nehemiah (445/444 BC). Daniel 9:25 says 'restore and build Jerusalem' — whether that best fits Ezra 7's broad authorization or Nehemiah 2's wall-building commission is debated. (2) The Palm Sunday date of April 2, AD 32 requires Hoehner's specific reckoning using 360-day 'prophetic years' rather than solar years, and his identification of the crucifixion year as AD 33 (not the more common AD 30 or AD 33). Most NT scholarship places Jesus's crucifixion in AD 30 or AD 33; AD 32 Palm Sunday sits inside Hoehner's specific AD 33 crucifixion reconstruction. (3) Mainstream OT scholarship (John Collins, James Montgomery, Dale Allison) reads Daniel 9's '70 weeks' as referring primarily to the Antiochus IV Epiphanes crisis (c. 167 BC) with symbolic rather than date-exact chronology. The pastor's framing — 'we know the date this stopwatch started counting down' — presents one dispensationalist reconstruction as though it were historical bedrock.",
+      "sources": [
+        {
+          "title": "Harold W. Hoehner — Chronological Aspects of the Life of Christ (Zondervan, 1977)"
+        },
+        {
+          "title": "John J. Collins — Daniel (Hermeneia commentary, Fortress, 1993)"
+        },
+        {
+          "title": "Dale C. Allison — review literature on 70-weeks prophecy interpretations"
+        }
+      ]
+    },
+    {
+      "id": "fc-2",
+      "timestamp_seconds": 4050,
+      "timestamp_display": "01:07:30",
+      "claim": "Members of Hamas behead children.",
+      "evidence_cited_by_pastor": "None. Delivered as a given fact in the course of a theological comparison (see Finding 2.1).",
+      "verdict": "partially supported / overstated",
+      "analysis": "Preached December 3, 2023 — eight weeks after the October 7, 2023 Hamas-led attacks in southern Israel in which roughly 1,200 Israelis were killed, including children. Hamas-led militants did kill children on October 7, including in Kibbutz Be'eri, Kibbutz Kfar Aza, and the Nova music festival — that core fact is well-documented. However, the specific 'beheading of babies' framing has a complicated evidentiary status: the widely-circulated early report of '40 beheaded babies' was traced to an unverified claim by an Israeli soldier reported by i24 and amplified by Prime Minister Netanyahu's office. Forensic work by ZAKA and the Israeli authorities later documented decapitation injuries on some victims (including both adults and at least one infant per subsequent reporting), but the 'Hamas beheads children' formulation as a general characterization overstates what the forensic record specifically establishes and imports a claim whose popularization included a significant unverified-report chain. A fair framing would distinguish 'Hamas killed children on October 7' (well-supported) from 'beheading children' as a general Hamas practice (partially supported at best, and bearing the history of a partially-debunked early claim). Preached from the pulpit without qualifier, as a stipulated fact in a theological comparison, the claim overstates the verified record.",
+      "sources": [
+        {
+          "title": "AP News — 'Israel says Hamas raped, mutilated women on Oct. 7. Now, a key UN report has confirmed sexual violence' (March 2024)"
+        },
+        {
+          "title": "CNN — 'Unverified reports of beheaded babies spread widely after October 7 attacks' coverage"
+        },
+        {
+          "title": "Haaretz and Times of Israel reporting on ZAKA forensic identification work, October–December 2023"
+        }
+      ]
+    },
+    {
+      "id": "fc-3",
+      "timestamp_seconds": 1550,
+      "timestamp_display": "00:25:50",
+      "claim": "Pathway to Victory has been the most-watched television program on the Trinity Broadcasting Network — the largest Christian television network in the world — for more than 40 consecutive months.",
+      "evidence_cited_by_pastor": "None. Delivered as a ministry-report statistic.",
+      "verdict": "needs verification",
+      "analysis": "TBN is indeed the largest Christian television network globally (by carriage and satellite footprint), which is uncontested. The specific ranking of Pathway to Victory as 'most watched' on TBN for 40+ consecutive months is a claim that would need to be verified against TBN's internal audience-measurement data, which is not routinely published. Nielsen-level Christian-network ratings are not a public dataset. The claim is plausible — Jeffress's broadcast is widely distributed and the PTV / TBN partnership is real — but the specific 'most-watched for 40+ consecutive months' assertion is a ministry self-report without a citable independent source. Marking 'needs verification' rather than true/false.",
+      "sources": []
+    },
+    {
+      "id": "fc-4",
+      "timestamp_seconds": 3450,
+      "timestamp_display": "00:57:30",
+      "claim": "Cyrus the Great issued a decree in 536 BC to rebuild the Temple — but not to rebuild the city of Jerusalem; the decree to rebuild Jerusalem came from Artaxerxes Longimanus in 445 BC.",
+      "evidence_cited_by_pastor": "None cited directly; the framework relies on Hoehner's reading (see fc-1).",
+      "verdict": "partially supported / overstated",
+      "analysis": "The broad contours are correct in mainstream conservative scholarship: Cyrus's decree (traditionally dated 538 BC, not 536 BC — the date the pastor gives is two years off) per Ezra 1 authorized rebuilding the Temple; Artaxerxes' commission to Nehemiah in his 20th year (Nehemiah 2, commonly dated 445 or 444 BC) authorized rebuilding the city walls. However, there is a THIRD decree the pastor omits that many scholars (including conservative ones like E.J. Young, Gleason Archer on alternative datings) take as the referent of Daniel 9:25: Artaxerxes' decree to Ezra in 458 BC (Ezra 7:11–26), which explicitly authorized restoration of Jewish civil authority in Jerusalem. Dating Cyrus at '536 BC' rather than 538 BC is a two-year error. Treating the Nehemiah 445 BC commission as the only viable referent for Daniel 9:25 ignores a significant scholarly alternative that places the starting point at Ezra's 458 BC commission. The claim is substantially accurate in its broad outlines but precision-flawed and omits canonical alternatives.",
+      "sources": [
+        {
+          "title": "The Book of Ezra, chapters 1 and 7 (primary source)"
+        },
+        {
+          "title": "The Book of Nehemiah, chapter 2 (primary source)"
+        },
+        {
+          "title": "E.J. Young — The Prophecy of Daniel (Eerdmans, 1949) — defends 458 BC as starting point"
+        }
+      ]
+    }
+  ],
+  "reach": {
+    "view_count": 16383,
+    "like_count": 318,
+    "channel": "First Baptist Dallas",
+    "channel_id": "UCoifM1VPrNtxh5DCIANaxJA",
+    "channel_follower_count": 206000,
+    "upload_date": "20231203",
+    "source": "yt-dlp",
+    "congregation": {
+      "weekly_attendance_est": 16000,
+      "source": "Hartford Institute megachurch database"
+    }
+  }
+}

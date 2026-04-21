@@ -1,0 +1,708 @@
+{
+  "meta": {
+    "sermon_title": "Pastor John Hagee - \"The End of Days\"",
+    "preacher": "Pastor John Hagee",
+    "church": "Cornerstone Church",
+    "church_location": "San Antonio, TX",
+    "series": "",
+    "preaching_text": "",
+    "youtube_id": "u_3p70bB2so",
+    "upload_date": "2025-06-18",
+    "runtime_seconds": 1710,
+    "transcript_path": "transcripts/20250618_pastor_john_hagee_pastor_john_hagee_the_end_of_days.txt",
+    "gospel_translation": "ESV"
+  },
+  "summary": "Hagee delivers a classic pre-tribulational dispensationalist sermon: rapture → 10-leader revived Roman Empire / Antichrist → seven-year tribulation → Gog-Magog war (Russia + Iran + Turkey framed as a \"Russian Islamic coalition\") → Armageddon (China with a 200-million-man army) → millennial reign → great white throne judgment → New Jerusalem. Interwoven throughout is aggressive Christian Zionism — Israel as God's \"favorite place,\" Matt 25:40's \"least of these my brethren\" read as the Jewish people, and explicit political directives: deport pro-Palestinian protesters, defund \"anti-Semitic universities,\" fire professors, and tell US politicians to \"butt out of Israel's war with Hamas and Hezbollah.\" Closes with a rapture-readiness altar call and a ministry fundraising pitch for a 30-day Israel devotional and anointing oil.",
+  "scorecard": {
+    "axis_1": {
+      "label": "Fidelity to Jesus's Teachings (Red Letters)",
+      "verdict": "Substantial divergence",
+      "severity": "severe",
+      "headline": "Jesus's own guardrails on end-times speculation (Matt 24:36; Acts 1:7), his rebuke of disciples seeking divine destruction of religious outsiders (Luke 9:55), and his enemy-love ethic (Matt 5:44) are set aside. Matt 25:40's 'least of these my brethren' is re-assigned from the hungry, thirsty, stranger, naked, sick, and imprisoned to an ethnic-national category — inverting the passage's own criteria."
+    },
+    "axis_2": {
+      "label": "Identifiable Biases / Harmful Rhetoric",
+      "verdict": "Severe xenophobic and anti-Muslim framing paired with authoritarian political directives",
+      "severity": "severe",
+      "headline": "Explicit calls from the pulpit to deport protesters, defund universities, and fire professors; an 'Islamic coalition' framing of a prophesied divine-destruction war; and a theological threat that America's divine favor is contingent on unconditional support for Israel's military campaigns."
+    },
+    "axis_3": {
+      "label": "Factual Claims & Evidence Check",
+      "verdict": "Unsourced, with specific factual overstatements",
+      "severity": "moderate",
+      "headline": "Oct 7 casualty figure overstated (~1,200 vs. claimed 1,400); 'children beheaded' claim is contested/walked back by IDF; Ezekiel-38-as-modern-Russia identification is a 20th-century dispensationalist reading rejected by mainstream OT scholarship. No source citations offered for any empirical or geopolitical claim."
+    },
+    "axis_4": {
+      "label": "Whole-Bible Engagement",
+      "verdict": "Heavily selective; minority apocalyptic voices presented as the canon",
+      "severity": "severe",
+      "headline": "The sermon leans on Ezekiel 38, Psalm 2, and Revelation while ignoring Jonah, Amos 9:7, Isaiah 19, Luke 4:25–27, Matt 25:31–46, and the Sermon on the Mount. On every major theme — enemies, national favor, judgment, Israel — the canonical counter-witness is extensive and unengaged."
+    }
+  },
+  "tenets_affirmed": [
+    "Accurate historical framing of the 70 AD destruction of the Second Temple under Roman siege (Matthew 24:1–2).",
+    "Faithful rendering of Jesus's three Olivet questions from Matthew 24:3 (when, sign of your coming, sign of the end of the age).",
+    "Correct identification of Pentecost as the inaugural event of the church age (Acts 2), including the detail of the 120 in the upper room and 'cloven tongues of fire.'",
+    "Christological affirmation that Jesus is Jewish — 'the Lion of Judah' — and that 'salvation is of the Jews' (John 4:22) is quoted directly from Jesus himself, correctly attributed to his encounter with the Samaritan woman."
+  ],
+  "counter_signals": [
+    "Explicit affirmation that the Jewish people gave Christians the Scriptures, the patriarchs, and Jesus himself — a robust rejection of Marcionism and supersessionism on that specific point.",
+    "Ministry mentions humanitarian aid work ('sanctuary of hope,' mothers and children) and international relief efforts as part of its stated mission.",
+    "Public invitation for listeners to respond to the altar call is clear, non-coercive, and doctrinally standard (repentance, confession, Lordship).",
+    "Jesus's direct quotation from John 4:22 ('salvation is of the Jews') is handled accurately rather than being stripped of its Jewish context."
+  ],
+  "findings": [
+    {
+      "id": "f1-1",
+      "axis": 1,
+      "severity": "severe",
+      "headline": true,
+      "title": "Matthew 25:40 re-assigned from the hungry/thirsty/stranger/naked/sick/imprisoned to an ethnic-national category",
+      "timestamp_seconds": 1070,
+      "timestamp_display": "00:17:50",
+      "pastor_quote": "Why should I be concerned with how the Jewish people are treated? Because Matthew says in chapter 25:40, 'Assuredly I say to you, in as much as you have done it to the least of these my brethren, the Jewish people, you have done it unto me.'",
+      "jesus_quotes": [
+        {
+          "citation": "Matt 25:35–40 (the full passage — the criterion Jesus himself names)",
+          "text": "For I was hungry and you gave me food, I was thirsty and you gave me drink, I was a stranger and you welcomed me, I was naked and you clothed me, I was sick and you visited me, I was in prison and you came to me… Truly, I say to you, as you did it to one of the least of these my brothers, you did it to me."
+        },
+        {
+          "citation": "Matt 12:48–50 (how Jesus elsewhere defines 'my brethren')",
+          "text": "Who is my mother, and who are my brothers?… For whoever does the will of my Father in heaven is my brother and sister and mother."
+        },
+        {
+          "citation": "Luke 10:29–37 (Jesus's own answer to 'who is my neighbor?')",
+          "text": "But a Samaritan, as he journeyed, came to where he was, and when he saw him, he had compassion… 'The one who showed him mercy.' And Jesus said to him, 'You go, and do likewise.'"
+        }
+      ],
+      "why_flagged": "Hagee inserts 'the Jewish people' into his quotation of Matt 25:40 — the phrase is not in the text. Jesus defines 'the least of these' by condition (hungry, thirsty, stranger, naked, sick, imprisoned) and elsewhere defines 'my brethren' by obedience to the Father's will, not ethnicity. The substitution silently re-writes the criterion of the final judgment from concrete mercy to stranger/prisoner/sick into an ethno-national category, and the sermon never engages the actual six-fold works-of-mercy standard Jesus gives."
+    },
+    {
+      "id": "f1-2",
+      "axis": 1,
+      "severity": "severe",
+      "headline": true,
+      "title": "Cheering God's destruction of enemy nations inverts Jesus's Luke 9:55 rebuke",
+      "timestamp_seconds": 180,
+      "timestamp_display": "00:03:00",
+      "pastor_quote": "Hello China, Russia, Iran, Turkey. The day you lift your hand to attack Israel, God Almighty is going to crush you… God is going to wipe Israel's enemies off the face of the earth. [Applause]",
+      "jesus_quotes": [
+        {
+          "citation": "Luke 9:52–55 (disciples propose calling down fire on a foreign religious-outsider village)",
+          "text": "'Lord, do you want us to tell fire to come down from heaven and consume them?' But he turned and rebuked them."
+        },
+        {
+          "citation": "Matt 5:43–45",
+          "text": "You have heard that it was said, 'You shall love your neighbor and hate your enemy.' But I say to you, love your enemies and pray for those who persecute you, so that you may be sons of your Father who is in heaven."
+        },
+        {
+          "citation": "Luke 23:34 (from the cross)",
+          "text": "Father, forgive them, for they know not what they do."
+        },
+        {
+          "citation": "Ezek 33:11 — the same prophet as Ezek 38, cited by Jesus's tradition",
+          "text": "As I live, declares the Lord God, I have no pleasure in the death of the wicked, but that the wicked turn from his way and live."
+        }
+      ],
+      "why_flagged": "The precise move the disciples made — proposing divine destruction of a religious-outsider population — is the move Jesus specifically rebuked by name. The sermon reverses this: congregational applause is invited for the destruction of four named nations (China, Russia, Iran, Turkey, representing ~1.7 billion people). Even granting the Ezek 38 framework, the same prophet explicitly denies God takes pleasure in the wicked's death (33:11); the sermon does the opposite."
+    },
+    {
+      "id": "f1-3",
+      "axis": 1,
+      "severity": "severe",
+      "headline": false,
+      "title": "End-times sign-reading contradicts Matt 24:36 from inside the passage being preached",
+      "timestamp_seconds": 30,
+      "timestamp_display": "00:00:30",
+      "pastor_quote": "2600 years ago, the headlines in the Bible written by the prophet Ezekiel in chapters 38 and 39 describe the condition of the Middle East right now. Exactly… Today, let the church of Jesus Christ prepare for rapture. For we are most certainly getting ready to leave this world.",
+      "jesus_quotes": [
+        {
+          "citation": "Matt 24:36 (from the very chapter Hagee preaches)",
+          "text": "But concerning that day and hour no one knows, not even the angels of heaven, nor the Son, but the Father only."
+        },
+        {
+          "citation": "Matt 24:42–44",
+          "text": "Therefore, stay awake, for you do not know on what day your Lord is coming… the Son of Man is coming at an hour you do not expect."
+        },
+        {
+          "citation": "Matt 16:1–4 (Jesus refuses sign-seekers)",
+          "text": "An evil and adulterous generation seeks for a sign, but no sign will be given to it except the sign of Jonah."
+        },
+        {
+          "citation": "Acts 1:7 (Jesus, just before ascending)",
+          "text": "It is not for you to know times or seasons that the Father has fixed by his own authority."
+        },
+        {
+          "citation": "Matt 24:37–39 — Jesus's one OT analogy for his coming (Gen 6–9) emphasizes UNEXPECTEDNESS, not signposts",
+          "text": "For as were the days of Noah… they were eating and drinking, marrying and giving in marriage, until the day when Noah entered the ark, and they were unaware until the flood came and swept them all away, so will be the coming of the Son of Man."
+        }
+      ],
+      "why_flagged": "The sermon's central rhetorical engine is specific geopolitical sign-reading ('exactly,' 'right now,' 'we are most certainly getting ready to leave this world'). Matt 24:36 — a verse in the passage Hagee opened the service reading — directly disclaims this kind of confident mapping. The sermon quotes Matt 24:1–3 but omits 24:36 and Acts 1:7, both of which contradict the interpretive method being demonstrated."
+    },
+    {
+      "id": "f1-4",
+      "axis": 1,
+      "severity": "moderate",
+      "headline": false,
+      "title": "Hell rhetoric ('50 million years,' beheadings, pay-day) without the gospel posture Jesus models with unbelievers",
+      "timestamp_seconds": 820,
+      "timestamp_display": "00:13:40",
+      "pastor_quote": "This is going to be your payday for the next 50 million years because you were fool enough to think that Jesus shouldn't be the Lord of your life. I just put a limit on 50 million years because you can't think further than that.",
+      "jesus_quotes": [
+        {
+          "citation": "John 3:17",
+          "text": "For God did not send his Son into the world to condemn the world, but in order that the world might be saved through him."
+        },
+        {
+          "citation": "Luke 15:20 (the father and prodigal)",
+          "text": "But while he was still a long way off, his father saw him and felt compassion, and ran and embraced him and kissed him."
+        },
+        {
+          "citation": "Matt 23:37 (Jesus weeping over Jerusalem's unbelief)",
+          "text": "How often would I have gathered your children together as a hen gathers her brood under her wings, and you were not willing!"
+        },
+        {
+          "citation": "2 Pet 3:9 (capturing Jesus's stance — 'not willing that any should perish')",
+          "text": "The Lord is not slow to fulfill his promise as some count slowness, but is patient toward you, not wishing that any should perish, but that all should reach repentance."
+        }
+      ],
+      "why_flagged": "Jesus does warn of judgment — this isn't the tension. The tension is the posture. When Jesus addresses people under judgment he weeps (Matt 23:37), runs to them (Luke 15:20), dies for them (John 3:17). Calling the lost a 'fool' for rejection and quantifying their suffering as 'payday' is closer to the rhetoric Jesus warned against in Matt 5:22 ('whoever says, You fool, will be liable to the hell of fire') than to the posture he modeled."
+    },
+    {
+      "id": "f2-1",
+      "axis": 2,
+      "severity": "severe",
+      "headline": true,
+      "title": "Direct political directives from the pulpit: deport protesters, defund universities, fire professors",
+      "timestamp_seconds": 1240,
+      "timestamp_display": "00:20:40",
+      "timestamp_end_seconds": 1300,
+      "pastor_quote": "These flag burning, god-hating, anti-semitic garbage needs to be deported. Send them back where they come from. Anti-semitic universities that plant the virus of anti-semitism into the hearts and minds of the next generation need to be defunded by the government of the United States. Anti-Semitic professors and university presidents should be fired who are a part of this.",
+      "jesus_quotes": [
+        {
+          "citation": "Matt 5:44",
+          "text": "Love your enemies and pray for those who persecute you."
+        },
+        {
+          "citation": "John 18:36",
+          "text": "My kingdom is not of this world. If my kingdom were of this world, my servants would have been fighting."
+        },
+        {
+          "citation": "Matt 22:21",
+          "text": "Render to Caesar the things that are Caesar's, and to God the things that are God's."
+        },
+        {
+          "citation": "Matt 5:22",
+          "text": "Whoever insults his brother will be liable to the council; and whoever says, 'You fool!' will be liable to the hell of fire."
+        }
+      ],
+      "why_flagged": "Three specific state-action demands delivered from the pulpit (deportation, defunding, firing) framed as the Christian response to protest speech. 'Garbage' is the rhetorical register — dehumanizing language that Jesus's speech ethic in Matt 5:22 directly targets. The move from 'anti-Semitic' to 'deport them where they come from' conflates US citizens and non-citizens, ideological opposition and xenophobic removal, in a single applause line. Reach (televised, Hagee Ministries' international distribution, 5,000+ seat auditorium) amplifies real-world harm potential substantially."
+    },
+    {
+      "id": "f2-2",
+      "axis": 2,
+      "severity": "severe",
+      "headline": true,
+      "title": "America's divine favor framed as conditional on supporting Israeli military campaigns",
+      "timestamp_seconds": 1340,
+      "timestamp_display": "00:22:20",
+      "pastor_quote": "The day America stops blessing Israel will be the day God stops blessing this country. And I want to tell you, there are people in our Congress and in our national leadership that are doing just that. It's high time to be as bold as a lion in the defense of Zion.",
+      "jesus_quotes": [
+        {
+          "citation": "Luke 4:25–27 (Jesus's first recorded sermon — God's favor landing on Sidonians and a Syrian)",
+          "text": "There were many widows in Israel in the days of Elijah… and Elijah was sent to none of them but only to Zarephath, in the land of Sidon, to a woman who was a widow. And there were many lepers in Israel in the time of the prophet Elisha, and none of them was cleansed, but only Naaman the Syrian."
+        },
+        {
+          "citation": "John 18:36",
+          "text": "My kingdom is not of this world."
+        },
+        {
+          "citation": "Matt 5:45 (God's sun and rain are indiscriminate, not national)",
+          "text": "He makes his sun rise on the evil and on the good, and sends rain on the just and on the unjust."
+        }
+      ],
+      "why_flagged": "Combines two Christian-nationalism markers: (1) conflation of national & Christian identity — the US's divine standing is presented as contingent on geopolitical alignment with a specific foreign state's military posture; (2) political opponents as spiritual enemies — 'people in our Congress and in our national leadership' are framed as agents of America's loss of God's blessing. This is a specific, televised, mass-audience theological threat aimed at sitting US lawmakers."
+    },
+    {
+      "id": "f2-3",
+      "axis": 2,
+      "severity": "moderate",
+      "headline": false,
+      "title": "Anti-Muslim framing folded into eschatology ('Russian Islamic coalition')",
+      "timestamp_seconds": 500,
+      "timestamp_display": "00:08:20",
+      "pastor_quote": "A Russian Islamic coalition will attack Israel. This will be the Gog Magog war… Russia and Iran are destroyed by the hand of God in the middle of the tribulation.",
+      "jesus_quotes": [
+        {
+          "citation": "Luke 10:33–37 (Good Samaritan — a religious outsider as moral exemplar)",
+          "text": "But a Samaritan, as he journeyed, came to where he was, and when he saw him, he had compassion."
+        },
+        {
+          "citation": "Matt 8:10–11 (Jesus on the faith of a Roman centurion — an enemy-empire soldier)",
+          "text": "Truly, I tell you, with no one in Israel have I found such faith. I tell you, many will come from east and west and recline at table with Abraham, Isaac, and Jacob in the kingdom of heaven."
+        },
+        {
+          "citation": "Matt 12:41 (Jesus holds Nineveh — the enemy empire — up as morally superior)",
+          "text": "The men of Nineveh will rise up at the judgment with this generation and condemn it, for they repented at the preaching of Jonah."
+        }
+      ],
+      "why_flagged": "'Islamic coalition' functions as an ethno-religious identifier of divine-destruction targets. The biblical Ezek 38 list (Gog, Magog, Meshech, Tubal, Persia, Cush, Put, Beth-togarmah) predates Islam by roughly 1,200 years, so mapping it onto 'Islamic nations' is an anachronistic move that Ezekiel scholarship (Block, Zimmerli, Cook) rejects. The effect is to theologize 'Muslims as end-times enemies' for a mass audience."
+    },
+    {
+      "id": "f2-4",
+      "axis": 2,
+      "severity": "moderate",
+      "headline": false,
+      "title": "Boasting of private direct political counsel to a head of state",
+      "timestamp_seconds": 1300,
+      "timestamp_display": "00:21:40",
+      "pastor_quote": "This in part is what I said to the prime minister when he looked at me and said, 'What do you have to say?' I said, 'Mr. Prime Minister, it's time for our political leaders in Washington to butt out of Israel's war with Hamas and Hezbollah and to permit Israel to win this war once and for all.'",
+      "jesus_quotes": [
+        {
+          "citation": "Matt 6:1",
+          "text": "Beware of practicing your righteousness before other people in order to be seen by them, for then you will have no reward from your Father who is in heaven."
+        },
+        {
+          "citation": "John 18:36",
+          "text": "My kingdom is not of this world."
+        },
+        {
+          "citation": "Matt 20:25–26",
+          "text": "You know that the rulers of the Gentiles lord it over them, and their great ones exercise authority over them. It shall not be so among you."
+        }
+      ],
+      "why_flagged": "The anecdote is deployed to (a) establish the pastor's personal access to state power, and (b) advocate a specific US foreign-policy posture from the pulpit ('butt out… permit Israel to win this war once and for all' — i.e., a military maximalist line on Gaza and Lebanon). Combines political-opponents-as-spiritual-enemies with a self-display move Jesus explicitly cautioned against in Matt 6:1."
+    }
+  ],
+  "axis4_findings": [
+    {
+      "id": "f4-1",
+      "axis": 4,
+      "severity": "severe",
+      "headline": true,
+      "title": "Ezekiel 38 as a live map of modern Russia/Iran/Turkey/China",
+      "topic": "How God relates to foreign peoples and empires",
+      "timestamp_seconds": 30,
+      "timestamp_display": "00:00:30",
+      "pastor_quote": "2600 years ago, the headlines in the Bible written by the prophet Ezekiel in chapters 38 and 39 describe the condition of the Middle East right now. Exactly… In Ezekiel chapter 38, Russia is the king of the north… Hello China, Russia, Iran, Turkey. The day you lift your hand to attack Israel, God Almighty is going to crush you.",
+      "jesus_passages": [
+        {
+          "citation": "Luke 4:25–27 — Jesus's inaugural sermon, citing 1 Kings 17 and 2 Kings 5",
+          "text": "There were many widows in Israel in the days of Elijah… and Elijah was sent to none of them but only to Zarephath, in the land of Sidon… There were many lepers in Israel in the time of the prophet Elisha, and none of them was cleansed, but only Naaman the Syrian."
+        },
+        {
+          "citation": "Matt 12:39–41 — Jesus cites Jonah, holding up an enemy empire as morally superior",
+          "text": "The men of Nineveh will rise up at the judgment with this generation and condemn it, for they repented at the preaching of Jonah."
+        },
+        {
+          "citation": "Luke 9:52–55 — Jesus rebukes disciples who want fire from heaven on a religious-outsider village",
+          "text": "'Lord, do you want us to tell fire to come down from heaven and consume them?' But he turned and rebuked them."
+        },
+        {
+          "citation": "Matt 5:44–45",
+          "text": "Love your enemies and pray for those who persecute you, so that you may be sons of your Father who is in heaven. For he makes his sun rise on the evil and on the good."
+        }
+      ],
+      "wider_bible_passages": [
+        {
+          "citation": "Jonah 4:10–11 (the book's punchline)",
+          "text": "Should I not pity Nineveh, that great city, in which there are more than 120,000 persons who do not know their right hand from their left?"
+        },
+        {
+          "citation": "Ezek 33:11 (the same prophet as Ezek 38)",
+          "text": "As I live, declares the Lord God, I have no pleasure in the death of the wicked, but that the wicked turn from his way and live."
+        },
+        {
+          "citation": "Isa 19:23–25 (on Egypt and Assyria — Israel's paradigmatic enemies)",
+          "text": "In that day Israel will be the third with Egypt and Assyria, a blessing in the midst of the earth, whom the Lord of hosts has blessed, saying, 'Blessed be Egypt my people, and Assyria the work of my hands, and Israel my inheritance.'"
+        },
+        {
+          "citation": "Amos 9:7 (God's equal regard for Israel's neighbors)",
+          "text": "Are you not like the Cushites to me, O people of Israel? declares the Lord. Did I not bring up Israel from the land of Egypt, and the Philistines from Caphtor and the Syrians from Kir?"
+        },
+        {
+          "citation": "Rev 21:24–26",
+          "text": "By its light will the nations walk, and the kings of the earth will bring their glory into it… They will bring into it the glory and the honor of the nations."
+        }
+      ],
+      "analysis": "The 'Rosh = Russia' identification is a phonetic, not textual, move — the Hebrew rosh in Ezek 38:2–3 is standardly translated 'chief prince of Meshech and Tubal,' not as the name of a nation. This geographic mapping to modern Russia/Iran/Turkey/China is a 19th–20th-century dispensationalist innovation (popularized by John Nelson Darby, C. I. Scofield, Hal Lindsey's The Late Great Planet Earth 1970); it is not the reading of mainstream Ezekiel scholarship (Block, Zimmerli, Cook). More significantly, the wider canonical witness on God's posture toward foreign nations runs the other way: Jonah's entire argument is that God pities Nineveh; Ezekiel's own 33rd chapter says God has 'no pleasure in the death of the wicked'; Isaiah 19 ends with God blessing Egypt and Assyria; Amos tells Israel God brought the Philistines and Syrians out of their own lands the same way. Jesus ratifies and intensifies this minority-OT voice — his first sermon in Luke 4 cites two foreigner-favored stories; Matt 12:41 makes the enemy city morally superior to Jesus's own audience; Luke 9:55 rebukes precisely the eschatological-destruction move the sermon invites applause for. Hagee draws from none of this counter-witness.",
+      "why_flagged": "The dominant canonical testimony on how God relates to foreign peoples (Jonah entire, Amos 9:7, Isa 19, Ezek 33:11, Luke 4:25–27, Matt 12:41, Luke 9:55, Matt 5:44–45, Rev 21:24) is unengaged. A single apocalyptic passage read through a 20th-century political lens is treated as the Bible's voice on the question."
+    },
+    {
+      "id": "f4-2",
+      "axis": 4,
+      "severity": "severe",
+      "headline": true,
+      "title": "Matthew 25's 'least of these my brethren' — ethno-national substitution",
+      "topic": "Who are 'the least of these my brethren' in Jesus's judgment scene?",
+      "timestamp_seconds": 1070,
+      "timestamp_display": "00:17:50",
+      "pastor_quote": "Matthew says in chapter 25:40, 'Assuredly I say to you, in as much as you have done it to the least of these my brethren, the Jewish people, you have done it unto me.'",
+      "jesus_passages": [
+        {
+          "citation": "Matt 25:35–40 (the text as Jesus gives it)",
+          "text": "For I was hungry and you gave me food, I was thirsty and you gave me drink, I was a stranger and you welcomed me, I was naked and you clothed me, I was sick and you visited me, I was in prison and you came to me… as you did it to one of the least of these my brothers, you did it to me."
+        },
+        {
+          "citation": "Matt 12:48–50 (Jesus's own definition of 'my brothers')",
+          "text": "Whoever does the will of my Father in heaven is my brother and sister and mother."
+        },
+        {
+          "citation": "Matt 10:40–42 (the nearest Matthean parallel to Matt 25)",
+          "text": "Whoever receives you receives me… And whoever gives one of these little ones even a cup of cold water because he is a disciple, truly, I say to you, he will by no means lose his reward."
+        },
+        {
+          "citation": "Luke 4:18–19 — Jesus citing Isa 61:1–2",
+          "text": "The Spirit of the Lord is upon me, because he has anointed me to proclaim good news to the poor. He has sent me to proclaim liberty to the captives and recovering of sight to the blind, to set at liberty those who are oppressed."
+        }
+      ],
+      "wider_bible_passages": [
+        {
+          "citation": "Lev 19:33–34 (same chapter Jesus cites as the 2nd great commandment, Matt 22:39)",
+          "text": "When a stranger sojourns with you in your land, you shall not do him wrong. You shall treat the stranger who sojourns with you as the native among you, and you shall love him as yourself."
+        },
+        {
+          "citation": "Deut 10:18–19",
+          "text": "He executes justice for the fatherless and the widow, and loves the sojourner, giving him food and clothing. Love the sojourner, therefore, for you were sojourners in the land of Egypt."
+        },
+        {
+          "citation": "Isa 58:6–7 (on what real fasting looks like)",
+          "text": "Is not this the fast that I choose: to loose the bonds of wickedness… to share your bread with the hungry and bring the homeless poor into your house; when you see the naked, to cover him…?"
+        },
+        {
+          "citation": "Jas 2:14–17",
+          "text": "If a brother or sister is poorly clothed and lacking in daily food, and one of you says to them, 'Go in peace, be warmed and filled,' without giving them the things needed for the body, what good is that?"
+        },
+        {
+          "citation": "Heb 13:2–3",
+          "text": "Do not neglect to show hospitality to strangers… Remember those who are in prison, as though in prison with them."
+        }
+      ],
+      "analysis": "Scholarly readings of Matt 25:31–46 run in two main directions: (a) 'the least of these my brethren' = Jesus's disciples, especially itinerant missionaries (supported by Matt 10:40–42 and Matt 12:48–50), or (b) the poor/hungry/imprisoned/stranger generally (supported by the criteria Jesus himself names and by Isa 58, which Jesus cites in Luke 4). The ethno-national reading — 'my brethren' = the Jewish people collectively, regardless of the six conditions Jesus lists — is a minority Christian-Zionist reading (promoted heavily by Hagee's own In Defense of Israel, 2007, and by Joel Rosenberg) that is not the mainstream position in either Matthean scholarship or in the broader canonical voice on 'who is the neighbor.' The canonical chorus — Lev 19:33–34, Deut 10:18–19, Isa 58, James 2, Hebrews 13 — lines up with the works-of-mercy criterion Jesus names, and explicitly commands care of the sojourner/stranger without ethnic qualifier. Hagee not only adopts the minority reading but inserts 'the Jewish people' into the quotation of Matt 25:40 itself, erasing the hungry/thirsty/stranger/naked/sick/prisoner criteria from the verse as delivered.",
+      "why_flagged": "The sermon's textual substitution re-assigns the criterion of final judgment from condition (hungry, stranger, imprisoned) to ethnicity. The wider canon — including the Torah chapter Jesus identified as the second great commandment — points the other direction, and none of that counter-witness is engaged."
+    },
+    {
+      "id": "f4-3",
+      "axis": 4,
+      "severity": "moderate",
+      "headline": false,
+      "title": "National-chosenness logic transferred onto modern political alignment",
+      "topic": "Whether God's blessing of a modern state is tied to another state's military policy",
+      "timestamp_seconds": 1340,
+      "timestamp_display": "00:22:20",
+      "pastor_quote": "The day America stops blessing Israel will be the day God stops blessing this country… Never underestimate the love of God for the Jewish people… That's God's favorite place.",
+      "jesus_passages": [
+        {
+          "citation": "John 4:21–23 (to the Samaritan woman)",
+          "text": "The hour is coming when neither on this mountain nor in Jerusalem will you worship the Father… the true worshipers will worship the Father in spirit and truth."
+        },
+        {
+          "citation": "Matt 8:10–12 (after the Roman centurion's faith)",
+          "text": "Truly, I tell you, with no one in Israel have I found such faith. I tell you, many will come from east and west and recline at table with Abraham, Isaac, and Jacob in the kingdom of heaven, while the sons of the kingdom will be thrown into the outer darkness."
+        },
+        {
+          "citation": "Luke 4:25–27",
+          "text": "There were many widows in Israel in the days of Elijah… and Elijah was sent to none of them but only to Zarephath, in the land of Sidon… And there were many lepers in Israel in the time of the prophet Elisha, and none of them was cleansed, but only Naaman the Syrian."
+        },
+        {
+          "citation": "Isa 56:6–7 — cited by Jesus in Matt 21:13, Mark 11:17",
+          "text": "For my house shall be called a house of prayer for all peoples."
+        }
+      ],
+      "wider_bible_passages": [
+        {
+          "citation": "Gen 12:3 (the text Hagee implicitly leans on)",
+          "text": "I will bless those who bless you, and him who dishonors you I will curse, and in you all the families of the earth shall be blessed."
+        },
+        {
+          "citation": "Gal 3:28–29 (Paul's rereading of the Abrahamic promise)",
+          "text": "There is neither Jew nor Greek, there is neither slave nor free, there is no male and female, for you are all one in Christ Jesus. And if you are Christ's, then you are Abraham's offspring, heirs according to promise."
+        },
+        {
+          "citation": "Eph 2:14–16",
+          "text": "He himself is our peace, who has made us both one and has broken down in his flesh the dividing wall of hostility."
+        },
+        {
+          "citation": "Rom 9–11 (Paul's extended treatment of Israel's place)",
+          "text": "As regards the gospel, they are enemies for your sake. But as regards election, they are beloved for the sake of their forefathers. For the gifts and the calling of God are irrevocable. (Rom 11:28–29)"
+        },
+        {
+          "citation": "Rev 7:9",
+          "text": "A great multitude that no one could number, from every nation, from all tribes and peoples and languages, standing before the throne."
+        }
+      ],
+      "analysis": "There is a real canonical thread about Israel's covenantal specialness — Rom 11:28–29 is not to be waved away, and Gen 12:3 is real text. But the sermon's move is specific: it takes the Abrahamic blessing-formula and applies it as a conditional geopolitical threat against the modern United States tied to its foreign-policy stance toward a specific 20th-century nation-state. That move is not in the text. Jesus's own handling of Israel's election (Luke 4:25–27; Matt 8:10–12; John 4:21–23) systematically decouples God's favor from national-ethnic category; Paul in Gal 3 and Eph 2 explicitly dismantles the wall; Revelation 7 ends with a trans-national multitude. The sermon cites none of this counter-witness and never grapples with the distinction between biblical Israel (a covenantal people) and the modern State of Israel (a 1948 nation-state). The logical slide from the first to the second carries enormous theological freight that is not argued, only asserted.",
+      "why_flagged": "Even the strongest canonical passages on Israel's chosenness (Rom 11) do not underwrite a transfer-conditional blessing on a third-party modern nation (the US) contingent on a specific foreign-policy alignment. The sermon collapses biblical Israel, modern Israel, and US foreign policy into a single theological equation without argument."
+    },
+    {
+      "id": "f4-4",
+      "axis": 4,
+      "severity": "severe",
+      "headline": false,
+      "title": "Dispensationalist end-times schema presented as 'the Bible' on eschatology",
+      "topic": "What the Bible says about Christ's return and the end of the age",
+      "timestamp_seconds": 300,
+      "timestamp_display": "00:05:00",
+      "pastor_quote": "The next event of God's prophetic calendar is the rapture of the church when all living believers on earth will be suddenly snatched away from this earth into heaven in the twinkling of an eye… Immediately after the rapture, a group of 10 men who are world leaders will come together to form what the Bible calls the renewal of the Roman Empire. It is actually what we call the new world order.",
+      "jesus_passages": [
+        {
+          "citation": "Matt 24:36",
+          "text": "But concerning that day and hour no one knows, not even the angels of heaven, nor the Son, but the Father only."
+        },
+        {
+          "citation": "Matt 25:31–46 (Jesus's own long description of what he will do when he returns)",
+          "text": "When the Son of Man comes in his glory, and all the angels with him, then he will sit on his glorious throne. Before him will be gathered all the nations, and he will separate people one from another as a shepherd separates the sheep from the goats."
+        },
+        {
+          "citation": "John 14:2–3",
+          "text": "In my Father's house are many rooms… I will come again and will take you to myself, that where I am you may be also."
+        },
+        {
+          "citation": "Acts 1:7 (Jesus, at the ascension)",
+          "text": "It is not for you to know times or seasons that the Father has fixed by his own authority."
+        }
+      ],
+      "wider_bible_passages": [
+        {
+          "citation": "1 Thess 4:16–17 (the primary rapture proof-text)",
+          "text": "The Lord himself will descend from heaven with a cry of command… and the dead in Christ will rise first. Then we who are alive, who are left, will be caught up together with them in the clouds to meet the Lord in the air."
+        },
+        {
+          "citation": "1 Cor 15:51–52",
+          "text": "We shall not all sleep, but we shall all be changed, in a moment, in the twinkling of an eye, at the last trumpet."
+        },
+        {
+          "citation": "2 Thess 2:1–4 (Paul: the gathering and the 'man of lawlessness')",
+          "text": "Concerning the coming of our Lord Jesus Christ and our being gathered together to him… that day will not come, unless the rebellion comes first, and the man of lawlessness is revealed."
+        },
+        {
+          "citation": "Rev 20:1–6 (the one New Testament mention of a thousand years)",
+          "text": "Then I saw an angel coming down from heaven, holding in his hand the key to the bottomless pit and a great chain. And he seized the dragon… and bound him for a thousand years."
+        },
+        {
+          "citation": "2 Pet 3:10",
+          "text": "But the day of the Lord will come like a thief, and then the heavens will pass away with a roar."
+        }
+      ],
+      "analysis": "Pre-tribulational, pre-millennial dispensationalism — the framework governing almost every structural claim in this sermon (pretrib rapture → revived Roman Empire → 10 rulers → seven-year tribulation split at 3.5 years by Gog-Magog → Antichrist breaks treaty → Armageddon → millennial kingdom → little-season rebellion → great white throne) — is one eschatological system, not the eschatological system. It originates with John Nelson Darby (1830s), was popularized by the Scofield Reference Bible (1909) and Hal Lindsey (1970s), and is rejected by historic premillennialism (George Eldon Ladd), amillennialism (Augustine, most Reformed and Catholic traditions), and postmillennialism. The specific sequence Hagee presents draws together Daniel, Ezekiel, Matt 24, 1/2 Thessalonians, and Revelation via a particular interpretive grid — and critically, he never names this as his grid. 'The Bible says' is the repeated framing. Jesus's own eschatology in the Gospels is strikingly restrained: imminence language coexists with explicit disclaimers (Matt 24:36; Acts 1:7), the criterion of judgment is works of mercy (Matt 25), and the return-analogy is UNEXPECTEDNESS (Noah, Matt 24:37–39), not decoded signposts. The sermon's schema presents itself as direct biblical exposition; it is in fact a 19th-century synthesis.",
+      "why_flagged": "An interpretive tradition (Darbyite dispensationalism) is presented as the plain reading of Scripture. The existence of competing Christian eschatologies (amillennial, postmillennial, historic premillennial, preterist) is not acknowledged. Jesus's own explicit restraint about timing and the Matt 25 criterion of judgment — both in the text Hagee opens with — are not engaged."
+    },
+    {
+      "id": "f4-5",
+      "axis": 4,
+      "severity": "moderate",
+      "headline": false,
+      "title": "Enemy-destruction imagery from Psalm 2 detached from the New Testament's Christological reading",
+      "topic": "How Psalm 2's 'break them with a rod of iron' functions after the cross",
+      "timestamp_seconds": 160,
+      "timestamp_display": "00:02:40",
+      "pastor_quote": "Why do the nations rage and the people imagine a vain thing? The kings of the earth, this would be Russia and China, have set themselves against the Lord and against his anointed. That would be Israel… he will break them with a rod of iron and shall crush them to pieces like a potter's vessel. Hello China, Russia, Iran, Turkey.",
+      "jesus_passages": [
+        {
+          "citation": "Matt 5:38–42 (Jesus directly rereading OT retaliatory logic)",
+          "text": "You have heard that it was said, 'An eye for an eye and a tooth for a tooth.' But I say to you, Do not resist the one who is evil."
+        },
+        {
+          "citation": "John 12:31–32",
+          "text": "Now is the judgment of this world; now will the ruler of this world be cast out. And I, when I am lifted up from the earth, will draw all people to myself."
+        },
+        {
+          "citation": "Luke 22:51 (at Jesus's arrest, when his followers reach for the sword)",
+          "text": "No more of this! And he touched the man's ear and healed him."
+        }
+      ],
+      "wider_bible_passages": [
+        {
+          "citation": "Acts 4:25–28 (the apostolic church reading Ps 2 — identifying 'the anointed' as Jesus, not a modern nation)",
+          "text": "Why did the Gentiles rage, and the peoples plot in vain? The kings of the earth set themselves, and the rulers were gathered together, against the Lord and against his Anointed — for truly in this city there were gathered together against your holy servant Jesus, whom you anointed, both Herod and Pontius Pilate."
+        },
+        {
+          "citation": "Heb 1:5 (Ps 2 applied to Jesus, the Son)",
+          "text": "For to which of the angels did God ever say, 'You are my Son, today I have begotten you'?"
+        },
+        {
+          "citation": "Rev 2:26–27; 12:5; 19:15 (the 'rod of iron' consistently applied to the Messiah/Christ)",
+          "text": "He will rule them with a rod of iron, as when earthen pots are broken in pieces."
+        }
+      ],
+      "analysis": "Psalm 2 is extensively quoted in the New Testament — and every NT citation identifies the 'Anointed' (mashiach / christos) as Jesus, not as the nation of Israel. Acts 4:25–28 is explicit: 'against the Lord and against his Anointed — for truly in this city there were gathered together against your holy servant Jesus.' Hebrews 1 and Revelation 2, 12, and 19 follow suit. The sermon's identification of 'the Lord's anointed' with the modern State of Israel is not the New Testament's reading of the psalm. Additionally, the 'crush them with a rod of iron' imagery is Christological in Revelation, and the NT consistently refuses to transfer messianic-judgment imagery to human agents — Jesus's own rebuke of Peter's sword in Luke 22:51 is the paradigm. The move from 'Jesus wields the rod of iron at his return' (a claim the NT does make) to 'therefore applaud modern military destruction of these named states now' (the sermon's move) requires a bridge the text does not build.",
+      "why_flagged": "Every NT use of Psalm 2 identifies the Anointed as Jesus. The sermon substitutes a modern nation-state and invites applause for the destruction of named foreign populations on the basis of this substitution — a Christological displacement that the NT's own use of the psalm does not support."
+    }
+  ],
+  "factual_claims": [
+    {
+      "id": "fc-1",
+      "timestamp_seconds": 520,
+      "timestamp_display": "00:08:40",
+      "claim": "1,400 [Israelis] were killed in one day [on October 7, 2023]. Children were beheaded. People were burned alive.",
+      "evidence_cited_by_pastor": "None.",
+      "verdict": "partially supported / overstated",
+      "analysis": "The initial Israeli government figure of ~1,400 dead from the October 7, 2023 Hamas attack was revised downward by the Israeli Ministry of Foreign Affairs in November 2023 to approximately 1,200 (the revision excluded ~200 bodies later identified as Hamas attackers rather than victims). The figure of ~1,195 civilian-and-security-forces deaths is the widely cited current estimate. So 'one day' is roughly correct (the attack's acute phase was October 7, with some fighting extending into following days), and the order of magnitude is right, but the specific '1,400' number is out of date by the time of the June 2025 sermon. On 'children were beheaded': specific 'beheaded babies' claims amplified in the days following October 7 were never officially confirmed by the IDF in those terms; the IDF's spokesman acknowledged seeing photographs of decapitated bodies but the Israeli Prime Minister's Office retracted a similar claim attributed to it, and independent verification of systematic child-beheading has not been established. Children were killed, and some bodies were burned and mutilated, with multiple confirmed cases at Kfar Aza and other kibbutzim; Hamas's brutality on October 7 is extensively documented. But the specific 'children were beheaded' claim, as a confident factual assertion, has been significantly contested. 'People were burned alive' is documented (e.g., at the Nova music festival and in several kibbutz homes).",
+      "sources": [
+        {
+          "title": "Reuters — Israel lowers Oct. 7 death toll from 1,400 to 1,200",
+          "url": "https://www.reuters.com/world/middle-east/israel-social-security-data-reveals-true-picture-oct-7-deaths-2023-12-15/"
+        },
+        {
+          "title": "CNN — Biden walks back comments saying he saw pictures of terrorists beheading children (Oct 2023)",
+          "url": "https://www.cnn.com/2023/10/12/politics/biden-beheaded-children-israel/index.html"
+        },
+        {
+          "title": "BBC Verify — What we know about the killing of Israeli children on October 7",
+          "url": "https://www.bbc.com/news/world-middle-east-67157974"
+        }
+      ]
+    },
+    {
+      "id": "fc-2",
+      "timestamp_seconds": 35,
+      "timestamp_display": "00:00:35",
+      "claim": "The headlines in the Bible written by the prophet Ezekiel in chapters 38 and 39 describe the condition of the Middle East right now, exactly… Russia is the king of the north. All directions in the Bible are taken from Jerusalem. Straight north from Jerusalem is Russia.",
+      "evidence_cited_by_pastor": "None. No biblical scholars, lexicons, or geographic analyses cited.",
+      "verdict": "unsupported",
+      "analysis": "The identification of Ezekiel 38's 'Gog of the land of Magog, the chief prince (Hebrew: rosh) of Meshech and Tubal' with modern Russia relies on the phonetic resemblance between Hebrew rosh and 'Russia.' This is the central identification in Hal Lindsey's The Late Great Planet Earth (1970) and in Scofield's early 20th-century notes. The problems: (1) Most modern Hebrew lexicographers (BDB, HALOT, Koehler-Baumgartner) translate rosh in Ezek 38:2–3 as the common noun 'chief/head,' not as a proper place name — the ESV itself reads 'chief prince of Meshech and Tubal.' (2) The name 'Russia' derives from 'Rus',' a 9th-century Varangian (Scandinavian) term, not from Hebrew rosh. (3) Leading Ezekiel commentators (Daniel Block, Iain Duguid, Walther Zimmerli, Stephen Cook) do not endorse the Russia identification; Meshech and Tubal are most commonly identified with Anatolian peoples (Mushki, Tabal) mentioned in Assyrian records. (4) 'Straight north from Jerusalem' geographically runs through Lebanon, Syria, and Turkey before reaching Russia — and in ancient Near Eastern cosmology 'the far north' often designated mythic/symbolic distance rather than specific geography. The sermon presents a contested 20th-century dispensationalist geopolitical reading as 'the Bible, exactly, right now.'",
+      "sources": [
+        {
+          "title": "Daniel I. Block — The Book of Ezekiel, Chapters 25–48 (NICOT, Eerdmans 1998), chapters on Ezek 38–39",
+          "url": "https://www.eerdmans.com/9780802825360/the-book-of-ezekiel-chapters-25-48/"
+        },
+        {
+          "title": "Iain Duguid — Ezekiel (NIV Application Commentary, Zondervan)",
+          "url": "https://www.zondervan.com/9780310206743/ezekiel/"
+        },
+        {
+          "title": "Stephen L. Cook — Ezekiel 38–48 (Anchor Yale Bible)",
+          "url": "https://yalebooks.yale.edu/book/9780300218817/ezekiel-38-48/"
+        }
+      ]
+    },
+    {
+      "id": "fc-3",
+      "timestamp_seconds": 1210,
+      "timestamp_display": "00:20:10",
+      "claim": "One protester [in New York] carried a sign saying, 'I wish Hitler was here.'",
+      "evidence_cited_by_pastor": "None. The protest, date, and photo source are not specified.",
+      "verdict": "needs verification",
+      "analysis": "Signs bearing explicitly pro-Hitler or 'Hitler was right' messaging have appeared at some pro-Palestinian or anti-Israel protests in US and European cities since October 2023, and photographs have circulated on social media; however, in some cases the provenance, authenticity, or representativeness of specific signs has been disputed (including allegations of counter-protest staging or single-person outlier signs being amplified as representative). The specific 'I wish Hitler was here' sign at a New York protest would need to be verified against primary reporting (photograph, date, outlet, reporter) before the claim can be called supported. What is documentable: explicit antisemitic incidents at some 2023–2025 US protests are tracked by the ADL's H.E.A.T. Map and by Jewish community security groups, and some incidents have included Nazi-sympathetic signage. The pastor's broader point — that antisemitic incidents have risen sharply in the US since October 2023 — is well supported by ADL and FBI data. The specific sign quotation would need primary verification.",
+      "sources": [
+        {
+          "title": "ADL — 2024 Audit of Antisemitic Incidents (record high since tracking began in 1979)",
+          "url": "https://www.adl.org/resources/report/audit-antisemitic-incidents-2024"
+        },
+        {
+          "title": "FBI — 2023 Hate Crime Statistics (anti-Jewish bias crimes rose sharply)",
+          "url": "https://www.fbi.gov/news/press-releases/fbi-releases-2023-hate-crime-statistics"
+        }
+      ]
+    },
+    {
+      "id": "fc-4",
+      "timestamp_seconds": 1720,
+      "timestamp_display": "00:28:40",
+      "claim": "The heavenly city [New Jerusalem] is coming down out of heaven… It's a city that's 1,500 miles cube.",
+      "evidence_cited_by_pastor": "Implicit — Revelation 21:16.",
+      "verdict": "partially supported",
+      "analysis": "Revelation 21:16 states that the New Jerusalem is a cube measuring 12,000 stadia on each side. One stadion ≈ 607 feet (185 meters), so 12,000 stadia ≈ 1,380–1,400 miles (≈ 2,220 km). Hagee's '1,500 miles' rounds up slightly; '1,400 miles' is the more commonly cited figure. The rough order of magnitude is accurate — this is a standard homiletic rendering and not a significant factual error. (Whether to read the dimensions as literal architecture or as symbolic perfection — a cube echoing the Most Holy Place in 1 Kings 6:20 — is an interpretive question outside the scope of the numeric claim.)",
+      "sources": [
+        {
+          "title": "Greg Beale — The Book of Revelation (NIGTC, Eerdmans 1999), on Rev 21:16 stadia conversion",
+          "url": "https://www.eerdmans.com/9780802871077/the-book-of-revelation/"
+        }
+      ]
+    },
+    {
+      "id": "fc-5",
+      "timestamp_seconds": 460,
+      "timestamp_display": "00:07:40",
+      "claim": "[The Antichrist] will no doubt be given the Nobel Peace Prize like Hitler.",
+      "evidence_cited_by_pastor": "None.",
+      "verdict": "false",
+      "analysis": "Adolf Hitler was never awarded the Nobel Peace Prize. In January 1939, a Swedish parliamentarian named Erik Brandt submitted Hitler's name as a Nobel Peace Prize nomination — this was a satirical/protest nomination intended to ridicule other parliamentarians who had nominated Neville Chamberlain; Brandt withdrew the nomination within days. A nomination is not an award, and sarcastic nominations are specifically disavowed by the Nobel Committee's own records. Hitler did not win, was never a finalist, and the Nobel Peace Prize was not awarded in 1939, 1940, 1941, 1942, or 1943. The pastor's assertion — delivered as 'like Hitler' without qualification — is a factual error that could easily be corrected in under 30 seconds of fact-checking.",
+      "sources": [
+        {
+          "title": "Nobel Prize — Nomination Archive (searchable by nominee)",
+          "url": "https://www.nobelprize.org/nomination/archive/"
+        },
+        {
+          "title": "Time — No, Hitler Was Not Awarded the Nobel Peace Prize",
+          "url": "https://time.com/5661233/hitler-nobel-peace-prize/"
+        }
+      ]
+    }
+  ],
+  "cn_markers": [
+    {
+      "marker": "A. Conflation of national & Christian identity",
+      "status": "Present",
+      "reference": "See Finding 2.2 — 'The day America stops blessing Israel will be the day God stops blessing this country.'"
+    },
+    {
+      "marker": "B. Militaristic / warrior framing",
+      "status": "Moderate",
+      "note": "Churchill/MacArthur 'no substitute for victory' quoted approvingly [00:22:20]; applause invited for God 'crushing' named nations [00:03:00]; 'bold as a lion in defense of Zion' [00:22:40]. Biblical warrior-Messiah imagery (Rev 19) rendered in an explicitly contemporary-military register."
+    },
+    {
+      "marker": "C. Political opponents as spiritual enemies",
+      "status": "Present",
+      "reference": "See Findings 2.1 and 2.2 — protesters, professors, and members of Congress identified as aligned against God's blessing."
+    },
+    {
+      "marker": "D. Dominionist rhetoric",
+      "status": "Low–Moderate",
+      "note": "Direct policy prescriptions (defund universities, fire professors, deport protesters, US should 'butt out' of Israel's war) delivered as the Christian posture."
+    },
+    {
+      "marker": "E. Civil religion (flag, pledge)",
+      "status": "Present",
+      "note": "References to 'flag burning' as disqualifying, framing of the US as a nation with conditional divine blessing, 'Send them back where they come from.'"
+    },
+    {
+      "marker": "F. Jeremiad / 'Christianity under attack'",
+      "status": "Moderate",
+      "note": "The sermon's jeremiad target is antisemitism in the US rather than anti-Christian persecution per se, but the structural grammar ('virus… planted in the next generation,' imminent divine withdrawal of blessing) is classic."
+    },
+    {
+      "marker": "G. Ethno-cultural 'real American' undertones",
+      "status": "Present",
+      "note": "'Send them back where they come from' conflates ideological opposition with non-belonging; 'flag burning, god-hating… garbage' fuses political, religious, and patriotic disqualifiers."
+    },
+    {
+      "marker": "H. Strongman / authoritarian affinity",
+      "status": "Moderate",
+      "note": "Boasts of direct private access to a head of state (Finding 2.4); calls for state action to fire professors and university presidents and defund institutions."
+    }
+  ],
+  "other_axis2_rubrics": [
+    {
+      "rubric": "Anti-Muslim framing",
+      "status": "Present (moderate)",
+      "note": "See Finding 2.3 — Ezek 38 coalition consistently characterized as 'Islamic,' with Iran, Turkey, and implicitly other Muslim-majority nations as end-times destruction targets."
+    },
+    {
+      "rubric": "Anti-LGBTQ framing",
+      "status": "Not present in this sermon"
+    },
+    {
+      "rubric": "Misogynistic framing",
+      "status": "Not present in this sermon"
+    },
+    {
+      "rubric": "Anti-Jewish framing",
+      "status": "Not present",
+      "note": "The sermon is emphatically and programmatically philo-Semitic. Separate question whether Christian-Zionist instrumentalization of Jewish people in an end-times schema (where Jews ultimately convert or perish at Armageddon, per the dispensationalist framework Hagee preaches) constitutes a different kind of theological concern is outside this rubric; on anti-Jewish framing specifically, the sermon is firmly against."
+    }
+  ],
+  "reach": {
+    "view_count": 497296,
+    "like_count": 11345,
+    "channel": "Hagee Ministries",
+    "channel_id": "UCa7SbIMVl5UHycxUbHOpmow",
+    "channel_follower_count": 1270000,
+    "upload_date": "20250618",
+    "source": "yt-dlp",
+    "congregation": {
+      "weekly_attendance_est": 22000,
+      "source": "Hartford Institute megachurch database; Cornerstone self-reported"
+    }
+  }
+}

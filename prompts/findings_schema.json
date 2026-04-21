@@ -1,0 +1,169 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "whosaid sermon findings",
+  "type": "object",
+  "required": ["meta", "summary", "scorecard", "tenets_affirmed", "counter_signals", "findings", "axis4_findings", "factual_claims", "cn_markers", "other_axis2_rubrics"],
+  "properties": {
+    "meta": {
+      "type": "object",
+      "required": ["sermon_title", "preacher", "church", "youtube_id", "upload_date", "runtime_seconds", "transcript_path", "gospel_translation"],
+      "properties": {
+        "sermon_title": {"type": "string"},
+        "preacher": {"type": "string"},
+        "church": {"type": "string"},
+        "church_location": {"type": "string"},
+        "series": {"type": "string"},
+        "preaching_text": {"type": "string"},
+        "youtube_id": {"type": "string"},
+        "upload_date": {"type": "string"},
+        "runtime_seconds": {"type": "integer"},
+        "transcript_path": {"type": "string"},
+        "gospel_translation": {"type": "string"}
+      }
+    },
+    "summary": {"type": "string", "minLength": 100},
+    "scorecard": {
+      "type": "object",
+      "required": ["axis_1", "axis_2", "axis_3", "axis_4"],
+      "properties": {
+        "axis_1": {"$ref": "#/definitions/axisCard"},
+        "axis_2": {"$ref": "#/definitions/axisCard"},
+        "axis_3": {"$ref": "#/definitions/axisCard"},
+        "axis_4": {"$ref": "#/definitions/axisCard"}
+      }
+    },
+    "tenets_affirmed": {"type": "array", "items": {"type": "string"}, "minItems": 1},
+    "counter_signals": {"type": "array", "items": {"type": "string"}, "minItems": 0},
+    "findings": {
+      "type": "array",
+      "items": {"$ref": "#/definitions/finding"}
+    },
+    "axis4_findings": {
+      "type": "array",
+      "items": {"$ref": "#/definitions/axis4Finding"}
+    },
+    "factual_claims": {
+      "type": "array",
+      "items": {"$ref": "#/definitions/factualClaim"}
+    },
+    "cn_markers": {
+      "type": "array",
+      "minItems": 8,
+      "maxItems": 8,
+      "items": {
+        "type": "object",
+        "required": ["marker", "status"],
+        "properties": {
+          "marker": {"type": "string"},
+          "status": {"type": "string"},
+          "note": {"type": "string"},
+          "reference": {"type": "string"}
+        }
+      }
+    },
+    "other_axis2_rubrics": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["rubric", "status"],
+        "properties": {
+          "rubric": {"type": "string"},
+          "status": {"type": "string"},
+          "note": {"type": "string"}
+        }
+      }
+    }
+  },
+  "definitions": {
+    "axisCard": {
+      "type": "object",
+      "required": ["label", "verdict", "severity", "headline"],
+      "properties": {
+        "label": {"type": "string"},
+        "verdict": {"type": "string"},
+        "severity": {"type": "string", "enum": ["low", "moderate", "severe", "none"]},
+        "headline": {"type": "string"}
+      }
+    },
+    "biblePassage": {
+      "type": "object",
+      "required": ["citation", "text"],
+      "properties": {
+        "citation": {"type": "string"},
+        "text": {"type": "string"}
+      }
+    },
+    "finding": {
+      "type": "object",
+      "required": ["id", "axis", "severity", "title", "timestamp_display", "pastor_quote", "jesus_quotes", "why_flagged"],
+      "properties": {
+        "id": {"type": "string"},
+        "axis": {"type": "integer", "enum": [1, 2]},
+        "severity": {"type": "string", "enum": ["low", "moderate", "severe"]},
+        "headline": {"type": "boolean"},
+        "title": {"type": "string"},
+        "timestamp_seconds": {"type": ["integer", "null"]},
+        "timestamp_end_seconds": {"type": ["integer", "null"]},
+        "timestamp_display": {"type": "string"},
+        "pastor_quote": {"type": "string"},
+        "jesus_quotes": {
+          "type": "array",
+          "minItems": 1,
+          "items": {"$ref": "#/definitions/biblePassage"}
+        },
+        "why_flagged": {"type": "string"},
+        "severity_context": {"type": "object"}
+      }
+    },
+    "axis4Finding": {
+      "type": "object",
+      "required": ["id", "axis", "severity", "title", "topic", "timestamp_display", "pastor_quote", "jesus_passages", "wider_bible_passages", "analysis", "why_flagged"],
+      "properties": {
+        "id": {"type": "string"},
+        "axis": {"type": "integer", "enum": [4]},
+        "severity": {"type": "string", "enum": ["low", "moderate", "severe"]},
+        "headline": {"type": "boolean"},
+        "title": {"type": "string"},
+        "topic": {"type": "string"},
+        "timestamp_seconds": {"type": ["integer", "null"]},
+        "timestamp_display": {"type": "string"},
+        "pastor_quote": {"type": "string"},
+        "jesus_passages": {
+          "type": "array",
+          "minItems": 1,
+          "items": {"$ref": "#/definitions/biblePassage"}
+        },
+        "wider_bible_passages": {
+          "type": "array",
+          "minItems": 1,
+          "items": {"$ref": "#/definitions/biblePassage"}
+        },
+        "analysis": {"type": "string"},
+        "why_flagged": {"type": "string"}
+      }
+    },
+    "factualClaim": {
+      "type": "object",
+      "required": ["id", "claim", "evidence_cited_by_pastor", "verdict", "analysis"],
+      "properties": {
+        "id": {"type": "string"},
+        "timestamp_seconds": {"type": ["integer", "null"]},
+        "timestamp_display": {"type": "string"},
+        "claim": {"type": "string"},
+        "evidence_cited_by_pastor": {"type": "string"},
+        "verdict": {"type": "string", "enum": ["supported", "partially supported", "partially supported / overstated", "contested", "misleading", "unsupported", "false", "needs verification"]},
+        "analysis": {"type": "string"},
+        "sources": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "title": {"type": "string"},
+              "url": {"type": "string"}
+            }
+          }
+        }
+      }
+    }
+  }
+}

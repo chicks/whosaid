@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>whosaid — Sermon Audits</title>
+<style>
+* { box-sizing: border-box; }
+:root {
+  --c-bg: #fafaf7; --c-fg: #1d1d1b; --c-muted: #6b6b67; --c-border: #d8d6cf;
+  --c-card: #ffffff; --c-link: #1e40af;
+  --c-warn-bg: #fff9e6; --c-warn-border: #e8c972;
+  --c-severe: #9b1c1c; --c-severe-bg: #fde8e8;
+  --c-moderate: #c2410c; --c-low: #a16207;
+}
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
+  background: var(--c-bg); color: var(--c-fg);
+  max-width: 1100px; margin: 0 auto; padding: 2rem 1.5rem 5rem;
+  line-height: 1.55;
+}
+h1 { font-size: 2.2rem; margin: 0 0 .25rem; letter-spacing: -0.02em; }
+h2 { font-size: 1.4rem; margin: 2.5rem 0 .75rem; border-bottom: 1px solid var(--c-border); padding-bottom: .3rem; }
+h3 { font-size: 1.05rem; margin: 1.5rem 0 .3rem; }
+a { color: var(--c-link); text-decoration: none; border-bottom: 1px solid rgba(30,64,175,0.3); }
+a:hover { border-bottom-color: var(--c-link); }
+.lede { font-size: 1.08rem; color: var(--c-fg); margin: 1rem 0 1.5rem; max-width: 700px; }
+.disclaimer { background: var(--c-warn-bg); border: 1px solid var(--c-warn-border); border-radius: 6px; padding: 1rem 1.25rem; margin: 1rem 0 1.5rem; font-size: .92rem; }
+.disclaimer strong { color: #6b4500; }
+.comparison-cta { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; margin: 1rem 0 1.5rem; }
+@media (max-width: 700px) { .comparison-cta { grid-template-columns: 1fr; } }
+.cta-card { background: var(--c-card); border: 1px solid var(--c-border); border-radius: 6px; padding: 1rem 1.25rem; border-left: 4px solid var(--c-severe); }
+.cta-card h3 { margin-top: 0; }
+.cta-card p { margin: .4rem 0; font-size: .92rem; color: var(--c-muted); }
+table { width: 100%; border-collapse: collapse; font-size: .9rem; background: var(--c-card); border: 1px solid var(--c-border); border-radius: 6px; overflow: hidden; }
+th, td { padding: .5rem .65rem; border-bottom: 1px solid var(--c-border); text-align: left; vertical-align: top; }
+th { background: #ebe9e1; font-size: .75rem; text-transform: uppercase; letter-spacing: .05em; font-weight: 600; }
+tr:last-child td { border-bottom: 0; }
+.pastor-name { font-weight: 600; }
+.church-line { font-size: .78rem; color: var(--c-muted); }
+.sermon-cell { min-width: 220px; }
+.sermon-cell .date-line { font-size: .75rem; color: var(--c-muted); margin-top: .15rem; }
+.reach-cell { font-size: .8rem; font-variant-numeric: tabular-nums; color: var(--c-fg); min-width: 95px; }
+.verdict-line { font-size: .78rem; color: var(--c-muted); margin-top: .2rem; line-height: 1.3; }
+.meth-list { margin: .5rem 0 1rem; padding-left: 1.2rem; font-size: .95rem; }
+.meth-list li { margin: .3rem 0; }
+footer { margin-top: 4rem; padding-top: 1.5rem; border-top: 1px solid var(--c-border); color: var(--c-muted); font-size: .82rem; }
+footer a { color: var(--c-muted); }
+</style>
+</head><body>
+
+<div style="font-size:.75rem;color:var(--c-muted);letter-spacing:.1em;text-transform:uppercase;">whosaid · a sermon audit project</div>
+<h1>Sermon Audits</h1>
+<p class="lede">A structured audit of modern American sermons measured against four independent axes: fidelity to Jesus's teachings in the Gospels, bias-bearing or harmful rhetoric, factual accuracy of empirical claims, and whole-Bible engagement (cherry-picking and unacknowledged canonical tension).</p>
+
+<div class="disclaimer">
+<strong>This is a methodology experiment.</strong>
+<ul style="margin: .4rem 0 .2rem; padding-left: 1.2rem;">
+<li>Each audit is produced by a structured AI-assisted pipeline (Claude Opus 4.7) with explicit rubrics. The rubrics, system prompt, and raw findings JSONs are all in the source repository linked below — full methodological transparency.</li>
+<li>Pastor quotes are pulled from YouTube auto-captions; minor transcription errors are possible. The underlying video is linked from every report for verification.</li>
+<li>Each audit characterizes a single specific sermon, not the pastor or church in general.</li>
+<li>Methodology disputes, counter-examples, and rubric suggestions welcome — email <a href="mailto:charles@reliable.cx">charles@reliable.cx</a>.</li>
+</ul>
+</div>
+
+<h2>Cross-sermon comparisons</h2>
+<div class="comparison-cta">
+<div class="cta-card">
+<h3><a href="_comparison.html" style="color: var(--c-fg); border-bottom: none;">End-times comparison →</a></h3>
+<p>Eight pastors on the same topic (end times / eschatology). Scorecard matrix with reach stats, CN-marker matrix, per-axis drill-downs, factual-claim verdict distribution.</p>
+</div>
+<div class="cta-card">
+<h3><a href="_calibration_severe.html" style="color: var(--c-fg); border-bottom: none;">3-way severe-tier calibration →</a></h3>
+<p>Side-by-side calibration of the three sermons that came back severe on Axis 2 (Hibbs, Hagee, Howerton). Marker-by-marker comparison with supporting quotes; reach-weighted severity ranking.</p>
+</div>
+</div>
+
+<h2>End-times sermons (8)</h2>
+<p style="color: var(--c-muted); font-size: .92rem;">Sorted by aggregate severity across the four axes. Click a sermon title to open the full audit report.</p>
+<table>
+<thead><tr>
+<th>Pastor</th><th>Sermon</th><th>Reach</th>
+<th>A1 Jesus</th><th>A2 Bias/Harm</th><th>A3 Facts</th><th>A4 Whole&nbsp;Bible</th>
+</tr></thead>
+<tbody>
+<tr>
+<td><div class="pastor-name">Pastor John Hagee</div><div class="church-line">Cornerstone Church</div></td>
+<td class="sermon-cell"><a href="20250618_pastor_john_hagee_pastor_john_hagee_the_end_of_days.html">Pastor John Hagee - "The End of Days"</a><div class="date-line">2025-06-18</div></td>
+<td class="reach-cell">497K views<br>~22K/wk</td>
+<td><span style="display:inline-block;font-size:.65rem;font-weight:600;padding:2px 7px;border-radius:3px;color:white;background:#9b1c1c;text-transform:uppercase;letter-spacing:.05em;">severe</span></td>
+<td><span style="display:inline-block;font-size:.65rem;font-weight:600;padding:2px 7px;border-radius:3px;color:white;background:#9b1c1c;text-transform:uppercase;letter-spacing:.05em;">severe</span><div class="verdict-line">Severe xenophobic and anti-Muslim framing paired with authoritarian political di</div></td>
+<td><span style="display:inline-block;font-size:.65rem;font-weight:600;padding:2px 7px;border-radius:3px;color:white;background:#c2410c;text-transform:uppercase;letter-spacing:.05em;">moderate</span></td>
+<td><span style="display:inline-block;font-size:.65rem;font-weight:600;padding:2px 7px;border-radius:3px;color:white;background:#9b1c1c;text-transform:uppercase;letter-spacing:.05em;">severe</span></td>
+</tr>
+<tr>
+<td><div class="pastor-name">Pastor Jack Hibbs</div><div class="church-line">Calvary Chapel Chino Hills</div></td>
+<td class="sermon-cell"><a href="20260226_pastor_jack_hibbs_the_stage_is_being_set_for_the_end_times.html">The Stage Is Being Set For The End Times!</a><div class="date-line">2026-02-26</div></td>
+<td class="reach-cell">809K views<br>~10K/wk</td>
+<td><span style="display:inline-block;font-size:.65rem;font-weight:600;padding:2px 7px;border-radius:3px;color:white;background:#9b1c1c;text-transform:uppercase;letter-spacing:.05em;">severe</span></td>
+<td><span style="display:inline-block;font-size:.65rem;font-weight:600;padding:2px 7px;border-radius:3px;color:white;background:#9b1c1c;text-transform:uppercase;letter-spacing:.05em;">severe</span><div class="verdict-line">Severe anti-Muslim and political-enemy rhetoric</div></td>
+<td><span style="display:inline-block;font-size:.65rem;font-weight:600;padding:2px 7px;border-radius:3px;color:white;background:#c2410c;text-transform:uppercase;letter-spacing:.05em;">moderate</span></td>
+<td><span style="display:inline-block;font-size:.65rem;font-weight:600;padding:2px 7px;border-radius:3px;color:white;background:#9b1c1c;text-transform:uppercase;letter-spacing:.05em;">severe</span></td>
+</tr>
+<tr>
+<td><div class="pastor-name">Pastor Josh Howerton</div><div class="church-line">Lakepointe Church</div></td>
+<td class="sermon-cell"><a href="20260412_howerton_end_times.html">When Will Jesus Return? 4 Predictions About the End Times</a><div class="date-line">2026-04-12</div></td>
+<td class="reach-cell">153K views<br>~26K/wk</td>
+<td><span style="display:inline-block;font-size:.65rem;font-weight:600;padding:2px 7px;border-radius:3px;color:white;background:#c2410c;text-transform:uppercase;letter-spacing:.05em;">moderate</span></td>
+<td><span style="display:inline-block;font-size:.65rem;font-weight:600;padding:2px 7px;border-radius:3px;color:white;background:#9b1c1c;text-transform:uppercase;letter-spacing:.05em;">severe</span><div class="verdict-line">Severe anti-Muslim eschatology</div></td>
+<td><span style="display:inline-block;font-size:.65rem;font-weight:600;padding:2px 7px;border-radius:3px;color:white;background:#c2410c;text-transform:uppercase;letter-spacing:.05em;">moderate</span></td>
+<td><span style="display:inline-block;font-size:.65rem;font-weight:600;padding:2px 7px;border-radius:3px;color:white;background:#9b1c1c;text-transform:uppercase;letter-spacing:.05em;">severe</span></td>
+</tr>
+<tr>
+<td><div class="pastor-name">Dr. Robert Jeffress</div><div class="church-line">First Baptist Dallas</div></td>
+<td class="sermon-cell"><a href="20231203_jeffress_endtimes.html">LIVE: "Are We Living In The End Times?:What Are The Major Events Of Th</a><div class="date-line">2023-12-03</div></td>
+<td class="reach-cell">16K views<br>~16K/wk</td>
+<td><span style="display:inline-block;font-size:.65rem;font-weight:600;padding:2px 7px;border-radius:3px;color:white;background:#c2410c;text-transform:uppercase;letter-spacing:.05em;">moderate</span></td>
+<td><span style="display:inline-block;font-size:.65rem;font-weight:600;padding:2px 7px;border-radius:3px;color:white;background:#c2410c;text-transform:uppercase;letter-spacing:.05em;">moderate</span><div class="verdict-line">Moderate — specific-group rhetorical use + civil religion adjacency</div></td>
+<td><span style="display:inline-block;font-size:.65rem;font-weight:600;padding:2px 7px;border-radius:3px;color:white;background:#c2410c;text-transform:uppercase;letter-spacing:.05em;">moderate</span></td>
+<td><span style="display:inline-block;font-size:.65rem;font-weight:600;padding:2px 7px;border-radius:3px;color:white;background:#9b1c1c;text-transform:uppercase;letter-spacing:.05em;">severe</span></td>
+</tr>
+<tr>
+<td><div class="pastor-name">Pastor Greg Locke</div><div class="church-line">Global Vision Bible Church</div></td>
+<td class="sermon-cell"><a href="20260209_pastor_greg_locke_last_days_last_call_god_s_instructions_t.html">Last Days, Last Call: God’s Instructions to the Church</a><div class="date-line">2026-02-09</div></td>
+<td class="reach-cell">2.2K views<br>~3.5K/wk</td>
+<td><span style="display:inline-block;font-size:.65rem;font-weight:600;padding:2px 7px;border-radius:3px;color:white;background:#c2410c;text-transform:uppercase;letter-spacing:.05em;">moderate</span></td>
+<td><span style="display:inline-block;font-size:.65rem;font-weight:600;padding:2px 7px;border-radius:3px;color:white;background:#c2410c;text-transform:uppercase;letter-spacing:.05em;">moderate</span><div class="verdict-line">Low-moderate; mostly jeremiad register</div></td>
+<td><span style="display:inline-block;font-size:.65rem;font-weight:600;padding:2px 7px;border-radius:3px;color:white;background:#c2410c;text-transform:uppercase;letter-spacing:.05em;">moderate</span></td>
+<td><span style="display:inline-block;font-size:.65rem;font-weight:600;padding:2px 7px;border-radius:3px;color:white;background:#c2410c;text-transform:uppercase;letter-spacing:.05em;">moderate</span></td>
+</tr>
+<tr>
+<td><div class="pastor-name">Pastor Steven Furtick</div><div class="church-line">Elevation Church</div></td>
+<td class="sermon-cell"><a href="20220731_pastor_steven_furtick_what_comes_after_pastor_steven_furtick_e.html">What Comes After | Pastor Steven Furtick | Elevation Church</a><div class="date-line">2022-07-31</div></td>
+<td class="reach-cell">732K views<br>~28K/wk</td>
+<td><span style="display:inline-block;font-size:.65rem;font-weight:600;padding:2px 7px;border-radius:3px;color:white;background:#c2410c;text-transform:uppercase;letter-spacing:.05em;">moderate</span></td>
+<td><span style="display:inline-block;font-size:.65rem;font-weight:600;padding:2px 7px;border-radius:3px;color:white;background:#a16207;text-transform:uppercase;letter-spacing:.05em;">low</span><div class="verdict-line">Largely absent</div></td>
+<td><span style="display:inline-block;font-size:.65rem;font-weight:600;padding:2px 7px;border-radius:3px;color:white;background:#c2410c;text-transform:uppercase;letter-spacing:.05em;">moderate</span></td>
+<td><span style="display:inline-block;font-size:.65rem;font-weight:600;padding:2px 7px;border-radius:3px;color:white;background:#c2410c;text-transform:uppercase;letter-spacing:.05em;">moderate</span></td>
+</tr>
+<tr>
+<td><div class="pastor-name">Pastor John MacArthur</div><div class="church-line">Grace Community Church</div></td>
+<td class="sermon-cell"><a href="20260416_pastor_john_macarthur_the_new_heaven_and_the_new_earth_part_1.html">The New Heaven and the New Earth, Part 1 (Revelation 21:1–3) John MacA</a><div class="date-line">2026-04-16</div></td>
+<td class="reach-cell">8.0K views<br>~8.0K/wk</td>
+<td><span style="display:inline-block;font-size:.65rem;font-weight:600;padding:2px 7px;border-radius:3px;color:white;background:#c2410c;text-transform:uppercase;letter-spacing:.05em;">moderate</span></td>
+<td><span style="display:inline-block;font-size:.65rem;font-weight:600;padding:2px 7px;border-radius:3px;color:white;background:#a16207;text-transform:uppercase;letter-spacing:.05em;">low</span><div class="verdict-line">Largely absent</div></td>
+<td><span style="display:inline-block;font-size:.65rem;font-weight:600;padding:2px 7px;border-radius:3px;color:white;background:#c2410c;text-transform:uppercase;letter-spacing:.05em;">moderate</span></td>
+<td><span style="display:inline-block;font-size:.65rem;font-weight:600;padding:2px 7px;border-radius:3px;color:white;background:#c2410c;text-transform:uppercase;letter-spacing:.05em;">moderate</span></td>
+</tr>
+<tr>
+<td><div class="pastor-name">Bishop T.D. Jakes</div><div class="church-line">The Potter's House</div></td>
+<td class="sermon-cell"><a href="20200530_bishop_t_d_jakes_the_king_is_coming_bishop_t_d_jakes_the.html">The King is Coming - Bishop T.D. Jakes | The Pacemaker Series</a><div class="date-line">2020-05-30</div></td>
+<td class="reach-cell">461K views<br>~30K/wk</td>
+<td><span style="display:inline-block;font-size:.65rem;font-weight:600;padding:2px 7px;border-radius:3px;color:white;background:#a16207;text-transform:uppercase;letter-spacing:.05em;">low</span></td>
+<td><span style="display:inline-block;font-size:.65rem;font-weight:600;padding:2px 7px;border-radius:3px;color:white;background:#c2410c;text-transform:uppercase;letter-spacing:.05em;">moderate</span><div class="verdict-line">Moderate — supersessionism and gendered framing</div></td>
+<td><span style="display:inline-block;font-size:.65rem;font-weight:600;padding:2px 7px;border-radius:3px;color:white;background:#a16207;text-transform:uppercase;letter-spacing:.05em;">low</span></td>
+<td><span style="display:inline-block;font-size:.65rem;font-weight:600;padding:2px 7px;border-radius:3px;color:white;background:#c2410c;text-transform:uppercase;letter-spacing:.05em;">moderate</span></td>
+</tr>
+</tbody>
+</table>
+
+<h2>Other sermons (non-end-times, reference)</h2>
+<p style="color: var(--c-muted); font-size: .92rem;">Earlier audits on different topics, kept for reference. Not part of the focused end-times comparison.</p>
+<table>
+<thead><tr><th>Pastor</th><th>Sermon</th><th>Axis 2</th></tr></thead>
+<tbody>
+<tr>
+<td>Pastor Douglas Wilson<div class="church-line">Christ Church (speaking at Pentagon prayer meeting convened by Secretary of War Pete Hegseth)</div></td>
+<td><a href="20260216_wilson_pentagon_prayer_remarks.html">Remarks at the Pentagon Prayer Meeting</a><div class="date-line">2026-02-16</div></td>
+<td><span style="display:inline-block;font-size:.65rem;font-weight:600;padding:2px 7px;border-radius:3px;color:white;background:#9b1c1c;text-transform:uppercase;letter-spacing:.05em;">severe</span> <span style="font-size:.8rem;color:var(--c-muted);">— Severe Christian nationalism in its high-church form</span></td>
+</tr>
+<tr>
+<td>Bishop T.D. Jakes<div class="church-line">The Potter's House</div></td>
+<td><a href="20260405_bishop_t_d_jakes_sticks_stones_bishop_t_d_jakes.html">Sticks & Stones - Bishop T.D. Jakes</a><div class="date-line">2026-04-05</div></td>
+<td><span style="display:inline-block;font-size:.65rem;font-weight:600;padding:2px 7px;border-radius:3px;color:white;background:#a16207;text-transform:uppercase;letter-spacing:.05em;">low</span> <span style="font-size:.8rem;color:var(--c-muted);">— Largely absent</span></td>
+</tr>
+<tr>
+<td>Pastor Steven Furtick<div class="church-line">Elevation Church</div></td>
+<td><a href="20260419_pastor_steven_furtick_it_still_works_pastor_steven_furtick_ele.html">It Still Works | Pastor Steven Furtick | Elevation Church</a><div class="date-line">2026-04-19</div></td>
+<td><span style="display:inline-block;font-size:.65rem;font-weight:600;padding:2px 7px;border-radius:3px;color:white;background:#a16207;text-transform:uppercase;letter-spacing:.05em;">low</span> <span style="font-size:.8rem;color:var(--c-muted);">— Largely absent</span></td>
+</tr>
+<tr>
+<td>Dr. Robert Jeffress<div class="church-line">First Baptist Dallas</div></td>
+<td><a href="20260420_dr_robert_jeffress_genesis_retracing_our_spiritual_roots_dr.html">Genesis: Retracing Our Spiritual Roots | Dr. Robert Jeffress | Ap</a><div class="date-line">2026-04-20</div></td>
+<td><span style="display:inline-block;font-size:.65rem;font-weight:600;padding:2px 7px;border-radius:3px;color:white;background:#c2410c;text-transform:uppercase;letter-spacing:.05em;">moderate</span> <span style="font-size:.8rem;color:var(--c-muted);">— Moderate — jeremiad and contempt rhetoric; no identifiable-g</span></td>
+</tr>
+<tr>
+<td>Pastor Douglas Wilson<div class="church-line">Christ Church</div></td>
+<td><a href="20260420_pastor_douglas_wilson_coming_of_age_and_life_between_the_sexes.html">Coming of Age and Life Between the Sexes #2 | Douglas Wilson</a><div class="date-line">2026-04-20</div></td>
+<td><span style="display:inline-block;font-size:.65rem;font-weight:600;padding:2px 7px;border-radius:3px;color:white;background:#c2410c;text-transform:uppercase;letter-spacing:.05em;">moderate</span> <span style="font-size:.8rem;color:var(--c-muted);">— Moderate misogynistic framing; patriarchal essentialism as d</span></td>
+</tr>
+</tbody>
+</table>
+
+<h2>Methodology</h2>
+<p>Each sermon is audited along four axes:</p>
+<ul class="meth-list">
+<li><strong>Axis 1 — Fidelity to Jesus's Teachings (Red Letters).</strong> The pastor's claims are compared against Jesus's direct words in the four Gospels, <em>including OT passages Jesus explicitly cited or interpreted</em> (e.g., Lev 19:18 via Matt 22:39, Jonah via Matt 12:39–41). Flagged findings fall into three categories: contradicted, tension, or notably absent.</li>
+<li><strong>Axis 2 — Identifiable Biases / Harmful Rhetoric.</strong> Co-equal sub-rubrics for Christian nationalism (Whitehead &amp; Perry's <em>Taking America Back for God</em>; Du Mez, <em>Jesus and John Wayne</em>; Alberta, <em>The Kingdom, the Power, and the Glory</em>), anti-Muslim, anti-LGBTQ, misogynistic, and anti-Jewish framings. Severity weighted by <em>reach × specificity × real-world harm potential</em>.</li>
+<li><strong>Axis 3 — Factual Claims &amp; Evidence Check.</strong> Empirical claims extracted from the sermon are compared against independent scholarly, journalistic, and primary sources. Verdict scale: Supported / Partially supported / Contested / Misleading / Unsupported / False / Needs verification.</li>
+<li><strong>Axis 4 — Whole-Bible Engagement.</strong> For each major framing in the sermon, the pastor's claim is placed side-by-side with <em>what Jesus said in the Gospels</em> and <em>what the wider Bible says</em> (OT + NT non-Gospel). Surfaces cherry-picking and unacknowledged canonical tension.</li>
+</ul>
+
+<h3>What each axis score means</h3>
+<p style="font-size: .92rem;">
+<strong>Low</strong> (<span style="display:inline-block;font-size:.65rem;font-weight:600;padding:2px 7px;border-radius:3px;color:white;background:#a16207;text-transform:uppercase;letter-spacing:.05em;">low</span>) — Few findings or isolated tensions; sermon is largely aligned on this axis.<br>
+<strong>Moderate</strong> (<span style="display:inline-block;font-size:.65rem;font-weight:600;padding:2px 7px;border-radius:3px;color:white;background:#c2410c;text-transform:uppercase;letter-spacing:.05em;">moderate</span>) — Multiple substantive findings, or a directional concern without extreme content.<br>
+<strong>Severe</strong> (<span style="display:inline-block;font-size:.65rem;font-weight:600;padding:2px 7px;border-radius:3px;color:white;background:#9b1c1c;text-transform:uppercase;letter-spacing:.05em;">severe</span>) — Content with significant reach × specificity × harm potential; high-confidence assertions targeting identifiable groups or populations.
+</p>
+
+<h3>Evidence-first format</h3>
+<p style="font-size: .92rem;">Every flagged finding includes the pastor's direct quote with a timestamp, and the specific biblical passages it sits against. Contrast is two-panel (Axis 1: Pastor | Jesus) or three-panel (Axis 4: Pastor | Jesus | Wider Bible). The audit's credibility depends on the evidence doing the work, not the auditor's prose.</p>
+
+<footer>
+<p><strong>Pipeline:</strong> yt-dlp (transcript) → cleaner → Claude Opus 4.7 (structured findings via JSON Schema) → HTML/PDF generator. Each sermon audit runs ~$1 and ~5 min of model time. Reach data from YouTube + public megachurch attendance figures.</p>
+<p><strong>Rubrics:</strong> Whitehead &amp; Perry 2020; Du Mez 2020; Alberta 2023. Gospel quotations: ESV.</p>
+<p><strong>Contact / corrections:</strong> <a href="mailto:charles@reliable.cx">charles@reliable.cx</a></p>
+</footer>
+
+</body></html>

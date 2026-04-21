@@ -1,0 +1,531 @@
+{
+  "meta": {
+    "sermon_title": "Remarks at the Pentagon Prayer Meeting",
+    "preacher": "Pastor Douglas Wilson",
+    "church": "Christ Church (speaking at Pentagon prayer meeting convened by Secretary of War Pete Hegseth)",
+    "church_location": "Pentagon, Arlington, VA",
+    "series": "Political address",
+    "preaching_text": "Acts 4:31 (closing); Gen 15; Judges 7; 1 Kings 18; Luke 11:11–13; Phil 4:6–7",
+    "youtube_id": "dougwils-pentagon-20260216",
+    "upload_date": "2026-02-16",
+    "runtime_seconds": 749,
+    "transcript_path": "transcripts/20260216_wilson_pentagon_prayer_remarks.txt",
+    "gospel_translation": "ESV"
+  },
+  "summary": "Wilson delivers a 12-minute address inside the Pentagon at a prayer meeting convened by Secretary of War Pete Hegseth. The stated theological thesis — that God's promises protect us rather than the reverse, and that God uses weak instruments — is orthodox Reformed soteriology. But the setting, the framing, and the selection of biblical material knit a specifically Christian-nationalist message together: the opening prayer asserts 'we have sinned away a great and glorious heritage' and that Christ 'purchased all the nations of men, and Father, this includes our nation'; Deuteronomy 7's chosen-people passage is quoted at length without distinguishing ancient Israel from the United States; warrior images (David's armor, Gideon's 300, Chesty Puller at Chosin) cascade before an audience of actual warriors; and the sermon closes by casting the Pentagon prayer meeting itself as potential kindling for a 'black swan revival.' Jesus is almost entirely absent — no red letters quoted, no teaching on enemies, the sword, or the kingdom-not-of-this-world engaged.",
+  "scorecard": {
+    "axis_1": {
+      "label": "Fidelity to Jesus's Teachings (Red Letters)",
+      "verdict": "Mixed; significant omissions",
+      "severity": "moderate",
+      "headline": "Four flagged items. Jesus is functionally absent from a Christian sermon — no red letters quoted, no gospel scene engaged. The closest Jesus referent (Lazarus) is a passing illustration. The sermon-to-the-military register cannot be squared with Matt 5:44, Matt 26:52, or John 18:36, none of which appear."
+    },
+    "axis_2": {
+      "label": "Identifiable Biases / Harmful Rhetoric",
+      "verdict": "Severe Christian nationalism in its high-church form",
+      "severity": "severe",
+      "headline": "A civilian pastor invited into the Pentagon to cast a military prayer meeting as potential kindling for a national 'reformation/revival,' fusing biblical warrior imagery with literal warriors and asserting a providential national 'heritage' purchased by Christ's blood. Six of eight CN markers register Present or High."
+    },
+    "axis_3": {
+      "label": "Factual Claims & Evidence Check",
+      "verdict": "Mostly supported historical illustrations, hagiographic at the edges",
+      "severity": "low",
+      "headline": "Five checkable historical claims. Two are supported (Knox as French galley slave; Haystack Prayer Meeting 1806), one is supported-but-uncited (black swan concept = Taleb), one is famous-but-folkloric (Puller Chosin quotes), one is overstated (Whitefield 'transformed' two countries)."
+    },
+    "axis_4": {
+      "label": "Whole-Bible Engagement",
+      "verdict": "Selective — combat/chosenness strand elevated; peacemaking/universalism strand omitted",
+      "severity": "severe",
+      "headline": "The sermon consistently selects OT martial/chosenness material (Gen 15, Deut 7, David-Goliath, Gideon, Elijah's fire) and omits the Jesus-and-wider-canon strand (Matt 5:9, Matt 26:52, Luke 9:55, Eph 2:14, Rev 7:9, Isa 2:4, Mic 4:3). Preached at the Pentagon, the selection is not neutral."
+    }
+  },
+  "tenets_affirmed": [
+    "Core Reformed point is orthodox and well-stated: conversion is Christ inviting us into his life, not we into ours — 'He is the way, the truth, and the Life, and we were dead in our transgressions and sins.'",
+    "Properly insists that God's promises protect us and not the reverse — 'It is like trying to protect your helmet with your head' — a faithful gloss on Phil 4:6–7.",
+    "Scripture citations are rendered accurately (Gen 15:17 KJV; Deut 7:6–9 KJV; Ps 105:8 KJV; 1 Cor 1:27 KJV; Acts 4:31 KJV), and the Abraham/Genesis 15 covenant-cutting observation (that God alone passes between the pieces) is exegetically sound."
+  ],
+  "counter_signals": [
+    "Anti-triumphalist caveat: 'We do not bring credit to His name. Rather, He works through us.'",
+    "Emphasizes God's initiative and human weakness — 'God could ignite a sunken log on the bottom of a frozen lake' — rather than human strength.",
+    "Confessional register in the opening prayer acknowledges 'ingratitude, and all our various idolatries.'",
+    "No named political party, no named domestic political opponent, no named foreign enemy in the transcript."
+  ],
+  "findings": [
+    {
+      "id": "f1-1",
+      "axis": 1,
+      "severity": "severe",
+      "headline": true,
+      "title": "Jesus is functionally absent from a sermon preached in his name at the Pentagon",
+      "timestamp_seconds": null,
+      "timestamp_display": "(entire sermon)",
+      "pastor_quote": "[absent] — In a 12-minute address opening and closing in the name of Jesus Christ, not a single sentence Jesus spoke in the Gospels is quoted. The only Gospel scene referenced is Lazarus's resurrection, used illustratively; Jesus's direct teaching (Sermon on the Mount, Olivet Discourse, passion narratives, commissioning of the disciples) is not engaged.",
+      "jesus_quotes": [
+        {
+          "citation": "Matt 5:9",
+          "text": "Blessed are the peacemakers, for they shall be called sons of God."
+        },
+        {
+          "citation": "Matt 5:44",
+          "text": "Love your enemies and pray for those who persecute you."
+        },
+        {
+          "citation": "Matt 26:52",
+          "text": "Put your sword back into its place. For all who take the sword will perish by the sword."
+        },
+        {
+          "citation": "John 18:36",
+          "text": "My kingdom is not of this world. If my kingdom were of this world, my servants would have been fighting, that I might not be delivered over to the Jews. But my kingdom is not from the world."
+        },
+        {
+          "citation": "Luke 9:55–56 (when disciples proposed calling down fire on a religious-outsider village)",
+          "text": "But he turned and rebuked them. And they went on to another village."
+        }
+      ],
+      "why_flagged": "The setting (the Pentagon), audience (military leadership), and register (warrior metaphors, Chesty Puller, armor-piercing imagery) make the silences diagnostic. Every Jesus teaching most directly relevant to Christians in uniform — peacemaking, enemy love, the sword, the kingdom's non-worldly character, the rebuke of disciples who wanted to weaponize divine fire — is omitted. A sermon to warriors that quotes David, Gideon, Elijah and Chesty Puller but no Jesus has made a selection."
+    },
+    {
+      "id": "f1-2",
+      "axis": 1,
+      "severity": "moderate",
+      "headline": false,
+      "title": "National 'heritage' framing in the opening prayer",
+      "timestamp_seconds": 30,
+      "timestamp_display": "00:00:30",
+      "pastor_quote": "Father, we confess that we have sinned away a great and glorious heritage, and we know that we don't deserve to ask for it back . . . but we nevertheless do ask for it back. . . . With His blood, He purchased all the nations of men, and Father, this includes our nation.",
+      "jesus_quotes": [
+        {
+          "citation": "Luke 4:24–27 — Jesus's first recorded sermon, citing 1 Kings 17 and 2 Kings 5",
+          "text": "Truly, I say to you, no prophet is acceptable in his hometown. . . . there were many widows in Israel in the days of Elijah . . . and Elijah was sent to none of them but only to Zarephath, in the land of Sidon. . . . And there were many lepers in Israel in the time of the prophet Elisha, and none of them was cleansed, but only Naaman the Syrian."
+        },
+        {
+          "citation": "John 4:21–23",
+          "text": "The hour is coming when neither on this mountain nor in Jerusalem will you worship the Father . . . the true worshipers will worship the Father in spirit and truth."
+        },
+        {
+          "citation": "Matt 8:10–12 (echoing Isa 25:6; 49:12)",
+          "text": "With no one in Israel have I found such faith. I tell you, many will come from east and west and recline at table with Abraham, Isaac, and Jacob in the kingdom of heaven, while the sons of the kingdom will be thrown into the outer darkness."
+        },
+        {
+          "citation": "Isa 56:6–7 — cited by Jesus in Matt 21:13, Mark 11:17",
+          "text": "For my house shall be called a house of prayer for all peoples."
+        }
+      ],
+      "why_flagged": "Petitioning God to restore a 'glorious heritage' purchased by Christ's blood 'for our nation' imports a chosen-nation grammar that Jesus's own preaching systematically dismantles. In Luke 4 Jesus deliberately cites two OT stories of God's favor bypassing Israel for foreigners — and nearly gets killed for it. The framing in this opening prayer sits at the precise point Jesus's first sermon was built to contest."
+    },
+    {
+      "id": "f1-3",
+      "axis": 1,
+      "severity": "moderate",
+      "headline": false,
+      "title": "Warrior-register discipleship modeled on Chesty Puller at Chosin",
+      "timestamp_seconds": 384,
+      "timestamp_display": "00:06:24",
+      "pastor_quote": "When you learn how to stand firm in the Lord, and in the strength of His might, you are going to start sounding to your wife like a spiritual version of 'Chesty' Puller, after the Chinese came into the Korean War. 'We've been looking for the enemy for some time now. We've finally found him. We're surrounded. That simplifies things.'",
+      "jesus_quotes": [
+        {
+          "citation": "Matt 26:52",
+          "text": "Put your sword back into its place. For all who take the sword will perish by the sword."
+        },
+        {
+          "citation": "Matt 5:38–39",
+          "text": "You have heard that it was said, 'An eye for an eye and a tooth for a tooth.' But I say to you, Do not resist the one who is evil. But if anyone slaps you on the right cheek, turn to him the other also."
+        },
+        {
+          "citation": "John 18:10–11 (when Peter drew the sword)",
+          "text": "Then Simon Peter, having a sword, drew it and struck the high priest's servant and cut off his right ear. . . . So Jesus said to Peter, 'Put your sword into its sheath; shall I not drink the cup that the Father has given me?'"
+        },
+        {
+          "citation": "Matt 5:9",
+          "text": "Blessed are the peacemakers, for they shall be called sons of God."
+        }
+      ],
+      "why_flagged": "The illustrative model for the Christ-filled life is not the Beatitudes, the Good Samaritan, the foot-washing, or Gethsemane, but a Marine Corps general at Chosin describing encirclement by Chinese troops. In the red letters, Jesus's own 'moment of encirclement' (Gethsemane/arrest) is the moment he explicitly disarms his disciples. The frame Wilson recommends to an audience of warriors runs the opposite direction."
+    },
+    {
+      "id": "f1-4",
+      "axis": 1,
+      "severity": "moderate",
+      "headline": false,
+      "title": "Deuteronomy 7 chosen-people passage read without canonical qualification",
+      "timestamp_seconds": 514,
+      "timestamp_display": "00:08:34",
+      "pastor_quote": "'For thou art an holy people unto the Lord thy God: the Lord thy God hath chosen thee to be a special people unto himself, above all people that are upon the face of the earth. . . . because the Lord loved you, and because he would keep the oath which he had sworn unto your fathers, hath the Lord brought you out with a mighty hand . . .' Deut. 7:6–9 (KJV)",
+      "jesus_quotes": [
+        {
+          "citation": "Luke 4:24–27 — Jesus citing 1 Kings 17 and 2 Kings 5",
+          "text": "There were many widows in Israel in the days of Elijah . . . and Elijah was sent to none of them but only to Zarephath, in the land of Sidon. . . . And there were many lepers in Israel in the time of the prophet Elisha, and none of them was cleansed, but only Naaman the Syrian."
+        },
+        {
+          "citation": "Matt 12:41 — Jesus on Nineveh, Israel's enemy city",
+          "text": "The men of Nineveh will rise up at the judgment with this generation and condemn it, for they repented at the preaching of Jonah, and behold, something greater than Jonah is here."
+        },
+        {
+          "citation": "John 10:16",
+          "text": "And I have other sheep that are not of this fold. I must bring them also, and they will listen to my voice. So there will be one flock, one shepherd."
+        },
+        {
+          "citation": "Isa 56:6–7 — cited by Jesus in Matt 21:13",
+          "text": "For my house shall be called a house of prayer for all peoples."
+        }
+      ],
+      "why_flagged": "Deut 7:6–9 is quoted at length in a Pentagon prayer meeting that opened by calling the United States 'our nation' and 'a great and glorious heritage.' With no intervening distinction between ancient Israel and the American audience, the passage functions as a chosen-people text applied by proximity. Jesus's own OT citations systematically deflate exactly this reading — which is why his first sermon at Nazareth nearly got him thrown off a cliff."
+    },
+    {
+      "id": "f2-1",
+      "axis": 2,
+      "severity": "severe",
+      "headline": true,
+      "title": "Christian nationalism by venue, framing, and selection",
+      "timestamp_seconds": 706,
+      "timestamp_display": "00:11:33",
+      "pastor_quote": "God can do what He likes, as we all should know by now, and what He likes to do is take the most unlikely materials and do something glorious with it. Take a prayer meeting at the Pentagon for a possible example . . .",
+      "jesus_quotes": [
+        {
+          "citation": "John 18:36",
+          "text": "My kingdom is not of this world. If my kingdom were of this world, my servants would have been fighting."
+        },
+        {
+          "citation": "John 6:15",
+          "text": "Perceiving then that they were about to come and take him by force to make him king, Jesus withdrew again to the mountain by himself."
+        },
+        {
+          "citation": "Mark 12:17",
+          "text": "Render to Caesar the things that are Caesar's, and to God the things that are God's."
+        },
+        {
+          "citation": "Matt 4:8–10 (the temptation to institutional power)",
+          "text": "Again, the devil took him to a very high mountain and showed him all the kingdoms of the world and their glory. And he said to him, 'All these I will give you, if you will fall down and worship me.' Then Jesus said to him, 'Be gone, Satan!'"
+        }
+      ],
+      "why_flagged": "Severity is set by reach × specificity × harm. Reach: this is a Pentagon address by the Secretary of War's personal invitation, circulated widely online and carrying the imprimatur of cabinet-level state power. Specificity: Wilson is the most prominent living advocate of 'Mere Christendom' / Christian nationalism in Reformed evangelicalism, and the framing — restoring a 'glorious heritage,' Deut 7 chosenness, Whitefield/Knox as templates for national transformation, the Pentagon prayer meeting itself as the unlikely material of revival — is the substance of that program. Harm: normalizing the fusion of state-military authority with church-prophetic authority is exactly the civil-religious move that repeatedly precedes large-scale political-religious abuse. The sermon does not name a political opponent and does not need to; the architecture is in the venue and the selection."
+    }
+  ],
+  "axis4_findings": [
+    {
+      "id": "f4-1",
+      "axis": 4,
+      "severity": "severe",
+      "headline": true,
+      "title": "National chosenness at the Pentagon: Deut 7 without Luke 4",
+      "topic": "Whether any modern nation is the spiritual heir of Israel's chosenness",
+      "timestamp_seconds": 514,
+      "timestamp_display": "00:08:34",
+      "pastor_quote": "'For thou art an holy people unto the Lord thy God: the Lord thy God hath chosen thee to be a special people unto himself, above all people that are upon the face of the earth . . .' Deut. 7:6–9 (KJV) [preceded earlier by: 'With His blood, He purchased all the nations of men, and Father, this includes our nation.']",
+      "jesus_passages": [
+        {
+          "citation": "Luke 4:24–27 — Jesus's first recorded sermon, citing 1 Kings 17 and 2 Kings 5",
+          "text": "No prophet is acceptable in his hometown . . . Elijah was sent to none of them but only to Zarephath, in the land of Sidon, to a woman who was a widow. . . . none of them was cleansed, but only Naaman the Syrian."
+        },
+        {
+          "citation": "Matt 8:10–12",
+          "text": "With no one in Israel have I found such faith. . . . many will come from east and west and recline at table with Abraham, Isaac, and Jacob in the kingdom of heaven, while the sons of the kingdom will be thrown into the outer darkness."
+        },
+        {
+          "citation": "John 4:21–23",
+          "text": "The hour is coming when neither on this mountain nor in Jerusalem will you worship the Father . . . the true worshipers will worship the Father in spirit and truth."
+        },
+        {
+          "citation": "Isa 56:6–7 — cited by Jesus in Matt 21:13, Mark 11:17",
+          "text": "For my house shall be called a house of prayer for all peoples."
+        }
+      ],
+      "wider_bible_passages": [
+        {
+          "citation": "Amos 9:7 (within the OT itself)",
+          "text": "Are you not like the Cushites to me, O people of Israel? declares the Lord. Did I not bring up Israel from the land of Egypt, and the Philistines from Caphtor and the Syrians from Kir?"
+        },
+        {
+          "citation": "Gal 3:28",
+          "text": "There is neither Jew nor Greek, there is neither slave nor free, there is no male and female, for you are all one in Christ Jesus."
+        },
+        {
+          "citation": "Eph 2:14",
+          "text": "He himself is our peace, who has made us both one and has broken down in his flesh the dividing wall of hostility."
+        },
+        {
+          "citation": "1 Pet 2:9",
+          "text": "But you are a chosen race, a royal priesthood, a holy nation, a people for his own possession . . . [addressed to the dispersed trans-national church, not a state]"
+        },
+        {
+          "citation": "Rev 7:9",
+          "text": "A great multitude that no one could number, from every nation, from all tribes and peoples and languages, standing before the throne."
+        },
+        {
+          "citation": "Jonah 4:10–11",
+          "text": "Should I not pity Nineveh, that great city, in which there are more than 120,000 persons who do not know their right hand from their left?"
+        }
+      ],
+      "analysis": "The canonical trajectory on national chosenness is unusually coherent: the OT itself qualifies it (Amos 9:7; Jonah; Ruth; Isa 56), Jesus amplifies the minority counter-voice as the controlling key (Luke 4; Matt 8; John 4; Matt 21:13 = Isa 56:7), and the NT redirects 'chosen nation' language (1 Pet 2:9) onto the trans-national church. No major canonical voice supports the transfer of Deut 7 chosenness onto a modern nation-state. Reading Deut 7:6–9 at length in the Pentagon, bracketed by a prayer invoking a 'glorious heritage' 'purchased' for 'our nation,' without a single qualifier — and without any of Jesus's deflationary citations — is canonically one-sided in the direction Jesus specifically preached against.",
+      "why_flagged": "The dominant biblical witness on national chosenness, including Jesus's own deliberate OT citations, runs opposite to the implicit application. Not a single canonical qualifier is offered. In the Pentagon context, the selection is not theologically neutral."
+    },
+    {
+      "id": "f4-2",
+      "axis": 4,
+      "severity": "severe",
+      "headline": true,
+      "title": "Warriors, peacemakers, and the canonical tension the sermon elides",
+      "topic": "How Christians, and Christians in arms, should relate to violence",
+      "timestamp_seconds": 279,
+      "timestamp_display": "00:04:39",
+      "pastor_quote": "David went out to confront Goliath, and he was not protected by so inadequate as Saul's armor. . . . He stood firm in the name of Jehovah. He conquered the giant Goliath in the name of someone else. If you bear the name of Jesus Christ, there is no armor greater than that. Not only so, but all the devil's R&D teams have not come up with armor-piercing anything. [Followed by Gideon's 300, Jehoshaphat's choir-in-vanguard, and the Chesty Puller at Chosin illustration.]",
+      "jesus_passages": [
+        {
+          "citation": "Matt 5:9",
+          "text": "Blessed are the peacemakers, for they shall be called sons of God."
+        },
+        {
+          "citation": "Matt 5:44",
+          "text": "Love your enemies and pray for those who persecute you."
+        },
+        {
+          "citation": "Matt 26:52",
+          "text": "Put your sword back into its place. For all who take the sword will perish by the sword."
+        },
+        {
+          "citation": "Luke 9:55–56",
+          "text": "But he turned and rebuked them. And they went on to another village."
+        },
+        {
+          "citation": "John 18:36",
+          "text": "My kingdom is not of this world. If my kingdom were of this world, my servants would have been fighting."
+        }
+      ],
+      "wider_bible_passages": [
+        {
+          "citation": "Isa 2:4 / Mic 4:3",
+          "text": "They shall beat their swords into plowshares, and their spears into pruning hooks; nation shall not lift up sword against nation, neither shall they learn war anymore."
+        },
+        {
+          "citation": "Rom 12:17–21",
+          "text": "Repay no one evil for evil. . . . never avenge yourselves, but leave it to the wrath of God . . . Do not be overcome by evil, but overcome evil with good."
+        },
+        {
+          "citation": "Eph 6:12",
+          "text": "For we do not wrestle against flesh and blood, but against the rulers, against the authorities, against the cosmic powers over this present darkness."
+        },
+        {
+          "citation": "2 Cor 10:3–4",
+          "text": "For though we walk in the flesh, we are not waging war according to the flesh. For the weapons of our warfare are not of the flesh but have divine power to destroy strongholds."
+        },
+        {
+          "citation": "Rev 13:10",
+          "text": "If anyone is to be taken captive, to captivity he goes; if anyone is to be slain with the sword, with the sword must he be slain. Here is a call for the endurance and the faith of the saints."
+        }
+      ],
+      "analysis": "The canon actually contains two currents on violence: an OT holy-war tradition (Joshua, David, Gideon, the imprecatory psalms) and a Jesus-inaugurated peacemaking current picked up by Paul (Rom 12; 2 Cor 10), Isaiah's swords-to-plowshares vision, and Revelation's endurance-of-the-saints. Responsible preaching in a military setting would engage the tension. Wilson preaches exclusively from the first current, and — crucially — the NT passages his register echoes (Eph 6's armor; 2 Cor weaponry) are the passages that explicitly *re-spiritualize* OT warfare away from flesh and blood. Those NT re-spiritualizations are not voiced. The sermon's illustrative icon for spiritual maturity, Chesty Puller at Chosin, is a literal warrior in a literal war. The canonical tension — acknowledged or not — collapses in the direction of flesh-and-blood militancy by the force of setting, audience, and illustration.",
+      "why_flagged": "On a theme where the canon genuinely argues with itself, the preacher chooses one side without acknowledgment, omits Jesus's direct interventions (Matt 26:52; Luke 9:55; John 18:36), and omits even the NT passages (Eph 6:12; 2 Cor 10:3–4) that redirect the very armor imagery he invokes. To a Pentagon audience, the elision is the message."
+    },
+    {
+      "id": "f4-3",
+      "axis": 4,
+      "severity": "moderate",
+      "headline": false,
+      "title": "Revival/reformation rhetoric as national-institutional transformation project",
+      "topic": "What biblical 'revival' looks like and what institutions it targets",
+      "timestamp_seconds": 660,
+      "timestamp_display": "00:11:00",
+      "pastor_quote": "The Spirit empowered an obscure Anglican priest named George Whitefield, and the awakening in England and America transformed both countries. The instrument for transforming Scotland was a galley slave named . . . John Knox. . . . Take a prayer meeting at the Pentagon for a possible example . . .",
+      "jesus_passages": [
+        {
+          "citation": "John 18:36",
+          "text": "My kingdom is not of this world. If my kingdom were of this world, my servants would have been fighting, that I might not be delivered over to the Jews."
+        },
+        {
+          "citation": "John 6:15",
+          "text": "Perceiving then that they were about to come and take him by force to make him king, Jesus withdrew again to the mountain by himself."
+        },
+        {
+          "citation": "Luke 17:20–21",
+          "text": "The kingdom of God is not coming in ways that can be observed . . . for behold, the kingdom of God is in the midst of you."
+        },
+        {
+          "citation": "Acts 1:6–8 (Jesus's last words before the ascension)",
+          "text": "Lord, will you at this time restore the kingdom to Israel? He said to them, 'It is not for you to know times or seasons . . . but you will receive power . . . and you will be my witnesses in Jerusalem and in all Judea and Samaria, and to the end of the earth.'"
+        }
+      ],
+      "wider_bible_passages": [
+        {
+          "citation": "Acts 4:31 (the sermon's own closing verse)",
+          "text": "And when they had prayed, the place was shaken where they were assembled together, and they were all filled with the Holy Spirit and continued to speak the word of God with boldness. [Context: the praying community is a persecuted minority, not the state apparatus.]"
+        },
+        {
+          "citation": "Phil 3:20",
+          "text": "But our citizenship is in heaven, and from it we await a Savior, the Lord Jesus Christ."
+        },
+        {
+          "citation": "Heb 13:14",
+          "text": "For here we have no lasting city, but we seek the city that is to come."
+        },
+        {
+          "citation": "Rev 18:4",
+          "text": "Come out of her, my people, lest you take part in her sins, lest you share in her plagues."
+        }
+      ],
+      "analysis": "Acts 4:31, the sermon's bookend verse, describes the Spirit's filling of a persecuted minority community praying *against* the dominant imperial-religious order. Wilson lifts the verse and drops it inside the imperial-religious order — the Pentagon. That move is not impossible biblically (pietists would argue the Spirit can ignite anywhere, a claim Wilson defends with the 'sunken log' image), but it evacuates the specific canonical register of Acts 4, which is prayer against authorities, not prayer inside them. Meanwhile the Whitefield/Knox framing ('transformed both countries,' 'transforming Scotland') describes revival in terms of national institutional transformation — a frame natural to Wilson's published 'Mere Christendom' project but foreign to Jesus's kingdom-not-of-this-world, Paul's heavenly citizenship, Hebrews' no-lasting-city, and Revelation's come-out-of-her.",
+      "why_flagged": "The sermon's theory of change — Spirit ignites, institutions transform — routes through state power in a way Jesus's own political self-presentation specifically refused (John 6:15; John 18:36). The canonical model for Acts 4:31-style Spirit-filling is a community speaking *to* rulers from outside, not beside them."
+    }
+  ],
+  "factual_claims": [
+    {
+      "id": "fc-1",
+      "timestamp_seconds": 667,
+      "timestamp_display": "00:11:07",
+      "claim": "John Knox was a galley slave before becoming the instrument for transforming Scotland.",
+      "evidence_cited_by_pastor": "None cited; asserted as historical illustration.",
+      "verdict": "supported",
+      "analysis": "Historically accurate. After the assassination of Cardinal David Beaton and the fall of St Andrews Castle in 1547, Knox was among those captured by French forces and consigned to service on French galleys, where he remained roughly 19 months (1547–1549) before release through English intervention. Knox himself describes the period in his History of the Reformation in Scotland. The biographical fact is uncontroversial in Reformation scholarship (Ridley, Dawson).",
+      "sources": [
+        {
+          "title": "Jane Dawson, John Knox (Yale University Press, 2015)",
+          "url": "https://yalebooks.yale.edu/book/9780300114737/john-knox/"
+        },
+        {
+          "title": "Britannica — John Knox (biography)",
+          "url": "https://www.britannica.com/biography/John-Knox"
+        }
+      ]
+    },
+    {
+      "id": "fc-2",
+      "timestamp_seconds": 680,
+      "timestamp_display": "00:11:20",
+      "claim": "A 19th-century explosion of missionary activity came out of a prayer meeting at a haystack.",
+      "evidence_cited_by_pastor": "None cited.",
+      "verdict": "supported",
+      "analysis": "Accurate reference to the 1806 Haystack Prayer Meeting at Williams College (Samuel J. Mills and four others, sheltering from a thunderstorm behind a haystack). The meeting is widely credited by historians of American missions as a proximate catalyst for the founding of the American Board of Commissioners for Foreign Missions (ABCFM, 1810), the first major US foreign-missions sending agency. 'Explosion' is rhetorical but not unfair as a shorthand for 19th-century American Protestant missions expansion.",
+      "sources": [
+        {
+          "title": "Williams College — The Haystack Prayer Meeting",
+          "url": "https://libraries.williams.edu/archives/haystack-prayer-meeting/"
+        },
+        {
+          "title": "American Board of Commissioners for Foreign Missions — historical overview (Congregational Library)",
+          "url": "https://www.congregationallibrary.org/"
+        }
+      ]
+    },
+    {
+      "id": "fc-3",
+      "timestamp_seconds": 397,
+      "timestamp_display": "00:06:37",
+      "claim": "Chesty Puller at Chosin said 'We've been looking for the enemy for some time now. We've finally found him. We're surrounded. That simplifies things,' and 'they're on our left, they're on our right, they're in front of us, they're behind us . . . they can't get away this time.'",
+      "evidence_cited_by_pastor": "None; attribution by name only.",
+      "verdict": "partially supported",
+      "analysis": "The 'they can't get away this time' / 'they're on our left and right' construction is very widely attributed to Lt. Gen. Lewis B. 'Chesty' Puller during the Chosin Reservoir breakout (November–December 1950) and is a staple of Marine Corps lore. The attribution, however, is not documented in any contemporaneous primary source and is treated as folkloric/apocryphal by careful military historians. The 'we're surrounded, that simplifies things' variant is likewise traditional but undocumented. The quotations are real in the sense that they are genuinely and continuously attributed to Puller; they are not well-sourced in the sense of traceable primary records.",
+      "sources": [
+        {
+          "title": "USMC History Division — Marine Corps History",
+          "url": "https://www.usmcu.edu/Research/Marine-Corps-History-Division/"
+        },
+        {
+          "title": "Jon T. Hoffman, Chesty: The Story of Lieutenant General Lewis B. Puller, USMC (Random House, 2001)",
+          "url": "https://www.penguinrandomhouse.com/books/87040/chesty-by-jon-t-hoffman/"
+        }
+      ]
+    },
+    {
+      "id": "fc-4",
+      "timestamp_seconds": 660,
+      "timestamp_display": "00:11:00",
+      "claim": "George Whitefield's awakening 'transformed both countries' (England and America).",
+      "evidence_cited_by_pastor": "None cited.",
+      "verdict": "partially supported / overstated",
+      "analysis": "Whitefield was a genuinely significant figure in the First Great Awakening on both sides of the Atlantic (1730s–1770s) and drew enormous crowds; historians like Harry Stout (The Divine Dramatist, 1991) and Thomas Kidd (George Whitefield: America's Spiritual Founding Father, 2014) credit him with reshaping transatlantic evangelical Protestantism. 'Transformed both countries,' however, is hagiographic: England's broader 18th-century religious landscape was shaped by many forces (Wesleyan Methodism, Anglican reform, Enlightenment skepticism), and while the American colonial religious scene was genuinely reshaped, 'transformed' as a description of the nation as a whole is revivalist shorthand historians flag as overclaiming. Not fabricated; oversold.",
+      "sources": [
+        {
+          "title": "Thomas S. Kidd, George Whitefield: America's Spiritual Founding Father (Yale University Press, 2014)",
+          "url": "https://yalebooks.yale.edu/book/9780300181623/george-whitefield/"
+        },
+        {
+          "title": "Harry S. Stout, The Divine Dramatist: George Whitefield and the Rise of Modern Evangelicalism (Eerdmans, 1991)",
+          "url": "https://www.eerdmans.com/9780802801548/the-divine-dramatist/"
+        }
+      ]
+    },
+    {
+      "id": "fc-5",
+      "timestamp_seconds": 586,
+      "timestamp_display": "00:09:46",
+      "claim": "A 'black swan' is an event that, although unpredicted, is retroactively rationalized by historians as having been inevitable.",
+      "evidence_cited_by_pastor": "None cited.",
+      "verdict": "supported",
+      "analysis": "The framework Wilson describes is essentially Nassim Nicholas Taleb's definition of a 'black swan' from The Black Swan: The Impact of the Highly Improbable (2007): high-impact events that are rationalized retrospectively as having been predictable. Wilson's characterization is a fair lay summary. He does not cite Taleb, but the concept is not his original coinage; attribution by name would have been courteous but the substance is accurate.",
+      "sources": [
+        {
+          "title": "Nassim Nicholas Taleb, The Black Swan: The Impact of the Highly Improbable (Random House, 2007)",
+          "url": "https://www.penguinrandomhouse.com/books/176226/the-black-swan-second-edition-by-nassim-nicholas-taleb/"
+        }
+      ]
+    }
+  ],
+  "cn_markers": [
+    {
+      "marker": "A. Conflation of national & Christian identity",
+      "status": "Present",
+      "reference": "See Findings 1.2 and 1.4 — 'our nation', 'great and glorious heritage', Christ 'purchased all the nations of men, and . . . this includes our nation,' unqualified Deut 7 chosenness reading"
+    },
+    {
+      "marker": "B. Militaristic / warrior framing",
+      "status": "High",
+      "note": "Delivered inside the Pentagon at the invitation of the 'Secretary of War,' this is not ambient biblical armor imagery. The sustained warrior cascade (David's breastplate, Gideon's 300, 'armor-piercing anything,' 'exploits,' and especially the Chesty Puller at Chosin illustration) is preached to literal warriors. Under the Du Mez rubric of masculinized warrior-Christian identity, this is textbook."
+    },
+    {
+      "marker": "C. Political opponents as spiritual enemies",
+      "status": "Low",
+      "note": "Not explicit in the transcript; the 'devil's R&D teams' line keeps the enemy nominally supernatural."
+    },
+    {
+      "marker": "D. Dominionist rhetoric",
+      "status": "Present",
+      "note": "Casting a Pentagon prayer meeting as potential kindling for a 'black swan reformation, a black swan revival' on the Whitefield/Knox model implies a national-religious transformation project of which the national-security apparatus is a constitutive part. Consistent with Wilson's published 'Mere Christendom' program."
+    },
+    {
+      "marker": "E. Civil religion (flag, pledge)",
+      "status": "Present",
+      "note": "The event itself — state-convened prayer inside the Department of War by invitation of the sitting Secretary — is civil religion per se. The pastor's acceptance and framing normalize it."
+    },
+    {
+      "marker": "F. Jeremiad / 'Christianity under attack'",
+      "status": "Present",
+      "reference": "'We have sinned away a great and glorious heritage . . . we nevertheless do ask for it back' — declension narrative assuming a prior Christian American golden age"
+    },
+    {
+      "marker": "G. Ethno-cultural 'real American' undertones",
+      "status": "None detected in transcript",
+      "note": "No ethnic/cultural in-group markers in the text itself; the 'heritage' language is unspecified and therefore reader-filled."
+    },
+    {
+      "marker": "H. Strongman / authoritarian affinity",
+      "status": "Contextual — Present",
+      "note": "The invitation comes from Secretary Hegseth, a public adherent of Wilson's CREC-adjacent theology, within an administration that renamed Defense to 'War.' The pastor's willingness to preach in this venue without distancing or qualifying commentary is itself a signal."
+    }
+  ],
+  "other_axis2_rubrics": [
+    {
+      "rubric": "Anti-Muslim framing",
+      "status": "Not present in this sermon"
+    },
+    {
+      "rubric": "Anti-LGBTQ framing",
+      "status": "Not present in this sermon"
+    },
+    {
+      "rubric": "Misogynistic framing",
+      "status": "Low",
+      "note": "'You are going to start sounding to your wife like a spiritual version of Chesty Puller' positions spiritual maturity as a martial masculinity the wife receives — a soft instance of the gendered framing characteristic of Wilson's wider corpus, but mild within this transcript."
+    },
+    {
+      "rubric": "Anti-Jewish framing",
+      "status": "Not present"
+    }
+  ],
+  "reach": {
+    "source": "non-YouTube (blog-sourced transcript)",
+    "congregation": {
+      "weekly_attendance_est": null,
+      "audience_context": "Pentagon prayer meeting — audience was senior Department of War staff and invitees. Not a congregation in the usual sense; reach multiplier is institutional/political.",
+      "source": "dougwils.com; reporting on the Hegseth-convened Pentagon prayer meetings"
+    }
+  }
+}
