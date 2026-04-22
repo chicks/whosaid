@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>whosaid — Longitudinal: Pastor Greg Locke</title>
+<style>
+* { box-sizing: border-box; }
+:root {
+  --c-bg: #fafaf7; --c-fg: #1d1d1b; --c-muted: #6b6b67; --c-border: #d8d6cf;
+  --c-card: #ffffff;
+  --c-severe: #9b1c1c; --c-severe-bg: #fde8e8;
+  --c-moderate: #c2410c; --c-moderate-bg: #ffedd5;
+  --c-low: #a16207; --c-low-bg: #fef3c7;
+  --c-link: #1e40af;
+  --c-up: #9b1c1c; --c-down: #166534; --c-same: #6b6b67;
+}
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
+  background: var(--c-bg); color: var(--c-fg);
+  max-width: 1100px; margin: 0 auto; padding: 2rem 1.5rem 5rem;
+  line-height: 1.55;
+}
+h1 { font-size: 2rem; margin: 0 0 .25rem; letter-spacing: -0.01em; }
+h2 { font-size: 1.35rem; margin: 2.5rem 0 .75rem; border-bottom: 1px solid var(--c-border); padding-bottom: .3rem; }
+h3 { font-size: 1rem; margin: 1rem 0 .4rem; }
+a { color: var(--c-link); text-decoration: none; border-bottom: 1px solid rgba(30,64,175,0.3); }
+
+.time-header { display: grid; grid-template-columns: 1fr 60px 1fr; gap: 1rem; align-items: stretch; margin: 1.5rem 0; }
+.time-header .time-card { background: var(--c-card); border: 1px solid var(--c-border); border-radius: 6px; padding: 1rem 1.25rem; }
+.time-header .time-card .label { font-size: .68rem; color: var(--c-muted); letter-spacing: .1em; text-transform: uppercase; margin-bottom: .3rem; }
+.time-header .time-card .date { font-family: 'SF Mono', Menlo, monospace; font-size: .9rem; color: var(--c-muted); margin-bottom: .3rem; }
+.time-header .time-card .sermon-title { font-size: 1.05rem; font-weight: 600; line-height: 1.3; margin-bottom: .4rem; }
+.time-header .time-card .church-line { font-size: .82rem; color: var(--c-muted); margin-bottom: .4rem; }
+.time-header .time-card .reach-line { font-size: .82rem; font-variant-numeric: tabular-nums; margin-top: .5rem; padding-top: .5rem; border-top: 1px dashed var(--c-border); }
+.time-header .arrow { display: flex; align-items: center; justify-content: center; font-size: 2rem; color: var(--c-muted); font-weight: 300; }
+
+.axis-grid { display: grid; grid-template-columns: 1fr; gap: .5rem; }
+.axis-row {
+  display: grid; grid-template-columns: 200px 1fr 60px 1fr;
+  gap: 1rem; align-items: center;
+  background: var(--c-card); border: 1px solid var(--c-border); border-radius: 6px;
+  padding: .65rem 1rem;
+}
+.axis-row .axis-label { font-weight: 600; font-size: .9rem; }
+.axis-row .verdict-cell { font-size: .85rem; line-height: 1.35; }
+.axis-row .verdict-cell .verdict-text { color: var(--c-muted); font-size: .8rem; margin-top: .15rem; }
+.axis-row .delta-cell { text-align: center; font-size: 1.6rem; font-weight: 700; }
+.axis-row .delta-cell .delta-up { color: var(--c-up); }
+.axis-row .delta-cell .delta-down { color: var(--c-down); }
+.axis-row .delta-cell .delta-same { color: var(--c-same); }
+.axis-row .delta-cell .delta-label { display: block; font-size: .65rem; font-weight: 400; letter-spacing: .05em; text-transform: uppercase; color: var(--c-muted); margin-top: -.15rem; }
+
+.sev-badge {
+  display: inline-block; font-size: 0.68rem; font-weight: 600;
+  text-transform: uppercase; letter-spacing: 0.06em;
+  padding: 2px 7px; border-radius: 3px; color: white;
+}
+.sev-badge.sev-severe { background: var(--c-severe); }
+.sev-badge.sev-moderate { background: var(--c-moderate); }
+.sev-badge.sev-low { background: var(--c-low); }
+.sev-badge.sev-none { background: #6b6b67; }
+
+.marker-table {
+  width: 100%; border-collapse: collapse; font-size: .88rem;
+  background: var(--c-card); border: 1px solid var(--c-border); border-radius: 6px; overflow: hidden;
+}
+.marker-table th, .marker-table td { padding: .5rem .7rem; border-bottom: 1px solid var(--c-border); text-align: left; vertical-align: top; }
+.marker-table th { background: #ebe9e1; font-size: .75rem; text-transform: uppercase; letter-spacing: .05em; }
+.marker-table tr:last-child td { border-bottom: 0; }
+.marker-table td.status-cell { min-width: 95px; font-size: .82rem; }
+.marker-table td.delta-cell { text-align: center; font-size: 1.3rem; font-weight: 700; width: 50px; }
+.marker-table .status-tag {
+  display: inline-block; font-size: .65rem; font-weight: 600;
+  padding: 1px 6px; border-radius: 3px;
+  text-transform: uppercase; letter-spacing: .04em;
+}
+.marker-table .status-tag.status-severe { background: var(--c-severe); color: white; }
+.marker-table .status-tag.status-present { background: var(--c-moderate); color: white; }
+.marker-table .status-tag.status-low { background: var(--c-low); color: white; }
+.marker-table .status-tag.status-none { background: #e5e2d8; color: var(--c-muted); }
+.marker-table .delta-up { color: var(--c-up); }
+.marker-table .delta-down { color: var(--c-down); }
+.marker-table .delta-same { color: var(--c-same); font-size: 1rem; opacity: .6; }
+.marker-table .delta-appeared { color: var(--c-up); }
+
+.headline-compare {
+  display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; margin: .5rem 0;
+}
+@media (max-width: 700px) { .headline-compare { grid-template-columns: 1fr; } }
+.headline-block {
+  background: var(--c-card); border: 1px solid var(--c-border); border-radius: 6px;
+  padding: .75rem 1rem; font-size: .9rem;
+}
+.headline-block.severity-severe { border-left: 4px solid var(--c-severe); }
+.headline-block.severity-moderate { border-left: 4px solid var(--c-moderate); }
+.headline-block.severity-low { border-left: 4px solid var(--c-low); }
+.headline-block .date-line { font-size: .72rem; color: var(--c-muted); text-transform: uppercase; letter-spacing: .06em; margin-bottom: .3rem; }
+.headline-block .verdict-line { font-weight: 600; margin-bottom: .3rem; }
+.headline-block .headline-body { font-size: .88rem; color: var(--c-fg); }
+
+.finding-preview {
+  background: #f9f7ed; border-left: 3px solid var(--c-border); border-radius: 0 3px 3px 0;
+  padding: .5rem .7rem; margin-top: .4rem; font-size: .83rem;
+}
+.finding-preview .title { font-weight: 600; }
+.finding-preview .quote { font-style: italic; color: var(--c-muted); margin-top: .2rem; }
+
+.summary-box {
+  background: var(--c-card); border: 1px solid var(--c-border); border-radius: 6px;
+  padding: 1rem 1.25rem; margin: 1rem 0;
+}
+
+footer { margin-top: 3rem; padding-top: 1.5rem; border-top: 1px solid var(--c-border); color: var(--c-muted); font-size: .85rem; }
+</style>
+</head><body>
+
+<div style="font-size:.75rem; color: var(--c-muted); letter-spacing:.1em; text-transform: uppercase;">Longitudinal comparison · same pastor, across time</div>
+<h1>Pastor Greg Locke</h1>
+<p style="color: var(--c-muted); margin:.3rem 0 1rem; font-size: 1rem;">2020-04-29 &nbsp;→&nbsp; 2026-02-09 &nbsp;<span style="color:var(--c-muted);font-size:.9rem;">(5.8 years apart)</span></p>
+
+
+<div class="time-header"><div class="time-card"><div class="label">Then</div><div class="date">2020-04-29</div><div class="sermon-title">Join Pastor Greg Locke as he teaches on “THE LAST DAYS ” 🔥</div><div class="church-line">Global Vision Bible Church</div><div class="reach-line"><strong>74</strong> views · <strong>18</strong> subs · ~<strong>3.5K</strong>/wk</div></div><div class="arrow">→</div><div class="time-card"><div class="label">Now</div><div class="date">2026-02-09</div><div class="sermon-title">Last Days, Last Call: God’s Instructions to the Church</div><div class="church-line">Global Vision Bible Church</div><div class="reach-line"><strong>2.2K</strong> views · <strong>100K</strong> subs · ~<strong>3.5K</strong>/wk</div></div></div>
+
+<div class="summary-box"><h3 style="margin-top:0;">At a glance</h3><ul style="margin:.25rem 0 0 1.2rem; padding:0;"><li><strong>CN markers appeared:</strong> A. Conflation of national & Ch</li><li><strong>CN markers disappeared:</strong> C. Political opponents as spir</li></ul></div>
+
+<h2>Axis Severity: Then vs. Now</h2>
+<div class="axis-grid"><div class="axis-row"><div class="axis-label">Axis 1 — Jesus</div><div class="verdict-cell"><span class="sev-badge sev-moderate">moderate</span><div class="verdict-text">Mixed to poor</div></div><div class="delta-cell"><span class="delta-same">=</span><span class="delta-label">unchanged</span></div><div class="verdict-cell"><span class="sev-badge sev-moderate">moderate</span><div class="verdict-text">Mixed</div></div></div><div class="axis-row"><div class="axis-label">Axis 2 — Bias/Harm</div><div class="verdict-cell"><span class="sev-badge sev-moderate">moderate</span><div class="verdict-text">Moderate — jeremiad plus COVID/public-health contempt</div></div><div class="delta-cell"><span class="delta-same">=</span><span class="delta-label">unchanged</span></div><div class="verdict-cell"><span class="sev-badge sev-moderate">moderate</span><div class="verdict-text">Low-moderate; mostly jeremiad register</div></div></div><div class="axis-row"><div class="axis-label">Axis 3 — Facts</div><div class="verdict-cell"><span class="sev-badge sev-moderate">moderate</span><div class="verdict-text">Poor evidence hygiene</div></div><div class="delta-cell"><span class="delta-same">=</span><span class="delta-label">unchanged</span></div><div class="verdict-cell"><span class="sev-badge sev-moderate">moderate</span><div class="verdict-text">Poor evidence hygiene</div></div></div><div class="axis-row"><div class="axis-label">Axis 4 — Whole Bible</div><div class="verdict-cell"><span class="sev-badge sev-moderate">moderate</span><div class="verdict-text">Narrow; single-passage preaching</div></div><div class="delta-cell"><span class="delta-same">=</span><span class="delta-label">unchanged</span></div><div class="verdict-cell"><span class="sev-badge sev-moderate">moderate</span><div class="verdict-text">Selective; KJV-dependent and dispensationalist</div></div></div></div>
+
+<h2>Axis 2 Headline Comparison</h2>
+<div class="headline-compare"><div class="headline-block severity-moderate"><div class="date-line">Then · 2020-04-29</div><div class="verdict-line">[moderate] Moderate — jeremiad plus COVID/public-health contempt</div><div class="headline-body">A sustained &#x27;churches have lost the power / world is savage&#x27; jeremiad; pulpit mockery of mask-wearers as spiritual fakes during an active respiratory pandemic; reinterpretation of &#x27;without natural affection&#x27; as maternal abortion that frames women who have had abortions as a sign of the apocalypse.</div><div class="finding-preview"><div class="title">Top Axis-2 finding: Pulpit mockery of mask-wearing during an active respiratory pandemic</div><div class="quote">“People these days because of koban coronavirus… we&#x27;re gonna should we wear masks to church and wasn&#x27;t you kidding me I know people who didn&#x27;t wear a mask to church for 40 years of their life that&#x27;s all they ever do they wear a mask they&#x27;re classic…”</div></div></div><div class="headline-block severity-moderate"><div class="date-line">Now · 2026-02-09</div><div class="verdict-line">[moderate] Low-moderate; mostly jeremiad register</div><div class="headline-body">No targeted attack on an identifiable group in this sermon. Persistent &#x27;Bible vs. culture on a collision course&#x27; jeremiad and caricature of protesters (&#x27;people are mad at America and don&#x27;t even know why&#x27;) carry Christian-nationalism adjacency, but Locke explicitly de-centers partisan politics (&#x27;it doesn&#x27;t matter if a Republican&#x27;s in there… I&#x27;m not looking to the White House&#x27;). A &#x27;Billy Graham rule&#x27; section casts adult women as presumed-suspect counseling partners.</div><div class="finding-preview"><div class="title">Top Axis-2 finding: Jeremiad: &#x27;the Bible and the culture are on a collision course&#x27;</div><div class="quote">“I&#x27;m not a cultural Christian. I&#x27;m a Bible Christian. Because the Bible and the culture are on a collision course. You are one or the other, but you are not both at the same time. We have to hold fast what we know to be good, what we know to be rig…”</div></div></div></div>
+
+<h2>Christian Nationalism Markers: Δ Over Time</h2>
+<table class="marker-table"><thead><tr><th>CN Marker</th><th>Then</th><th>Δ</th><th>Now</th></tr></thead><tbody><tr><td>A. Conflation of national &amp; Christian identity</td><td class="status-cell"><span class="status-tag status-none">None detected</span></td><td class="delta-cell delta-appeared">+</td><td class="status-cell"><span class="status-tag status-low">None–Low</span></td></tr><tr><td>B. Militaristic / warrior framing</td><td class="status-cell"><span class="status-tag status-low">Low</span></td><td class="delta-cell delta-same">=</td><td class="status-cell"><span class="status-tag status-low">Low</span></td></tr><tr><td>C. Political opponents as spiritual enemies</td><td class="status-cell"><span class="status-tag status-low">Low</span></td><td class="delta-cell delta-down">−</td><td class="status-cell"><span class="status-tag status-none">None detected in this sermon</span></td></tr><tr><td>D. Dominionist rhetoric</td><td class="status-cell"><span class="status-tag status-none">None detected</span></td><td class="delta-cell delta-same">=</td><td class="status-cell"><span class="status-tag status-none">None detected</span></td></tr><tr><td>E. Civil religion (flag, pledge)</td><td class="status-cell"><span class="status-tag status-none">None detected</span></td><td class="delta-cell delta-same">=</td><td class="status-cell"><span class="status-tag status-none">None detected</span></td></tr><tr><td>F. Jeremiad / &quot;Christianity under attack&quot;</td><td class="status-cell"><span class="status-tag status-present">Present</span></td><td class="delta-cell delta-same">=</td><td class="status-cell"><span class="status-tag status-present">Present</span></td></tr><tr><td>G. Ethno-cultural &quot;real American&quot; undertones</td><td class="status-cell"><span class="status-tag status-none">None detected</span></td><td class="delta-cell delta-same">=</td><td class="status-cell"><span class="status-tag status-none">None detected in this sermon</span></td></tr><tr><td>H. Strongman / authoritarian affinity</td><td class="status-cell"><span class="status-tag status-none">None detected</span></td><td class="delta-cell delta-same">=</td><td class="status-cell"><span class="status-tag status-none">None detected in this sermon</span></td></tr></tbody></table>
+
+<h2>Other Axis-2 Sub-rubrics: Δ Over Time</h2>
+<table class="marker-table"><thead><tr><th>Sub-rubric</th><th>Then</th><th>Δ</th><th>Now</th></tr></thead><tbody><tr><td>Anti-Muslim framing</td><td class="status-cell"><span class="status-tag status-present">Not present in this sermon</span></td><td class="delta-cell delta-same">=</td><td class="status-cell"><span class="status-tag status-present">Not present in this sermon</span></td></tr><tr><td>Anti-LGBTQ framing</td><td class="status-cell"><span class="status-tag status-low">Low</span></td><td class="delta-cell delta-up">↑</td><td class="status-cell"><span class="status-tag status-present">Not present in this sermon</span></td></tr><tr><td>Misogynistic framing</td><td class="status-cell"><span class="status-tag status-present">Present — low to moderate</span></td><td class="delta-cell delta-same">=</td><td class="status-cell"><span class="status-tag status-present">Present — low-moderate</span></td></tr><tr><td>Anti-Jewish framing</td><td class="status-cell"><span class="status-tag status-present">Not present</span></td><td class="delta-cell delta-same">=</td><td class="status-cell"><span class="status-tag status-present">Not present in this sermon</span></td></tr></tbody></table>
+
+<footer>
+<p>A longitudinal pair is one snapshot vs. another — not a continuous trajectory. Intermediate sermons may show different patterns. Rendered 2026-04-22 02:12 UTC.</p>
+</footer>
+</body></html>

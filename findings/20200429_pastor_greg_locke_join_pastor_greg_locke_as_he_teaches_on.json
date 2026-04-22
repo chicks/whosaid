@@ -1,0 +1,666 @@
+{
+  "meta": {
+    "sermon_title": "Join Pastor Greg Locke as he teaches on “THE LAST DAYS ” 🔥",
+    "preacher": "Pastor Greg Locke",
+    "church": "Global Vision Bible Church",
+    "church_location": "Mount Juliet, TN",
+    "series": "",
+    "preaching_text": "",
+    "youtube_id": "VCVEpzuRuNs",
+    "upload_date": "2020-04-29",
+    "runtime_seconds": 1916,
+    "transcript_path": "transcripts/20200429_pastor_greg_locke_join_pastor_greg_locke_as_he_teaches_on.txt",
+    "gospel_translation": "ESV"
+  },
+  "summary": "Preached on the fifth Wednesday of the U.S. COVID-19 lockdown (April 29, 2020), Locke walks verse-by-verse through 2 Timothy 3:1–5, reading each of Paul's listed vices as present-tense signs of the imminent rapture. Along the way he (1) reinterprets 'without natural affection' as maternal abortion, (2) mocks mask-wearing and equates masked Christians with spiritual 'fakes' during an active respiratory pandemic, (3) references people 'burning the streets of our city down,' (4) prescribes cutting 'toxic' people out of congregants' lives, and (5) closes by urging listeners to 'put on the entire armour of God because we are in a battle.' The sermon is framed throughout as sign-reading the present moment as the countdown to Christ's return.",
+  "scorecard": {
+    "axis_1": {
+      "label": "Fidelity to Jesus's Teachings (Red Letters)",
+      "verdict": "Mixed to poor",
+      "severity": "moderate",
+      "headline": "Five flagged items. The sermon's central rhetorical move — reading 2 Tim 3's vice list as a present-day countdown — runs directly against Jesus's explicit teaching in Matt 24:36 and Acts 1:7. Matthew 25, Jesus's own return discourse, is absent. The 'cut toxic people out of your life' directive inverts Matt 5:44."
+    },
+    "axis_2": {
+      "label": "Identifiable Biases / Harmful Rhetoric",
+      "verdict": "Moderate — jeremiad plus COVID/public-health contempt",
+      "severity": "moderate",
+      "headline": "A sustained 'churches have lost the power / world is savage' jeremiad; pulpit mockery of mask-wearers as spiritual fakes during an active respiratory pandemic; reinterpretation of 'without natural affection' as maternal abortion that frames women who have had abortions as a sign of the apocalypse."
+    },
+    "axis_3": {
+      "label": "Factual Claims & Evidence Check",
+      "verdict": "Poor evidence hygiene",
+      "severity": "moderate",
+      "headline": "Of five fact-checked claims, zero are delivered with a cited source. The 'abortions at our all-time high' claim is empirically false for the U.S. as of April 2020. The 'only five times in the NT' God-will claim is overstated. The chameleon-as-camouflage analogy is a popular misconception."
+    },
+    "axis_4": {
+      "label": "Whole-Bible Engagement",
+      "verdict": "Narrow; single-passage preaching",
+      "severity": "moderate",
+      "headline": "The entire sermon is built on one passage (2 Tim 3:1–5) treated as a self-sufficient eschatological key. On the sermon's load-bearing themes — sign-reading, persecution response, neighbor-protection during a pandemic, how to treat difficult people — Jesus's Gospel position and the wider canon sit noticeably opposite to the pastor's framing, and are not engaged."
+    }
+  },
+  "tenets_affirmed": [
+    "Affirms the authority and trustworthiness of scripture and repeatedly points congregants back to the text.",
+    "Preaches a recognizable Pauline passage (2 Tim 3:1–5) with attention to Greek/KJV vocabulary ('incontinent,' 'fierce,' 'heady') and defines each term.",
+    "Correctly distinguishes 1 Tim 6:10 from the common misquote: 'The Bible doesn't say that money is the root of all evil. It says the love of money is the root of all evil.'",
+    "Affirms gratitude as scripturally commanded (1 Thess 5:18) and urges thankfulness over covetousness.",
+    "Affirms humility and rebukes pride using Prov 16:18, Prov 13:10, and 1 Pet 5:5–8."
+  ],
+  "counter_signals": [
+    "No named-party or candidate political endorsement in this sermon (delivered pre-2020 election and pre–George Floyd protests).",
+    "No flag or civil-religion imagery in this sermon.",
+    "No anti-Muslim content in this sermon.",
+    "Correctly quotes 1 Tim 6:10 rather than the common 'money is the root of all evil' misquote.",
+    "Explicitly names that persecution should not be self-inflicted: 'don't bring undue stupid persecution upon yourself just because you do dumb stuff.'",
+    "Acknowledges at one point that the vice list has 'been going on for a very long time' — a partial hedge on the apocalyptic countdown framing."
+  ],
+  "findings": [
+    {
+      "id": "f1-1",
+      "axis": 1,
+      "severity": "moderate",
+      "headline": true,
+      "title": "Sign-reading the present day as the rapture countdown, against Matt 24:36",
+      "timestamp_seconds": 120,
+      "timestamp_display": "00:02:00",
+      "pastor_quote": "The very next event on God's prophetic calendar on God's prophetic timetable is the snatching away the kidnapping is a rapture of the Church of the Lord Jesus Christ… I am convinced that it could happen at any moment… what we are going to see in this text is the same thing that we're seeing every single day of our life.",
+      "jesus_quotes": [
+        {
+          "citation": "Matt 24:36",
+          "text": "But concerning that day and hour no one knows, not even the angels of heaven, nor the Son, but the Father only."
+        },
+        {
+          "citation": "Matt 16:1–4",
+          "text": "An evil and adulterous generation seeks for a sign, but no sign will be given to it except the sign of Jonah."
+        },
+        {
+          "citation": "Acts 1:7 (Jesus's last recorded words before the ascension)",
+          "text": "It is not for you to know times or seasons that the Father has fixed by his own authority."
+        },
+        {
+          "citation": "Matt 24:37–39 — Jesus's one OT analogy for his return (Gen 6–9, Noah), pointedly about UNEXPECTEDNESS, not signposts",
+          "text": "For as were the days of Noah, so will be the coming of the Son of Man… they were unaware until the flood came and swept them all away, so will be the coming of the Son of Man."
+        }
+      ],
+      "why_flagged": "The sermon's thesis — that a first-century vice list (2 Tim 3) now maps 1:1 onto the contemporary news cycle and proves the rapture is imminent — sits directly against Jesus's own teaching. Jesus refuses signs in Matt 16, explicitly disclaims knowledge of the timing in Matt 24:36 (in the same discourse evangelical end-times preaching usually cites), and when the disciples ask essentially Locke's question, Jesus's reply in Acts 1:7 is that it is not theirs to know. His one OT analogy (Noah) is about the return's unexpectedness, not about reading signs."
+    },
+    {
+      "id": "f1-2",
+      "axis": 1,
+      "severity": "moderate",
+      "headline": false,
+      "title": "'From such turn away' weaponized into 'cut toxic people out of your life,' against Matt 5:44",
+      "timestamp_seconds": 1680,
+      "timestamp_display": "00:28:00",
+      "pastor_quote": "From such turn away now that means do not waste another second of your life with these people are so filled to overflowing with toxicity… don't waste your time on people that say one thing and live another don't waste your time on church members that always want their way but they never want God's way… cut those toxic people right out of your life.",
+      "jesus_quotes": [
+        {
+          "citation": "Matt 5:43–45",
+          "text": "You have heard that it was said, 'You shall love your neighbor and hate your enemy.' But I say to you, Love your enemies and pray for those who persecute you, so that you may be sons of your Father who is in heaven."
+        },
+        {
+          "citation": "Luke 6:27–28",
+          "text": "Love your enemies, do good to those who hate you, bless those who curse you, pray for those who abuse you."
+        },
+        {
+          "citation": "Matt 9:10–13 — Jesus citing Hos 6:6 ('I desire mercy, and not sacrifice')",
+          "text": "And as Jesus reclined at table in the house, behold, many tax collectors and sinners came and were reclining with Jesus and his disciples… 'Go and learn what this means: I desire mercy, and not sacrifice. For I came not to call the righteous, but sinners.'"
+        },
+        {
+          "citation": "Luke 15:1–2",
+          "text": "Now the tax collectors and sinners were all drawing near to hear him. And the Pharisees and the scribes grumbled, saying, 'This man receives sinners and eats with them.'"
+        },
+        {
+          "citation": "Lev 19:17–18 — cited by Jesus in Matt 22:39, Mark 12:31, Luke 10:27 as the second great commandment",
+          "text": "You shall not hate your brother in your heart, but you shall reason frankly with your neighbor… You shall love your neighbor as yourself."
+        }
+      ],
+      "why_flagged": "Paul's 'from such turn away' in 2 Tim 3:5 targets false teachers leading households astray (see v. 6). Locke generalizes it into a life-rule — cut off difficult church members, relatives, coworkers. Jesus's posture toward the same categories of people Paul lists (the proud, the covetous, the blasphemers, the lovers of pleasure) was to sit down and eat with them, be criticized for eating with them, and cite Hos 6:6 to defend eating with them. The Gospel pattern is nearly the inverse of 'cut them out of your life.'"
+    },
+    {
+      "id": "f1-3",
+      "axis": 1,
+      "severity": "severe",
+      "headline": true,
+      "title": "Matthew 25 is absent from a sermon about Jesus's return",
+      "timestamp_seconds": null,
+      "timestamp_display": "(absent from a 32-minute sermon on the last days)",
+      "pastor_quote": "[absent] — In a sermon whose stated subject is what will happen before Jesus returns and how to be ready, Matt 25:31–46 — Jesus's own extended description of the criterion he will apply at his return — is never referenced. Locke does allude to Matt 25:1–13 ('I want to have my oil in the lamp') at 00:29:45, but never quotes it or the Judgment-of-the-Nations pericope that follows it.",
+      "jesus_quotes": [
+        {
+          "citation": "Matt 25:31–40",
+          "text": "When the Son of Man comes in his glory, and all the angels with him, then he will sit on his glorious throne. Before him will be gathered all the nations, and he will separate people one from another… 'I was hungry and you gave me food, I was thirsty and you gave me drink, I was a stranger and you welcomed me, I was naked and you clothed me, I was sick and you visited me, I was in prison and you came to me.'… 'Truly, I say to you, as you did it to one of the least of these my brothers, you did it to me.'"
+        },
+        {
+          "citation": "Matt 25:1–13 (the parable of the ten virgins — directly about readiness for the return)",
+          "text": "Watch therefore, for you know neither the day nor the hour."
+        }
+      ],
+      "why_flagged": "Locke explicitly tells his listeners, 'I want to be ready and I want to have my oil in the lamp.' That image comes from Matt 25:1–13 — the chapter Jesus dedicated to answering exactly the question this sermon is asking. But Jesus's own criterion in the following pericope (Matt 25:31–46) — concrete care for the hungry, thirsty, stranger, sick, and imprisoned — never appears. In a sermon preached during the early COVID lockdown, when 'the sick' and 'the hungry' were urgent categories, the omission is substantive."
+    },
+    {
+      "id": "f1-4",
+      "axis": 1,
+      "severity": "moderate",
+      "headline": false,
+      "title": "Reinterpreting 'without natural affection' as maternal abortion",
+      "timestamp_seconds": 930,
+      "timestamp_display": "00:15:30",
+      "pastor_quote": "This without natural affection… it means that mothers have no natural love for their children that's why abortions at our all-time high without natural affection is referring to a parent not having a biblical natural affection and admiration for their kids.",
+      "jesus_quotes": [
+        {
+          "citation": "Matt 7:1–2",
+          "text": "Judge not, that you be not judged. For with the judgment you pronounce you will be judged, and with the measure you use it will be measured to you."
+        },
+        {
+          "citation": "John 8:7, 10–11",
+          "text": "Let him who is without sin among you be the first to throw a stone at her… 'Has no one condemned you?' She said, 'No one, Lord.' And Jesus said, 'Neither do I condemn you; go, and from now on sin no more.'"
+        },
+        {
+          "citation": "Luke 7:47 (of the woman who washed his feet)",
+          "text": "Therefore I tell you, her sins, which are many, are forgiven — for she loved much."
+        },
+        {
+          "citation": "Matt 19:13–14",
+          "text": "Let the little children come to me and do not hinder them, for to such belongs the kingdom of heaven."
+        }
+      ],
+      "why_flagged": "The Greek astorgos (ἄστοργος) means 'without family affection' — Locke's gloss is lexically defensible. The problem is the leap from a generic vice to a specific present-day demographic: women who have had abortions, framed as an apocalyptic sign. Jesus's recorded engagements with women under public moral judgment (John 8, Luke 7) consistently withdraw condemnation. The astorgos term in 2 Tim 3:3 is gender-neutral in the Greek — Paul does not specify mothers."
+    },
+    {
+      "id": "f1-5",
+      "axis": 1,
+      "severity": "low",
+      "headline": false,
+      "title": "Dismissive tone toward those questioning the timing of Christ's return",
+      "timestamp_seconds": 240,
+      "timestamp_display": "00:04:00",
+      "pastor_quote": "People say where are the signs of his coming we've been waiting on Jesus for 2,000 years… well guess what Skippy it took him four thousand years to show up the first time so we're way ahead of the curve.",
+      "jesus_quotes": [
+        {
+          "citation": "Matt 12:36",
+          "text": "I tell you, on the day of judgment people will give account for every careless word they speak."
+        },
+        {
+          "citation": "Matt 5:22",
+          "text": "Whoever insults his brother will be liable to the council; and whoever says, 'You fool!' will be liable to the hell of fire."
+        },
+        {
+          "citation": "Luke 18:1–8 (Jesus's own framing of waiting for his return)",
+          "text": "And will not God give justice to his elect, who cry to him day and night? Will he delay long over them?… Nevertheless, when the Son of Man comes, will he find faith on earth?"
+        }
+      ],
+      "why_flagged": "The 'Skippy' aside mocks skeptics of evangelical end-times preaching. Jesus himself in Luke 18:1–8 uses the exact waiting posture ('the Son of Man comes — will he find faith?') as an occasion for persistent prayer and faith, not as an occasion for dismissive insult. Minor in isolation, but part of a consistent homiletic register across the sermon."
+    },
+    {
+      "id": "f2-1",
+      "axis": 2,
+      "severity": "moderate",
+      "headline": true,
+      "title": "Pulpit mockery of mask-wearing during an active respiratory pandemic",
+      "timestamp_seconds": 1410,
+      "timestamp_display": "00:23:30",
+      "pastor_quote": "People these days because of koban coronavirus… we're gonna should we wear masks to church and wasn't you kidding me I know people who didn't wear a mask to church for 40 years of their life that's all they ever do they wear a mask they're classic they're fake… our churches in America are few people that don't have the power of God because their life has been zapped from the power because they're living in sin they have a form of godliness but they deny the power thereof.",
+      "jesus_quotes": [
+        {
+          "citation": "Matt 22:39 — Jesus citing Lev 19:18 as the second great commandment",
+          "text": "You shall love your neighbor as yourself."
+        },
+        {
+          "citation": "Luke 10:33–37 (the Good Samaritan)",
+          "text": "But a Samaritan, as he journeyed, came to where he was, and when he saw him, he had compassion… 'Which of these three, do you think, proved to be a neighbor?' He said, 'The one who showed him mercy.' And Jesus said to him, 'You go, and do likewise.'"
+        },
+        {
+          "citation": "Matt 25:36, 40",
+          "text": "I was sick and you visited me… Truly, I say to you, as you did it to one of the least of these my brothers, you did it to me."
+        }
+      ],
+      "why_flagged": "Delivered April 29, 2020 — six weeks into the first COVID-19 wave, when U.S. deaths had just passed 60,000 and the CDC was newly recommending cloth face coverings. Framing masked Christians as 'classic, fake' while neighbor-protective public-health guidance was actively saving lives runs against the neighbor-load-bearing ethic Jesus made central (Lev 19:18 via Matt 22:39). Reach-times-specificity concern: Locke's livestream audience and subsequent YouTube distribution grew substantially through 2020–21 on the strength of this framing."
+    },
+    {
+      "id": "f2-2",
+      "axis": 2,
+      "severity": "low",
+      "headline": false,
+      "title": "Mocking bodily-autonomy rhetoric",
+      "timestamp_seconds": 1245,
+      "timestamp_display": "00:20:45",
+      "pastor_quote": "Nobody's gonna stop me nobody's gonna tell me what to do I'm my own boss we hear it all the time it's my body take your hands off you don't get any rights we hear it all time headiness all the time.",
+      "jesus_quotes": [
+        {
+          "citation": "Luke 10:27 — Jesus citing Lev 19:18 as the second great commandment",
+          "text": "You shall love your neighbor as yourself."
+        },
+        {
+          "citation": "John 8:10–11",
+          "text": "'Has no one condemned you?'… 'Neither do I condemn you; go, and from now on sin no more.'"
+        }
+      ],
+      "why_flagged": "The 'it's my body take your hands off' quote is the signature slogan of reproductive-rights advocacy; listing it as an example of end-times 'headiness' frames women asserting bodily autonomy as an apocalyptic sign. Low-severity because it is one line in a longer list, but part of a consistent gendered pattern with Finding f1-4."
+    }
+  ],
+  "axis4_findings": [
+    {
+      "id": "f4-1",
+      "axis": 4,
+      "severity": "severe",
+      "headline": true,
+      "title": "End-times sign-reading as a preaching genre",
+      "topic": "Whether Christians should read current events as end-times signs",
+      "timestamp_seconds": 300,
+      "timestamp_display": "00:05:00",
+      "pastor_quote": "What we are going to see in this text is the same thing that we're seeing every single day of our life… this book we call the Bible… it is coming to life every single day… the Bible is being fulfilled moment by moment black and white before our very eyes.",
+      "jesus_passages": [
+        {
+          "citation": "Matt 24:36 — in the same Olivet Discourse most end-times sermons cite",
+          "text": "But concerning that day and hour no one knows, not even the angels of heaven, nor the Son, but the Father only."
+        },
+        {
+          "citation": "Matt 16:1–4",
+          "text": "An evil and adulterous generation seeks for a sign, but no sign will be given to it except the sign of Jonah."
+        },
+        {
+          "citation": "Acts 1:7",
+          "text": "It is not for you to know times or seasons that the Father has fixed by his own authority."
+        },
+        {
+          "citation": "Matt 24:37–39 — Jesus's one OT analogy (Gen 6–9, Noah), pointedly about UNEXPECTEDNESS",
+          "text": "For as were the days of Noah, so will be the coming of the Son of Man… they were unaware until the flood came and swept them all away, so will be the coming of the Son of Man."
+        },
+        {
+          "citation": "Dan 12:4, 9 — cited by Jesus via Matt 24:15; the prophet is told the vision is sealed until the end",
+          "text": "But you, Daniel, shut up the words and seal the book, until the time of the end… for the words are shut up and sealed until the time of the end."
+        }
+      ],
+      "wider_bible_passages": [
+        {
+          "citation": "1 Thess 5:2 (Paul)",
+          "text": "For you yourselves are fully aware that the day of the Lord will come like a thief in the night."
+        },
+        {
+          "citation": "2 Pet 3:3–9",
+          "text": "Knowing this first of all, that scoffers will come in the last days… They will say, 'Where is the promise of his coming?… all things are continuing as they were from the beginning of creation'… with the Lord one day is as a thousand years, and a thousand years as one day. The Lord is not slow to fulfill his promise as some count slowness, but is patient toward you."
+        },
+        {
+          "citation": "Deut 29:29",
+          "text": "The secret things belong to the Lord our God, but the things that are revealed belong to us and to our children forever."
+        },
+        {
+          "citation": "Rev 3:3",
+          "text": "If you will not wake up, I will come like a thief, and you will not know at what hour I will come against you."
+        }
+      ],
+      "analysis": "Every major canonical voice on the timing of Christ's return converges: it is unknowable, sudden, thief-like. Jesus disclaims the knowledge himself (Matt 24:36), refuses signs (Matt 16:4), tells the disciples at the ascension it's not theirs to know (Acts 1:7), and uses Noah specifically to make the point that the flood was UNEXPECTED. Paul uses the 'thief in the night' image. Peter, answering Locke's exact rhetorical situation — scoffers saying it's been too long — pushes back not by pointing to signs but by saying God is patient and operates on a different time scale. Revelation adds the same thief-image aimed at complacent churches. The whole-Bible picture is a warning against the sign-reading posture, not for it. Locke's method — mapping a first-century vice list onto the April 2020 news cycle and declaring the Bible 'being fulfilled moment by moment black and white before our very eyes' — is precisely what 2 Peter 3 anticipated and pushed back against.",
+      "why_flagged": "The dominant canonical witness on the timing of Christ's return is 'you will not know; do not try to know.' The sermon's entire frame — 'we are watching it leap off the page… black and white before our very eyes' — runs opposite to this witness and is not reconciled with Matt 24:36, one chapter before the passage Locke alludes to at his close ('oil in the lamp')."
+    },
+    {
+      "id": "f4-2",
+      "axis": 4,
+      "severity": "moderate",
+      "headline": false,
+      "title": "'Without natural affection' = abortion as eschatological sign",
+      "topic": "How the church should frame women, children, and sin in end-times preaching",
+      "timestamp_seconds": 930,
+      "timestamp_display": "00:15:30",
+      "pastor_quote": "In the last days people will be without natural affection… it means that mothers have no natural love for their children that's why abortions at our all-time high… families are as schizophrenic and crazy as ever.",
+      "jesus_passages": [
+        {
+          "citation": "John 8:7, 10–11",
+          "text": "Let him who is without sin among you be the first to throw a stone at her… 'Neither do I condemn you; go, and from now on sin no more.'"
+        },
+        {
+          "citation": "Matt 19:13–14",
+          "text": "Let the little children come to me and do not hinder them, for to such belongs the kingdom of heaven."
+        },
+        {
+          "citation": "Matt 9:13 — Jesus citing Hos 6:6",
+          "text": "Go and learn what this means: 'I desire mercy, and not sacrifice.' For I came not to call the righteous, but sinners."
+        },
+        {
+          "citation": "Luke 1:41–44 (the Magnificat context — John the Baptist leaps in utero)",
+          "text": "And when Elizabeth heard the greeting of Mary, the baby leaped in her womb… for behold, when the sound of your greeting came to my ears, the baby in my womb leaped for joy."
+        }
+      ],
+      "wider_bible_passages": [
+        {
+          "citation": "Ps 139:13–16",
+          "text": "For you formed my inward parts; you knitted me together in my mother's womb… Your eyes saw my unformed substance."
+        },
+        {
+          "citation": "Ex 21:22–25 (the one Torah passage on prenatal injury — interpreted differently across traditions)",
+          "text": "When men strive together and hit a pregnant woman, so that her children come out, but there is no harm, the one who hit her shall surely be fined… But if there is harm, then you shall pay life for life."
+        },
+        {
+          "citation": "Jas 1:27",
+          "text": "Religion that is pure and undefiled before God the Father is this: to visit orphans and widows in their affliction, and to keep oneself unstained from the world."
+        },
+        {
+          "citation": "Rom 14:4",
+          "text": "Who are you to pass judgment on the servant of another? It is before his own master that he stands or falls."
+        }
+      ],
+      "analysis": "There is a real biblical case for the personhood of the unborn (Ps 139; Luke 1:41; Jer 1:5). The canon does support a strong ethic of child-welcome. What it does not authorize — anywhere — is treating women who have had abortions as the identifying mark of the apocalypse. Jesus's posture toward women in sexually or maternally charged public judgment (John 8, Luke 7) is consistently to de-escalate, withdraw condemnation, and send the woman forward. Paul in Rom 14 explicitly warns against sweeping public judgment of individual moral servants. And the astorgos vice list in 2 Tim 3 is gender-neutral in the Greek — Paul does not specify mothers. Locke's specification does rhetorical work the text does not.",
+      "why_flagged": "Locke takes a gender-neutral vice term, applies it specifically to mothers who have had abortions, and stamps it as an eschatological sign. Jesus's recorded engagements with women under public moral judgment and his engagements with children converge on the opposite posture — welcome, de-escalation, redirection. The wider canon supplies personhood-of-the-unborn passages but does not authorize the 'apocalyptic sign' framing."
+    },
+    {
+      "id": "f4-3",
+      "axis": 4,
+      "severity": "moderate",
+      "headline": false,
+      "title": "Persecution framed as grievance rather than occasion for love of enemy",
+      "topic": "How Christians should expect and respond to persecution",
+      "timestamp_seconds": 1170,
+      "timestamp_display": "00:19:30",
+      "pastor_quote": "There will be people that despised those of us that are good they don't want our preaching they don't want our churches they don't want our Jesus they don't want our Bible they don't want our holiness they don't want what is right and they don't want us to stand up and stand out and speak the glory of the gospel they don't want that they hate those that are good.",
+      "jesus_passages": [
+        {
+          "citation": "Matt 5:10–12",
+          "text": "Blessed are those who are persecuted for righteousness' sake, for theirs is the kingdom of heaven… Rejoice and be glad, for your reward is great in heaven, for so they persecuted the prophets who were before you."
+        },
+        {
+          "citation": "Matt 5:44",
+          "text": "Love your enemies and pray for those who persecute you."
+        },
+        {
+          "citation": "Luke 23:34",
+          "text": "Father, forgive them, for they know not what they do."
+        },
+        {
+          "citation": "John 15:20",
+          "text": "If they persecuted me, they will also persecute you."
+        },
+        {
+          "citation": "Prov 25:21–22 — cited by Paul in Rom 12:20 as the wisdom-tradition response to enemies",
+          "text": "If your enemy is hungry, give him bread to eat, and if he is thirsty, give him water to drink, for you will heap burning coals on his head."
+        }
+      ],
+      "wider_bible_passages": [
+        {
+          "citation": "2 Tim 3:12 — in the letter Locke is preaching, seven verses after his text",
+          "text": "Indeed, all who desire to live a godly life in Christ Jesus will be persecuted."
+        },
+        {
+          "citation": "1 Pet 4:12–14",
+          "text": "Beloved, do not be surprised at the fiery trial when it comes upon you to test you… But rejoice insofar as you share Christ's sufferings, that you may also rejoice and be glad when his glory is revealed."
+        },
+        {
+          "citation": "Heb 11:36–38",
+          "text": "Others suffered mocking and flogging, and even chains and imprisonment. They were stoned, they were sawn in two, they were killed with the sword… of whom the world was not worthy."
+        },
+        {
+          "citation": "Rom 12:14, 19–21",
+          "text": "Bless those who persecute you; bless and do not curse them… Beloved, never avenge yourselves… 'if your enemy is hungry, feed him'… Do not be overcome by evil, but overcome evil with good."
+        }
+      ],
+      "analysis": "Jesus, Paul (both in Rom 12 and in the same 2 Tim chapter Locke is preaching), Peter, and Hebrews converge on a single response-pattern for persecution: rejoice, love enemies, bless, feed, endure, forgive. The red-letter and wider-canon picture is inward-facing (shape the sufferer's response) rather than outward-facing (identify the persecutors as people whose preaching, church, Jesus, Bible, and holiness they are rejecting). Locke correctly names persecution as guaranteed — 2 Tim 3:12 makes it normative for all godly living — but the sermon's narrative gear immediately afterward is 'they hate us,' without the reciprocal canonical move toward love-of-enemy. The omission of Matt 5:44 and Rom 12 in a sermon explicitly about 'despisers' is notable.",
+      "why_flagged": "The canonical response to persecution (joy, love, forgiveness, endurance) is present in the text Locke is preaching from — 2 Tim 3:12 sits seven verses after his passage — but the sermon's framing stops at 'they hate us' and does not complete the Jesus-and-Paul response arc."
+    },
+    {
+      "id": "f4-4",
+      "axis": 4,
+      "severity": "moderate",
+      "headline": false,
+      "title": "'Chameleon Christian' / mask rhetoric during a pandemic",
+      "topic": "Christian integrity, visible compliance, and public-health cooperation",
+      "timestamp_seconds": 1410,
+      "timestamp_display": "00:23:30",
+      "pastor_quote": "Talking about wearing a mask we're gonna should we wear masks to church and wasn't you kidding me I know people who didn't wear a mask to church for 40 years of their life that's all they ever do they wear a mask they're classic they're fake they think safe safe and if you were to really peel back who they are you would find out they are not at all the person that they portrayed to be.",
+      "jesus_passages": [
+        {
+          "citation": "Matt 22:21",
+          "text": "Render to Caesar the things that are Caesar's, and to God the things that are God's."
+        },
+        {
+          "citation": "Matt 22:39 — Jesus citing Lev 19:18 as the second great commandment",
+          "text": "You shall love your neighbor as yourself."
+        },
+        {
+          "citation": "Luke 10:27, 33–37 (the Good Samaritan)",
+          "text": "But a Samaritan, as he journeyed, came to where he was, and when he saw him, he had compassion… 'Which of these three, do you think, proved to be a neighbor?' He said, 'The one who showed him mercy.' And Jesus said to him, 'You go, and do likewise.'"
+        },
+        {
+          "citation": "Matt 25:36, 40",
+          "text": "I was sick and you visited me… as you did it to one of the least of these my brothers, you did it to me."
+        }
+      ],
+      "wider_bible_passages": [
+        {
+          "citation": "Rom 13:1–7 (on civil authority)",
+          "text": "Let every person be subject to the governing authorities… it is a minister of God for your good."
+        },
+        {
+          "citation": "Phil 2:3–4",
+          "text": "Do nothing from selfish ambition or conceit, but in humility count others more significant than yourselves. Let each of you look not only to his own interests, but also to the interests of others."
+        },
+        {
+          "citation": "Lev 13:45–46 (Torah public-health provisions for contagion)",
+          "text": "The leprous person who has the disease shall wear torn clothes and let the hair of his head hang loose, and he shall cover his upper lip and cry out, 'Unclean, unclean.'… He shall live alone. His dwelling shall be outside the camp."
+        },
+        {
+          "citation": "1 Cor 10:24",
+          "text": "Let no one seek his own good, but the good of his neighbor."
+        }
+      ],
+      "analysis": "Locke takes a public-health compliance question — mask-wearing during the first COVID wave — and collapses it into a spiritual-integrity question using a pun on 'mask' and '2 Tim 3:5 form of godliness.' Rhetorically clever, but substantively backwards relative to the canon's neighbor-load-bearing ethic. Neighbor-love (Lev 19:18, cited by Jesus as the second great commandment), the Good Samaritan's concrete physical care, Matt 25's 'I was sick,' Philippians's 'look to the interests of others,' and 1 Cor 10:24 all converge on exactly the behavior Locke mocks: taking a low-cost protective action for the sake of vulnerable neighbors. Torah even contains explicit contagion-containment protocols (Lev 13). Whatever one's view of specific mask mandates, framing masked Christians as spiritual 'fakes' in a sermon preached during a mass-casualty respiratory pandemic runs opposite to the load-bearing canonical ethic.",
+      "why_flagged": "The sermon deploys a pun to shame a neighbor-protective public-health behavior during an active pandemic, while the canonical load-bearing ethic on vulnerable-neighbor welfare (Lev 19:18 via Matt 22:39; Matt 25:36; Phil 2:3–4; 1 Cor 10:24) points the other direction. The wider canon is not engaged."
+    },
+    {
+      "id": "f4-5",
+      "axis": 4,
+      "severity": "moderate",
+      "headline": false,
+      "title": "'Cut toxic people out of your life' as a life-rule",
+      "topic": "How Christians should treat difficult, sinful, or hostile people",
+      "timestamp_seconds": 1680,
+      "timestamp_display": "00:28:00",
+      "pastor_quote": "From such turn away now that means do not waste another second of your life with these people are so filled to overflowing with toxicity… cut those toxic people right out of your life.",
+      "jesus_passages": [
+        {
+          "citation": "Matt 5:43–48",
+          "text": "Love your enemies and pray for those who persecute you, so that you may be sons of your Father who is in heaven. For he makes his sun rise on the evil and on the good."
+        },
+        {
+          "citation": "Luke 6:27–36",
+          "text": "Love your enemies, do good to those who hate you, bless those who curse you, pray for those who abuse you… Be merciful, even as your Father is merciful."
+        },
+        {
+          "citation": "Matt 9:10–13 — Jesus citing Hos 6:6",
+          "text": "'I desire mercy, and not sacrifice.' For I came not to call the righteous, but sinners."
+        },
+        {
+          "citation": "Luke 15:1–7 (the lost sheep)",
+          "text": "What man of you, having a hundred sheep, if he has lost one of them, does not leave the ninety-nine in the open country, and go after the one that is lost, until he finds it?"
+        }
+      ],
+      "wider_bible_passages": [
+        {
+          "citation": "1 Cor 5:9–13 (the Pauline exception — internal church discipline only)",
+          "text": "I wrote to you in my letter not to associate with sexually immoral people — not at all meaning the sexually immoral of this world… For what have I to do with judging outsiders? Is it not those inside the church whom you are to judge?"
+        },
+        {
+          "citation": "Gal 6:1",
+          "text": "Brothers, if anyone is caught in any transgression, you who are spiritual should restore him in a spirit of gentleness. Keep watch on yourself, lest you too be tempted."
+        },
+        {
+          "citation": "Titus 3:10 (the narrowest 'avoid' instruction in Paul)",
+          "text": "As for a person who stirs up division, after warning him once and then twice, have nothing more to do with him."
+        },
+        {
+          "citation": "1 Pet 3:9",
+          "text": "Do not repay evil for evil or reviling for reviling, but on the contrary, bless, for to this you were called, that you may obtain a blessing."
+        }
+      ],
+      "analysis": "Paul does license a narrow form of 'turn away' — but it is narrow. 1 Cor 5 is explicit: it applies to internal church discipline, not to 'outsiders'; Paul says 'what have I to do with judging outsiders?' Titus 3 requires two prior warnings and targets divisive church members specifically. Galatians 6 frames even restoration of the caught-in-sin as a gentleness project with self-watchfulness. And Jesus's dominant pattern — eating with sinners, going after the lost sheep, loving enemies, blessing persecutors — is the exact opposite of a general 'toxic people' cut-off rule. Locke's generalization skips all the canonical guardrails.",
+      "why_flagged": "The dominant canonical witness on how to treat difficult, sinful, or hostile people is patient engagement, restoration, and love-of-enemy. The narrow Pauline 'avoid' instructions require specific conditions (church membership, repeated warnings, doctrinal division) that Locke's 'toxic people' reframing erases."
+    }
+  ],
+  "factual_claims": [
+    {
+      "id": "fc-1",
+      "timestamp_seconds": 935,
+      "timestamp_display": "00:15:35",
+      "claim": "Abortions are at an all-time high (U.S., as of April 2020).",
+      "evidence_cited_by_pastor": "None. Delivered as a standalone explanatory statistic inside the 'without natural affection' exposition.",
+      "verdict": "false",
+      "analysis": "As of April 2020 the U.S. abortion rate and abortion ratio were near historic lows, not at an all-time high. The Guttmacher Institute's most recent data point before this sermon (2017) reported a U.S. abortion rate of 13.5 per 1,000 women aged 15–44 — the lowest rate recorded since Roe v. Wade (1973), when the rate was 16.3 and rising through the early 1980s peak near 29.3 (1981). The CDC's Abortion Surveillance report for 2018 (published 2020) confirmed continued decline through 2018. The 'all-time high' framing is false under both major U.S. data sources (Guttmacher and CDC) on the rate, the ratio, and the absolute-number metrics for any post-1980 denominator.",
+      "sources": [
+        {
+          "title": "Guttmacher Institute — Abortion Incidence and Service Availability in the United States, 2017",
+          "url": "https://www.guttmacher.org/report/abortion-incidence-service-availability-us-2017"
+        },
+        {
+          "title": "CDC — Abortion Surveillance — United States, 2018 (MMWR Surveillance Summary, Nov 2020)",
+          "url": "https://www.cdc.gov/mmwr/volumes/69/ss/ss6907a1.htm"
+        }
+      ]
+    },
+    {
+      "id": "fc-2",
+      "timestamp_seconds": 810,
+      "timestamp_display": "00:13:30",
+      "claim": "There are only five places in the New Testament where God says 'this is the will of God,' and 1 Thess 5:18 is one of them.",
+      "evidence_cited_by_pastor": "None. Delivered as a count.",
+      "verdict": "partially supported / overstated",
+      "analysis": "The phrase 'the will of God' (thelēma tou theou / θέλημα τοῦ θεοῦ) occurs 20+ times in the Greek NT in various grammatical forms (e.g., Matt 7:21; Mark 3:35; Rom 1:10; 12:2; Eph 1:1; Col 1:1; Heb 10:36; 1 Pet 2:15). What Locke likely has in mind is a narrower construction — passages using the formula 'this is the will of God' (touto estin thelēma theou) applied to a specific behavioral command. Under that narrower lens, popular evangelical lists cite four to five: 1 Thess 4:3 (sanctification), 1 Thess 5:18 (thanksgiving), 1 Pet 2:15 (doing good silences foolish critics), 1 Pet 4:19 (entrusting one's soul to God in suffering), and sometimes Eph 5:17–18 (being filled with the Spirit). The claim is defensible under that restricted construction, but Locke's unqualified framing ('only five times in the whole Bible') is overstated.",
+      "sources": [
+        {
+          "title": "Blue Letter Bible — Greek concordance for thelēma (G2307)",
+          "url": "https://www.blueletterbible.org/lexicon/g2307/kjv/tr/0-1/"
+        }
+      ]
+    },
+    {
+      "id": "fc-3",
+      "timestamp_seconds": 1110,
+      "timestamp_display": "00:18:30",
+      "claim": "People are burning the streets of our city down right now.",
+      "evidence_cited_by_pastor": "None. Referenced as current news without naming a city or event.",
+      "verdict": "needs verification",
+      "analysis": "The sermon was preached April 29, 2020 — nearly a month before the George Floyd killing (May 25, 2020) triggered the widespread U.S. protest movement in which street arson was a documented minority feature. In late April 2020 the most visible U.S. public-protest story was anti-lockdown demonstrations at state capitols (Michigan, Minnesota, Pennsylvania, Ohio, Tennessee) — which were not generally characterized by arson. Without a referent city or event, the factual content cannot be evaluated; as rhetoric it invokes a 'savage streets' image not anchored to a verifiable April-2020 event in the Nashville / Mount Juliet area or nationally. Needs verification of what specifically Locke was referring to.",
+      "sources": [
+        {
+          "title": "Reuters — Armed protesters enter Michigan statehouse demanding end to stay-at-home order (April 30, 2020)",
+          "url": "https://www.reuters.com/article/us-health-coronavirus-usa-michigan-idUSKBN22C36R"
+        }
+      ]
+    },
+    {
+      "id": "fc-4",
+      "timestamp_seconds": 1440,
+      "timestamp_display": "00:24:00",
+      "claim": "The chameleon 'can basically change colors with its environment' — i.e., chameleons camouflage by matching their surroundings.",
+      "evidence_cited_by_pastor": "Personal anecdote from a trip to Ghana.",
+      "verdict": "misleading",
+      "analysis": "This is a common popular misconception. Peer-reviewed research (Stuart-Fox & Moussalli 2008, PLoS Biology; Teyssier et al. 2015, Nature Communications) shows chameleons primarily change color for social signaling (dominance displays, mating) and thermoregulation, not to match their background. Color change is driven by active tuning of guanine nanocrystals in specialized iridophore cells, not by background matching. Some species exhibit limited background-matching in specific contexts, but 'change colors with its environment' reverses the actual primary function. Minor to the theological argument but illustrative of evidence hygiene.",
+      "sources": [
+        {
+          "title": "Teyssier et al. — 'Photonic crystals cause active colour change in chameleons,' Nature Communications 6:6368 (2015)",
+          "url": "https://www.nature.com/articles/ncomms7368"
+        },
+        {
+          "title": "Stuart-Fox & Moussalli — 'Selection for Social Signalling Drives the Evolution of Chameleon Colour Change,' PLoS Biology (2008)",
+          "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.0060025"
+        }
+      ]
+    },
+    {
+      "id": "fc-5",
+      "timestamp_seconds": 255,
+      "timestamp_display": "00:04:15",
+      "claim": "'It took him four thousand years to show up the first time' — i.e., roughly 4,000 years between creation and the first advent of Christ.",
+      "evidence_cited_by_pastor": "None. Delivered as a rhetorical aside.",
+      "verdict": "contested",
+      "analysis": "The '4,000 years from Adam to Christ' figure derives from Archbishop James Ussher's 17th-century chronology (Annales Veteris Testamenti, 1650), which dated creation to 4004 BC by summing Masoretic genealogies. Ussher's dating is a specific textual tradition, not a consensus figure. Mainstream geology and cosmology place Earth's age at ~4.54 billion years and the emergence of anatomically modern humans at ~300,000 years ago. Even within biblical scholarship, the Septuagint (LXX) chronology yields ~5,500 years between creation and Christ rather than 4,000. Delivered without qualification, the figure assumes a young-earth framework the congregation is not told it is assuming.",
+      "sources": [
+        {
+          "title": "James Ussher — Annales Veteris Testamenti (1650), English translation 'The Annals of the World' (1658)",
+          "url": "https://archive.org/details/TheAnnalsOfTheWorldJamesUssher"
+        },
+        {
+          "title": "U.S. Geological Survey — Age of the Earth",
+          "url": "https://pubs.usgs.gov/gip/geotime/age.html"
+        }
+      ]
+    }
+  ],
+  "cn_markers": [
+    {
+      "marker": "A. Conflation of national & Christian identity",
+      "status": "None detected",
+      "note": "This particular sermon does not invoke America-as-chosen-nation language."
+    },
+    {
+      "marker": "B. Militaristic / warrior framing",
+      "status": "Low",
+      "reference": "Closing prayer: 'give us boldness and courage in these last days to stand have you done all to stand putting on the entire armour of God because we are in a battle' [00:31:30]. Standard Eph 6 imagery, combat register, no named real-world adversary."
+    },
+    {
+      "marker": "C. Political opponents as spiritual enemies",
+      "status": "Low",
+      "note": "'People are burning the streets of our city down right now and don't even know why' [00:18:30] and the 'savage' framing gesture at a political-protest image without specifying party or movement."
+    },
+    {
+      "marker": "D. Dominionist rhetoric",
+      "status": "None detected"
+    },
+    {
+      "marker": "E. Civil religion (flag, pledge, 'Christian nation')",
+      "status": "None detected",
+      "note": "No flag imagery, no pledge, no 'Christian nation' claim in this sermon."
+    },
+    {
+      "marker": "F. Jeremiad / 'Christianity under attack'",
+      "status": "Present",
+      "reference": "See Finding f4-3. Explicit: 'they don't want our preaching they don't want our churches they don't want our Jesus they don't want our Bible… they despise those of us that are good' [00:19:30–00:20:00]; 'tolerance for Christianity is decreasing' framing throughout."
+    },
+    {
+      "marker": "G. Ethno-cultural 'real American' undertones",
+      "status": "None detected",
+      "note": "No ethnic framing in this sermon."
+    },
+    {
+      "marker": "H. Strongman / authoritarian affinity",
+      "status": "None detected",
+      "note": "No named political figure is affirmed or defended in this sermon."
+    }
+  ],
+  "other_axis2_rubrics": [
+    {
+      "rubric": "Anti-Muslim framing",
+      "status": "Not present in this sermon"
+    },
+    {
+      "rubric": "Anti-LGBTQ framing",
+      "status": "Low",
+      "note": "Locke explicitly clarifies that 'without natural affection' is NOT referring to homosexuality in this sermon — 'we know that homosexuality is a sin based on the Bible, that is not what this context is teaching' [00:15:20]. The aside names homosexuality as sin in passing but redirects the passage's application elsewhere."
+    },
+    {
+      "rubric": "Misogynistic framing",
+      "status": "Present — low to moderate",
+      "note": "The 'without natural affection = mothers who have aborted children' move (Findings f1-4, f4-2) specifies women, not parents in general, as the apocalyptic marker. The 'it's my body take your hands off you don't get any rights' mocking of bodily-autonomy rhetoric [00:20:45] reinforces the gendered framing."
+    },
+    {
+      "rubric": "Anti-Jewish framing",
+      "status": "Not present",
+      "note": "The 'evangelical Jews / Skippy' aside at [00:04:00] appears directed at skeptics of evangelical end-times preaching, not at Jewish people; the transcript may contain a mis-hearing. Flagged only as low-severity tonal issue under Finding f1-5, not as anti-Jewish rhetoric."
+    },
+    {
+      "rubric": "Public-health contempt / COVID-minimization",
+      "status": "Present — moderate",
+      "note": "See Findings f2-1 and f4-4. Pulpit mockery of mask-wearing as spiritual fakery during the first wave of the COVID-19 pandemic; this rhetorical frame became a signature of Locke's public profile through 2020–21."
+    }
+  ],
+  "reach": {
+    "view_count": 74,
+    "like_count": null,
+    "channel": "Greg Locke",
+    "channel_id": "UCvk2ijAY8MPz2Obrxq8LufA",
+    "channel_follower_count": 18,
+    "upload_date": "20200429",
+    "source": "yt-dlp",
+    "congregation": {
+      "weekly_attendance_est": 3500,
+      "source": "Reporting by The Tennessean and Religion News Service; Locke's broader social-media reach is much larger than in-person attendance"
+    }
+  }
+}
