@@ -107,7 +107,7 @@ def call_claude(
         "--json-schema", schema_path.read_text(encoding="utf-8"),
     ]
     print(f"→ claude -p (model={model}, budget=${max_budget}) …", file=sys.stderr)
-    result = subprocess.run(cmd, capture_output=True, text=True, timeout=600)
+    result = subprocess.run(cmd, capture_output=True, text=True, timeout=1800)
     if result.returncode != 0:
         sys.stderr.write(result.stdout)
         sys.stderr.write(result.stderr)

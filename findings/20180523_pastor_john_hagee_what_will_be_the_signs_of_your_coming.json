@@ -1,0 +1,738 @@
+{
+  "meta": {
+    "sermon_title": "What Will Be The Signs Of Your Coming",
+    "preacher": "Pastor John Hagee",
+    "church": "Cornerstone Church",
+    "church_location": "San Antonio, TX",
+    "series": "",
+    "preaching_text": "",
+    "youtube_id": "KCzhNIk4k24",
+    "upload_date": "2018-05-23",
+    "runtime_seconds": 2958,
+    "transcript_path": "transcripts/20180523_pastor_john_hagee_pastor_john_hagee_5_23_2018_what_will_be.txt",
+    "gospel_translation": "ESV"
+  },
+  "summary": "Hagee preaches Matthew 24 as the 'spine of Bible prophecy,' walks the congregation through a pre-tribulation / dispensationalist eschatological sequence (rapture → 7-year tribulation → bodily return of Christ), and identifies the coming one-world religion as possibly Islam and the Ezekiel 38–39 invaders as a Russian-led Islamic army. He names Vladimir Putin directly, mocks 'CNN fake news' and 'Washington' social-program spending, jabs Al Gore, invokes Sodom-and-Gomorrah comparisons for America, warns against voting for 'movements' that undermine 'traditional marriage,' and closes with a classic altar call tying salvation to rapture-readiness. Despite the sermon's stated topic — what will Jesus do when he returns — Matthew 25:31–46 (Jesus's own most explicit answer) is never mentioned.",
+  "scorecard": {
+    "axis_1": {
+      "label": "Fidelity to Jesus's Teachings (Red Letters)",
+      "verdict": "Mixed–Critical",
+      "severity": "moderate",
+      "headline": "Multiple red-letter contradictions: specific sign-reading against Matt 24:36 (in the preached passage), Islam-as-Antichrist framing against Jesus's outsider pattern, and the complete omission of Matthew 25 from a sermon on Christ's return."
+    },
+    "axis_2": {
+      "label": "Identifiable Biases / Harmful Rhetoric",
+      "verdict": "Severe anti-Muslim + Christian-nationalist eschatology",
+      "severity": "severe",
+      "headline": "Explicit identification of Islam as the probable one-world religion of the Antichrist, a Russia-led 'Islamic army' prophecy naming Putin by name, plus jeremiad + political-enemy framing ('CNN fake news,' 'you folks in Washington,' 'Al Gore')."
+    },
+    "axis_3": {
+      "label": "Factual Claims & Evidence Check",
+      "verdict": "Mixed; several overstated, one biblical misquotation",
+      "severity": "moderate",
+      "headline": "Josephus citation accurate but methodologically contested; '36 years later' chronology is off; 'five years' for Revelation 9:5's torment contradicts the biblical text (five months); EU = ten-nation coalition is dispensationalist conjecture presented as prophecy."
+    },
+    "axis_4": {
+      "label": "Whole-Bible Engagement",
+      "verdict": "Selective; dispensationalist minority reading foregrounded",
+      "severity": "severe",
+      "headline": "On every central theme — end-times sign-reading, God's posture toward foreign religious outsiders, America's place in providence, the return of Christ — the sermon draws on a narrow 19th–20th century dispensationalist tradition while omitting the dominant canonical counter-witness, including Jesus's own teaching (Matt 24:36) in the very passage being preached."
+    }
+  },
+  "tenets_affirmed": [
+    "Direct scripture reading from Matt 24:1–3, 1 Cor 15:51–52, 1 Thess 4:16, Acts 1:11, Heb 9:28 — the sermon sends hearers back to the text.",
+    "Historical grounding in Josephus and the 70 AD Roman siege under Titus is substantively correct in broad strokes (siege by 10th Legion, mass starvation, Temple destruction).",
+    "Affirms the bodily resurrection, the visible return of Christ, and Christ's kingship (Acts 1:11 'in like manner' exegesis is sound).",
+    "Openly concedes the word 'rapture' is not in the Bible rather than bluffing on that point."
+  ],
+  "counter_signals": [
+    "No named-party political endorsement from the pulpit.",
+    "Closing benediction is a straightforward Aaronic blessing (Num 6:24–26) without political overlay.",
+    "Altar call is classical — confession of sin, reception of Christ — not tied to nationalist commitments.",
+    "'Am I my brother's keeper' summarized in an inclusive register: 'there is no us and them, there is us and us.'",
+    "Concedes 'rapture' is not a biblical word while arguing the concept is biblical."
+  ],
+  "findings": [
+    {
+      "id": "f1-1",
+      "axis": 1,
+      "severity": "severe",
+      "headline": true,
+      "title": "Specific end-times sign-reading in direct tension with Matt 24:36 (in the passage being preached)",
+      "timestamp_seconds": 2730,
+      "timestamp_display": "00:45:30",
+      "pastor_quote": "Never in the history of the world have all the players been on the stage — Iran, Russia, China, Europe, America. Everything is absolutely perfect for it to happen just like that. The next thing that makes it trigger is the blast of that trumpet.",
+      "jesus_quotes": [
+        {
+          "citation": "Matt 24:36 (spoken by Jesus in the same Olivet Discourse Hagee is preaching)",
+          "text": "But concerning that day and hour no one knows, not even the angels of heaven, nor the Son, but the Father only."
+        },
+        {
+          "citation": "Acts 1:7 (Jesus, at the ascension)",
+          "text": "It is not for you to know times or seasons that the Father has fixed by his own authority."
+        },
+        {
+          "citation": "Matt 16:1–4",
+          "text": "An evil and adulterous generation seeks for a sign, but no sign will be given to it except the sign of Jonah."
+        },
+        {
+          "citation": "Matt 24:37–39 — Jesus's only extended OT analogy for his coming (Gen 6–9, Noah). About UNEXPECTEDNESS, not readable signs.",
+          "text": "For as were the days of Noah, so will be the coming of the Son of Man… they were unaware until the flood came and swept them all away."
+        }
+      ],
+      "why_flagged": "Hagee declares that 'everything is absolutely perfect' for the return — a specificity Jesus explicitly disclaims in the very chapter Hagee is preaching. Matt 24:36 asserts the day is unknowable; Jesus's Noah analogy (Matt 24:37–39) emphasizes unexpectedness, not readable geopolitics. The pastor's central rhetorical move directly inverts Matt 24's own theological grain."
+    },
+    {
+      "id": "f1-2",
+      "axis": 1,
+      "severity": "severe",
+      "headline": true,
+      "title": "Matthew 25 absent from a sermon about Christ's return",
+      "timestamp_seconds": null,
+      "timestamp_display": "(absent from a 49-minute sermon on Jesus's second coming)",
+      "pastor_quote": "[absent] — In a sermon structured around the question 'what will be the sign of your coming,' Jesus's own most extended description of what he will do when he returns (Matt 25:31–46) is never cited, paraphrased, or alluded to.",
+      "jesus_quotes": [
+        {
+          "citation": "Matt 25:31–46",
+          "text": "When the Son of Man comes in his glory, and all the angels with him, then he will sit on his glorious throne. Before him will be gathered all the nations… 'I was hungry and you gave me food, I was thirsty and you gave me drink, I was a stranger and you welcomed me, I was naked and you clothed me, I was sick and you visited me, I was in prison and you came to me.'… 'As you did it to one of the least of these my brothers, you did it to me.'"
+        },
+        {
+          "citation": "Matt 25:1–13 (the Ten Virgins — also in the Olivet Discourse)",
+          "text": "Watch therefore, for you know neither the day nor the hour."
+        }
+      ],
+      "why_flagged": "Matthew 25 is literally the next chapter in the discourse Hagee is expositing, and it is Jesus's own substantive answer to the sermon's framing question: what will he do when he returns? He separates the nations on the basis of concrete care for the hungry, thirsty, stranger, naked, sick, and imprisoned. Hagee spends 49 minutes on the question and never engages the passage; what he substitutes is a geopolitical sign-chart and a rapture-escape narrative."
+    },
+    {
+      "id": "f1-3",
+      "axis": 1,
+      "severity": "severe",
+      "headline": true,
+      "title": "Islam identified as likely one-world religion of the Antichrist",
+      "timestamp_seconds": 780,
+      "timestamp_display": "00:13:00",
+      "pastor_quote": "It will be a one world government with a one-world currency and a one-world religion and it very well may be Islam… When the church leaves this world, Russia is going to lead an Islamic army against Israel.",
+      "jesus_quotes": [
+        {
+          "citation": "Luke 9:52–55 (when disciples asked to call fire on a religious-outsider village)",
+          "text": "'Lord, do you want us to tell fire to come down from heaven and consume them?' But he turned and rebuked them."
+        },
+        {
+          "citation": "Luke 10:33–37 (Good Samaritan — a religious outsider as moral exemplar)",
+          "text": "But a Samaritan, as he journeyed, came to where he was, and when he saw him, he had compassion… 'You go, and do likewise.'"
+        },
+        {
+          "citation": "John 4:7–26 (Jesus initiates religious-outsider dialogue)",
+          "text": "Jesus said to her, 'Give me a drink.' (For Jews had no dealings with Samaritans.)… 'The hour is coming when neither on this mountain nor in Jerusalem will you worship the Father.'"
+        },
+        {
+          "citation": "Matt 5:44–45",
+          "text": "Love your enemies and pray for those who persecute you, so that you may be sons of your Father who is in heaven."
+        },
+        {
+          "citation": "Luke 4:25–27 — Jesus's first recorded sermon, citing 1 Kgs 17 and 2 Kgs 5 to foreground God's mercy to foreigners (Sidonian widow, Naaman the Syrian)",
+          "text": "There were many widows in Israel in the days of Elijah… and Elijah was sent to none of them but only to Zarephath, in the land of Sidon… and none of them was cleansed, but only Naaman the Syrian."
+        }
+      ],
+      "why_flagged": "The clearest Gospel parallel — disciples proposing to target a religious outgroup for eschatological judgment — ends with Jesus rebuking them by name. Jesus's sermon-launching move in Luke 4 specifically cites two OT foreign-favored stories to puncture in-group assumptions. Naming a specific living faith of ~1.9 billion people as the probable religion of the Antichrist is the theological inverse of the pattern Jesus modeled with religious outsiders."
+    },
+    {
+      "id": "f1-4",
+      "axis": 1,
+      "severity": "moderate",
+      "headline": false,
+      "title": "National Israel / national America conflated with Christian providence",
+      "timestamp_seconds": 600,
+      "timestamp_display": "00:10:00",
+      "pastor_quote": "Don't you believe that one morning, one minute, that the pride of America can't be destroyed by a nuclear weapon and millions of people die in this country for the pain and penalty of forgetting God… Wake up America. There is no god but the God of Abraham Isaac and Jacob, and we have no king but Jesus Christ the king of kings.",
+      "jesus_quotes": [
+        {
+          "citation": "John 19:15 (the phrase 'we have no king but…' placed in the mouth of those handing Jesus over)",
+          "text": "'Shall I crucify your King?' The chief priests answered, 'We have no king but Caesar.'"
+        },
+        {
+          "citation": "John 18:36",
+          "text": "My kingdom is not of this world. If my kingdom were of this world, my servants would have been fighting."
+        },
+        {
+          "citation": "Matt 12:41 (foreign enemy city Nineveh held up as morally superior to Jesus's own generation)",
+          "text": "The men of Nineveh will rise up at the judgment with this generation and condemn it, for they repented at the preaching of Jonah."
+        },
+        {
+          "citation": "Isa 56:6–7 — cited by Jesus in Matt 21:13, Mark 11:17 at the Temple cleansing",
+          "text": "For my house shall be called a house of prayer for all peoples."
+        }
+      ],
+      "why_flagged": "Addressing 'America' as the national subject who must 'have no king but Jesus' adopts the grammar John 19:15 specifically puts in the mouth of those handing Jesus over to crucifixion. More broadly, Jesus's red-letter pattern decouples divine favor and judgment from national identity; Hagee re-couples them."
+    },
+    {
+      "id": "f1-5",
+      "axis": 1,
+      "severity": "low",
+      "headline": false,
+      "title": "Contemptuous speech toward political, media, and cultural figures",
+      "timestamp_seconds": 1540,
+      "timestamp_display": "00:25:40",
+      "pastor_quote": "CNN is going to do their usual fake news telecast where their special commentators are going to gather around a table… Hang on Al Gore, baby, your chapter's coming right here… You know they're selling a lot of pot out there [California] these days.",
+      "jesus_quotes": [
+        {
+          "citation": "Matt 5:22",
+          "text": "Whoever insults his brother will be liable to the council; and whoever says, 'You fool!' will be liable to the hell of fire."
+        },
+        {
+          "citation": "Matt 12:36",
+          "text": "I tell you, on the day of judgment people will give account for every careless word they speak."
+        },
+        {
+          "citation": "Matt 5:44",
+          "text": "Love your enemies and pray for those who persecute you."
+        },
+        {
+          "citation": "Luke 6:28",
+          "text": "Bless those who curse you, pray for those who abuse you."
+        }
+      ],
+      "why_flagged": "Short mocking asides at named public figures and identifiable groups (Al Gore, 'CNN fake news,' Californians) sit uneasily against Jesus's exacting speech ethics. Low-severity individually but they establish a tonal register the red letters explicitly disfavor."
+    },
+    {
+      "id": "f2-1",
+      "axis": 2,
+      "severity": "severe",
+      "headline": true,
+      "title": "Anti-Muslim eschatology: Islam as religion of the Antichrist + Russia-led 'Islamic army' prophecy naming Putin",
+      "timestamp_seconds": 780,
+      "timestamp_display": "00:13:00",
+      "timestamp_end_seconds": 960,
+      "pastor_quote": "It will be a one world government with a one-world currency and a one-world religion and it very well may be Islam… Russia is going to lead an Islamic army against Israel and God is going to bury them with an earthquake… you people at g20 who are talking about what you're going to do, I want to say to Mr. Putin, your army is going to be buried in Israel by the hand of God Almighty.",
+      "jesus_quotes": [
+        {
+          "citation": "Matt 5:44–45",
+          "text": "Love your enemies and pray for those who persecute you, so that you may be sons of your Father who is in heaven."
+        },
+        {
+          "citation": "Luke 9:55 (rebuke to disciples who want fire on a religious outgroup)",
+          "text": "But he turned and rebuked them."
+        }
+      ],
+      "why_flagged": "Three compounding features make this severe: (1) specificity — a named living religion (~1.9B adherents) and a named sitting head of state; (2) reach — Cornerstone and Hagee Ministries broadcast weekly to a multi-national cable/streaming audience, and Hagee founded Christians United for Israel, which ties this framing to US foreign-policy advocacy; (3) harm potential — within a single passage, Islam is collapsed to 'the religion of the Antichrist' and a geopolitical rival is cast as an army to be supernaturally exterminated."
+    },
+    {
+      "id": "f2-2",
+      "axis": 2,
+      "severity": "moderate",
+      "headline": false,
+      "title": "Jeremiad: America = Sodom & Gomorrah + foundations-rotting framing",
+      "timestamp_seconds": 180,
+      "timestamp_display": "00:03:00",
+      "pastor_quote": "The moral foundations of America are rotting at the core… traditional marriage between a man and a woman is under attack… the morals of America are no better than Sodom and Gomorrah… Let the righteous revolution begin and let it begin now.",
+      "jesus_quotes": [
+        {
+          "citation": "Matt 7:1–5",
+          "text": "Judge not, that you be not judged… Why do you see the speck that is in your brother's eye, but do not notice the log that is in your own eye?"
+        },
+        {
+          "citation": "Luke 13:1–5",
+          "text": "Do you think that these Galileans were worse sinners than all the other Galileans, because they suffered in this way? No, I tell you; but unless you repent, you will all likewise perish."
+        },
+        {
+          "citation": "John 8:7",
+          "text": "Let him who is without sin among you be the first to throw a stone at her."
+        }
+      ],
+      "why_flagged": "Jeremiad-against-America framing pairs a civilizational-collapse story with an implicit enemies-list. Jesus's own mode when asked to interpret national disaster (Luke 13:1–5) pivots away from categorizing others as worse and toward the audience's own repentance."
+    },
+    {
+      "id": "f2-3",
+      "axis": 2,
+      "severity": "moderate",
+      "headline": false,
+      "title": "Political opponents as spiritual / fiscal enemies",
+      "timestamp_seconds": 1520,
+      "timestamp_display": "00:25:20",
+      "pastor_quote": "You folks in Washington are going to have to find another economic source to fund all these social programs… CNN is going to do their usual fake news telecast… Hang on Al Gore, baby, your chapter's coming right here.",
+      "jesus_quotes": [
+        {
+          "citation": "Mark 12:17",
+          "text": "Render to Caesar the things that are Caesar's, and to God the things that are God's."
+        },
+        {
+          "citation": "Luke 6:27–28",
+          "text": "Love your enemies, do good to those who hate you, bless those who curse you, pray for those who abuse you."
+        }
+      ],
+      "why_flagged": "Specific political and media actors are named and folded into the eschatological narrative as those who will be caught out or exposed. Jesus's engagement with the equivalents in his own context (Pilate, Herod, Caesar) is markedly restrained."
+    },
+    {
+      "id": "f2-4",
+      "axis": 2,
+      "severity": "low",
+      "headline": false,
+      "title": "Anti-LGBTQ subtext via 'traditional marriage under attack' framing",
+      "timestamp_seconds": 185,
+      "timestamp_display": "00:03:05",
+      "pastor_quote": "Traditional marriage between a man and a woman is under attack. Many churches have abandoned the principles of righteousness as established in the Word of God.",
+      "jesus_quotes": [
+        {
+          "citation": "Matt 19:4–6 (Jesus's actual teaching on marriage)",
+          "text": "Have you not read that he who created them from the beginning made them male and female… So they are no longer two but one flesh. What therefore God has joined together, let not man separate."
+        },
+        {
+          "citation": "John 8:7",
+          "text": "Let him who is without sin among you be the first to throw a stone at her."
+        }
+      ],
+      "why_flagged": "Low-severity here because the framing is brief rather than sustained, but the coded 'under attack' grammar folds LGBTQ people into the sermon's list of civilizational threats without engagement."
+    }
+  ],
+  "axis4_findings": [
+    {
+      "id": "f4-1",
+      "axis": 4,
+      "severity": "severe",
+      "headline": true,
+      "title": "End-times sign-reading as sermon architecture",
+      "topic": "Whether Christians should read current events as specific end-times signs",
+      "timestamp_seconds": 2730,
+      "timestamp_display": "00:45:30",
+      "pastor_quote": "Never in the history of the world have all the players been on the stage — Iran, Russia, China, Europe, America. Everything is absolutely perfect for it to happen just like that.",
+      "jesus_passages": [
+        {
+          "citation": "Matt 24:36 (in the passage Hagee is preaching)",
+          "text": "But concerning that day and hour no one knows, not even the angels of heaven, nor the Son, but the Father only."
+        },
+        {
+          "citation": "Matt 24:37–39 — Jesus's only extended OT analogy for his coming (Gen 6–9, Noah). About UNEXPECTEDNESS, not readable signs.",
+          "text": "For as were the days of Noah, so will be the coming of the Son of Man… they were unaware until the flood came and swept them all away."
+        },
+        {
+          "citation": "Matt 16:1–4",
+          "text": "An evil and adulterous generation seeks for a sign, but no sign will be given to it except the sign of Jonah."
+        },
+        {
+          "citation": "Acts 1:7 (just before the ascension)",
+          "text": "It is not for you to know times or seasons that the Father has fixed by his own authority."
+        },
+        {
+          "citation": "Matt 24:15 — Jesus cites Daniel by name but resists geographic-political identification",
+          "text": "So when you see the abomination of desolation spoken of by the prophet Daniel, standing in the holy place (let the reader understand)…"
+        }
+      ],
+      "wider_bible_passages": [
+        {
+          "citation": "1 Thess 5:2 (Paul)",
+          "text": "For you yourselves are fully aware that the day of the Lord will come like a thief in the night."
+        },
+        {
+          "citation": "2 Pet 3:8–10",
+          "text": "With the Lord one day is as a thousand years, and a thousand years as one day… but the day of the Lord will come like a thief."
+        },
+        {
+          "citation": "Deut 29:29",
+          "text": "The secret things belong to the Lord our God, but the things that are revealed belong to us and to our children forever."
+        },
+        {
+          "citation": "Rev 22:20",
+          "text": "He who testifies to these things says, 'Surely I am coming soon.' Amen. Come, Lord Jesus!"
+        }
+      ],
+      "analysis": "The canonical witness — Jesus, Paul, Peter, Deuteronomy — converges on unpredictability: thief-in-the-night, unknown day, unknown hour, secret things, unexpected-like-Noah. Hagee's move is the opposite: a readable geopolitical line-up ('everything is absolutely perfect'). The dispensationalist school that underwrites this reading (Darby, Scofield, Lindsey, LaHaye) is a 19th–20th-century minority tradition within Christian eschatology, not a consensus reading. Historic amillennial and postmillennial traditions (Augustine, Calvin, most of Orthodox Christianity, most of mainline Protestantism) read Matthew 24 and Ezekiel 38 differently. Hagee presents the minority reading as the Bible's reading while leaving Matt 24:36 — in the very passage he preaches — unengaged.",
+      "why_flagged": "The pastor's central rhetorical device (reading 2018 geopolitics as a completed end-times chessboard) contradicts Jesus's own statement in the passage being preached (Matt 24:36), the related apostolic witness (1 Thess 5:2; 2 Pet 3:10), and the OT's own reticence principle (Deut 29:29)."
+    },
+    {
+      "id": "f4-2",
+      "axis": 4,
+      "severity": "severe",
+      "headline": true,
+      "title": "God's posture toward foreign religious outsiders — Islam as eschatological enemy",
+      "topic": "How God relates to foreign peoples and religions",
+      "timestamp_seconds": 780,
+      "timestamp_display": "00:13:00",
+      "pastor_quote": "A one-world religion, and it very well may be Islam… Russia is going to lead an Islamic army against Israel and God is going to bury them with an earthquake.",
+      "jesus_passages": [
+        {
+          "citation": "Matt 5:44–45",
+          "text": "Love your enemies and pray for those who persecute you, so that you may be sons of your Father who is in heaven. For he makes his sun rise on the evil and on the good, and sends rain on the just and on the unjust."
+        },
+        {
+          "citation": "Luke 9:52–55 (disciples propose destroying a religious-outsider village)",
+          "text": "'Lord, do you want us to tell fire to come down from heaven and consume them?' But he turned and rebuked them."
+        },
+        {
+          "citation": "Luke 10:33–37 (Good Samaritan)",
+          "text": "But a Samaritan, as he journeyed, came to where he was, and when he saw him, he had compassion… 'You go, and do likewise.'"
+        },
+        {
+          "citation": "John 4:7–26 (Samaritan woman)",
+          "text": "(For Jews had no dealings with Samaritans.)… 'The hour is coming when neither on this mountain nor in Jerusalem will you worship the Father.'"
+        },
+        {
+          "citation": "Matt 12:39–41 (foreign enemy city Nineveh held up morally)",
+          "text": "The men of Nineveh will rise up at the judgment with this generation and condemn it, for they repented at the preaching of Jonah."
+        },
+        {
+          "citation": "Luke 4:25–27 — Jesus's first sermon citing 1 Kgs 17 and 2 Kgs 5 to spotlight God's favor on foreigners (Sidonian widow; Naaman the Syrian)",
+          "text": "There were many widows in Israel in the days of Elijah… and Elijah was sent to none of them but only to Zarephath… and none of them was cleansed, but only Naaman the Syrian."
+        },
+        {
+          "citation": "Lev 19:18 — cited by Jesus in Matt 22:39, Mark 12:31, Luke 10:27 as the second great commandment",
+          "text": "You shall love your neighbor as yourself."
+        }
+      ],
+      "wider_bible_passages": [
+        {
+          "citation": "Jonah 3:10–4:11",
+          "text": "When God saw what they did, how they turned from their evil way, God relented of the disaster… 'Should I not pity Nineveh, that great city, in which there are more than 120,000 persons…?'"
+        },
+        {
+          "citation": "Ezek 33:11 (the same prophet Hagee cites from Ezek 38)",
+          "text": "As I live, declares the Lord God, I have no pleasure in the death of the wicked, but that the wicked turn from his way and live."
+        },
+        {
+          "citation": "Isa 19:24–25 (on Egypt and Assyria — Israel's archetypal enemies)",
+          "text": "In that day Israel will be the third with Egypt and Assyria, a blessing in the midst of the earth, whom the Lord of hosts has blessed, saying, 'Blessed be Egypt my people, and Assyria the work of my hands, and Israel my inheritance.'"
+        },
+        {
+          "citation": "Lev 19:33–34 (same chapter as the neighbor-love command Jesus cited)",
+          "text": "You shall treat the stranger who sojourns with you as the native among you, and you shall love him as yourself, for you were strangers in the land of Egypt."
+        },
+        {
+          "citation": "Rev 7:9",
+          "text": "A great multitude that no one could number, from every nation, from all tribes and peoples and languages, standing before the throne."
+        }
+      ],
+      "analysis": "The canonical witness converges strongly: God's posture toward foreign religious outsiders is mercy, surprise inclusion, and reconciliation. Ezekiel himself (33:11), two chapters before Hagee's 38–39 source passage, denies divine pleasure in the wicked's death. Isaiah 19 startles by blessing Egypt and Assyria — Israel's paradigmatic enemies. Jonah is an entire book arguing with God on this exact point and losing. Jesus's Luke 4 sermon uses the Sidonian widow and Naaman the Syrian specifically to decouple divine favor from ethnic insider status. The identification of a specific living faith of ~1.9 billion people as the religion of the Antichrist, read out of Ezekiel 38 through a 1970s-dispensationalist filter (Lindsey's Late Great Planet Earth), does not survive a whole-canon reading. The 'Rosh = Russia' identification is a phonetic conjecture, not a textual one; Ezekiel scholars (Block, Zimmerli) read 'Rosh' adjectivally. The nations listed in Ezek 38 were not Islamic until a millennium after the prophet wrote.",
+      "why_flagged": "The pastor draws on a single apocalyptic passage filtered through a recent interpretive tradition and presents it as the Bible's voice on foreign religion. The dominant counter-voices — including Ezekiel's own prior chapter — are not engaged."
+    },
+    {
+      "id": "f4-3",
+      "axis": 4,
+      "severity": "moderate",
+      "headline": false,
+      "title": "What Jesus does when he returns — judgment of the nations vs. rapture-escape",
+      "topic": "Jesus's own framing of the second coming",
+      "timestamp_seconds": 1740,
+      "timestamp_display": "00:29:00",
+      "pastor_quote": "There will be five kinds of crowns you can gain… as soon as we get them we're going to cast them at the feet of Jesus… If worshiping Jesus makes you nervous you're not going to enjoy heaven at all.",
+      "jesus_passages": [
+        {
+          "citation": "Matt 25:31–46 (the Son of Man separating the nations)",
+          "text": "Then the King will say to those on his right, 'Come, you who are blessed by my Father, inherit the kingdom prepared for you from the foundation of the world. For I was hungry and you gave me food, I was thirsty and you gave me drink, I was a stranger and you welcomed me.'… 'As you did it to one of the least of these my brothers, you did it to me.'"
+        },
+        {
+          "citation": "Luke 12:42–48 (the returning master — faithfulness = care for fellow servants, not escape)",
+          "text": "Who then is the faithful and wise manager, whom his master will set over his household, to give them their portion of food at the proper time?"
+        },
+        {
+          "citation": "Matt 24:45–51 (immediately adjacent to Hagee's text)",
+          "text": "Blessed is that servant whom his master will find so doing when he comes… But if that wicked servant says to himself, 'My master is delayed,' and begins to beat his fellow servants…"
+        }
+      ],
+      "wider_bible_passages": [
+        {
+          "citation": "James 1:27",
+          "text": "Religion that is pure and undefiled before God the Father is this: to visit orphans and widows in their affliction, and to keep oneself unstained from the world."
+        },
+        {
+          "citation": "1 John 3:17",
+          "text": "But if anyone has the world's goods and sees his brother in need, yet closes his heart against him, how does God's love abide in him?"
+        },
+        {
+          "citation": "Rev 20:12 (judgment according to deeds)",
+          "text": "And the dead were judged by what was written in the books, according to what they had done."
+        },
+        {
+          "citation": "Isa 58:6–7 — cited by Jesus in Luke 4:18–19 as his mission",
+          "text": "Is not this the fast that I choose: to loose the bonds of wickedness… to share your bread with the hungry and bring the homeless poor into your house."
+        }
+      ],
+      "analysis": "Across Matt 25, Luke 12, James 1, 1 John 3, Rev 20, and Isa 58 (which Jesus cited as his mission statement), what Christ's return reveals is what his followers did for the least. Hagee's picture is architectural and aesthetic — crowns, mansions, streets of gold, disease-proof bodies, 'better-looking than Brad Pitt.' Those aren't absent from the canon (Rev 21 has streets of gold), but the canon's center of gravity on what the return reveals sits elsewhere. The Matt 25 criterion — concrete care for the vulnerable — is never mentioned.",
+      "why_flagged": "The sermon's vision of the second coming is substantially shaped by one canonical strand (Revelation's throne-room imagery) while leaving Jesus's own Matt 25 / Luke 12 criterion unengaged. The omission is directional, not incidental."
+    },
+    {
+      "id": "f4-4",
+      "axis": 4,
+      "severity": "moderate",
+      "headline": false,
+      "title": "Church/Israel sharp distinction — dispensational hermeneutic presented as the Bible's plain reading",
+      "topic": "The relationship of the church to Israel in eschatology",
+      "timestamp_seconds": 360,
+      "timestamp_display": "00:06:00",
+      "pastor_quote": "Matthew 24 is not a message to the church. It is the message by a Jewish rabbi to his Jewish disciples about the future of Israel and the Jewish people.",
+      "jesus_passages": [
+        {
+          "citation": "Matt 24:42–44 (the audience application Jesus himself gives)",
+          "text": "Therefore, stay awake, for you do not know on what day your Lord is coming… you also must be ready, for the Son of Man is coming at an hour you do not expect."
+        },
+        {
+          "citation": "Matt 28:19–20 (the Great Commission — to 'all nations/peoples')",
+          "text": "Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, teaching them to observe all that I have commanded you."
+        },
+        {
+          "citation": "John 10:16",
+          "text": "And I have other sheep that are not of this fold. I must bring them also, and they will listen to my voice. So there will be one flock, one shepherd."
+        }
+      ],
+      "wider_bible_passages": [
+        {
+          "citation": "Rom 11:17–24 (Paul's olive-tree image)",
+          "text": "Remember, it is not you who support the root, but the root that supports you."
+        },
+        {
+          "citation": "Eph 2:14–16",
+          "text": "For he himself is our peace, who has made us both one and has broken down in his flesh the dividing wall of hostility… that he might create in himself one new man in place of the two."
+        },
+        {
+          "citation": "Gal 3:28–29",
+          "text": "There is neither Jew nor Greek, there is neither slave nor free, there is no male and female, for you are all one in Christ Jesus. And if you are Christ's, then you are Abraham's offspring, heirs according to promise."
+        },
+        {
+          "citation": "1 Pet 2:9 (language of Ex 19:6 applied to the church)",
+          "text": "But you are a chosen race, a royal priesthood, a holy nation, a people for his own possession."
+        }
+      ],
+      "analysis": "A rigid 'Matthew 24 is not for the church' stance is dispensationalism's signature move. But Jesus's own application inside the discourse (Matt 24:42–44, 'therefore stay awake… you also must be ready') is addressed to the disciples as disciples — not as ethnic Jews awaiting a separate program. Paul (Rom 11; Eph 2; Gal 3), Peter (1 Pet 2), and the Johannine literature all work with a single-people framing without dissolving Israel's particular role. The two-peoples program ('God has one plan for Israel and a different parenthetical plan for the church') is a 19th-century innovation (Darby), not a historic Christian consensus.",
+      "why_flagged": "Hagee asserts his hermeneutical framework — strict church/Israel distinction — as though it were the text's self-evident meaning. The counter-witness (Rom 11, Eph 2, Gal 3, 1 Pet 2) is not acknowledged as existing. The audience is not told this is a contested school of reading."
+    },
+    {
+      "id": "f4-5",
+      "axis": 4,
+      "severity": "moderate",
+      "headline": false,
+      "title": "Tribulation framed as escape rather than endurance",
+      "topic": "How believers should relate to suffering",
+      "timestamp_seconds": 2340,
+      "timestamp_display": "00:39:00",
+      "pastor_quote": "Rapture is no more escapism from the world than salvation is escapism from eternal hell… the Bible teaches us to prepare for escape. Luke 21:36: watch therefore and pray always that you may be counted worthy to escape those things that are coming upon the earth.",
+      "jesus_passages": [
+        {
+          "citation": "Matt 5:10–12",
+          "text": "Blessed are those who are persecuted for righteousness' sake, for theirs is the kingdom of heaven… Rejoice and be glad, for your reward is great in heaven."
+        },
+        {
+          "citation": "John 16:33",
+          "text": "In the world you will have tribulation. But take heart; I have overcome the world."
+        },
+        {
+          "citation": "John 17:15 (Jesus's high-priestly prayer)",
+          "text": "I do not ask that you take them out of the world, but that you keep them from the evil one."
+        },
+        {
+          "citation": "Matt 24:13 (in the Olivet Discourse itself)",
+          "text": "But the one who endures to the end will be saved."
+        }
+      ],
+      "wider_bible_passages": [
+        {
+          "citation": "Rev 7:14 (the 'great tribulation' saints)",
+          "text": "These are the ones coming out of the great tribulation. They have washed their robes and made them white in the blood of the Lamb."
+        },
+        {
+          "citation": "2 Tim 3:12",
+          "text": "Indeed, all who desire to live a godly life in Christ Jesus will be persecuted."
+        },
+        {
+          "citation": "1 Pet 4:12–13",
+          "text": "Beloved, do not be surprised at the fiery trial when it comes upon you to test you, as though something strange were happening to you. But rejoice insofar as you share Christ's sufferings."
+        },
+        {
+          "citation": "Heb 11:35–38 (faithful across every era, under persecution)",
+          "text": "Some were tortured, refusing to accept release, so that they might rise again to a better life… of whom the world was not worthy."
+        },
+        {
+          "citation": "Rom 8:35–37",
+          "text": "Who shall separate us from the love of Christ? Shall tribulation, or distress, or persecution…? No, in all these things we are more than conquerors through him who loved us."
+        }
+      ],
+      "analysis": "Christ's word to his followers is that tribulation is normal (John 16:33), prayed over but not removed from (John 17:15), and endured (Matt 24:13). Paul, Peter, and Hebrews reinforce: expected, occasion for joy, to be shared with Christ. Revelation 7:14 specifically describes saints who come out of the great tribulation — i.e., are in it. Pre-tribulation rapture is a 19th-century school (Darby, Scofield) not represented in the historic creeds, not held by most of global Christianity, and grammatically strained in its proof-texts (Luke 21:36 'escape' is Jesus's word about readiness, not a specified airlift).",
+      "why_flagged": "The dominant canonical posture toward suffering is endurance, joy, and solidarity with Christ's sufferings. The pastor presents an escape-framework from a minority tradition as the Bible's own teaching, without acknowledging the larger counter-witness or Matt 24:13 — inside the very chapter being preached — which asks endurance, not exit."
+    }
+  ],
+  "factual_claims": [
+    {
+      "id": "fc-1",
+      "timestamp_seconds": 450,
+      "timestamp_display": "00:07:30",
+      "claim": "Josephus records that more than 1 million Jewish people starved to death in the Roman siege of Jerusalem (70 AD).",
+      "evidence_cited_by_pastor": "'Josephus the first century celebrated historian records…' — author named, no work or passage citation.",
+      "verdict": "partially supported / overstated",
+      "analysis": "Josephus (Jewish War VI.9.3) does give a figure of approximately 1.1 million killed during the siege. The qualifiers Hagee drops matter: (1) Josephus does not say all 1.1 million starved — his figure includes combat deaths, crucifixions, massacre, disease, and starvation; (2) Josephus is notoriously prone to inflated casualty figures; modern historians (Seth Schwartz, Martin Goodman) estimate actual Jerusalem population at the time was likely 70,000–100,000 (swelling during Passover), with siege-era deaths estimated in the tens of thousands to low hundreds of thousands. So: Josephus did write what Hagee says, but the number is historically contested and Hagee narrows the cause to 'starvation' specifically, which is an overstatement.",
+      "sources": [
+        {
+          "title": "Josephus, The Jewish War, Book VI, ch. 9, §3 (Project Gutenberg)",
+          "url": "https://www.gutenberg.org/files/2850/2850-h/2850-h.htm"
+        },
+        {
+          "title": "Martin Goodman — Rome and Jerusalem: The Clash of Ancient Civilizations (Penguin, 2007)",
+          "url": "https://www.penguinrandomhouse.com/books/289443/rome-and-jerusalem-by-martin-goodman/"
+        },
+        {
+          "title": "Seth Schwartz — Imperialism and Jewish Society, 200 B.C.E. to 640 C.E. (Princeton, 2001)",
+          "url": "https://press.princeton.edu/books/paperback/9780691117812/imperialism-and-jewish-society"
+        }
+      ]
+    },
+    {
+      "id": "fc-2",
+      "timestamp_seconds": 450,
+      "timestamp_display": "00:07:30",
+      "claim": "Jesus's prophecy of the Temple's destruction came true 36 years later.",
+      "evidence_cited_by_pastor": "None.",
+      "verdict": "misleading",
+      "analysis": "The Olivet Discourse is typically dated to the week of Jesus's crucifixion (~30 or 33 AD on standard scholarly reckonings). The Temple's destruction under Titus occurred in August/September 70 AD. That is approximately 37–40 years later, not 36. A minor numerical slip, but the kind of detail a preacher citing historical specifics should either get right or hedge; most scholarly reference works use 'about 40 years later' for this interval.",
+      "sources": [
+        {
+          "title": "Britannica — Siege of Jerusalem (70 CE)",
+          "url": "https://www.britannica.com/event/Siege-of-Jerusalem-70"
+        }
+      ]
+    },
+    {
+      "id": "fc-3",
+      "timestamp_seconds": 2490,
+      "timestamp_display": "00:41:30",
+      "claim": "Hordes of locusts will sting men like scorpions and that pain will last for five years.",
+      "evidence_cited_by_pastor": "Implied reference to Revelation 9.",
+      "verdict": "false",
+      "analysis": "Revelation 9:5 specifies five months, not five years: 'they were allowed to torment them for five months, but not to kill them, and their torment was like the torment of a scorpion when it stings someone' (ESV). This is a direct misquotation of the biblical text inside a sermon that elsewhere insists 'this book is literal from cover to cover.' Could be a verbal slip, but it is uncorrected on the broadcast.",
+      "sources": [
+        {
+          "title": "Revelation 9:5 (ESV) — Bible Gateway",
+          "url": "https://www.biblegateway.com/passage/?search=Revelation+9%3A1-11&version=ESV"
+        }
+      ]
+    },
+    {
+      "id": "fc-4",
+      "timestamp_seconds": 735,
+      "timestamp_display": "00:12:15",
+      "claim": "The Antichrist will form a ten-nation coalition that 'will be what's left of the European Union that's now falling apart.'",
+      "evidence_cited_by_pastor": "Appeal to Daniel's 'ten toes of the image' (Daniel 2:41–43) without passage citation.",
+      "verdict": "unsupported",
+      "analysis": "The identification of Daniel 2's 'ten toes' (or Rev 17's 'ten horns') with the European Union is a distinctively dispensationalist interpretation popularized by Hal Lindsey (The Late Great Planet Earth, 1970) and amplified by Left Behind. Significant problems: (1) Daniel 2's four-kingdom schema most naturally maps to Babylon → Medo-Persia → Greece → Rome — an interpretation nearly universal among pre-modern Christian and Jewish commentators; (2) the EU has had 6, 9, 12, 15, 27, and 28 members and has never been durably limited to 10; (3) the 'falling apart' framing presumably references Brexit (2016–2020), but the EU did not dissolve. No mainstream biblical scholarship — evangelical, mainline, or Jewish — supports EU=ten-toes as an exegetical reading. Delivered as prophetic fact without qualification.",
+      "sources": [
+        {
+          "title": "John J. Collins — Daniel: A Commentary on the Book of Daniel (Hermeneia, Fortress Press, 1993)",
+          "url": "https://www.fortresspress.com/store/product/9780800660406/Daniel"
+        },
+        {
+          "title": "European Union enlargement timeline (official)",
+          "url": "https://european-union.europa.eu/principles-countries-history/eu-enlargement_en"
+        }
+      ]
+    },
+    {
+      "id": "fc-5",
+      "timestamp_seconds": 870,
+      "timestamp_display": "00:14:30",
+      "claim": "Five out of six of the Russian-led Islamic army will be buried in Israel, per Ezekiel 38–39.",
+      "evidence_cited_by_pastor": "Ezekiel 38–39 generally.",
+      "verdict": "needs verification",
+      "analysis": "Ezekiel 39:2 in older English translations reads 'I will turn thee back, and leave but the sixth part of thee' (KJV) — which dispensationalist readings extrapolate to 'five-sixths destroyed.' However, the Hebrew (שִׁשֵּׁאתִיךָ, šiššē'ṯîḵā) is a rare term whose meaning is genuinely disputed; many modern translations (ESV, NIV, NRSV) render it 'I will drive you on' or 'I will turn you around,' not as a numerical fraction. The 'five out of six' figure depends on one translation tradition against the consensus of modern Hebraists. A pastor asserting it as a hard number is making a contested philological call without flagging it.",
+      "sources": [
+        {
+          "title": "Daniel Block — The Book of Ezekiel, Chapters 25–48 (NICOT, Eerdmans, 1998)",
+          "url": "https://www.eerdmans.com/9780802825360/the-book-of-ezekiel-chapters-25-48/"
+        },
+        {
+          "title": "BibleHub — Ezekiel 39:2 translation comparison",
+          "url": "https://biblehub.com/ezekiel/39-2.htm"
+        }
+      ]
+    },
+    {
+      "id": "fc-6",
+      "timestamp_seconds": 1500,
+      "timestamp_display": "00:25:00",
+      "claim": "There will be a global economic crash after the rapture because 'Christians are the tax base — we're the folks who are working.'",
+      "evidence_cited_by_pastor": "None.",
+      "verdict": "unsupported",
+      "analysis": "There is no reliable basis for the claim that self-identified Christians uniquely constitute 'the tax base' of the US or global economy in a way that would produce a global economic crash if removed. US self-identified Christians are ~62% of adults (Pew, 2024); labor-force participation and tax-payment rates do not diverge dramatically from non-Christians once controlled for age and geography. Non-Christians (the religiously unaffiliated, Jews, Muslims, Hindus, Buddhists, etc.) contribute materially in proportional fashion. The claim functions rhetorically, not empirically.",
+      "sources": [
+        {
+          "title": "Pew Research Center — Religious Landscape Study (2024 update)",
+          "url": "https://www.pewresearch.org/religion/religious-landscape-study/"
+        },
+        {
+          "title": "Tax Policy Center — Who Pays Federal Taxes?",
+          "url": "https://www.taxpolicycenter.org/briefing-book/who-doesnt-pay-federal-taxes"
+        }
+      ]
+    }
+  ],
+  "cn_markers": [
+    {
+      "marker": "A. Conflation of national & Christian identity",
+      "status": "Present",
+      "reference": "See Finding 1.4 — 'we have no king but Jesus' addressed to America; 'wake up America'; 'nations that forget God are turned into hell'."
+    },
+    {
+      "marker": "B. Militaristic / warrior framing",
+      "status": "Moderate",
+      "note": "'Let the righteous revolution begin'; the second-coming visualization is a warrior-king Christ on a white horse leading armies to 'defeat the enemies of Israel'; masculinized battle register throughout."
+    },
+    {
+      "marker": "C. Political opponents as spiritual enemies",
+      "status": "Present",
+      "reference": "See Finding 2.3 — 'you folks in Washington,' 'CNN fake news,' 'Al Gore,' 'Mr. Putin'."
+    },
+    {
+      "marker": "D. Dominionist rhetoric",
+      "status": "Low",
+      "note": "Implicit in 'let the righteous revolution begin now' and the dispensationalist assumption that a faithful America can delay judgment; not named as institutional takeover."
+    },
+    {
+      "marker": "E. Civil religion (flag, pledge)",
+      "status": "None detected",
+      "note": "No flag, no pledge, no anthem in this sermon."
+    },
+    {
+      "marker": "F. Jeremiad / 'Christianity under attack'",
+      "status": "Present",
+      "reference": "See Finding 2.2 — America = Sodom & Gomorrah; foundations rotting; traditional marriage 'under attack'."
+    },
+    {
+      "marker": "G. Ethno-cultural 'real American' undertones",
+      "status": "None–Low",
+      "note": "No explicit ethnic coding; 'we are all Americans' used in a unifying key earlier in the sermon."
+    },
+    {
+      "marker": "H. Strongman / authoritarian affinity",
+      "status": "None detected",
+      "note": "The only strongman named (Putin) is cast as eschatological villain, not hero."
+    }
+  ],
+  "other_axis2_rubrics": [
+    {
+      "rubric": "Anti-Muslim framing",
+      "status": "Severe",
+      "note": "See Finding 2.1 — Islam named as probable one-world religion of the Antichrist; 'Islamic army' rhetoric; framing of Ezekiel 38–39 invaders as Islamic."
+    },
+    {
+      "rubric": "Anti-LGBTQ framing",
+      "status": "Low / present",
+      "note": "See Finding 2.4 — 'traditional marriage under attack' without engagement."
+    },
+    {
+      "rubric": "Misogynistic framing",
+      "status": "Not present in this sermon"
+    },
+    {
+      "rubric": "Anti-Jewish framing",
+      "status": "Not present",
+      "note": "Sermon is Israel-philic in the dispensationalist key. The claim 'there had been a national rejection of Jesus Christ and the pride of Israel was destroyed' as the explanation for 70 AD has supersessionist historical resonance, though Hagee elsewhere explicitly rejects replacement theology. Worth noting but not flagged as anti-Jewish bias here."
+    }
+  ],
+  "reach": {
+    "view_count": 336,
+    "like_count": 5,
+    "channel": "Thomas Mc Gabhann",
+    "channel_id": "UCMAiX3DUgq0zbON8oWbVcaw",
+    "channel_follower_count": 76,
+    "upload_date": "20180523",
+    "source": "yt-dlp",
+    "congregation": {
+      "weekly_attendance_est": 22000,
+      "source": "Hartford Institute megachurch database; Cornerstone self-reported"
+    }
+  }
+}

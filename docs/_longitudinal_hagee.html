@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>whosaid — Longitudinal: Pastor John Hagee</title>
+<style>
+* { box-sizing: border-box; }
+:root {
+  --c-bg: #fafaf7; --c-fg: #1d1d1b; --c-muted: #6b6b67; --c-border: #d8d6cf;
+  --c-card: #ffffff;
+  --c-severe: #9b1c1c; --c-severe-bg: #fde8e8;
+  --c-moderate: #c2410c; --c-moderate-bg: #ffedd5;
+  --c-low: #a16207; --c-low-bg: #fef3c7;
+  --c-link: #1e40af;
+  --c-up: #9b1c1c; --c-down: #166534; --c-same: #6b6b67;
+}
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
+  background: var(--c-bg); color: var(--c-fg);
+  max-width: 1100px; margin: 0 auto; padding: 2rem 1.5rem 5rem;
+  line-height: 1.55;
+}
+h1 { font-size: 2rem; margin: 0 0 .25rem; letter-spacing: -0.01em; }
+h2 { font-size: 1.35rem; margin: 2.5rem 0 .75rem; border-bottom: 1px solid var(--c-border); padding-bottom: .3rem; }
+h3 { font-size: 1rem; margin: 1rem 0 .4rem; }
+a { color: var(--c-link); text-decoration: none; border-bottom: 1px solid rgba(30,64,175,0.3); }
+
+.time-header { display: grid; grid-template-columns: 1fr 60px 1fr; gap: 1rem; align-items: stretch; margin: 1.5rem 0; }
+.time-header .time-card { background: var(--c-card); border: 1px solid var(--c-border); border-radius: 6px; padding: 1rem 1.25rem; }
+.time-header .time-card .label { font-size: .68rem; color: var(--c-muted); letter-spacing: .1em; text-transform: uppercase; margin-bottom: .3rem; }
+.time-header .time-card .date { font-family: 'SF Mono', Menlo, monospace; font-size: .9rem; color: var(--c-muted); margin-bottom: .3rem; }
+.time-header .time-card .sermon-title { font-size: 1.05rem; font-weight: 600; line-height: 1.3; margin-bottom: .4rem; }
+.time-header .time-card .church-line { font-size: .82rem; color: var(--c-muted); margin-bottom: .4rem; }
+.time-header .time-card .reach-line { font-size: .82rem; font-variant-numeric: tabular-nums; margin-top: .5rem; padding-top: .5rem; border-top: 1px dashed var(--c-border); }
+.time-header .arrow { display: flex; align-items: center; justify-content: center; font-size: 2rem; color: var(--c-muted); font-weight: 300; }
+
+.axis-grid { display: grid; grid-template-columns: 1fr; gap: .5rem; }
+.axis-row {
+  display: grid; grid-template-columns: 200px 1fr 60px 1fr;
+  gap: 1rem; align-items: center;
+  background: var(--c-card); border: 1px solid var(--c-border); border-radius: 6px;
+  padding: .65rem 1rem;
+}
+.axis-row .axis-label { font-weight: 600; font-size: .9rem; }
+.axis-row .verdict-cell { font-size: .85rem; line-height: 1.35; }
+.axis-row .verdict-cell .verdict-text { color: var(--c-muted); font-size: .8rem; margin-top: .15rem; }
+.axis-row .delta-cell { text-align: center; font-size: 1.6rem; font-weight: 700; }
+.axis-row .delta-cell .delta-up { color: var(--c-up); }
+.axis-row .delta-cell .delta-down { color: var(--c-down); }
+.axis-row .delta-cell .delta-same { color: var(--c-same); }
+.axis-row .delta-cell .delta-label { display: block; font-size: .65rem; font-weight: 400; letter-spacing: .05em; text-transform: uppercase; color: var(--c-muted); margin-top: -.15rem; }
+
+.sev-badge {
+  display: inline-block; font-size: 0.68rem; font-weight: 600;
+  text-transform: uppercase; letter-spacing: 0.06em;
+  padding: 2px 7px; border-radius: 3px; color: white;
+}
+.sev-badge.sev-severe { background: var(--c-severe); }
+.sev-badge.sev-moderate { background: var(--c-moderate); }
+.sev-badge.sev-low { background: var(--c-low); }
+.sev-badge.sev-none { background: #6b6b67; }
+
+.marker-table {
+  width: 100%; border-collapse: collapse; font-size: .88rem;
+  background: var(--c-card); border: 1px solid var(--c-border); border-radius: 6px; overflow: hidden;
+}
+.marker-table th, .marker-table td { padding: .5rem .7rem; border-bottom: 1px solid var(--c-border); text-align: left; vertical-align: top; }
+.marker-table th { background: #ebe9e1; font-size: .75rem; text-transform: uppercase; letter-spacing: .05em; }
+.marker-table tr:last-child td { border-bottom: 0; }
+.marker-table td.status-cell { min-width: 95px; font-size: .82rem; }
+.marker-table td.delta-cell { text-align: center; font-size: 1.3rem; font-weight: 700; width: 50px; }
+.marker-table .status-tag {
+  display: inline-block; font-size: .65rem; font-weight: 600;
+  padding: 1px 6px; border-radius: 3px;
+  text-transform: uppercase; letter-spacing: .04em;
+}
+.marker-table .status-tag.status-severe { background: var(--c-severe); color: white; }
+.marker-table .status-tag.status-present { background: var(--c-moderate); color: white; }
+.marker-table .status-tag.status-low { background: var(--c-low); color: white; }
+.marker-table .status-tag.status-none { background: #e5e2d8; color: var(--c-muted); }
+.marker-table .delta-up { color: var(--c-up); }
+.marker-table .delta-down { color: var(--c-down); }
+.marker-table .delta-same { color: var(--c-same); font-size: 1rem; opacity: .6; }
+.marker-table .delta-appeared { color: var(--c-up); }
+
+.headline-compare {
+  display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; margin: .5rem 0;
+}
+@media (max-width: 700px) { .headline-compare { grid-template-columns: 1fr; } }
+.headline-block {
+  background: var(--c-card); border: 1px solid var(--c-border); border-radius: 6px;
+  padding: .75rem 1rem; font-size: .9rem;
+}
+.headline-block.severity-severe { border-left: 4px solid var(--c-severe); }
+.headline-block.severity-moderate { border-left: 4px solid var(--c-moderate); }
+.headline-block.severity-low { border-left: 4px solid var(--c-low); }
+.headline-block .date-line { font-size: .72rem; color: var(--c-muted); text-transform: uppercase; letter-spacing: .06em; margin-bottom: .3rem; }
+.headline-block .verdict-line { font-weight: 600; margin-bottom: .3rem; }
+.headline-block .headline-body { font-size: .88rem; color: var(--c-fg); }
+
+.finding-preview {
+  background: #f9f7ed; border-left: 3px solid var(--c-border); border-radius: 0 3px 3px 0;
+  padding: .5rem .7rem; margin-top: .4rem; font-size: .83rem;
+}
+.finding-preview .title { font-weight: 600; }
+.finding-preview .quote { font-style: italic; color: var(--c-muted); margin-top: .2rem; }
+
+.summary-box {
+  background: var(--c-card); border: 1px solid var(--c-border); border-radius: 6px;
+  padding: 1rem 1.25rem; margin: 1rem 0;
+}
+
+footer { margin-top: 3rem; padding-top: 1.5rem; border-top: 1px solid var(--c-border); color: var(--c-muted); font-size: .85rem; }
+</style>
+</head><body>
+
+<div style="font-size:.75rem; color: var(--c-muted); letter-spacing:.1em; text-transform: uppercase;">Longitudinal comparison · same pastor, across time</div>
+<h1>Pastor John Hagee</h1>
+<p style="color: var(--c-muted); margin:.3rem 0 1rem; font-size: 1rem;">2018-05-23 &nbsp;→&nbsp; 2025-06-18 &nbsp;<span style="color:var(--c-muted);font-size:.9rem;">(7.1 years apart)</span></p>
+
+
+<div class="time-header"><div class="time-card"><div class="label">Then</div><div class="date">2018-05-23</div><div class="sermon-title">What Will Be The Signs Of Your Coming</div><div class="church-line">Cornerstone Church</div><div class="reach-line"><strong>336</strong> views · <strong>76</strong> subs · ~<strong>22K</strong>/wk</div></div><div class="arrow">→</div><div class="time-card"><div class="label">Now</div><div class="date">2025-06-18</div><div class="sermon-title">Pastor John Hagee - &quot;The End of Days&quot;</div><div class="church-line">Cornerstone Church</div><div class="reach-line"><strong>497K</strong> views · <strong>1.3M</strong> subs · ~<strong>22K</strong>/wk</div></div></div>
+
+<div class="summary-box"><h3 style="margin-top:0;">At a glance</h3><ul style="margin:.25rem 0 0 1.2rem; padding:0;"><li>Axis 1 escalated (moderate → severe)</li><li><strong>CN markers appeared:</strong> E. Civil religion (flag, pledg, H. Strongman / authoritarian a</li><li><strong>CN markers upgraded:</strong> D. Dominionist rhetoric, G. Ethno-cultural "real Americ</li></ul></div>
+
+<h2>Axis Severity: Then vs. Now</h2>
+<div class="axis-grid"><div class="axis-row"><div class="axis-label">Axis 1 — Jesus</div><div class="verdict-cell"><span class="sev-badge sev-moderate">moderate</span><div class="verdict-text">Mixed–Critical</div></div><div class="delta-cell"><span class="delta-up">↑</span><span class="delta-label">escalated</span></div><div class="verdict-cell"><span class="sev-badge sev-severe">severe</span><div class="verdict-text">Substantial divergence</div></div></div><div class="axis-row"><div class="axis-label">Axis 2 — Bias/Harm</div><div class="verdict-cell"><span class="sev-badge sev-severe">severe</span><div class="verdict-text">Severe anti-Muslim + Christian-nationalist eschatology</div></div><div class="delta-cell"><span class="delta-same">=</span><span class="delta-label">unchanged</span></div><div class="verdict-cell"><span class="sev-badge sev-severe">severe</span><div class="verdict-text">Severe xenophobic and anti-Muslim framing paired with authoritarian political di</div></div></div><div class="axis-row"><div class="axis-label">Axis 3 — Facts</div><div class="verdict-cell"><span class="sev-badge sev-moderate">moderate</span><div class="verdict-text">Mixed; several overstated, one biblical misquotation</div></div><div class="delta-cell"><span class="delta-same">=</span><span class="delta-label">unchanged</span></div><div class="verdict-cell"><span class="sev-badge sev-moderate">moderate</span><div class="verdict-text">Unsourced, with specific factual overstatements</div></div></div><div class="axis-row"><div class="axis-label">Axis 4 — Whole Bible</div><div class="verdict-cell"><span class="sev-badge sev-severe">severe</span><div class="verdict-text">Selective; dispensationalist minority reading foregrounded</div></div><div class="delta-cell"><span class="delta-same">=</span><span class="delta-label">unchanged</span></div><div class="verdict-cell"><span class="sev-badge sev-severe">severe</span><div class="verdict-text">Heavily selective; minority apocalyptic voices presented as the canon</div></div></div></div>
+
+<h2>Axis 2 Headline Comparison</h2>
+<div class="headline-compare"><div class="headline-block severity-severe"><div class="date-line">Then · 2018-05-23</div><div class="verdict-line">[severe] Severe anti-Muslim + Christian-nationalist eschatology</div><div class="headline-body">Explicit identification of Islam as the probable one-world religion of the Antichrist, a Russia-led &#x27;Islamic army&#x27; prophecy naming Putin by name, plus jeremiad + political-enemy framing (&#x27;CNN fake news,&#x27; &#x27;you folks in Washington,&#x27; &#x27;Al Gore&#x27;).</div><div class="finding-preview"><div class="title">Top Axis-2 finding: Anti-Muslim eschatology: Islam as religion of the Antichrist + Russia-led &#x27;Islamic army&#x27; prophecy naming Putin</div><div class="quote">“It will be a one world government with a one-world currency and a one-world religion and it very well may be Islam… Russia is going to lead an Islamic army against Israel and God is going to bury them with an earthquake… you people at g20 who are …”</div></div></div><div class="headline-block severity-severe"><div class="date-line">Now · 2025-06-18</div><div class="verdict-line">[severe] Severe xenophobic and anti-Muslim framing paired with authoritarian political directives</div><div class="headline-body">Explicit calls from the pulpit to deport protesters, defund universities, and fire professors; an &#x27;Islamic coalition&#x27; framing of a prophesied divine-destruction war; and a theological threat that America&#x27;s divine favor is contingent on unconditional support for Israel&#x27;s military campaigns.</div><div class="finding-preview"><div class="title">Top Axis-2 finding: Direct political directives from the pulpit: deport protesters, defund universities, fire professors</div><div class="quote">“These flag burning, god-hating, anti-semitic garbage needs to be deported. Send them back where they come from. Anti-semitic universities that plant the virus of anti-semitism into the hearts and minds of the next generation need to be defunded by…”</div></div></div></div>
+
+<h2>Christian Nationalism Markers: Δ Over Time</h2>
+<table class="marker-table"><thead><tr><th>CN Marker</th><th>Then</th><th>Δ</th><th>Now</th></tr></thead><tbody><tr><td>A. Conflation of national &amp; Christian identity</td><td class="status-cell"><span class="status-tag status-present">Present</span></td><td class="delta-cell delta-same">=</td><td class="status-cell"><span class="status-tag status-present">Present</span></td></tr><tr><td>B. Militaristic / warrior framing</td><td class="status-cell"><span class="status-tag status-present">Moderate</span></td><td class="delta-cell delta-same">=</td><td class="status-cell"><span class="status-tag status-present">Moderate</span></td></tr><tr><td>C. Political opponents as spiritual enemies</td><td class="status-cell"><span class="status-tag status-present">Present</span></td><td class="delta-cell delta-same">=</td><td class="status-cell"><span class="status-tag status-present">Present</span></td></tr><tr><td>D. Dominionist rhetoric</td><td class="status-cell"><span class="status-tag status-low">Low</span></td><td class="delta-cell delta-up">↑</td><td class="status-cell"><span class="status-tag status-present">Low–Moderate</span></td></tr><tr><td>E. Civil religion (flag, pledge)</td><td class="status-cell"><span class="status-tag status-none">None detected</span></td><td class="delta-cell delta-appeared">+</td><td class="status-cell"><span class="status-tag status-present">Present</span></td></tr><tr><td>F. Jeremiad / &quot;Christianity under attack&quot;</td><td class="status-cell"><span class="status-tag status-present">Present</span></td><td class="delta-cell delta-same">=</td><td class="status-cell"><span class="status-tag status-present">Moderate</span></td></tr><tr><td>G. Ethno-cultural &quot;real American&quot; undertones</td><td class="status-cell"><span class="status-tag status-low">None–Low</span></td><td class="delta-cell delta-up">↑</td><td class="status-cell"><span class="status-tag status-present">Present</span></td></tr><tr><td>H. Strongman / authoritarian affinity</td><td class="status-cell"><span class="status-tag status-none">None detected</span></td><td class="delta-cell delta-appeared">+</td><td class="status-cell"><span class="status-tag status-present">Moderate</span></td></tr></tbody></table>
+
+<h2>Other Axis-2 Sub-rubrics: Δ Over Time</h2>
+<table class="marker-table"><thead><tr><th>Sub-rubric</th><th>Then</th><th>Δ</th><th>Now</th></tr></thead><tbody><tr><td>Anti-Muslim framing</td><td class="status-cell"><span class="status-tag status-severe">Severe</span></td><td class="delta-cell delta-down">↓</td><td class="status-cell"><span class="status-tag status-present">Present (moderate)</span></td></tr><tr><td>Anti-LGBTQ framing</td><td class="status-cell"><span class="status-tag status-present">Low / present</span></td><td class="delta-cell delta-same">=</td><td class="status-cell"><span class="status-tag status-present">Not present in this sermon</span></td></tr><tr><td>Misogynistic framing</td><td class="status-cell"><span class="status-tag status-present">Not present in this sermon</span></td><td class="delta-cell delta-same">=</td><td class="status-cell"><span class="status-tag status-present">Not present in this sermon</span></td></tr><tr><td>Anti-Jewish framing</td><td class="status-cell"><span class="status-tag status-present">Not present</span></td><td class="delta-cell delta-same">=</td><td class="status-cell"><span class="status-tag status-present">Not present</span></td></tr></tbody></table>
+
+<footer>
+<p>A longitudinal pair is one snapshot vs. another — not a continuous trajectory. Intermediate sermons may show different patterns. Rendered 2026-04-22 17:04 UTC.</p>
+</footer>
+</body></html>
