@@ -1,0 +1,850 @@
+{
+  "meta": {
+    "sermon_title": "Biblical Signs that Point to the Final Generation?",
+    "preacher": "Bishop Alan DiDio",
+    "church": "Revival Nation Church",
+    "church_location": "Midland, NC",
+    "series": "Encounter Today",
+    "preaching_text": "",
+    "youtube_id": "g9xWOA3fLj0",
+    "upload_date": "2026-01-10",
+    "runtime_seconds": 3540,
+    "transcript_path": "transcripts/20260110_bishop_alan_didio_biblical_signs_that_point_to_the_final_g.txt",
+    "gospel_translation": "ESV"
+  },
+  "summary": "DiDio opens by celebrating a reported U.S. military operation that captured Venezuelan President Maduro and bombed Iranian-linked assets, framing it as God opening doors for the gospel and tying it to end-times prophecy. He then pivots to a date-setting argument grounded in the Essene calendar (claiming the current year is 5950 of human history, with March 2026 inaugurating the \"final jubilee\" before the 6,000-year lease on human dominion expires), interspersed with sharp polemics against Calvinists (\"God ordains for children to be raped and molested... that's what they believe\"), trans people (\"the king says you're actually a man\"), the Biden administration, and critics of the prosperity gospel (\"the American gospel\" film). The back half develops an \"ambassador\" theology in which believers possess \"Holy Ghost diplomatic immunity\" from sickness, depression, and the laws of this world — the king commands depression to leave or it will \"cause an international incident.\" The sermon closes with a pitch for the pastor's book \"101 Prosperity Confessions.\"",
+  "scorecard": {
+    "axis_1": {
+      "label": "Fidelity to Jesus's Teachings (Red Letters)",
+      "verdict": "Significant divergence",
+      "severity": "severe",
+      "headline": "Date-setting via Essene calendar (March 2026 'final jubilee') sits directly against Matt 24:36 and Acts 1:7. Matt 25:31–46 — Jesus's own answer to what the final generation looks like — is absent. Calvinist-rape accusation, anti-trans sloganeering, and celebration of bombings invert Jesus's red-letter speech ethic and enemy-love."
+    },
+    "axis_2": {
+      "label": "Identifiable Biases / Harmful Rhetoric",
+      "verdict": "Severe — multi-front",
+      "severity": "severe",
+      "headline": "Stacks dominionist 'win America back' rhetoric, strongman alignment with the Trump administration over and against the 'Biden administration,' anti-Muslim framing of Iran, an anti-trans line delivered as kingdom decree, and a prosperity-immunity theology that promises freedom from depression, anxiety, and bodily affliction."
+    },
+    "axis_3": {
+      "label": "Factual Claims & Evidence Check",
+      "verdict": "Poor evidence hygiene; speculative claims as fact",
+      "severity": "severe",
+      "headline": "The opening 'Maduro captured by 150 aircraft' narrative is delivered as established fact and could not be verified at the time of the sermon. The Essene-calendar chronology (5950, Essene prediction of a 32 AD Messiah) is presented as scholarly consensus when it is fringe. None of the four claims fact-checked here are clean."
+    },
+    "axis_4": {
+      "label": "Whole-Bible Engagement",
+      "verdict": "Highly selective; minority voices only",
+      "severity": "severe",
+      "headline": "The sermon's ambassador / diplomatic-immunity / prosperity-confession structure is built almost entirely on a single reading of 2 Cor 5:20 while the wider canon (the persecution-suffering trajectory of Jesus, Paul's actual lived ambassadorship in chains, James, 1 Peter, Hebrews 11) is omitted. Jesus's own answer to 'what kind of person should we be in the last days' (Matt 25) is not engaged."
+    }
+  },
+  "tenets_affirmed": [
+    "The gospel is offered freely and the appeal to repentance is genuine: 'I repent from all my sin. I turn to Jesus. I trust in him. He took my place.'",
+    "Substitutionary atonement is preached clearly: 'You owed a debt you could not pay. So he paid a debt he did not owe' (2 Cor 5:21 paraphrased).",
+    "The 'longsuffering' reading of 2 Pet 3:9 — that delay reflects God's patience and desire that none perish — is faithful to the text.",
+    "The pastor explicitly affirms that scripture should be tested against scripture and that congregants should bring their Bibles ('have you ever been going to a verse and on your way to that verse, you found something else?')."
+  ],
+  "counter_signals": [
+    "Direct gospel invitation issued mid-sermon with a clear repentance prayer.",
+    "Affirms the inspiration and authority of Paul's epistles equally with the OT prophets.",
+    "Acknowledges 2 Pet 3:9 as a refutation of double-predestination — pastoral concern that hearers not feel pre-condemned.",
+    "Closes with a prayer commanding 'depression go in Jesus name... we command anxiety leave' — an attempt at pastoral care for mental-health suffering, even if the framing (immunity rather than companionship) is theologically problematic.",
+    "Encourages constant communication with God ('ambassadors stay in constant communication with their government')."
+  ],
+  "findings": [
+    {
+      "id": "f1-1",
+      "axis": 1,
+      "severity": "severe",
+      "headline": true,
+      "title": "Date-setting: March 2026 named as the 'final jubilee'",
+      "timestamp_seconds": 990,
+      "timestamp_display": "00:16:30",
+      "pastor_quote": "It is also the number 50 represents a jubilee. It was believed by the Essenes that the final jubilee would come. And you know when the final jubilee happens? In March of 2026. That's when we step into 51 which initiates the final jubilee. Look at your neighbor. Say, 'You don't know where you are.' You better figure out what time it is.",
+      "jesus_quotes": [
+        {
+          "citation": "Matt 24:36",
+          "text": "But concerning that day and hour no one knows, not even the angels of heaven, nor the Son, but the Father only."
+        },
+        {
+          "citation": "Acts 1:7 (Jesus, immediately before the ascension)",
+          "text": "It is not for you to know times or seasons that the Father has fixed by his own authority."
+        },
+        {
+          "citation": "Matt 24:42–44",
+          "text": "Therefore, stay awake, for you do not know on what day your Lord is coming... the Son of Man is coming at an hour you do not expect."
+        },
+        {
+          "citation": "Matt 24:37–39 — Jesus's primary OT analogy for his return (Gen 6–9, Noah). The point of the analogy is UNEXPECTEDNESS, not signposts.",
+          "text": "For as were the days of Noah, so will be the coming of the Son of Man... they were eating and drinking, marrying and giving in marriage... and they were unaware until the flood came and swept them all away."
+        }
+      ],
+      "rhetorical_mechanism": "certainty-under-ambiguity",
+      "why_flagged": "Naming a specific month and year as the inauguration of 'the final jubilee' is precisely the move Jesus repeatedly disclaimed — both in the Olivet Discourse (Matt 24:36, the same end-times context the sermon invokes) and at the ascension (Acts 1:7). The Noah analogy in Matt 24:37–39 explicitly frames the return as unexpected, not as the terminus of a decoded calendar. Date-setting is a recurring temptation, and a recurring failure mode, in evangelical end-times preaching."
+    },
+    {
+      "id": "f1-2",
+      "axis": 1,
+      "severity": "severe",
+      "headline": true,
+      "title": "Calvinists accused of believing 'God ordains for children to be raped and molested'",
+      "timestamp_seconds": 1170,
+      "timestamp_display": "00:19:30",
+      "pastor_quote": "If someone rapes somebody, that was the Lord's will. That's what they believe... they don't realize what they're actually doing... This is what they believe. They believe that God ordains for children to be raped and molested. It's God's will. But you're a heretic because you think God wants you to prosper.",
+      "jesus_quotes": [
+        {
+          "citation": "Matt 5:22",
+          "text": "Whoever insults his brother will be liable to the council; and whoever says, 'You fool!' will be liable to the hell of fire."
+        },
+        {
+          "citation": "Matt 7:1–2",
+          "text": "Judge not, that you be not judged. For with the judgment you pronounce you will be judged, and with the measure you use it will be measured to you."
+        },
+        {
+          "citation": "Matt 12:36",
+          "text": "I tell you, on the day of judgment people will give account for every careless word they speak."
+        },
+        {
+          "citation": "John 13:35",
+          "text": "By this all people will know that you are my disciples, if you have love for one another."
+        },
+        {
+          "citation": "Lev 19:16 — sits in the same chapter as the love-neighbor command Jesus cited in Matt 22:39",
+          "text": "You shall not go around as a slanderer among your people."
+        }
+      ],
+      "rhetorical_mechanism": "tribal identity activation",
+      "why_flagged": "Reformed/Calvinist theology of divine sovereignty does not, in any major confessional formulation (Westminster, Heidelberg, Belgic, Canons of Dort), 'ordain' rape and molestation as God's positive will. The historic Reformed position carefully distinguishes God's permissive will from his prescriptive will. To assert from the pulpit that fellow Christians 'believe' God ordains child sexual abuse is a slander against an entire tradition of believers (Edwards, Spurgeon, Sproul, Keller). Jesus's red-letter speech ethic is unsparing on this point."
+    },
+    {
+      "id": "f1-3",
+      "axis": 1,
+      "severity": "severe",
+      "headline": true,
+      "title": "Anti-trans 'kingdom decree' delivered as ambassadorial speech",
+      "timestamp_seconds": 2430,
+      "timestamp_display": "00:40:30",
+      "pastor_quote": "Someone will ask me... 'What do you think about this trans issue?' And your response should be, 'Well, it doesn't really matter what I think about it because I'm not allowed to speak my opinion. I am an ambassador of a kingdom. I can tell you what the king says about it.' Hallelujah. The king says you're actually a man. That's what the king says. Well, you don't patty cake with that.",
+      "jesus_quotes": [
+        {
+          "citation": "Matt 19:14",
+          "text": "Let the little children come to me and do not hinder them, for to such belongs the kingdom of heaven."
+        },
+        {
+          "citation": "Matt 9:36",
+          "text": "When he saw the crowds, he had compassion for them, because they were harassed and helpless, like sheep without a shepherd."
+        },
+        {
+          "citation": "John 4:7–26 (Jesus initiating extended pastoral conversation with a person his culture told him not to engage)",
+          "text": "Jesus said to her, 'Give me a drink.'... 'I who speak to you am he.'"
+        },
+        {
+          "citation": "Matt 5:22",
+          "text": "Whoever says, 'You fool!' will be liable to the hell of fire."
+        },
+        {
+          "citation": "Luke 6:31",
+          "text": "And as you wish that others would do to you, do so to them."
+        }
+      ],
+      "rhetorical_mechanism": "tribal identity activation",
+      "why_flagged": "Jesus's recorded interactions with people who fell outside his culture's gender, sexual, and ritual categories (the Samaritan woman, the woman with the issue of blood, the centurion's pais, eunuchs in Matt 19:12) are pastoral, individual, and disarming — never weaponized as a sloganized public verdict. Wrapping a contested public-policy/anthropology line ('you're actually a man') in 'the king says' presents personal exegesis as the direct voice of Jesus. Whatever a pastor's theological conclusions on gender, the rhetorical maneuver that prevents pastoral engagement ('you don't patty cake with that') is the inverse of how Jesus treated marginalized individuals."
+    },
+    {
+      "id": "f1-4",
+      "axis": 1,
+      "severity": "moderate",
+      "headline": false,
+      "title": "Celebration of bombings framed as God opening doors for the gospel",
+      "timestamp_seconds": 90,
+      "timestamp_display": "00:01:30",
+      "pastor_quote": "I don't know if you've seen the videos. These — this is of the bombings that took place. No American forces, it says, were lost during this operation. Hallelujah... How in the world do you go across the Western Hemisphere and invade with 150 aircraft and men on the ground, arrest the president, get out of [there]? Because we are the baddest mama jamas on the planet. That's why. Let's thank God for our armed forces.",
+      "jesus_quotes": [
+        {
+          "citation": "Matt 5:9",
+          "text": "Blessed are the peacemakers, for they shall be called sons of God."
+        },
+        {
+          "citation": "Matt 5:44",
+          "text": "Love your enemies and pray for those who persecute you."
+        },
+        {
+          "citation": "Matt 26:52",
+          "text": "Put your sword back into its place. For all who take the sword will perish by the sword."
+        },
+        {
+          "citation": "Luke 9:54–55 (when disciples proposed military-style judgment against an outgroup)",
+          "text": "'Lord, do you want us to tell fire to come down from heaven and consume them?' But he turned and rebuked them."
+        },
+        {
+          "citation": "John 18:36",
+          "text": "My kingdom is not of this world. If my kingdom were of this world, my servants would have been fighting."
+        }
+      ],
+      "rhetorical_mechanism": "heroic / agency identification",
+      "why_flagged": "Bombing footage greeted with 'Hallelujah' and the boast 'we are the baddest mama jamas on the planet' is the rhetorical inverse of Jesus's posture in every recorded engagement with imperial violence. The sermon then claims these strikes are *how God opens doors for the gospel* — collapsing the mission of Christ into the tactics of empire."
+    },
+    {
+      "id": "f1-5",
+      "axis": 1,
+      "severity": "severe",
+      "headline": true,
+      "title": "Matthew 25 absent from a sermon defining the 'final generation'",
+      "timestamp_seconds": null,
+      "timestamp_display": "(absent from a 59-minute final-generation sermon)",
+      "pastor_quote": "[absent] — In a sermon that repeatedly poses the question 'what kind of person should we be?' in light of the imminent return of Christ, Jesus's own most extended description of the criterion he will apply when he returns — Matt 25:31–46 — is never referenced.",
+      "jesus_quotes": [
+        {
+          "citation": "Matt 25:31–40",
+          "text": "When the Son of Man comes in his glory... before him will be gathered all the nations, and he will separate people one from another as a shepherd separates the sheep from the goats... 'For I was hungry and you gave me food, I was thirsty and you gave me drink, I was a stranger and you welcomed me, I was naked and you clothed me, I was sick and you visited me, I was in prison and you came to me'... 'Truly, I say to you, as you did it to one of the least of these my brothers, you did it to me.'"
+        },
+        {
+          "citation": "Matt 25:41–45",
+          "text": "'Depart from me, you cursed, into the eternal fire prepared for the devil and his angels. For I was hungry and you gave me no food... as you did not do it to one of the least of these, you did not do it to me.'"
+        }
+      ],
+      "rhetorical_mechanism": "certainty-under-ambiguity",
+      "why_flagged": "The sermon explicitly asks 'what kind of person should we be?' (00:23:00, 00:24:00, 00:25:30, 00:51:30) in light of Christ's return. Jesus's own answer to that exact question — concrete care for the hungry, thirsty, stranger, naked, sick, and imprisoned — is delivered at length in his own voice in the same Olivet Discourse the pastor draws from. Replacing it with 'become an ambassador with diplomatic immunity' is a substantive theological substitution."
+    },
+    {
+      "id": "f1-6",
+      "axis": 1,
+      "severity": "moderate",
+      "headline": false,
+      "title": "Diplomatic-immunity theology vs. Jesus's own path of suffering",
+      "timestamp_seconds": 2580,
+      "timestamp_display": "00:43:00",
+      "pastor_quote": "I have diplomatic immunity... You're not subject to the laws of this world... You're having difficulty in your life, in your body, in your mind. That's how this world operates. You don't have to tolerate that. You have diplomatic immunity from the attacks of the enemy in this life.",
+      "jesus_quotes": [
+        {
+          "citation": "John 16:33",
+          "text": "In the world you will have tribulation. But take heart; I have overcome the world."
+        },
+        {
+          "citation": "Matt 16:24",
+          "text": "If anyone would come after me, let him deny himself and take up his cross and follow me."
+        },
+        {
+          "citation": "John 15:20",
+          "text": "A servant is not greater than his master. If they persecuted me, they will also persecute you."
+        },
+        {
+          "citation": "Mark 14:36 (Gethsemane — Jesus does not invoke immunity)",
+          "text": "Abba, Father, all things are possible for you. Remove this cup from me. Yet not what I will, but what you will."
+        },
+        {
+          "citation": "Matt 5:10",
+          "text": "Blessed are those who are persecuted for righteousness' sake, for theirs is the kingdom of heaven."
+        }
+      ],
+      "rhetorical_mechanism": "vindication / status-restoration",
+      "why_flagged": "Jesus describes the disciple's life as cross-bearing tribulation overcome from within suffering, not as exemption from suffering. The 'diplomatic immunity' framing reverses the Gospel pattern — Jesus himself was crucified despite being the King's Son. The pastor's own soaring description of the cross earlier in the sermon ('the very flames of hell lapped upon his body') sits in unresolved tension with the later promise that ambassadors are exempt from bodily affliction."
+    },
+    {
+      "id": "f2-1",
+      "axis": 2,
+      "severity": "severe",
+      "headline": true,
+      "title": "Dominionist 'win America back' framing fused with strongman alignment",
+      "timestamp_seconds": 3240,
+      "timestamp_display": "00:54:00",
+      "pastor_quote": "If we're going to win America and the church back to Christ, we have to become representatives... You sound like the Biden administration when you do that. A lot of bluster, but when push come to shove, you ain't got nothing behind it. The Biden administration said a lot about Maduro and Venezuela. You know what they did? You're going to have to get something behind you that's bigger than you.",
+      "jesus_quotes": [
+        {
+          "citation": "John 18:36",
+          "text": "My kingdom is not of this world. If my kingdom were of this world, my servants would have been fighting."
+        },
+        {
+          "citation": "John 6:15",
+          "text": "Perceiving then that they were about to come and take him by force to make him king, Jesus withdrew again to the mountain by himself."
+        },
+        {
+          "citation": "Matt 4:8–10 (the wilderness offer of all the kingdoms)",
+          "text": "Again, the devil took him to a very high mountain and showed him all the kingdoms of the world and their glory. And he said to him, 'All these I will give you, if you will fall down and worship me.' Then Jesus said to him, 'Be gone, Satan!'"
+        },
+        {
+          "citation": "Mark 12:17",
+          "text": "Render to Caesar the things that are Caesar's, and to God the things that are God's."
+        }
+      ],
+      "rhetorical_mechanism": "tribal identity activation",
+      "why_flagged": "Three Christian-nationalism markers stack here at once: dominionism ('win America back to Christ'), strongman affinity (Trump administration's military action celebrated as gospel-opening; Biden administration mocked as weakness), and political-opponents-as-spiritual-enemies. Jesus refused both the imperial throne (Matt 4) and the populist crown (John 6); the imperative of 'winning back' a nation through power is not a category Jesus operated in."
+    },
+    {
+      "id": "f2-2",
+      "axis": 2,
+      "severity": "moderate",
+      "headline": false,
+      "title": "Anti-Muslim framing of Iran as 'radical Islamic binge of terror'",
+      "timestamp_seconds": 75,
+      "timestamp_display": "00:01:15",
+      "pastor_quote": "Iran in all of their defiance to the United States and in their radical Islamic binge of terror, they have relied on Venezuela for support... that radical Islamic regime that has held power for more than 40 years... In Jesus' name, we command the doors to be opened in Iran for the preaching of the gospel.",
+      "jesus_quotes": [
+        {
+          "citation": "Matt 5:44",
+          "text": "Love your enemies and pray for those who persecute you."
+        },
+        {
+          "citation": "Luke 4:25–27 — Jesus's first recorded sermon, citing 1 Kings 17 and 2 Kings 5: God's mercy goes to a Sidonian and a Syrian (both foreign 'enemies' from Israel's perspective)",
+          "text": "There were many widows in Israel in the days of Elijah... and Elijah was sent to none of them but only to Zarephath, in the land of Sidon... and none of them was cleansed, but only Naaman the Syrian."
+        },
+        {
+          "citation": "Matt 12:39–41 (Jesus holds up a foreign enemy city as morally superior to his own generation)",
+          "text": "The men of Nineveh will rise up at the judgment with this generation and condemn it, for they repented at the preaching of Jonah."
+        }
+      ],
+      "rhetorical_mechanism": "threat / fear activation",
+      "why_flagged": "Conflating an entire 1,400-year religious tradition (~1.9B people) with the actions of one regime, then narrating bombings of that regime as God 'opening doors,' reproduces the pattern of substituting military intervention for the missionary love of enemies Jesus modeled. The Iranian church is one of the fastest-growing in the world; that growth has happened in ways the sermon's framing obscures."
+    },
+    {
+      "id": "f2-3",
+      "axis": 2,
+      "severity": "moderate",
+      "headline": false,
+      "title": "Prosperity-gospel inoculation: critics framed as smuggling demonic theology",
+      "timestamp_seconds": 1170,
+      "timestamp_display": "00:19:30",
+      "pastor_quote": "They're the ones making these films called the prosperity gospel and they're [making] the American gospel and they're attacking people for believing in prosperity and they don't realize what they're actually doing is it is a subtle way to inject this demonic ideology... They believe that God ordains for children to be raped and molested. It's God's will. But you're a heretic because you think God wants you to prosper.",
+      "jesus_quotes": [
+        {
+          "citation": "Matt 6:19–21",
+          "text": "Do not lay up for yourselves treasures on earth... but lay up for yourselves treasures in heaven... For where your treasure is, there your heart will be also."
+        },
+        {
+          "citation": "Matt 6:24",
+          "text": "You cannot serve God and money."
+        },
+        {
+          "citation": "Luke 6:24",
+          "text": "But woe to you who are rich, for you have received your consolation."
+        },
+        {
+          "citation": "Mark 10:21–25",
+          "text": "'Sell all that you have and give to the poor'... 'How difficult it will be for those who have wealth to enter the kingdom of God!'"
+        },
+        {
+          "citation": "Isa 58:6–7 — cited by Jesus in Luke 4:18 as defining his mission",
+          "text": "Is not this the fast that I choose: to loose the bonds of wickedness... to share your bread with the hungry and bring the homeless poor into your house?"
+        }
+      ],
+      "rhetorical_mechanism": "grievance activation",
+      "why_flagged": "The sermon ends with a pitch for *101 Prosperity Confessions*. The mid-sermon attack frames any documentary critique of prosperity teaching (e.g., the 2018 film *American Gospel*) as a 'subtle way to inject demonic ideology.' Jesus's red-letter teaching on wealth is consistently warning, not affirmation; binding any critique of prosperity teaching to 'they believe God ordains rape' is a rhetorical maneuver, not exegesis."
+    }
+  ],
+  "axis4_findings": [
+    {
+      "id": "f4-1",
+      "axis": 4,
+      "severity": "severe",
+      "headline": true,
+      "title": "'Ambassadors with diplomatic immunity' — single verse weaponized against the canonical witness on suffering",
+      "topic": "Whether faithful believers can expect immunity from suffering, sickness, and affliction",
+      "timestamp_seconds": 2580,
+      "timestamp_display": "00:43:00",
+      "pastor_quote": "An ambassador is not subject to the laws of the country he's visiting... You are not subject to the laws of this world... You're having difficulty in your life, in your body, in your mind. That's how this world operates. You don't have to tolerate that. You have diplomatic immunity from the attacks of the enemy in this life... Satan, let them go or it will cause an international incident.",
+      "jesus_passages": [
+        {
+          "citation": "John 16:33",
+          "text": "In the world you will have tribulation. But take heart; I have overcome the world."
+        },
+        {
+          "citation": "Matt 16:24–25",
+          "text": "If anyone would come after me, let him deny himself and take up his cross and follow me. For whoever would save his life will lose it."
+        },
+        {
+          "citation": "John 15:18–20",
+          "text": "If the world hates you, know that it has hated me before it hated you... 'A servant is not greater than his master.' If they persecuted me, they will also persecute you."
+        },
+        {
+          "citation": "Luke 22:42 (Gethsemane)",
+          "text": "Father, if you are willing, remove this cup from me. Nevertheless, not my will, but yours, be done."
+        },
+        {
+          "citation": "Matt 8:20",
+          "text": "Foxes have holes, and birds of the air have nests, but the Son of Man has nowhere to lay his head."
+        }
+      ],
+      "wider_bible_passages": [
+        {
+          "citation": "2 Cor 11:23–28 (Paul — the actual ambassador's resume)",
+          "text": "Far greater labors, far more imprisonments, with countless beatings, and often near death. Five times I received at the hands of the Jews the forty lashes less one. Three times I was beaten with rods. Once I was stoned. Three times I was shipwrecked... I have been... in danger from robbers, danger from my own people, danger from Gentiles, danger in the city, danger in the wilderness, danger at sea, danger from false brothers."
+        },
+        {
+          "citation": "2 Cor 12:7–9 (Paul, on a thorn God did not remove)",
+          "text": "A thorn was given me in the flesh... Three times I pleaded with the Lord about this, that it should leave me. But he said to me, 'My grace is sufficient for you, for my power is made perfect in weakness.'"
+        },
+        {
+          "citation": "Heb 11:35–38",
+          "text": "Some were tortured, refusing to accept release... Others suffered mocking and flogging, and even chains and imprisonment. They were stoned, they were sawn in two, they were killed with the sword."
+        },
+        {
+          "citation": "1 Pet 4:12–13",
+          "text": "Beloved, do not be surprised at the fiery trial when it comes upon you to test you, as though something strange were happening to you. But rejoice insofar as you share Christ's sufferings."
+        },
+        {
+          "citation": "James 1:2–4",
+          "text": "Count it all joy, my brothers, when you meet trials of various kinds, for you know that the testing of your faith produces steadfastness."
+        },
+        {
+          "citation": "Phil 1:29",
+          "text": "For it has been granted to you that for the sake of Christ you should not only believe in him but also suffer for his sake."
+        }
+      ],
+      "analysis": "Paul, the very ambassador (2 Cor 5:20) the sermon builds on, cataloged in the next chapter (2 Cor 11) a literal opposite of 'diplomatic immunity': beatings, imprisonments, shipwrecks, hunger, sleeplessness. He pleaded three times for a 'thorn' to be removed — and was refused. Jesus himself, the 'King' the sermon repeatedly invokes, prayed for the cup to be removed in Gethsemane, and was crucified. The canonical witness on Christian suffering is unanimous to the point of monotony: tribulation is *expected*, redeemed, even glorified — not bypassed by ambassadorial credentials. The pastor builds an entire freedom-from-affliction theology by extending one metaphorical detail (an ambassador's legal immunity) past anything Paul or any other NT writer indicates. Critically, the very chapter cited (2 Cor 5) ends with the 'ministry of reconciliation' which Paul *immediately* describes in 2 Cor 6:4–5 as 'great endurance: in afflictions, hardships, calamities, beatings, imprisonments, riots, labors, sleepless nights, hunger.' The sermon stops one verse short.",
+      "why_flagged": "The sermon takes a single verse's metaphor and extends it past the metaphor's actual canonical use, omitting the entire NT theology of suffering (Paul, James, Peter, Hebrews) and Jesus's own teaching and example. People with chronic illness, depression, or grief who walk away convinced that their continuing affliction means they are failing as ambassadors of the kingdom may be deeply harmed by this framing."
+    },
+    {
+      "id": "f4-2",
+      "axis": 4,
+      "severity": "severe",
+      "headline": true,
+      "title": "Date-setting via Essene calendar contradicts Jesus and the wider canon",
+      "topic": "Whether Christians can read calendars and signs to identify the timing of Christ's return",
+      "timestamp_seconds": 720,
+      "timestamp_display": "00:12:00",
+      "pastor_quote": "These cats seem to get it right. And according to them, here's where we are. 5,950... It is also the number 50 represents a jubilee. It was believed by the Essenes that the final jubilee would come. And you know when the final jubilee happens? In March of 2026.",
+      "jesus_passages": [
+        {
+          "citation": "Matt 24:36 (the same Olivet Discourse the sermon's framework draws from)",
+          "text": "But concerning that day and hour no one knows, not even the angels of heaven, nor the Son, but the Father only."
+        },
+        {
+          "citation": "Matt 16:1–4 (Jesus refuses sign-seekers)",
+          "text": "An evil and adulterous generation seeks for a sign, but no sign will be given to it except the sign of Jonah."
+        },
+        {
+          "citation": "Acts 1:7",
+          "text": "It is not for you to know times or seasons that the Father has fixed by his own authority."
+        },
+        {
+          "citation": "Matt 24:43–44",
+          "text": "If the master of the house had known in what part of the night the thief was coming, he would have stayed awake... Therefore you also must be ready, for the Son of Man is coming at an hour you do not expect."
+        }
+      ],
+      "wider_bible_passages": [
+        {
+          "citation": "1 Thess 5:2",
+          "text": "For you yourselves are fully aware that the day of the Lord will come like a thief in the night."
+        },
+        {
+          "citation": "2 Pet 3:8–10 (the very passage the sermon preaches from)",
+          "text": "But do not overlook this one fact, beloved, that with the Lord one day is as a thousand years... But the day of the Lord will come like a thief."
+        },
+        {
+          "citation": "Deut 29:29",
+          "text": "The secret things belong to the Lord our God, but the things that are revealed belong to us and to our children forever."
+        },
+        {
+          "citation": "Dan 12:9",
+          "text": "Go your way, Daniel, for the words are shut up and sealed until the time of the end."
+        }
+      ],
+      "analysis": "The sermon does the precise thing 2 Pet 3:8 was given to *prevent*. Peter's 'a day is with the Lord as a thousand years' is given as a reason for *patience and humility* about timing — God's reckoning is not ours. The sermon flips it into a numeric formula that converts the seven days of Genesis into a 7,000-year timeline, places us at year 5,950, and pinpoints March 2026 as the inauguration of the final jubilee. This is a 19th–20th century interpretive innovation (Clarence Larkin, named in the sermon, popularized the chart in 1918) layered onto a fringe reading of Essene chronology. The dominant canonical witness — Jesus, Paul, Peter, Daniel, Deuteronomy — runs the opposite direction: the timing is hidden, the day is thief-like, the question is not for us to ask. Notably, every previous date-setting in evangelical history (1844 Miller; 1988 Whisenant; 2011 Camping; 2017 Meade) has produced confident chronologies and zero correct returns. Pastoral history alone counsels against the genre.",
+      "why_flagged": "The sermon's central rhetorical claim — 'you better figure out what time it is' — is the exact thing Jesus said is not for us to know. The pastor uses a verse (2 Pet 3:8) given to suppress this kind of reckoning to do this kind of reckoning."
+    },
+    {
+      "id": "f4-3",
+      "axis": 4,
+      "severity": "moderate",
+      "headline": false,
+      "title": "'Ambassadors don't beg' — selective canon-reading on prayer",
+      "topic": "Whether the posture of biblical prayer is begging, lament, or kingly decree",
+      "timestamp_seconds": 3270,
+      "timestamp_display": "00:54:30",
+      "pastor_quote": "Don't ever beg God. Every time you beg, every time you plead, every time you whimper, you show you have no clue or that you have disrespect for what Christ provided on the cross.",
+      "jesus_passages": [
+        {
+          "citation": "Mark 14:35–36 (Gethsemane — Jesus pleading)",
+          "text": "And going a little farther, he fell on the ground and prayed that, if it were possible, the hour might pass from him. And he said, 'Abba, Father, all things are possible for you. Remove this cup from me.'"
+        },
+        {
+          "citation": "Luke 22:44",
+          "text": "And being in agony he prayed more earnestly; and his sweat became like great drops of blood falling down to the ground."
+        },
+        {
+          "citation": "Heb 5:7 (describing Jesus's prayer life)",
+          "text": "In the days of his flesh, Jesus offered up prayers and supplications, with loud cries and tears, to him who was able to save him from death."
+        },
+        {
+          "citation": "Luke 18:1–8 (the persistent widow — Jesus's parable on prayer)",
+          "text": "He told them a parable to the effect that they ought always to pray and not lose heart... 'will not God give justice to his elect, who cry to him day and night?'"
+        },
+        {
+          "citation": "Luke 11:5–13 (the friend at midnight — 'because of his impudence')",
+          "text": "Yet because of his impudence he will rise and give him whatever he needs."
+        }
+      ],
+      "wider_bible_passages": [
+        {
+          "citation": "Ps 13:1–2",
+          "text": "How long, O Lord? Will you forget me forever? How long will you hide your face from me? How long must I take counsel in my soul and have sorrow in my heart all the day?"
+        },
+        {
+          "citation": "Ps 22:1 — quoted by Jesus from the cross (Matt 27:46)",
+          "text": "My God, my God, why have you forsaken me? Why are you so far from saving me, from the words of my groaning?"
+        },
+        {
+          "citation": "Ps 88 (entire — a lament without resolution)",
+          "text": "I am a man who has no strength... You have put me in the depths of the pit, in the regions dark and deep."
+        },
+        {
+          "citation": "Lamentations (entire book)",
+          "text": "[The canonical book is structured grief and pleading without resolution.]"
+        },
+        {
+          "citation": "James 5:13",
+          "text": "Is anyone among you suffering? Let him pray. Is anyone cheerful? Let him sing praise."
+        }
+      ],
+      "analysis": "The sermon's claim that begging God shows disrespect for the cross runs against Jesus's own most agonized prayer (Gethsemane), the Hebrews 5:7 description of his prayer life as 'loud cries and tears,' two of his core teaching parables on prayer (the persistent widow, the midnight friend — both of which valorize importunate begging), and the entire genre of biblical lament (roughly a third of the Psalms, all of Lamentations, much of Job). Jesus's quotation of Ps 22 from the cross is itself a lament-prayer modeled by the King the sermon claims ambassadors should imitate. Cutting off the lament tradition risks pastoral harm: people who cannot pray decree-style at the moments they most need God may conclude they are doing prayer wrong, when in fact they are praying with Jesus.",
+      "why_flagged": "The 'ambassadors don't beg' line erases roughly a third of the Psalter, all of Lamentations, Gethsemane, and two of Jesus's own central parables on prayer. The canonical witness on prayer is far more textured than the kingly-decree posture the sermon prescribes."
+    },
+    {
+      "id": "f4-4",
+      "axis": 4,
+      "severity": "moderate",
+      "headline": false,
+      "title": "'We weren't made to worship, we were made to rule'",
+      "topic": "What is the primary purpose of human existence in the biblical canon?",
+      "timestamp_seconds": 2130,
+      "timestamp_display": "00:35:30",
+      "pastor_quote": "Adam was a king anointed by God. There was no worship in Genesis chapter 1 and chapter 2. As we think of it, we weren't made here. Are you ready for a shocking statement? We weren't made to worship. We were made to rule.",
+      "jesus_passages": [
+        {
+          "citation": "Matt 4:10 — citing Deut 6:13",
+          "text": "You shall worship the Lord your God and him only shall you serve."
+        },
+        {
+          "citation": "Matt 22:37 — citing Deut 6:5 as the greatest commandment",
+          "text": "You shall love the Lord your God with all your heart and with all your soul and with all your mind."
+        },
+        {
+          "citation": "John 4:23–24 (to the Samaritan woman)",
+          "text": "But the hour is coming, and is now here, when the true worshipers will worship the Father in spirit and truth, for the Father is seeking such people to worship him."
+        },
+        {
+          "citation": "Mark 12:30",
+          "text": "And you shall love the Lord your God with all your heart and with all your soul and with all your mind and with all your strength."
+        }
+      ],
+      "wider_bible_passages": [
+        {
+          "citation": "Westminster Shorter Catechism Q1 (the historic Reformed answer)",
+          "text": "Man's chief end is to glorify God, and to enjoy him forever."
+        },
+        {
+          "citation": "Rev 4:10–11",
+          "text": "The twenty-four elders fall down before him who is seated on the throne and worship him who lives forever and ever... 'Worthy are you, our Lord and God, to receive glory and honor and power, for you created all things.'"
+        },
+        {
+          "citation": "Rev 7:9–12",
+          "text": "A great multitude that no one could number... crying out with a loud voice, 'Salvation belongs to our God who sits on the throne, and to the Lamb!'"
+        },
+        {
+          "citation": "Ps 95:6",
+          "text": "Oh come, let us worship and bow down; let us kneel before the Lord, our Maker!"
+        },
+        {
+          "citation": "Rom 12:1",
+          "text": "Present your bodies as a living sacrifice, holy and acceptable to God, which is your spiritual worship."
+        }
+      ],
+      "analysis": "Genesis 1:26–28's dominion mandate is real — but the canonical end-state of humanity (Rev 4–7, the heavenly throne room) is unmistakably a worship scene, not a throne room of co-regents administering portfolios. Jesus's 'first commandment' (Matt 22:37, citing the Shema) is love of God with whole self — the textual root of worship. John 4 names worship as what the Father seeks. The Westminster tradition (chief end: glorify God and enjoy him forever) and the broader catholic Christian tradition are unanimous on this. Inverting that to 'we weren't made to worship, we were made to rule' subordinates love-of-God to dominion — and inverts the order Jesus himself gave when tempted with all the kingdoms of the world (Matt 4:8–10): worship first, refuse the throne.",
+      "why_flagged": "The dominion mandate (Gen 1) and worship are not in opposition in scripture; the sermon's framing presents them as either/or, choosing dominion. Jesus's own answer to the temptation to receive 'all the kingdoms of the world' was an explicit reassertion of worship as primary."
+    },
+    {
+      "id": "f4-5",
+      "axis": 4,
+      "severity": "moderate",
+      "headline": false,
+      "title": "The mocked-prosperity 'wealth transfer' framing vs. Jesus on wealth",
+      "topic": "What is the canonical posture on Christian prosperity and wealth?",
+      "timestamp_seconds": 3450,
+      "timestamp_display": "00:57:30",
+      "pastor_quote": "When you get my latest book, 101 Prosperity Confessions, you're going to learn how to align your mouth with heaven's economy and unlock the blessings of God. For too long, we've been propagandized by a poverty mentality. And it's time for the body of Christ to rise up to receive the wealth transfer.",
+      "jesus_passages": [
+        {
+          "citation": "Matt 6:19–21",
+          "text": "Do not lay up for yourselves treasures on earth, where moth and rust destroy and where thieves break in and steal, but lay up for yourselves treasures in heaven."
+        },
+        {
+          "citation": "Matt 6:24",
+          "text": "No one can serve two masters... You cannot serve God and money."
+        },
+        {
+          "citation": "Luke 6:20–24 (Jesus's beatitudes paired with his woes)",
+          "text": "Blessed are you who are poor, for yours is the kingdom of God... But woe to you who are rich, for you have received your consolation."
+        },
+        {
+          "citation": "Luke 12:15",
+          "text": "Take care, and be on your guard against all covetousness, for one's life does not consist in the abundance of his possessions."
+        },
+        {
+          "citation": "Mark 10:21–25",
+          "text": "'Sell all that you have and give to the poor, and you will have treasure in heaven; and come, follow me.' Disheartened by the saying, he went away sorrowful, for he had great possessions... 'How difficult it will be for those who have wealth to enter the kingdom of God!'"
+        },
+        {
+          "citation": "Isa 58:6–7 — cited by Jesus in Luke 4:18 as defining his mission",
+          "text": "Is not this the fast that I choose: to loose the bonds of wickedness... to share your bread with the hungry and bring the homeless poor into your house?"
+        }
+      ],
+      "wider_bible_passages": [
+        {
+          "citation": "1 Tim 6:9–10",
+          "text": "Those who desire to be rich fall into temptation, into a snare, into many senseless and harmful desires that plunge people into ruin and destruction. For the love of money is a root of all kinds of evils."
+        },
+        {
+          "citation": "James 5:1–5",
+          "text": "Come now, you rich, weep and howl for the miseries that are coming upon you... You have lived on the earth in luxury and in self-indulgence."
+        },
+        {
+          "citation": "Acts 2:44–45",
+          "text": "All who believed were together and had all things in common. And they were selling their possessions and belongings and distributing the proceeds to all, as any had need."
+        },
+        {
+          "citation": "Heb 13:5",
+          "text": "Keep your life free from love of money, and be content with what you have."
+        },
+        {
+          "citation": "Prov 30:8–9",
+          "text": "Give me neither poverty nor riches; feed me with the food that is needful for me, lest I be full and deny you and say, 'Who is the Lord?'"
+        }
+      ],
+      "analysis": "The canonical witness on wealth is overwhelmingly cautionary. Jesus issues a *woe* to the rich (Luke 6:24), tells the rich young ruler to sell everything (Mark 10), warns that you cannot serve God and money (Matt 6:24), and grounds his own mission in Isaiah 58 — economic liberation of the poor, not 'wealth transfer' to the faithful. James pronounces judgment on the luxurious. 1 Timothy says the desire to be rich plunges people into ruin. The early church in Acts 2 redistributes possessions; it does not accumulate them. Proverbs 30 explicitly asks for neither poverty nor riches. A book teaching 'how to align your mouth with heaven's economy and unlock the blessings of God' through 'prosperity confessions' is sourced from a small handful of OT verses (Deut 8:18, Mal 3:10) and an idiosyncratic reading of 3 John 2 — and is silent on the dominant canonical voice. The mid-sermon attack on the *American Gospel* documentary works to inoculate hearers against this canonical witness before it is heard.",
+      "why_flagged": "The sermon ends pitching a prosperity-confession book; the canonical witness on wealth (Jesus, James, Paul, Acts, Proverbs) is overwhelmingly cautionary. The pastor's earlier framing of prosperity-gospel critics as smuggling 'demonic ideology' inoculates hearers against engaging the texts that would moderate the closing pitch."
+    }
+  ],
+  "factual_claims": [
+    {
+      "id": "fc-1",
+      "timestamp_seconds": 0,
+      "timestamp_display": "00:00:00",
+      "claim": "150 U.S. aircraft conducted a 'secret mission' across the Western Hemisphere, captured Venezuelan dictator Maduro, and put him 'in handcuffs and in chains' alongside his wife.",
+      "evidence_cited_by_pastor": "None. The pastor refers vaguely to 'videos' and 'it says' but cites no outlet, official statement, or named source.",
+      "verdict": "needs verification",
+      "analysis": "As of the sermon's publication date (January 10, 2026), public reporting through late 2025 and early 2026 documents a substantial U.S. military build-up in the Caribbean (the USS Gerald R. Ford carrier strike group was reported as deployed; airstrikes on alleged drug-trafficking vessels off Venezuela had been carried out under the Trump administration through fall 2025). Reuters, AP, BBC, and the New York Times had not reported a 150-aircraft cross-hemisphere strike that captured Maduro and his wife as of the sermon's date. The phrase 'I believe... here's my prediction' immediately follows the narration, suggesting the pastor may be conflating reported deployments with hypothetical/imminent operations. Verification would require: (a) primary White House / DoD operational announcement; (b) AP/Reuters/AFP wire confirmation; (c) Venezuelan government statement. Without those, the framing 'today he and his wife are in handcuffs and chains' is delivered as established fact and is not so verifiable from open sources I have access to. Listeners are asked to celebrate, theologize, and draw end-times conclusions from an event whose factual status is unclear.",
+      "sources": []
+    },
+    {
+      "id": "fc-2",
+      "timestamp_seconds": 600,
+      "timestamp_display": "00:10:00",
+      "claim": "The Essenes predicted in their calendar that 'in 32 AD a Melchizedek figure, high priest, the Messiah would come and he would die for our sins,' and the Essene calendar places the current year at 5,950 of human history.",
+      "evidence_cited_by_pastor": "References to 'the Dead Sea Scrolls calendar,' 'the Essenes,' 'Hippolytus,' 'Irenaeus,' and 'the Talmud,' and to a 7-day chart by Clarence Larkin. No primary text or scholarly citation is provided.",
+      "verdict": "misleading",
+      "analysis": "Several distinct claims are bundled here. (1) The Essenes did use a solar 364-day calendar attested in the Dead Sea Scrolls (e.g., 4Q317–330, the Mishmarot texts) — that part is mainstream. (2) The Essenes did expect two messianic figures (the Messiah of Aaron and the Messiah of Israel), and 11QMelchizedek does feature a Melchizedek figure. (3) However, the specific claim that the Essenes predicted a Messiah dying for sins in 32 AD is not supported by the Dead Sea Scrolls scholarly consensus (Vermes, Collins, VanderKam, Charlesworth). The scrolls expect messianic figures but do not pinpoint AD 32 nor describe a substitutionary atonement. (4) The '5,950 / 7-day chart' framework is from Clarence Larkin's *Dispensational Truth* (1918) and Ussher-style biblical chronology, not from the Essenes. Larkin's chart is not Essene material. (5) The notion that Paul, John the Baptist, Hippolytus and Irenaeus all draw on a unified Essene chronology is not supported in the patristic or NT scholarly literature. The framing collapses several distinct sources into a single confident chronology. A careful claim might be 'some Second Temple Jewish texts, including some at Qumran, divided history into thousand-year ages.' The claim as delivered overstates substantially.",
+      "sources": [
+        {
+          "title": "James VanderKam — The Dead Sea Scrolls Today (rev. ed., Eerdmans, 2010)",
+          "url": "https://www.eerdmans.com/9780802864352/the-dead-sea-scrolls-today/"
+        },
+        {
+          "title": "John J. Collins — The Scepter and the Star: Messianism in Light of the Dead Sea Scrolls (2nd ed., Eerdmans 2010)",
+          "url": "https://www.eerdmans.com/9780802832238/the-scepter-and-the-star/"
+        },
+        {
+          "title": "11QMelchizedek (11Q13) — The Dead Sea Scrolls Digital Library (Israel Antiquities Authority)",
+          "url": "https://www.deadseascrolls.org.il/explore-the-archive/manuscript/11Q13-1"
+        }
+      ]
+    },
+    {
+      "id": "fc-3",
+      "timestamp_seconds": 165,
+      "timestamp_display": "00:02:45",
+      "claim": "More than 40 years ago, Iran 'looked like the United States of America. The freedom and the liberty that was going on there was impressive compared to what it is today.'",
+      "evidence_cited_by_pastor": "None. No survey, historical source, or comparison framework is offered.",
+      "verdict": "partially supported / overstated",
+      "analysis": "Pre-1979 Iran under the Pahlavi dynasty did have certain Westernized features — visible women's dress, mixed-gender public life in Tehran, university expansion, and U.S. cultural influence — that contrast sharply with conditions after the Islamic Revolution. To that extent the framing has a kernel of truth. However, 'looked like the United States of America' substantially overstates: (1) The Shah's regime was a monarchy with no genuine electoral democracy; (2) SAVAK, the secret police, was widely documented (Amnesty, Human Rights Watch precursors) for systematic torture and political imprisonment; (3) economic inequality between Tehran's elite and the rural majority was severe; (4) press freedom was restricted, with opposition papers shut down. The 1979 revolution was driven in part by genuine grievances against authoritarian repression. The claim flattens a complicated authoritarian-modernizing regime into 'freedom and liberty' as a rhetorical setup for celebrating regime change — historically tendentious.",
+      "sources": [
+        {
+          "title": "Ervand Abrahamian — A History of Modern Iran (Cambridge UP, 2nd ed. 2018)",
+          "url": "https://www.cambridge.org/core/books/history-of-modern-iran/EE56519D2A4F31FA51F3B27E81F4C5E2"
+        },
+        {
+          "title": "Human Rights Watch — Iran archive (covering pre- and post-revolution)",
+          "url": "https://www.hrw.org/middle-east/n-africa/iran"
+        },
+        {
+          "title": "Amnesty International — Iran Briefing Report 1976 (re: SAVAK and political prisoners)",
+          "url": "https://www.amnesty.org/en/documents/mde13/001/1976/en/"
+        }
+      ]
+    },
+    {
+      "id": "fc-4",
+      "timestamp_seconds": 870,
+      "timestamp_display": "00:14:30",
+      "claim": "It was around 1,948 years from creation that 'Abraham cuts a covenant with God' — and 'do you know what year Israel became a nation? 1948.' The numerical match is presented as evidence the author of the universe is orchestrating events.",
+      "evidence_cited_by_pastor": "None. The chronology is asserted as 'around 1,948' from creation without citation. The numerical coincidence with the 1948 founding of the modern State of Israel is the rhetorical hinge.",
+      "verdict": "misleading",
+      "analysis": "Several issues. (1) Biblical chronology: Ussher's 17th-century chronology places Abraham's birth at ~1996 BC (year ~2008 from creation), and his covenant cutting (Gen 15) at roughly age 75–86, which would be around year ~2083–2094 from creation, not 1,948. Other rabbinic chronologies vary. The 'around 1,948' figure is selected to match the 1948 CE date; it is not the consensus chronological figure. (2) Year-numbering: 'years from creation' (Anno Mundi) and 'years AD' use different reference points; combining them into a single significance pattern is numerological, not chronological. (3) The 1948 founding of the modern State of Israel as direct fulfillment of biblical prophecy is itself a contested theological claim — held strongly by dispensationalists, rejected by most amillennial and postmillennial Christian traditions, and disputed by many Jewish theological perspectives as well. The presentation of a numeric 'match' as obvious evidence of divine orchestration rests on chronological selection that is not rigorous. Verification would require: independent comparison of Ussher, Septuagint, Masoretic, and Jubilees chronologies on Abraham's covenant year.",
+      "sources": [
+        {
+          "title": "James Barr — 'Why the World Was Created in 4004 BC: Archbishop Ussher and Biblical Chronology' (Bulletin of the John Rylands Library, 1985)",
+          "url": "https://www.escholar.manchester.ac.uk/uk-ac-man-scw:1m1828"
+        },
+        {
+          "title": "Eugene Merrill — Kingdom of Priests: A History of Old Testament Israel (2nd ed., Baker Academic, 2008)",
+          "url": "https://bakerpublishinggroup.com/books/kingdom-of-priests/342310"
+        }
+      ]
+    }
+  ],
+  "cn_markers": [
+    {
+      "marker": "A. Conflation of national & Christian identity",
+      "status": "Present",
+      "reference": "See Finding 2.1 — 'win America back to Christ' framing fuses American restoration with kingdom mission."
+    },
+    {
+      "marker": "B. Militaristic / warrior framing",
+      "status": "Moderate",
+      "note": "Bombings celebrated with 'Hallelujah'; 'we are the baddest mama jamas on the planet'; ambassadors with the 'full force and backing of the kingdom' invoked as a model. Crosses from biblical imagery into real-world geopolitical celebration. [00:01:30, 00:02:15]"
+    },
+    {
+      "marker": "C. Political opponents as spiritual enemies",
+      "status": "Present",
+      "reference": "See Finding 2.1 — 'Biden administration' mocked as ineffectual bluster; 'far left' decrying gospel-opening operations; Calvinists framed as 'demonic ideology' purveyors."
+    },
+    {
+      "marker": "D. Dominionist rhetoric",
+      "status": "Present",
+      "note": "'If we're going to win America and the church back to Christ, we have to become representatives' [00:54:00]; 'Jesus is attempting to restore to us divine authority and dominion in the earth' [00:36:30]; ambassador-as-walking-government extends civic dominion to every domain."
+    },
+    {
+      "marker": "E. Civil religion (flag, pledge)",
+      "status": "Low",
+      "note": "No flag/pledge imagery, but 'Let's thank God for our armed forces and all those who serve' delivered immediately after celebrating bombings [00:02:15] is a low-grade civil-religion gesture."
+    },
+    {
+      "marker": "F. Jeremiad / 'Christianity under attack'",
+      "status": "Present",
+      "note": "Pastors 'in pits and in prisons' under prior administrations [00:03:30]; 'we have to win America back' presupposes loss; prosperity-critic films framed as smuggling demonic ideology."
+    },
+    {
+      "marker": "G. Ethno-cultural 'real American' undertones",
+      "status": "Not present",
+      "note": "No detectable ethnic/cultural 'real American' framing. Iran/Venezuela are framed as foreign regimes, not as ethnic categories within the U.S."
+    },
+    {
+      "marker": "H. Strongman / authoritarian affinity",
+      "status": "Present",
+      "note": "The Trump administration's military operations narrated as God-aligned and gospel-opening; the Biden administration mocked as ineffectual ('a lot of bluster, but when push come to shove, you ain't got nothing behind it') [00:54:00]. Power-projection cast as virtue."
+    }
+  ],
+  "other_axis2_rubrics": [
+    {
+      "rubric": "Anti-Muslim framing",
+      "status": "Present — moderate",
+      "note": "Iran characterized via 'radical Islamic binge of terror'; bombing campaigns framed as God 'opening doors' for the gospel. The Iranian church's actual growth has occurred under Islamic Republic conditions and is not engaged."
+    },
+    {
+      "rubric": "Anti-LGBTQ framing",
+      "status": "Present — moderate",
+      "note": "Anti-trans line delivered as kingly decree: 'The king says you're actually a man... you don't patty cake with that' [00:40:30]. See Finding 1.3."
+    },
+    {
+      "rubric": "Misogynistic framing",
+      "status": "Not present in this sermon",
+      "note": "The aside about 'my wife is working downstairs on some miracle in the kitchen' is gendered domestic imagery but does not rise to a finding-level rubric trigger."
+    },
+    {
+      "rubric": "Anti-Jewish framing",
+      "status": "Mixed",
+      "note": "Pharisees and Sadducees described as 'corrupted' [00:10:15] — common evangelical shorthand but slides toward supersessionist tropes. Israel's 1948 founding affirmed as prophetic fulfillment, which is not anti-Jewish but is a contested theological framing."
+    },
+    {
+      "rubric": "Rapture / dispensational framework",
+      "status": "Present — severe",
+      "note": "Entire sermon is dispensationalist: Larkin's 7-day/7,000-year chart cited by name, Israel's 1948 reborn-nation framing, Ezekiel-style nation-decoding (Russia/Iran/Venezuela), explicit date-setting (March 2026 = 'final jubilee'), and a rapture-at-midnight imagination ('if you believed that tonight at midnight the trumpet was going to blast and we were coming out of here'). Replaces Jesus's stated judgment criterion (Matt 25) with eschatological countdown. The doctrine itself (Darby, 1830s) is a 190-year innovation; the '7,000-year chart' (Larkin) is a 1918 innovation. Both are presented as transparent biblical reading."
+    },
+    {
+      "rubric": "Prosperity gospel / health-and-wealth framing",
+      "status": "Present — severe",
+      "note": "'Diplomatic immunity' from sickness, depression, and the 'attacks of the enemy in this life' [00:43:30]; 'wealth transfer' framing in closing book pitch [00:57:30]; pre-emptive inoculation against prosperity-gospel critics by accusing them of believing 'God ordains for children to be raped' [00:19:30]. See Findings 2.3, 4.1, 4.5."
+    }
+  ],
+  "rhetorical_markers": [
+    {
+      "marker": "Tribal identity activation",
+      "status": "Present",
+      "note": "Multiple stacked out-groups: 'far left' decrying military operations, Calvinists as demonic-ideology smugglers, trans people as kingdom-rebels, Iran as radical Islamic terror, Biden administration as bluster. The in-group is the Bible-believing prophetic remnant who 'know what time it is.'",
+      "quote": "Don't buy into the lies of the far left who look at this and decry this... Pastors and ministers of the gospel that have been in pits and in prisons are free today.",
+      "timestamp_display": "00:03:00"
+    },
+    {
+      "marker": "Threat / fear activation",
+      "status": "Present",
+      "note": "Wars and rumors of wars, Iranian regime, scoffers in the last days, demonic ideology in popular Christian films — multiple stacked threats keep the listener's danger-detection register engaged.",
+      "quote": "Jesus said in the last day there will be wars and there will be rumors of wars. The only question is will there be a group of believers who are ready?",
+      "timestamp_display": "00:03:30"
+    },
+    {
+      "marker": "Mortality salience",
+      "status": "Present",
+      "note": "End-times countdown framing, the 'midnight trumpet' rapture imagining, the 6,000-year-lease-expires schema, and the 'I don't know there'll be time 15 minutes from now' invitation all pull mortality and judgment into the foreground.",
+      "quote": "If you believed that tonight at midnight the trumpet was going to blast and we were coming out of here, what would you do about that thing?",
+      "timestamp_display": "00:23:30"
+    },
+    {
+      "marker": "Certainty-under-ambiguity",
+      "status": "Present",
+      "note": "Notoriously contested texts (2 Pet 3, Hosea 6, Genesis 1) are converted into a confident decoded calendar pinpointing March 2026. Resolves the cognitive uncertainty of eschatology with a specific date.",
+      "quote": "And you know when the final jubilee happens? In March of 2026. That's when we step into 51 which initiates the final jubilee.",
+      "timestamp_display": "00:16:30"
+    },
+    {
+      "marker": "Urgency / scarcity cues",
+      "status": "Present",
+      "note": "'You better figure out what time it is'; 'I don't know there'll be time 15 minutes from now'; the 6,000-year-lease imminent expiration; gospel-altar appeal compressed under final-generation framing.",
+      "quote": "You better figure out what time it is, though. I promise you that.",
+      "timestamp_display": "00:16:45"
+    },
+    {
+      "marker": "Vindication / status-restoration",
+      "status": "Present",
+      "note": "The faithful — currently mocked, persecuted, and pushed back by 'the far left' and the Biden administration — will soon be vindicated as ambassadors of the coming kingdom. Soothes status-threat with future triumph; in the present tense, offers diplomatic immunity from current suffering.",
+      "quote": "You have diplomatic immunity from the attacks of the enemy in this life. And you need to stand up bold and proud and declare, 'I have Holy Ghost diplomatic immunity.'",
+      "timestamp_display": "00:43:30"
+    },
+    {
+      "marker": "Grievance activation",
+      "status": "Present",
+      "note": "Stacked grievances: Christianity under cultural assault, prosperity-gospel critics smuggling demonic ideology, Calvinists slandering against the prosperity message, trans-issue advocates demanding belief-conformity, Biden-era weakness on Maduro/Iran.",
+      "quote": "But you're a heretic because you think God wants you to prosper. They believe — make it make sense, please.",
+      "timestamp_display": "00:20:00"
+    },
+    {
+      "marker": "Authority-submission cues",
+      "status": "Present",
+      "note": "'The king says,' 'I am an ambassador,' 'I trust the translators of the King James Bible were a lot smarter than you' — multiple appeals foreclosing independent evaluation. Anyone who reads scripture differently is positioned as below the speaker's authority chain.",
+      "quote": "I trust the translators of the King James Bible were a lot smarter than you. Just parenthetically insert that.",
+      "timestamp_display": "00:21:00"
+    },
+    {
+      "marker": "Parasocial attachment",
+      "status": "Present",
+      "note": "Personal anecdotes (the wife cooking miracles in the kitchen, Mama Parsley's Kathryn Kuhlman story, Lethal Weapon as theological text), affectionate audience asides ('look at your neighbor'), comedic timing — building the listener's bond with the speaker such that disagreeing feels like betraying the relationship.",
+      "quote": "My office is upstairs in our home and oftentimes I'll be working up there and my wife while I'm working up there, my wife is working downstairs on some miracle in the kitchen.",
+      "timestamp_display": "00:49:00"
+    },
+    {
+      "marker": "Heroic / agency identification",
+      "status": "Present",
+      "note": "Listener cast as kingdom ambassador with diplomatic immunity, embodied governmental authority, power to forgive sins ('I am here on Christ's behalf to tell you, be reconciled to God'), and to command depression and demons by international-incident threat. Ordinary praying recoded as kingly decree.",
+      "quote": "Satan, let them go or it will cause an international incident.",
+      "timestamp_display": "00:56:30"
+    }
+  ],
+  "reach": {
+    "view_count": 9072,
+    "like_count": 583,
+    "channel": "Revival Nation",
+    "channel_id": "UCwBY_9qFaz4pDxRuV2J32sA",
+    "channel_follower_count": 560000,
+    "upload_date": "20260110",
+    "source": "yt-dlp"
+  }
+}

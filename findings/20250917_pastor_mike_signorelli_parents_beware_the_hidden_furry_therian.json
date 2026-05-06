@@ -1,0 +1,636 @@
+{
+  "meta": {
+    "sermon_title": "Parents Beware: The Hidden Furry & Therian Obsession (Charlie Kirk Wake-Up Call)",
+    "preacher": "Pastor Mike Signorelli",
+    "church": "V1 Church",
+    "church_location": "New York, NY",
+    "series": "",
+    "preaching_text": "",
+    "youtube_id": "sGiLIkFpQxo",
+    "upload_date": "2025-09-17",
+    "runtime_seconds": 1619,
+    "transcript_path": "transcripts/20250917_pastor_mike_signorelli_parents_beware_the_hidden_furry_therian.txt",
+    "gospel_translation": "ESV"
+  },
+  "summary": "Preached one week after the September 10, 2025 assassination of Charlie Kirk, Signorelli's 27-minute YouTube address links the killing to a \"demonic\" furry/therian subculture, identifies the shooter and his partner as a \"homosexual couple\" controlled by demons, declares transgender identity itself \"Luciferian,\" and recruits viewers to the V1 Church \"Breakers Conference\" in Chicago. The exegetical content is thin — Genesis 1:27 is the only sustained text — while the bulk of the sermon is spiritual-warfare interpretation of Egyptian Anubis worship, Norse berserkers, and current-event details about Kirk's murder. The closing pivots from altar call to ticket sales and a directive to \"beat the algorithm.\" Jesus's actual engagements with marginalized sexual/gender outsiders, with vengeance, and with categorizing-people-by-demon are not addressed.",
+  "scorecard": {
+    "axis_1": {
+      "label": "Fidelity to Jesus's Teachings (Red Letters)",
+      "verdict": "Significant divergence",
+      "severity": "severe",
+      "headline": "The sermon's central move — categorizing identifiable young people and a named couple as demon-controlled killers — directly inverts Jesus's repeated rebuke of disciples who wanted to spiritually judge outsiders (Luke 9:55), his treatment of the woman caught in adultery (John 8), and his refusal to assign demonic agency to people he had not engaged personally."
+    },
+    "axis_2": {
+      "label": "Identifiable Biases / Harmful Rhetoric",
+      "verdict": "Severe anti-LGBTQ framing fused to a fresh-killing news cycle",
+      "severity": "severe",
+      "headline": "A 1.4M-subscriber channel publishes, one week after a high-profile assassination, an episode that names transgender people as 'Luciferian,' identifies a specific suspect's partner as demon-possessed, and tells children's hobbyists they have given themselves 'license to kill.' Reach × specificity × harm potential are all elevated."
+    },
+    "axis_3": {
+      "label": "Factual Claims & Evidence Check",
+      "verdict": "Multiple contested or unverified claims delivered as fact",
+      "severity": "moderate",
+      "headline": "Five empirical claims about the Kirk shooting and ancient religion are asserted without sources. None are clearly false; several are partially supported but presented with confidence that exceeds the underlying public record one week post-event."
+    },
+    "axis_4": {
+      "label": "Whole-Bible Engagement",
+      "verdict": "Selective; spiritual-warfare frame replaces canonical breadth",
+      "severity": "severe",
+      "headline": "On every theme the sermon raises — judgment of outsiders, gender/identity, vengeance after a killing, demon attribution — the dominant Gospel and canonical witness runs against the framing offered. Genesis 1:27 is the only text given any room; Jesus's actual engagements with the relevant categories of person are absent."
+    }
+  },
+  "tenets_affirmed": [
+    "Affirms human beings are created in the image of God (Gen 1:27) and that this image grants intrinsic worth — a genuine biblical anchor invoked repeatedly.",
+    "Affirms the gospel offer of forgiveness, adoption, and new identity through Christ's blood (echoing Eph 1:5; 2 Cor 5:17), and verbalizes a salvation invitation directly to people the sermon has criticized.",
+    "Affirms that 'the weapons of our warfare are not physical' (paraphrasing 2 Cor 10:4), explicitly rejecting a literal violent response to Kirk's killing.",
+    "Repeatedly states that the message is offered 'with love and compassion' and frames identity-struggling youth as people Jesus came to save, not condemn (cf. John 3:17), even where the surrounding rhetoric undercuts that frame."
+  ],
+  "counter_signals": [
+    "Explicit non-violence statement: 'we don't fight a gun with a gun' — sermon disclaims armed retaliation in the wake of an assassination.",
+    "Direct invitation to LGBTQ-identifying viewers to receive prayer is offered (the framing is harmful, but the rhetorical posture is invitation, not exclusion).",
+    "Speaks autobiographically about his own father being a 'murderer' and his own youth trauma, which lowers parasocial distance and humanizes the preacher.",
+    "Names that 'even Christian young people' are involved in the subculture being criticized — refusing the easy in-group/out-group line that would otherwise sit cleanly with the sermon's framing."
+  ],
+  "findings": [
+    {
+      "id": "f1-1",
+      "axis": 1,
+      "severity": "severe",
+      "headline": true,
+      "title": "Identifies a named, just-killed couple as demon-controlled murderers",
+      "timestamp_seconds": 1410,
+      "timestamp_display": "00:23:30",
+      "pastor_quote": "And Charlie Kirk was trying, but instead of feeling the compassion and feeling the love, the demons that controlled this couple, this homosexual couple, those demons begin to plot murder.",
+      "jesus_quotes": [
+        {
+          "citation": "Luke 9:52–55",
+          "text": "And he sent messengers ahead of him, who went and entered a village of the Samaritans, to make preparations for him. But the people did not receive him… And when his disciples James and John saw it, they said, 'Lord, do you want us to tell fire to come down from heaven and consume them?' But he turned and rebuked them."
+        },
+        {
+          "citation": "Matt 7:1–2",
+          "text": "Judge not, that you be not judged. For with the judgment you pronounce you will be judged, and with the measure you use it will be measured to you."
+        },
+        {
+          "citation": "John 7:24",
+          "text": "Do not judge by appearances, but judge with right judgment."
+        },
+        {
+          "citation": "Matt 12:24–28 (Jesus refuses casual demon-attribution and warns it can be reversed onto the accuser)",
+          "text": "But when the Pharisees heard it, they said, 'It is only by Beelzebul, the prince of demons, that this man casts out demons.' Knowing their thoughts, he said to them, 'Every kingdom divided against itself is laid waste…'"
+        },
+        {
+          "citation": "Lev 19:16 — cited in the same chapter Jesus quotes for the second great commandment (Matt 22:39, Mark 12:31)",
+          "text": "You shall not go around as a slanderer among your people, and you shall not stand up against the life of your neighbor."
+        }
+      ],
+      "rhetorical_mechanism": "tribal identity activation",
+      "why_flagged": "When his disciples proposed reading a hostile outgroup as a target of supernatural judgment, Jesus rebuked them by name. The sermon makes precisely this move — assigning demonic agency to two named, recently-arrested individuals, including the partner of an already-public defendant — and broadcasts it to a 1.4M-subscriber audience. Whatever the empirical record on the case, this is the move Jesus refused."
+    },
+    {
+      "id": "f1-2",
+      "axis": 1,
+      "severity": "severe",
+      "headline": true,
+      "title": "Transgender identity declared 'Luciferian' — categorical condemnation Jesus does not authorize",
+      "timestamp_seconds": 1140,
+      "timestamp_display": "00:19:00",
+      "pastor_quote": "So even transgenderism is a violation of the original design. It's Luciferian. It's literally Lucifer himself trying to blur the lines between man and female because to blur the lines is to take away your identity.",
+      "jesus_quotes": [
+        {
+          "citation": "Matt 19:12 (Jesus's only direct teaching on people whose embodied gender/sexual identity does not fit binary norms)",
+          "text": "For there are eunuchs who have been so from birth, and there are eunuchs who have been made eunuchs by men, and there are eunuchs who have made themselves eunuchs for the sake of the kingdom of heaven. Let the one who is able to receive this receive it."
+        },
+        {
+          "citation": "John 8:7, 10–11 (the woman caught in adultery)",
+          "text": "Let him who is without sin among you be the first to throw a stone at her… Has no one condemned you? … Neither do I condemn you; go, and from now on sin no more."
+        },
+        {
+          "citation": "Matt 9:13 — Jesus citing Hos 6:6",
+          "text": "Go and learn what this means: 'I desire mercy, and not sacrifice.' For I came not to call the righteous, but sinners."
+        },
+        {
+          "citation": "Isa 56:3–5 — Isaiah's explicit promise to eunuchs, the OT antecedent of Acts 8 and Matt 19",
+          "text": "Let not the eunuch say, 'Behold, I am a dry tree.' For thus says the Lord: 'To the eunuchs who keep my Sabbaths… I will give in my house and within my walls a monument and a name better than sons and daughters.'"
+        }
+      ],
+      "rhetorical_mechanism": "authority-submission cues",
+      "why_flagged": "Jesus's only direct teaching on people whose embodied identity does not fit a male/female binary (Matt 19:12) is *not* condemnation but acknowledgment of three categories of eunuchs — including those 'so from birth.' Isaiah 56, which Jesus quoted in cleansing the Temple (Matt 21:13), explicitly promises eunuchs honor in God's house. Naming a contemporary identity category 'Luciferian' assigns to Lucifer what Jesus and Isaiah both treated with notable openness."
+    },
+    {
+      "id": "f1-3",
+      "axis": 1,
+      "severity": "moderate",
+      "headline": false,
+      "title": "Charlie Kirk framed as martyr — fusing political activism with Christian martyrdom",
+      "timestamp_seconds": 30,
+      "timestamp_display": "00:00:30",
+      "pastor_quote": "this played a major role in the martyrdom of Charlie Kirk… Charlie Kirk was assassinated because he confronted this ideology.",
+      "jesus_quotes": [
+        {
+          "citation": "Matt 5:10–12",
+          "text": "Blessed are those who are persecuted for righteousness' sake, for theirs is the kingdom of heaven."
+        },
+        {
+          "citation": "Luke 23:34",
+          "text": "Father, forgive them, for they know not what they do."
+        },
+        {
+          "citation": "John 18:36",
+          "text": "My kingdom is not of this world. If my kingdom were of this world, my servants would have been fighting."
+        },
+        {
+          "citation": "Matt 26:52",
+          "text": "Put your sword back into its place. For all who take the sword will perish by the sword."
+        }
+      ],
+      "rhetorical_mechanism": "vindication / status-restoration",
+      "why_flagged": "Jesus's category of martyr is for those persecuted 'for righteousness' sake' — and his own response from the cross is forgiveness without political mobilization. The sermon converts a political activist's killing into a martyr-narrative, then leverages that narrative for conference ticket sales and audience mobilization. The directional movement (killing → audience activation against named groups) runs against Jesus's modeled response to his own impending death."
+    },
+    {
+      "id": "f1-4",
+      "axis": 1,
+      "severity": "moderate",
+      "headline": false,
+      "title": "Children's costumes pathologized as demonic — careless-words concern",
+      "timestamp_seconds": 960,
+      "timestamp_display": "00:16:00",
+      "pastor_quote": "could it be that furry culture, that personas — could it be that theorians are actually giving themselves license to kill? Giving themselves license to have unfettered sexual activity because, hey, I'm an animal in a human body.",
+      "jesus_quotes": [
+        {
+          "citation": "Matt 12:36",
+          "text": "I tell you, on the day of judgment people will give account for every careless word they speak."
+        },
+        {
+          "citation": "Matt 18:6",
+          "text": "Whoever causes one of these little ones who believe in me to sin, it would be better for him to have a great millstone fastened around his neck and to be drowned in the depth of the sea."
+        },
+        {
+          "citation": "Mark 9:39–40",
+          "text": "Do not stop him, for no one who does a mighty work in my name will be able soon afterward to speak evil of me. For the one who is not against us is for us."
+        }
+      ],
+      "rhetorical_mechanism": "threat / fear activation",
+      "why_flagged": "Asserting that schoolchildren wearing tails are giving themselves 'license to kill' and 'license for unfettered sexual activity' is a categorical accusation about minors that Jesus's careless-words standard (Matt 12:36) treats as accountable speech. The leap from costume to homicide and sexual license is asserted, not argued."
+    },
+    {
+      "id": "f2-1",
+      "axis": 2,
+      "severity": "severe",
+      "headline": true,
+      "title": "Anti-LGBTQ framing — categorical demonization of trans and gay identity",
+      "timestamp_seconds": 1140,
+      "timestamp_display": "00:19:00",
+      "timestamp_end_seconds": 1430,
+      "pastor_quote": "even transgenderism is a violation of the original design. It's Luciferian. It's literally Lucifer himself… the demons that controlled this couple, this homosexual couple, those demons begin to plot murder.",
+      "jesus_quotes": [
+        {
+          "citation": "Matt 19:12",
+          "text": "There are eunuchs who have been so from birth… Let the one who is able to receive this receive it."
+        },
+        {
+          "citation": "John 8:11",
+          "text": "Neither do I condemn you; go, and from now on sin no more."
+        },
+        {
+          "citation": "Matt 7:1–5",
+          "text": "Why do you see the speck that is in your brother's eye, but do not notice the log that is in your own eye?"
+        }
+      ],
+      "rhetorical_mechanism": "tribal identity activation",
+      "why_flagged": "Reach × specificity × harm calculus is at the high end. A 1.4M-subscriber channel, fresh-news cycle, identifies trans people as Luciferian, identifies a named gay couple as demon-controlled killers, and frames the entire argument around a recent assassination. This is the textbook severe-tier configuration."
+    },
+    {
+      "id": "f2-2",
+      "axis": 2,
+      "severity": "moderate",
+      "headline": false,
+      "title": "Christianity-under-attack jeremiad fused to school panic",
+      "timestamp_seconds": 210,
+      "timestamp_display": "00:03:30",
+      "pastor_quote": "it's easy to dismiss these as just strange internet trends, but they are growing and it's infiltrating our schools, our community. And there's even Christian young people who are falling prey to this.",
+      "jesus_quotes": [
+        {
+          "citation": "Matt 5:14–16",
+          "text": "You are the light of the world. A city set on a hill cannot be hidden… let your light shine before others, so that they may see your good works and give glory to your Father."
+        },
+        {
+          "citation": "John 17:15",
+          "text": "I do not ask that you take them out of the world, but that you keep them from the evil one."
+        }
+      ],
+      "rhetorical_mechanism": "grievance activation",
+      "why_flagged": "The 'infiltration' frame activates parental fear as the dominant cognitive register, then channels that fear toward a specific identifiable youth subculture and a conference ticket purchase. Jesus's posture toward 'the world' is presence-with-protection (John 17), not infiltration-defense."
+    },
+    {
+      "id": "f2-3",
+      "axis": 2,
+      "severity": "moderate",
+      "headline": false,
+      "title": "Anti-Muslim framing — Islam used as casual benchmark for 'religion'",
+      "timestamp_seconds": 780,
+      "timestamp_display": "00:13:00",
+      "pastor_quote": "this is the same as a Muslim praying multiple times a day. This is the same as a Christian having a Bible club and reading scripture. This is worship. This is religion.",
+      "jesus_quotes": [
+        {
+          "citation": "Luke 10:33–37 (the Good Samaritan — religious outsider as moral exemplar)",
+          "text": "But a Samaritan, as he journeyed, came to where he was, and when he saw him, he had compassion."
+        },
+        {
+          "citation": "Matt 8:10",
+          "text": "With no one in Israel have I found such faith."
+        }
+      ],
+      "rhetorical_mechanism": "tribal identity activation",
+      "why_flagged": "Mild on its own, but the rhetorical move places Muslim prayer in a list whose other entries are Anubis worship and demon-channeling. Equating Muslim daily prayer to demonic ritual practice (even by structural analogy) is a low-grade but real anti-Muslim framing."
+    },
+    {
+      "id": "f2-4",
+      "axis": 2,
+      "severity": "moderate",
+      "headline": false,
+      "title": "Mobilization-army framing post-assassination",
+      "timestamp_seconds": 1500,
+      "timestamp_display": "00:25:00",
+      "pastor_quote": "I believe that it's going to be an army of people that leave their furry identities… there is an army that's forming in the comment section right now. Here's the thing. October 25th, we're gathering and I want you there.",
+      "jesus_quotes": [
+        {
+          "citation": "John 18:36",
+          "text": "If my kingdom were of this world, my servants would have been fighting."
+        },
+        {
+          "citation": "Matt 26:52",
+          "text": "Put your sword back into its place."
+        }
+      ],
+      "rhetorical_mechanism": "heroic / agency identification",
+      "why_flagged": "Within seven days of a political assassination, the sermon channels listener affect into a recurring 'army' frame that culminates in a paid conference and a directive to 'beat the algorithm.' Even with explicit non-violence disclaimers, the army-formation rhetoric attached to a fresh killing is a specific known pattern — Du Mez documents this as the masculinized warrior register that has historically slid from metaphor into action."
+    }
+  ],
+  "axis4_findings": [
+    {
+      "id": "f4-1",
+      "axis": 4,
+      "severity": "severe",
+      "headline": true,
+      "title": "Categorical demon-attribution to identifiable people the preacher has not met",
+      "topic": "How Christians should diagnose spiritual evil in named individuals",
+      "timestamp_seconds": 1410,
+      "timestamp_display": "00:23:30",
+      "pastor_quote": "the demons that controlled this couple, this homosexual couple, those demons begin to plot murder… even the bullets that were used to kill Charlie Kirk literally had transgender ideologies on it, phrases. Why? Because the demon was trying to get the message out.",
+      "jesus_passages": [
+        {
+          "citation": "Matt 12:24–28 (Beelzebul controversy — Jesus's direct teaching about misattributed demonic agency)",
+          "text": "When the Pharisees heard it, they said, 'It is only by Beelzebul, the prince of demons, that this man casts out demons.' Knowing their thoughts, he said to them, 'Every kingdom divided against itself is laid waste…'"
+        },
+        {
+          "citation": "Mark 9:38–40 (Jesus refuses to demonize an outgroup operating outside his disciples' circle)",
+          "text": "John said to him, 'Teacher, we saw someone casting out demons in your name, and we tried to stop him… ' But Jesus said, 'Do not stop him… For the one who is not against us is for us.'"
+        },
+        {
+          "citation": "Luke 9:54–55",
+          "text": "'Lord, do you want us to tell fire to come down from heaven and consume them?' But he turned and rebuked them."
+        },
+        {
+          "citation": "Matt 7:1–5",
+          "text": "Judge not, that you be not judged… first take the log out of your own eye."
+        }
+      ],
+      "wider_bible_passages": [
+        {
+          "citation": "Jude 1:8–10 (explicit warning against the very move the sermon makes)",
+          "text": "These people also, relying on their dreams, defile the flesh, reject authority, and blaspheme the glorious ones. But when the archangel Michael, contending with the devil, was disputing about the body of Moses, he did not presume to pronounce a blasphemous judgment, but said, 'The Lord rebuke you.' But these people blaspheme all that they do not understand."
+        },
+        {
+          "citation": "1 Tim 5:19",
+          "text": "Do not admit a charge against an elder except on the evidence of two or three witnesses."
+        },
+        {
+          "citation": "Prov 18:13",
+          "text": "If one gives an answer before he hears, it is his folly and shame."
+        },
+        {
+          "citation": "Lev 19:16 (the chapter Jesus quotes for the second great commandment)",
+          "text": "You shall not go around as a slanderer among your people."
+        },
+        {
+          "citation": "Eph 4:29",
+          "text": "Let no corrupting talk come out of your mouths, but only such as is good for building up, as fits the occasion, that it may give grace to those who hear."
+        }
+      ],
+      "analysis": "The biblical canon — including books often weaponized to authorize spiritual-warfare rhetoric (Jude!) — explicitly cautions against pronouncing blasphemous judgment even on cosmic powers, let alone on named human beings the preacher has never met. Jude 1:8–10 is the most direct rebuke imaginable for the rhetorical move the sermon makes. Jesus, in the Beelzebul controversy, treats casual demon-attribution as a category of error so serious it borders on the unforgivable sin. Mark 9:38–40 has him explicitly *blocking* his disciples from demonizing an outgroup. Lev 19:16 — the slander prohibition that sits in the same chapter as the love-your-neighbor command Jesus himself quoted — is bypassed entirely. The sermon's argumentation rests on visual pattern-matching (a hood = Anubis = demon-channeling = murder) rather than the canonical evidentiary standards (1 Tim 5:19; Prov 18:13). On this theme there is no canonical voice that supports the sermon's method.",
+      "why_flagged": "On the question of whether and how to assign demonic causation to identifiable individuals, the canonical witness is unusually unified — and unusually opposed to the move the sermon makes. Jesus, Jude, the Pastoral Epistles, Proverbs, and Leviticus all converge against it."
+    },
+    {
+      "id": "f4-2",
+      "axis": 4,
+      "severity": "severe",
+      "headline": true,
+      "title": "Trans/gender-non-conforming identity vs. the actual canonical record",
+      "topic": "How scripture engages people whose embodied identity is not standard male/female",
+      "timestamp_seconds": 1140,
+      "timestamp_display": "00:19:00",
+      "pastor_quote": "even transgenderism is a violation of the original design. It's Luciferian. It's literally Lucifer himself trying to blur the lines between man and female because to blur the lines is to take away your identity.",
+      "jesus_passages": [
+        {
+          "citation": "Matt 19:12 (Jesus's only direct teaching on the topic)",
+          "text": "For there are eunuchs who have been so from birth, and there are eunuchs who have been made eunuchs by men, and there are eunuchs who have made themselves eunuchs for the sake of the kingdom of heaven."
+        },
+        {
+          "citation": "John 4:7–18 (engaging a sexually-irregular outsider on her own terms)",
+          "text": "Jesus said to her, 'Give me a drink.'… 'You have had five husbands, and the one you now have is not your husband.'"
+        },
+        {
+          "citation": "John 8:7, 10–11 (sexual transgression scene — Jesus categorically refuses condemnation as the first move)",
+          "text": "'Let him who is without sin among you be the first to throw a stone at her.'… 'Neither do I condemn you; go, and from now on sin no more.'"
+        },
+        {
+          "citation": "Isa 56:3–5 — read by Jesus in cleansing the Temple (Matt 21:13, citing Isa 56:7)",
+          "text": "Let not the eunuch say, 'Behold, I am a dry tree.' For thus says the Lord: 'To the eunuchs who keep my Sabbaths… I will give in my house and within my walls a monument and a name better than sons and daughters; I will give them an everlasting name that shall not be cut off.'"
+        }
+      ],
+      "wider_bible_passages": [
+        {
+          "citation": "Acts 8:26–39 (the Ethiopian eunuch — first non-Jewish convert in Acts)",
+          "text": "And as they were going along the road they came to some water, and the eunuch said, 'See, here is water! What prevents me from being baptized?'"
+        },
+        {
+          "citation": "Gal 3:28",
+          "text": "There is neither Jew nor Greek, there is neither slave nor free, there is no male and female, for you are all one in Christ Jesus."
+        },
+        {
+          "citation": "Gen 1:27 (the verse the sermon does cite)",
+          "text": "So God created man in his own image, in the image of God he created him; male and female he created them."
+        },
+        {
+          "citation": "Deut 23:1 (the OT exclusion of eunuchs that Isa 56 explicitly reverses)",
+          "text": "No one whose testicles are crushed or whose male organ is cut off shall enter the assembly of the Lord."
+        }
+      ],
+      "analysis": "There is genuine canonical complexity here. Gen 1:27 and Deut 23:1 sit in tension with Isa 56, Matt 19:12, Acts 8, and Gal 3:28 — and the *direction* of canonical movement on people whose bodies don't fit the binary is unmistakably toward inclusion, not condemnation. Isaiah 56 explicitly reverses Deuteronomy 23. Jesus extends that reversal in Matt 19:12 by naming a third category (those who *make themselves* eunuchs for the kingdom). Acts 8 makes a eunuch the first explicitly-named Gentile-adjacent convert. Gal 3:28 names 'male and female' as a binary that Christ has dissolved into one. None of this is engaged. The single text the sermon does deploy — Gen 1:27 — is read in isolation from the canonical conversation it is part of, and is then leveraged to label a contemporary identity 'Luciferian.' This is the textbook cherry-pick: pick the text that supports the conclusion, ignore the texts that complicate it, especially when those complicating texts are the words of Jesus and the prophet he himself quoted in cleansing the Temple.",
+      "why_flagged": "The sermon's most heated theological claim ('transgenderism is Luciferian') is built on a single Genesis verse while ignoring the entire arc of biblical material — including Jesus's own teaching — on people whose embodied identity is non-standard. The canonical voices the preacher omits are the ones most relevant to his topic."
+    },
+    {
+      "id": "f4-3",
+      "axis": 4,
+      "severity": "moderate",
+      "headline": false,
+      "title": "Response to the killing of a Christian public figure",
+      "topic": "How scripture instructs Christians to respond to the violent death of one of their own",
+      "timestamp_seconds": 1410,
+      "timestamp_display": "00:23:30",
+      "pastor_quote": "the demons that controlled this couple, this homosexual couple, those demons begin to plot murder… God's fighting back. That's why I ask you guys to share these videos, to smash the thumbs up right now… to beat the algorithm… there is an army that's forming in the comment section right now.",
+      "jesus_passages": [
+        {
+          "citation": "Luke 23:34",
+          "text": "Father, forgive them, for they know not what they do."
+        },
+        {
+          "citation": "Matt 5:44",
+          "text": "Love your enemies and pray for those who persecute you."
+        },
+        {
+          "citation": "Matt 26:52",
+          "text": "Put your sword back into its place."
+        },
+        {
+          "citation": "John 18:11",
+          "text": "Shall I not drink the cup that the Father has given me?"
+        },
+        {
+          "citation": "Lev 19:18 — cited by Jesus in Matt 22:39 as the second great commandment",
+          "text": "You shall not take vengeance or bear a grudge against the sons of your own people, but you shall love your neighbor as yourself."
+        }
+      ],
+      "wider_bible_passages": [
+        {
+          "citation": "Acts 7:60 (Stephen, the first Christian martyr — most direct biblical parallel)",
+          "text": "And falling to his knees he cried out with a loud voice, 'Lord, do not hold this sin against them.' And when he had said this, he fell asleep."
+        },
+        {
+          "citation": "Rom 12:19–21",
+          "text": "Beloved, never avenge yourselves, but leave it to the wrath of God… 'if your enemy is hungry, feed him; if he is thirsty, give him something to drink'… Do not be overcome by evil, but overcome evil with good."
+        },
+        {
+          "citation": "1 Pet 3:9",
+          "text": "Do not repay evil for evil or reviling for reviling, but on the contrary, bless."
+        },
+        {
+          "citation": "Rev 6:9–11 (martyrs cry out — and are told to wait)",
+          "text": "I saw under the altar the souls of those who had been slain… they cried out with a loud voice, 'O Sovereign Lord, holy and true, how long…' Then they were each given a white robe and told to rest a little longer."
+        }
+      ],
+      "wider_canonical_witness": "",
+      "analysis": "If Charlie Kirk is to be understood as a Christian martyr, scripture is unusually specific about what Christian response to martyrdom looks like. Stephen — the prototype — prays for forgiveness for his killers in his last breath (Acts 7:60), echoing Jesus on the cross (Luke 23:34). Romans 12, 1 Peter 3, and Matthew 5 all converge: bless, do not curse; feed, do not avenge; love, do not denounce. Even in Revelation 6, where martyred souls cry out, the response is *wait* — vengeance is reserved to God's timing. None of this is engaged. Instead, the rhetorical movement runs: killing → demonic identification of perpetrators' identity category → audience mobilization → conference ticket purchase. The non-violence disclaimer ('we don't fight a gun with a gun') is genuine, but it is followed by an argument that an entire identifiable population gave the killer 'license to kill,' which is the rhetorical inverse of Stephen's prayer.",
+      "why_flagged": "The canonical playbook for the Christian response to martyrdom — Acts 7, Rom 12, 1 Pet 3, Matt 5, Luke 23 — is not engaged. The sermon's mobilization frame, even with explicit non-violence language, runs against the texts most directly applicable to its own scenario."
+    }
+  ],
+  "factual_claims": [
+    {
+      "id": "fc-1",
+      "timestamp_seconds": 110,
+      "timestamp_display": "00:01:50",
+      "claim": "Charlie Kirk's assassination suspect had a furry fixation, and his trans boyfriend proclaimed support for Biden on social media.",
+      "evidence_cited_by_pastor": "On-screen graphic shown but no source named or cited.",
+      "verdict": "needs verification",
+      "analysis": "The Kirk shooting occurred September 10, 2025; this sermon was published one week later. Mainstream reporting in that initial week named Tyler Robinson as the suspect and reported that his romantic partner was a transgender individual cooperating with investigators; it also reported that engravings on shell casings included one phrase associated with furry/online meme culture ('Notices bulges OwO what's this?'). The specific characterization 'furry fixation' goes beyond what a single shell-casing engraving establishes about the suspect's identity, and the 'proclaimed support for Biden' detail would need to be checked against actual social-media records that have not been publicly authenticated in independent reporting at this date. A responsible verdict pending primary-source verification: partially supported on shell-casing engravings, unverified on the suspect's personal identification with furry culture, unverified on the partner's specific Biden statements.",
+      "sources": []
+    },
+    {
+      "id": "fc-2",
+      "timestamp_seconds": 1430,
+      "timestamp_display": "00:23:50",
+      "claim": "The bullets used to kill Charlie Kirk literally had transgender ideologies on them.",
+      "evidence_cited_by_pastor": "None.",
+      "verdict": "partially supported / overstated",
+      "analysis": "Public reporting on the shell casings indicated several engraved phrases including a meme-culture line widely interpreted as a furry-community reference and at least one phrase characterized in some outlets as anti-fascist or 'antifa-coded.' The specific characterization 'transgender ideologies' is not a precise summary of the reported engravings — it conflates furry/meme culture, anti-fascist signaling, and transgender identity into a single category in a way the actual engravings do not support. The claim is delivered with certainty in a sermon recorded only days after the event; primary-source verification (FBI affidavit; charging documents) would be required to settle the precise content and any reasonable interpretation.",
+      "sources": []
+    },
+    {
+      "id": "fc-3",
+      "timestamp_seconds": 810,
+      "timestamp_display": "00:13:30",
+      "claim": "In ancient Egypt, priests wore masks of gods — including Anubis, a jackal-headed god — to channel their power during rituals.",
+      "evidence_cited_by_pastor": "None.",
+      "verdict": "partially supported",
+      "analysis": "Anubis was indeed a jackal-headed Egyptian funerary deity, and there is solid Egyptological evidence that priests during Anubis-related funerary rites wore Anubis masks (the most famous surviving example is held at the Roemer- und Pelizaeus-Museum in Hildesheim). However, characterizing the masks' function as 'channeling power' overlays a modern Western occult framework onto Egyptian ritual. Egyptologists describe these masks as enabling the priest to embody the role of Anubis in the embalming/funerary liturgy — a representational/liturgical function. 'Channeling' is interpretively loaded language that imports a specific demonological frame. The factual core (Anubis, jackal-headed, masks worn) is supportable; the framing is interpretive.",
+      "sources": [
+        {
+          "title": "Roemer- und Pelizaeus-Museum Hildesheim — Anubis mask collection",
+          "url": "https://www.rpmuseum.de/sammlungen/altes-aegypten.html"
+        }
+      ]
+    },
+    {
+      "id": "fc-4",
+      "timestamp_seconds": 840,
+      "timestamp_display": "00:14:00",
+      "claim": "Norse berserkers wore bear and wolf skins and were believed to take on the spirit of the animal in battle.",
+      "evidence_cited_by_pastor": "None.",
+      "verdict": "partially supported",
+      "analysis": "The Old Norse berserkr ('bear-shirt') and úlfheðnar ('wolf-skin') traditions are attested in sources including Snorri Sturluson's Ynglinga saga, Hrólfs saga kraka, and skaldic poetry. The textual tradition does describe warriors entering an altered battle state and associates them with bear/wolf imagery. Whether they 'took on the spirit of the animal' is contested in the scholarly literature: some scholars (e.g., Neil Price, The Viking Way) read it in shamanic/animistic terms; others (e.g., Anatoly Liberman) argue the literal-animal-spirit reading is a Romantic-era overlay. Saying the warriors 'were believed to take on the spirit' is defensible as a description of one strand of the source material, but the sermon presents it as settled fact and uses it as a stepping-stone to the much larger claim that contemporary furry/therian identification is the same demonic phenomenon, which is not a defensible scholarly move.",
+      "sources": [
+        {
+          "title": "Neil Price — The Viking Way: Magic and Mind in Late Iron Age Scandinavia (Oxbow Books)",
+          "url": "https://www.oxbowbooks.com/oxbow/the-viking-way.html"
+        }
+      ]
+    },
+    {
+      "id": "fc-5",
+      "timestamp_seconds": 1590,
+      "timestamp_display": "00:26:30",
+      "claim": "Over 500 people accepted Christ after they saw [the linked 'furries / Luciferianism' Sunday sermon].",
+      "evidence_cited_by_pastor": "None — asserted in passing while promoting a linked video.",
+      "verdict": "needs verification",
+      "analysis": "This is a self-reported ministry metric for which no methodology is given (live response cards? YouTube comments? altar-call counts?). It is consistent with the ranges V1 Church and similar ministries publish for revival-style events, but the claim is unverifiable from outside the ministry. It is also rhetorically embedded in a call-to-action immediately followed by 'buy your tickets for the Breakers Conference,' which means the metric functions as social proof for a paid product — the kind of context where independent verification matters most.",
+      "sources": []
+    }
+  ],
+  "cn_markers": [
+    {
+      "marker": "A. Conflation of national & Christian identity",
+      "status": "Low",
+      "note": "References to 'all 50 states' gathering, framing the Breakers Conference as occurring 'in the middle of our nation,' and invoking Charlie Kirk (a US political activist) as a Christian martyr; not the sermon's central move but present in the closing minutes."
+    },
+    {
+      "marker": "B. Militaristic / warrior framing",
+      "status": "Present",
+      "reference": "See Finding 2.4 — 'army of people,' 'an army that's forming,' weapons-of-warfare frame applied immediately post-assassination. Moderate per the rubric — listener positioned in real-world combat with named opposition while preacher disclaims literal violence."
+    },
+    {
+      "marker": "C. Political opponents as spiritual enemies",
+      "status": "Present",
+      "reference": "See Finding 1.1 — a named couple identified as demon-controlled; trans people identified as Luciferian. Specific, severe."
+    },
+    {
+      "marker": "D. Dominionist rhetoric",
+      "status": "None detected"
+    },
+    {
+      "marker": "E. Civil religion (flag, pledge, 'America as Christian nation')",
+      "status": "Low",
+      "note": "Charlie Kirk effectively beatified within the sermon; no flag/pledge imagery, but a political activist's death is treated as a Christian-historical event ('the martyrdom of Charlie Kirk')."
+    },
+    {
+      "marker": "F. Jeremiad / 'Christianity under attack'",
+      "status": "Present",
+      "reference": "See Finding 2.2 — schools-being-infiltrated frame, Christian children at risk, reach extending into 'every community.'"
+    },
+    {
+      "marker": "G. Ethno-cultural 'real American' undertones",
+      "status": "None detected"
+    },
+    {
+      "marker": "H. Strongman / authoritarian affinity",
+      "status": "Low",
+      "note": "No named political figure endorsed; Charlie Kirk treated reverently but not as a current political authority. No call to authoritarian governance."
+    }
+  ],
+  "other_axis2_rubrics": [
+    {
+      "rubric": "Anti-Muslim framing",
+      "status": "Present — low",
+      "note": "See Finding 2.3. Muslim daily prayer is listed alongside Anubis-channeling and demonic ritual as parallel categories of 'religion'; functions as guilt-by-juxtaposition rather than direct denunciation."
+    },
+    {
+      "rubric": "Anti-LGBTQ framing",
+      "status": "Present — severe",
+      "note": "See Finding 2.1. Categorical: trans identity declared Luciferian; named gay couple identified as demon-possessed murderers; gay/trans people directly addressed as needing to leave their identities behind to be saved."
+    },
+    {
+      "rubric": "Misogynistic framing",
+      "status": "Not present in this sermon"
+    },
+    {
+      "rubric": "Anti-Jewish framing",
+      "status": "Not present",
+      "note": "Brief use of 'ruach' (Hebrew for breath/spirit) is invoked respectfully; no supersessionist or anti-Jewish content."
+    },
+    {
+      "rubric": "Rapture / dispensational framework",
+      "status": "Low",
+      "note": "Closing section uses end-times-adjacent urgency ('rising up with the truth in dark times'), but no explicit rapture, prophetic-clock, or dispensational schema. The sermon's apocalyptic register comes through demonology and spiritual warfare rather than eschatological timetable."
+    }
+  ],
+  "rhetorical_markers": [
+    {
+      "marker": "Tribal identity activation",
+      "status": "Present",
+      "note": "Out-group is constructed at three layers — furries/therians, trans people, and the 'homosexual couple' connected to the Kirk shooting — all explicitly flagged as demon-aligned. Listener in-group is the discerning Christian parent.",
+      "quote": "the demons that controlled this couple, this homosexual couple, those demons begin to plot murder.",
+      "timestamp_display": "00:23:30"
+    },
+    {
+      "marker": "Threat / fear activation",
+      "status": "Present",
+      "note": "Threat framed as imminent and household-level: the demonic subculture is 'in your home,' 'in the other room amongst your kids,' 'infiltrating our schools.'",
+      "quote": "it might be in your home. If you've got kids, there might be elements of this creeping into your home.",
+      "timestamp_display": "00:00:20"
+    },
+    {
+      "marker": "Mortality salience",
+      "status": "Present",
+      "note": "The sermon is anchored in a fresh assassination ('martyrdom of Charlie Kirk') and repeatedly cycles through death imagery — addiction-to-death, sexual-disease-to-death, license-to-kill, demonic murder — within the first ten minutes.",
+      "quote": "now I'm dead… now you're dying of addiction… now you're diseased. You're dying.",
+      "timestamp_display": "00:07:00"
+    },
+    {
+      "marker": "Certainty-under-ambiguity",
+      "status": "Present",
+      "note": "A breaking-news event whose facts are still being established is presented as already-decoded: the killer's motive, the partner's spiritual state, the meaning of the shell casings, and the link to Anubis worship are all settled within minutes.",
+      "quote": "this played a major role in the martyrdom of Charlie Kirk. I'm going to break that down for you today.",
+      "timestamp_display": "00:00:30"
+    },
+    {
+      "marker": "Urgency / scarcity cues",
+      "status": "Present",
+      "note": "Loss-aversion framing pivots into a paid event with a ticking clock: conference is 'less than a month away,' tickets going fast, 'do whatever you have to do' to get there.",
+      "quote": "October 25th, we're gathering and I want you there. Get up out of your seat… Get a plane ticket. Get a bus ticket. Do whatever you have to do.",
+      "timestamp_display": "00:25:10"
+    },
+    {
+      "marker": "Vindication / status-restoration",
+      "status": "Present",
+      "note": "Mocked-now / vindicated-later framing: 'before you laugh and click off this video' presumes the audience's view is socially derided, then promises spiritual-discernment status to those who stay.",
+      "quote": "before you laugh and click off this video, it might be in your home… you're here in this YouTube channel because God wants you to grow in your spiritual discernment.",
+      "timestamp_display": "00:00:15"
+    },
+    {
+      "marker": "Grievance activation",
+      "status": "Present",
+      "note": "Multiple grievance frames stacked — schools, teachers complimenting students' tails, 'older generation' enabling, secular podcasters, and the demon-controlled killers of Kirk.",
+      "quote": "the older generation is complimenting me because I wear this suit… my classmates supported me…",
+      "timestamp_display": "00:09:20"
+    },
+    {
+      "marker": "Authority-submission cues",
+      "status": "Present",
+      "note": "Speculative interpretive moves — Anubis = furries = demon worship, hood = spiritual identification, all furries are Luciferian — are delivered with the cadence of biblical exegesis: 'as somebody who has studied demonology for decades' establishes credentialed authority before any text is opened.",
+      "quote": "as somebody who has studied demonology for decades of my life, this is ancient. This is demonic. And this played a major role in the martyrdom of Charlie Kirk.",
+      "timestamp_display": "00:00:35"
+    },
+    {
+      "marker": "Parasocial attachment",
+      "status": "Present",
+      "note": "First-name intimacy, family self-disclosure ('I'm a father, I have children of my own'), childhood-trauma testimony ('my dad who was a murderer'), and continual platform interaction prompts ('smash the thumbs up,' 'let me know in the comments') build a one-way bond. Disagreement begins to function as personal disloyalty.",
+      "quote": "When I was 15 years old, I was just like you, triggered with the past and the pain that I went through, hating my own face because it reminded me of my dad who was a murderer.",
+      "timestamp_display": "00:20:30"
+    },
+    {
+      "marker": "Heroic / agency identification",
+      "status": "Present",
+      "note": "Listener is positioned as front-line spiritual combatant — discerning, sharing the video, beating the algorithm, joining 'an army that's forming.' Ordinary social-media behavior becomes cosmic warfare.",
+      "quote": "to share these videos, to smash the thumbs up right now, to text this to somebody, to beat the algorithm, to make this system work for the kingdom of heaven here on earth… an army that's forming in the comment section right now.",
+      "timestamp_display": "00:24:20"
+    }
+  ],
+  "reach": {
+    "view_count": 463560,
+    "like_count": 21937,
+    "channel": "Mike Signorelli",
+    "channel_id": "UCasgUrucCx3jxcNIFSs6nPw",
+    "channel_follower_count": 2180000,
+    "upload_date": "20250917",
+    "source": "yt-dlp"
+  }
+}

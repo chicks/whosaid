@@ -1,0 +1,448 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Sermon Audit — Bishop Alan DiDio — Why the Church Cannot Be in the Tribulation</title>
+<style>
+* { box-sizing: border-box; }
+:root {
+  --c-bg: #fafaf7;
+  --c-fg: #1d1d1b;
+  --c-muted: #6b6b67;
+  --c-border: #d8d6cf;
+  --c-card: #ffffff;
+  --c-severe: #9b1c1c;
+  --c-severe-bg: #fde8e8;
+  --c-moderate: #c2410c;
+  --c-moderate-bg: #ffedd5;
+  --c-low: #a16207;
+  --c-low-bg: #fef3c7;
+  --c-affirm: #166534;
+  --c-affirm-bg: #dcfce7;
+  --c-pastor: #7c2d12;
+  --c-jesus: #1e3a8a;
+  --c-link: #1e40af;
+}
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
+  background: var(--c-bg);
+  color: var(--c-fg);
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 2rem 1.5rem 5rem;
+  line-height: 1.55;
+}
+h1 { font-size: 2rem; margin: 0 0 .25rem; letter-spacing: -0.01em; }
+h2 { font-size: 1.4rem; margin: 2.5rem 0 .75rem; border-bottom: 1px solid var(--c-border); padding-bottom: .3rem; }
+h3 { font-size: 1.1rem; margin: 0 0 .25rem; }
+h4 { font-size: .85rem; text-transform: uppercase; letter-spacing: 0.08em; margin: .25rem 0; color: var(--c-muted); }
+a { color: var(--c-link); text-decoration: none; border-bottom: 1px solid rgba(30,64,175,0.3); }
+a:hover { border-bottom-color: var(--c-link); }
+blockquote { margin: 0; padding: 0; font-style: normal; }
+code { font-family: 'SF Mono', Menlo, monospace; font-size: 0.85em; background: #f0efe9; padding: 1px 4px; border-radius: 3px; }
+
+/* Header */
+.meta-line { color: var(--c-muted); font-size: 0.95rem; margin: 0 0 1rem; }
+.meta-line span + span::before { content: "·"; margin: 0 .5rem; }
+.yt-embed { aspect-ratio: 16 / 9; width: 100%; margin: 1rem 0 0; border: 1px solid var(--c-border); }
+.yt-embed iframe { width: 100%; height: 100%; border: 0; }
+
+/* Scorecard */
+.scorecard { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 1rem; }
+.axis-card {
+  background: var(--c-card);
+  border: 1px solid var(--c-border);
+  border-radius: 6px;
+  padding: 1rem;
+}
+.axis-card .axis-label { font-size: .8rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--c-muted); }
+.axis-card .axis-verdict { font-size: 1.3rem; font-weight: 600; margin: .3rem 0 .5rem; }
+.axis-card p { margin: 0; font-size: 0.95rem; }
+
+/* Severity badges */
+.sev-badge {
+  display: inline-block;
+  font-size: 0.7rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  padding: 2px 8px;
+  border-radius: 3px;
+  color: white;
+}
+.sev-severe { background: var(--c-severe); }
+.sev-moderate { background: var(--c-moderate); }
+.sev-low { background: var(--c-low); }
+
+.axis-card.axis-severity-severe { border-left: 4px solid var(--c-severe); }
+.axis-card.axis-severity-moderate { border-left: 4px solid var(--c-moderate); }
+.axis-card.axis-severity-low { border-left: 4px solid var(--c-low); }
+
+/* Timeline */
+.timeline-wrap { margin: 1rem 0 .25rem; }
+.timeline-track {
+  position: relative;
+  height: 36px;
+  background: #ebe9e1;
+  border-radius: 18px;
+  border: 1px solid var(--c-border);
+}
+.timeline-marker {
+  position: absolute;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  border: 2px solid white;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.2);
+  text-decoration: none;
+  border-bottom: 2px solid white;
+}
+.timeline-marker:hover { transform: translate(-50%, -50%) scale(1.3); z-index: 2; }
+.timeline-marker-severe { background: var(--c-severe); }
+.timeline-marker-moderate { background: var(--c-moderate); }
+.timeline-marker-low { background: var(--c-low); }
+.timeline-labels { display: flex; justify-content: space-between; color: var(--c-muted); font-size: .8rem; margin-top: .25rem; font-variant-numeric: tabular-nums; }
+
+/* Findings */
+.finding {
+  background: var(--c-card);
+  border: 1px solid var(--c-border);
+  border-radius: 6px;
+  padding: 1rem 1.25rem;
+  margin-bottom: 1rem;
+  border-left-width: 4px;
+  border-left-style: solid;
+}
+.finding.sev-border-severe { border-left-color: var(--c-severe); }
+.finding.sev-border-moderate { border-left-color: var(--c-moderate); }
+.finding.sev-border-low { border-left-color: var(--c-low); }
+.finding.headline { box-shadow: 0 2px 10px rgba(155,28,28,0.15); }
+
+.finding-header { display: flex; flex-wrap: wrap; align-items: center; gap: .5rem; margin-bottom: .75rem; }
+.finding-header h3 { flex: 1 1 100%; margin: .25rem 0 0; }
+.finding-header .axis-tag {
+  font-size: 0.7rem;
+  font-weight: 600;
+  color: var(--c-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  background: #ebe9e1;
+  padding: 2px 8px;
+  border-radius: 3px;
+}
+.finding-header .timestamp-link {
+  font-size: 0.85rem;
+  font-family: 'SF Mono', Menlo, monospace;
+}
+.finding-header .headline-tag {
+  font-size: 0.7rem;
+  font-weight: 600;
+  color: var(--c-severe);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  background: var(--c-severe-bg);
+  padding: 2px 8px;
+  border-radius: 3px;
+}
+
+.contrast {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+  margin: .5rem 0;
+}
+.contrast-3 {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: .75rem;
+  margin: .5rem 0;
+}
+@media (max-width: 900px) { .contrast-3 { grid-template-columns: 1fr; } }
+@media (max-width: 700px) { .contrast { grid-template-columns: 1fr; } }
+.contrast-side { border-radius: 4px; padding: .75rem .9rem; }
+.contrast-side.pastor { background: #fef7f4; border: 1px solid #f3d6c5; }
+.contrast-side.jesus { background: #f4f6fe; border: 1px solid #c8d0ef; }
+.contrast-side.wider-bible { background: #f4fef7; border: 1px solid #c5e4c8; }
+.contrast-side.wider-bible blockquote strong { display: block; font-size: .8rem; color: #166534; margin-bottom: .2rem; letter-spacing: 0.03em; }
+.contrast-side h4 { margin-top: 0; }
+.contrast-side blockquote { font-size: 0.95rem; }
+.contrast-side blockquote + blockquote { margin-top: .75rem; padding-top: .75rem; border-top: 1px dashed var(--c-border); }
+.contrast-side.jesus blockquote strong { display: block; font-size: .8rem; color: var(--c-jesus); margin-bottom: .2rem; letter-spacing: 0.03em; }
+.contrast-side blockquote p { margin: 0; }
+
+.why-flagged {
+  margin-bottom: .75rem;
+  padding: .75rem .9rem;
+  background: #faf7ea;
+  border-left: 3px solid var(--c-low);
+  border-radius: 0 4px 4px 0;
+  font-size: 0.93rem;
+}
+.why-flagged strong { color: var(--c-low); }
+
+.severity-context {
+  margin-top: .75rem;
+  font-size: 0.9rem;
+  background: #fdf4f4;
+  border-radius: 4px;
+  padding: .5rem .9rem;
+  border: 1px solid #f3d6d6;
+}
+.severity-context h4 { color: var(--c-severe); margin-top: 0; }
+.severity-context ul { margin: 0; padding-left: 1.2rem; }
+.severity-context li { margin-bottom: .2rem; }
+
+.jump-link {
+  display: inline-block;
+  font-size: 0.85rem;
+  margin-top: .4rem;
+}
+
+/* Affirmed / counter-signals */
+.list-affirm {
+  background: var(--c-affirm-bg);
+  border: 1px solid #a7d7a7;
+  border-radius: 6px;
+  padding: .75rem 1rem .75rem 2rem;
+  margin: .5rem 0 1rem;
+}
+.list-affirm li { margin: .15rem 0; }
+
+/* CN markers table */
+table.cn-markers { width: 100%; border-collapse: collapse; font-size: 0.92rem; }
+table.cn-markers th, table.cn-markers td { text-align: left; padding: .4rem .6rem; border-bottom: 1px solid var(--c-border); vertical-align: top; }
+table.cn-markers th { background: #ebe9e1; font-weight: 600; font-size: .8rem; text-transform: uppercase; letter-spacing: 0.05em; }
+.status-present { color: var(--c-severe); font-weight: 600; }
+.status-low, .status-moderate { color: var(--c-moderate); font-weight: 500; }
+.status-none { color: var(--c-muted); }
+
+/* Transcript */
+.transcript-note { color: var(--c-muted); font-size: 0.9rem; margin: 0 0 1rem; }
+.transcript-para {
+  margin: .4rem 0;
+  padding: .35rem .7rem;
+  border-radius: 4px;
+  font-size: 0.95rem;
+  line-height: 1.55;
+}
+.transcript-para.flagged-severe { background: var(--c-severe-bg); border-left: 3px solid var(--c-severe); }
+.transcript-para.flagged-moderate { background: var(--c-moderate-bg); border-left: 3px solid var(--c-moderate); }
+.transcript-para.flagged-low { background: var(--c-low-bg); border-left: 3px solid var(--c-low); }
+.transcript-para .ts-link {
+  font-family: 'SF Mono', Menlo, monospace;
+  font-size: 0.8rem;
+  margin-right: .5rem;
+  color: var(--c-muted);
+  border-bottom: 0;
+  background: rgba(0,0,0,0.04);
+  padding: 1px 6px;
+  border-radius: 3px;
+}
+.transcript-para .ts-link:hover { background: rgba(30,64,175,0.1); color: var(--c-link); }
+.transcript-para .finding-refs { font-size: 0.75rem; color: var(--c-muted); margin-left: .5rem; }
+.transcript-para .finding-refs a { color: var(--c-muted); }
+
+/* Fact-check cards */
+.fact-check {
+  background: var(--c-card);
+  border: 1px solid var(--c-border);
+  border-radius: 6px;
+  padding: 1rem 1.25rem;
+  margin-bottom: 1rem;
+  border-left-width: 4px;
+  border-left-style: solid;
+}
+.fact-check.verdict-supported { border-left-color: #166534; }
+.fact-check.verdict-partial { border-left-color: #c2410c; }
+.fact-check.verdict-contested { border-left-color: #a16207; }
+.fact-check.verdict-misleading { border-left-color: #c2410c; }
+.fact-check.verdict-unsupported { border-left-color: #6b6b67; }
+.fact-check.verdict-false { border-left-color: var(--c-severe); }
+
+.verdict-badge {
+  display: inline-block;
+  font-size: 0.7rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  padding: 2px 8px;
+  border-radius: 3px;
+  color: white;
+}
+.verdict-badge.verdict-supported { background: #166534; }
+.verdict-badge.verdict-partial { background: #c2410c; }
+.verdict-badge.verdict-contested { background: #a16207; }
+.verdict-badge.verdict-misleading { background: #c2410c; }
+.verdict-badge.verdict-unsupported { background: #6b6b67; }
+.verdict-badge.verdict-false { background: var(--c-severe); }
+
+.fact-check-header { display: flex; flex-wrap: wrap; align-items: center; gap: .5rem; margin-bottom: .75rem; }
+.fact-check-header h3 { flex: 1 1 100%; margin: .25rem 0 0; font-size: 1.05rem; font-weight: 500; }
+.fact-check-block {
+  margin: .75rem 0;
+  padding: .75rem .9rem;
+  border-radius: 4px;
+  font-size: 0.93rem;
+}
+.fact-check-block h4 { margin: 0 0 .3rem; }
+.fact-check-block.claim { background: #fef7f4; border: 1px solid #f3d6c5; }
+.fact-check-block.evidence-cited { background: #faf7ea; border: 1px solid #ead994; }
+.fact-check-block.analysis { background: #f4f6fe; border: 1px solid #c8d0ef; }
+.fact-check-block p { margin: 0; }
+.fact-check-block blockquote { margin: 0; font-size: 0.95rem; }
+.fact-check-sources { font-size: 0.85rem; margin: .75rem 0 0; padding: .6rem .9rem; background: #f5f4ee; border-radius: 4px; }
+.fact-check-sources h4 { margin: 0 0 .3rem; }
+.fact-check-sources ul { margin: 0; padding-left: 1.2rem; }
+.fact-check-sources li { margin: .2rem 0; line-height: 1.4; }
+.fact-check-sources a { word-break: break-word; }
+
+/* Print */
+.print-only { display: none; }
+@media print {
+  body { max-width: none; margin: 0; padding: 0.5in; font-size: 10pt; background: white; color: black; }
+  h1 { font-size: 18pt; }
+  h2 { font-size: 13pt; page-break-after: avoid; break-after: avoid-page; margin-top: 1.2em; }
+  h3 { font-size: 11pt; page-break-after: avoid; break-after: avoid-page; }
+  .yt-embed { display: none !important; }
+  .print-only { display: block; }
+  .print-only.video-link { margin: .5rem 0 1rem; padding: .5rem .75rem; border: 1px solid #999; border-radius: 3px; font-size: 9pt; }
+  .print-only.video-link a { color: black; word-break: break-all; }
+  a { color: black; text-decoration: underline; border-bottom: 0; }
+  .finding, .fact-check, .axis-card { page-break-inside: avoid; break-inside: avoid; box-shadow: none !important; }
+  .sev-badge, .verdict-badge, .axis-tag, .headline-tag { color: black !important; background: #eee !important; border: 1px solid #999; }
+  .contrast-side, .why-flagged, .severity-context, .fact-check-block, .fact-check-sources, .axis-card { background: #fff !important; border: 1px solid #bbb !important; }
+  .transcript-para.flagged-severe, .transcript-para.flagged-moderate, .transcript-para.flagged-low {
+    background: #fff !important;
+    border-left: 2px solid #333 !important;
+    page-break-inside: avoid;
+    break-inside: avoid;
+  }
+  .timeline-track { border: 1px solid #bbb; background: #fff; }
+  .timeline-marker { background: #333 !important; border-color: #333 !important; }
+  #transcript { page-break-before: always; break-before: page; }
+  .ts-link, .finding-refs, .jump-link { color: #666 !important; }
+  iframe { display: none !important; }
+  footer { page-break-before: auto; font-size: 8pt; }
+}
+
+/* Footer */
+footer {
+  margin-top: 4rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--c-border);
+  color: var(--c-muted);
+  font-size: 0.85rem;
+}
+footer h3 { font-size: 0.95rem; color: var(--c-fg); margin-bottom: .3rem; }
+footer p { margin: .3rem 0; }
+</style>
+</head>
+<body>
+<header>
+  <div style="font-size:.75rem; color: var(--c-muted); letter-spacing:.1em; text-transform: uppercase;">Sermon Audit</div>
+  <h1>Why the Church Cannot Be in the Tribulation</h1>
+  <p class="meta-line"><span>Bishop Alan DiDio</span> <span>Revival Nation Church</span> <span>Encounter Today</span> <span>2025-12-23</span> <span>00:06:24</span></p>
+  <p class="meta-line" style="margin-top:-.5rem"><em>Preaching text:</em>  · <em>Gospel translation:</em> ESV</p>
+  <div class='yt-embed'><iframe src='https://www.youtube-nocookie.com/embed/VENtSz78VwY' allowfullscreen allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' referrerpolicy='strict-origin-when-cross-origin'></iframe></div><div class='print-only video-link'>Video: <a href='https://www.youtube.com/watch?v=VENtSz78VwY'>https://www.youtube.com/watch?v=VENtSz78VwY</a></div>
+</header>
+
+<h2>Scorecard</h2>
+<div class="scorecard"><div class="axis-card axis-severity-severe"><div class="axis-label">Fidelity to Jesus&#x27;s Teachings (Red Letters)</div><div class="axis-verdict">Contradicted on the central claim</div><p>Jesus&#x27;s own use of Lot (Luke 17:28–32) runs opposite to the sermon&#x27;s reading; Jesus&#x27;s explicit prayer in John 17:15 (&quot;I do not ask that you take them out of the world&quot;) and his persecution-endurance ethic (John 16:33; Matt 24:9–13) are absent. Matthew 25 — Jesus&#x27;s own description of his return — is not engaged.</p></div><div class="axis-card axis-severity-severe"><div class="axis-label">Identifiable Biases / Harmful Rhetoric</div><div class="axis-verdict">Severe rapture / dispensational framework</div><p>The entire sermon is a dispensational decoding operation packaged with a book sale. No anti-Muslim, anti-LGBTQ, misogynistic, or Christian-nationalist content surfaces in this short clip — but the underlying framework is a 190-year-old innovation (Darby, 1830s) presented as plain biblical reading.</p></div><div class="axis-card axis-severity-moderate"><div class="axis-label">Factual Claims &amp; Evidence Check</div><div class="axis-verdict">Contested theological claims presented as exegesis</div><p>Three central interpretive claims (church = restrainer; Genesis 19 = rapture passage; Revelation 13 saints ≠ church) are presented as straightforward biblical reading. All three are minority positions within the broader Christian interpretive tradition; none are sourced or hedged.</p></div><div class="axis-card axis-severity-severe"><div class="axis-label">Whole-Bible Engagement</div><div class="axis-verdict">Severe cherry-picking</div><p>On every major framing — the restrainer&#x27;s identity, the meaning of &#x27;saints,&#x27; how God treats his people during judgment — the dominant canonical witness (Jesus&#x27;s red letters, Revelation&#x27;s call to endurance, OT precedent of God&#x27;s people surviving through judgment) is omitted in favor of a single dispensationalist schema.</p></div></div>
+
+<h2>Summary</h2>
+<p>A 6.5-minute teaching defending the pre-tribulation rapture by identifying the church as the &quot;restrainer&quot; of 2 Thessalonians 2:7 — the force that, once removed, allows the antichrist to be revealed. DiDio argues that because the church is &quot;salt and light,&quot; it must be physically removed before God can pour out wrath; he reads Genesis 19 (Lot in Sodom) as a rapture-type, and distinguishes the &quot;saints&quot; of Revelation 13 from &quot;the church&quot; so that Christians never face tribulation. The teaching closes with a promotion of his book &quot;They Lied to You About the Rapture&quot; and his YouTube channel. The framework is straight Darby-Scofield dispensationalism delivered with strong interpretive certainty in a tight, monetizable package.</p>
+
+<h2>Timeline</h2>
+<p class="transcript-note">Each marker = a flagged finding. Click to jump to the finding; hover for the title. Color indicates severity.</p>
+<div class="timeline-wrap"><div class="timeline-track"><a href="#f1-1" class="timeline-marker timeline-marker-severe" style="left: 42.97%" title="Lot/Sodom read as rapture type — inverts Jesus&#x27;s own use of the same story @ 00:02:45"></a><a href="#f1-3" class="timeline-marker timeline-marker-moderate" style="left: 70.31%" title="Bifurcates &#x27;church&#x27; and &#x27;saints&#x27; to remove Christians from suffering @ 00:04:30"></a><a href="#f2-1" class="timeline-marker timeline-marker-severe" style="left: 7.81%" title="Rapture/dispensational framework as the load-bearing structure of the teaching @ 00:00:30"></a><a href="#f2-2" class="timeline-marker timeline-marker-moderate" style="left: 93.75%" title="Teaching closes with a book sale tied to fear of being deceived @ 00:06:00"></a><a href="#f4-1" class="timeline-marker timeline-marker-severe" style="left: 23.44%" title="The &#x27;restrainer&#x27; (2 Thess 2:7) identified as the church — one minority option presented as the canonical answer @ 00:01:30"></a><a href="#f4-2" class="timeline-marker timeline-marker-severe" style="left: 70.31%" title="Bifurcation of &#x27;church&#x27; and &#x27;saints&#x27; so the church never suffers tribulation @ 00:04:30"></a><a href="#f4-3" class="timeline-marker timeline-marker-moderate" style="left: 42.97%" title="Genesis 19 (Lot/Sodom) read as a rapture passage — against the actual text and against Jesus&#x27;s use of it @ 00:02:45"></a></div><div class="timeline-labels"><span>00:00:00</span><span>00:06:24</span></div></div>
+
+<h2>Findings (5)</h2>
+<article id="f1-2" class="finding sev-border-severe headline"><div class="finding-header"><span class="sev-badge sev-severe">severe</span><span class="axis-tag">Axis 1</span><span class="timestamp-link" style="color: var(--c-muted);">(absent from a sermon on the tribulation)</span><span class="headline-tag">Headline</span><h3>Matthew 24–25 not engaged in a sermon on tribulation and Christ&#x27;s return</h3></div><div class="why-flagged"><strong>Why flagged:</strong> A sermon defending the proposition that the church cannot be present during tribulation must, at minimum, engage Jesus&#x27;s most extended teachings on tribulation and his return. Matt 24:29 explicitly places the gathering of the elect AFTER the tribulation. John 16:33 promises tribulation as the disciples&#x27; lot, not their exemption. Matt 25 names the criterion for judgment when Christ returns — care for the hungry, stranger, sick, imprisoned. None of this is engaged. The omission is structural to the dispensational genre: the red-letter witness on this topic is incompatible with the sermon&#x27;s thesis.</div><div class="contrast"><div class="contrast-side pastor"><h4>Pastor</h4><blockquote><p>[absent] In a 6.5-minute teaching titled &#x27;Why the Church Cannot Be in the Tribulation,&#x27; Jesus&#x27;s own extended teaching on the tribulation and his return (Matt 24–25, Mark 13, Luke 21) is never quoted or engaged.</p></blockquote></div><div class="contrast-side jesus"><h4>Jesus</h4><blockquote><strong>Matt 24:9–13</strong><p>Then they will deliver you up to tribulation and put you to death, and you will be hated by all nations for my name&#x27;s sake… But the one who endures to the end will be saved.</p></blockquote>
+<blockquote><strong>Matt 24:29–31</strong><p>Immediately after the tribulation of those days the sun will be darkened… and then they will see the Son of Man coming on the clouds of heaven with power and great glory. And he will send out his angels with a loud trumpet call, and they will gather his elect from the four winds.</p></blockquote>
+<blockquote><strong>John 16:33</strong><p>In the world you will have tribulation. But take heart; I have overcome the world.</p></blockquote>
+<blockquote><strong>Matt 25:31–46</strong><p>When the Son of Man comes in his glory… he will sit on his glorious throne. Before him will be gathered all the nations… &#x27;as you did it to one of the least of these my brothers, you did it to me.&#x27;</p></blockquote></div></div></article>
+<article id="f1-1" class="finding sev-border-severe headline"><div class="finding-header"><span class="sev-badge sev-severe">severe</span><span class="axis-tag">Axis 1</span><a href="https://www.youtube.com/watch?v=VENtSz78VwY&t=165s" target="_blank" rel="noopener" class="timestamp-link">▶ 00:02:45</a><span class="headline-tag">Headline</span><h3>Lot/Sodom read as rapture type — inverts Jesus&#x27;s own use of the same story</h3></div><div class="why-flagged"><strong>Why flagged:</strong> Jesus actually uses the Lot story in Luke 17 — and in the parallel Noah passage in Matt 24 — to teach the OPPOSITE point: the unsuspecting are caught up in judgment with no prior removal. Lot is not raptured; he walks out, his wife dies, and the city burns. Jesus&#x27;s whole point is the SUDDENNESS, not a pre-judgment evacuation of the righteous. DiDio inverts the Lord&#x27;s own typological use of his own example. Compounding this, John 17:15 — Jesus&#x27;s recorded prayer for his followers — explicitly asks that they NOT be taken out of the world.</div><div class="contrast"><div class="contrast-side pastor"><h4>Pastor</h4><blockquote><p>Hurry and take refuge there. For here&#x27;s what God says, I cannot do anything to punish Sodom until you arrive there… So there was a restraining force that was holding back the wrath of God… It was someone in righteous covenant with God in the earth.</p></blockquote><a href="#t-150" class="jump-link">Jump to transcript ↓</a></div><div class="contrast-side jesus"><h4>Jesus</h4><blockquote><strong>Luke 17:28–32 — Jesus&#x27;s own use of Lot in an end-times teaching</strong><p>Likewise, just as it was in the days of Lot — they were eating and drinking, buying and selling, planting and building, but on the day when Lot went out from Sodom, fire and sulfur rained from heaven and destroyed them all — so will it be on the day when the Son of Man is revealed… Remember Lot&#x27;s wife.</p></blockquote>
+<blockquote><strong>Matt 24:37–39 — Jesus&#x27;s parallel use of Noah</strong><p>For as were the days of Noah, so will be the coming of the Son of Man… they were unaware until the flood came and swept them all away, so will be the coming of the Son of Man.</p></blockquote>
+<blockquote><strong>John 17:15 — Jesus&#x27;s explicit prayer about his disciples and the world</strong><p>I do not ask that you take them out of the world, but that you keep them from the evil one.</p></blockquote></div></div></article>
+<article id="f2-1" class="finding sev-border-severe headline"><div class="finding-header"><span class="sev-badge sev-severe">severe</span><span class="axis-tag">Axis 2</span><a href="https://www.youtube.com/watch?v=VENtSz78VwY&t=30s" target="_blank" rel="noopener" class="timestamp-link">▶ 00:00:30</a><span class="headline-tag">Headline</span><h3>Rapture/dispensational framework as the load-bearing structure of the teaching</h3></div><div class="why-flagged"><strong>Why flagged:</strong> The pre-tribulation rapture is a doctrinal innovation traced to John Nelson Darby in the 1830s, popularized in the U.S. via the Scofield Reference Bible (1909) and 20th-century prophecy media (Lindsey, LaHaye, Jenkins). It is absent from the first 1,800 years of Christian theology and rejected today by Catholic, Orthodox, mainline Protestant, Reformed, and a substantial share of evangelical biblical scholarship. The teaching also asserts that &#x27;the time for gospel grace preaching is over&#x27; once the church is removed — a striking claim that flatly contradicts Matt 24:14, which places gospel proclamation TO THE END as a precondition of the consummation. Severity is elevated by reach (DiDio&#x27;s YouTube channel and book pipeline) and by the framing-as-plain-reading.</div><div class="contrast"><div class="contrast-side pastor"><h4>Pastor</h4><blockquote><p>And when the restrainer is removed, then the man of sin is revealed. And when the man of sin is revealed, then we enter in to the day of the Lord… What I&#x27;m trying to get across to you is that we are the restraining order in the earth. God has put us here as a restraining force. And when it comes time for his judgment to be poured out, the time for gospel grace preaching is over.</p></blockquote><a href="#t-30" class="jump-link">Jump to transcript ↓</a></div><div class="contrast-side jesus"><h4>Jesus</h4><blockquote><strong>Matt 24:36 — from the very passage dispensationalists most often appeal to</strong><p>But concerning that day and hour no one knows, not even the angels of heaven, nor the Son, but the Father only.</p></blockquote>
+<blockquote><strong>Acts 1:7</strong><p>It is not for you to know times or seasons that the Father has fixed by his own authority.</p></blockquote>
+<blockquote><strong>Matt 24:14</strong><p>And this gospel of the kingdom will be proclaimed throughout the whole world as a testimony to all nations, and then the end will come.</p></blockquote></div></div></article>
+<article id="f1-3" class="finding sev-border-moderate"><div class="finding-header"><span class="sev-badge sev-moderate">moderate</span><span class="axis-tag">Axis 1</span><a href="https://www.youtube.com/watch?v=VENtSz78VwY&t=270s" target="_blank" rel="noopener" class="timestamp-link">▶ 00:04:30</a><h3>Bifurcates &#x27;church&#x27; and &#x27;saints&#x27; to remove Christians from suffering</h3></div><div class="why-flagged"><strong>Why flagged:</strong> Jesus&#x27;s red-letter pattern is consistent: discipleship entails suffering, and endurance through suffering is the path. Carving &#x27;church&#x27; off from &#x27;saints&#x27; so that the church alone is exempt from the cost is a hermeneutical move with no support in Jesus&#x27;s own teaching, and it functionally exempts the contemporary Western Christian audience from the very costliness Jesus made central to following him.</div><div class="contrast"><div class="contrast-side pastor"><h4>Pastor</h4><blockquote><p>When we are gone, it will go back to an old testament-like system where we have saints. Saints are referenced in the book of Daniel as an example… So when we get into Revelation 13, we see these are saints. These are not the church. And that&#x27;s how the antichrist is able to get power and authority over them because the church is a special entity.</p></blockquote><a href="#t-270" class="jump-link">Jump to transcript ↓</a></div><div class="contrast-side jesus"><h4>Jesus</h4><blockquote><strong>John 15:18–20</strong><p>If the world hates you, know that it has hated me before it hated you… A servant is not greater than his master. If they persecuted me, they will also persecute you.</p></blockquote>
+<blockquote><strong>Matt 10:22</strong><p>You will be hated by all for my name&#x27;s sake. But the one who endures to the end will be saved.</p></blockquote>
+<blockquote><strong>Matt 16:24–25</strong><p>If anyone would come after me, let him deny himself and take up his cross and follow me. For whoever would save his life will lose it, but whoever loses his life for my sake will find it.</p></blockquote>
+<blockquote><strong>Luke 21:12–19</strong><p>They will lay their hands on you and persecute you… You will be delivered up even by parents and brothers and relatives and friends, and some of you they will put to death… By your endurance you will gain your lives.</p></blockquote></div></div></article>
+<article id="f2-2" class="finding sev-border-moderate"><div class="finding-header"><span class="sev-badge sev-moderate">moderate</span><span class="axis-tag">Axis 2</span><a href="https://www.youtube.com/watch?v=VENtSz78VwY&t=360s" target="_blank" rel="noopener" class="timestamp-link">▶ 00:06:00</a><h3>Teaching closes with a book sale tied to fear of being deceived</h3></div><div class="why-flagged"><strong>Why flagged:</strong> The closing move couples a &#x27;don&#x27;t be deceived&#x27; warning to an immediate purchase prompt for the speaker&#x27;s product. The structure functions as: (1) name a fear (end-times deception), (2) suggest the listener may currently be inside that deception, (3) offer the speaker&#x27;s paid product as the remedy. This is a recognizable subscription-shape sales pattern; flagged not because content monetization is per se illegitimate but because the same fear-activation that gives the warning its weight is the same affect being converted into a sale.</div><div class="contrast"><div class="contrast-side pastor"><h4>Pastor</h4><blockquote><p>The Bible warns about deception in the last days. But what if one of the great deceptions is what you believe or don&#x27;t believe about the rapture of the church? I dive into that and much more in my latest book, They Lied to You About the Rapture. Get your copy today.</p></blockquote><a href="#t-360" class="jump-link">Jump to transcript ↓</a></div><div class="contrast-side jesus"><h4>Jesus</h4><blockquote><strong>Matt 10:8</strong><p>You received without paying; give without pay.</p></blockquote>
+<blockquote><strong>John 2:14–16</strong><p>In the temple he found those who were selling oxen and sheep and pigeons, and the money-changers sitting there. And making a whip of cords, he drove them all out of the temple… &#x27;Do not make my Father&#x27;s house a house of trade.&#x27;</p></blockquote>
+<blockquote><strong>Matt 24:4–5</strong><p>See that no one leads you astray. For many will come in my name, saying, &#x27;I am the Christ,&#x27; and they will lead many astray.</p></blockquote></div></div></article>
+
+<h2>Whole-Bible Engagement (3)</h2>
+<p class="transcript-note">For each major framing in the sermon, the pastor's claim is placed side-by-side with <strong>what Jesus said in the Gospels</strong> and <strong>what the wider Bible says</strong> (OT + NT non-Gospel). Surfaces cherry-picking, omitted counter-voices, and places where the canon itself contains tension the pastor did not acknowledge.</p>
+<article id="f4-1" class="finding sev-border-severe headline"><div class="finding-header"><span class="sev-badge sev-severe">severe</span><span class="axis-tag">Axis 4</span><a href="https://www.youtube.com/watch?v=VENtSz78VwY&t=90s" target="_blank" rel="noopener" class="timestamp-link">▶ 00:01:30</a><span class="headline-tag">Headline</span><h3>The &#x27;restrainer&#x27; (2 Thess 2:7) identified as the church — one minority option presented as the canonical answer</h3></div><div style="font-size:.8rem; color: var(--c-muted); text-transform: uppercase; letter-spacing:.06em; margin:.25rem 0 .5rem;">Topic: Who or what is the restrainer of 2 Thessalonians 2:6–7</div><div class="why-flagged"><strong>Why flagged:</strong> A 1,900-year-old contested textual crux is resolved with a single sentence and presented as the plain biblical answer. The patristic, Reformed, Catholic, and Orthodox readings — and even most non-dispensational evangelical scholarship — go in other directions. None of this disagreement is acknowledged.</div><div class="fact-check-block analysis" style="margin-bottom:.75rem;"><h4>Canonical analysis</h4><p>The identity of the &#x27;restrainer&#x27; (Greek: ho katechōn / to katechon) in 2 Thess 2:6–7 is one of the most contested cruxes in NT studies. Mainstream candidates across two thousand years of interpretation include: (1) the Roman Empire / governing authority (the dominant patristic reading — Tertullian, Chrysostom, Augustine), (2) the Holy Spirit, (3) the angel Michael, (4) the principle of law/order, (5) the proclamation of the gospel itself, and (6) — only as recently popularized via dispensationalism — the church. The &#x27;church as restrainer&#x27; reading depends on Darby-Scofield&#x27;s broader dispensational system; it is a minority view across the historic Christian tradition and is not present in the patristic, medieval, Reformed, or Catholic interpretive streams. DiDio presents one option from a contested list as obvious. The &#x27;salt and light&#x27; bridge is rhetorically clever but exegetically thin: Jesus&#x27;s use of those metaphors in Matt 5 is about discipleship visibility, not about restraining the antichrist. Crucially, the wheat-and-tares parable — Jesus&#x27;s OWN picture of how righteousness and lawlessness coexist until the eschaton — runs against any framework that requires the righteous to be removed before judgment.</p></div><div class="contrast-3"><div class="contrast-side pastor"><h4>Pastor</h4><blockquote><p>So we have to ask ourselves then, is there a force in the New Testament that is described as a restrainer? … there will be a force that is referenced as salt and a force that is referenced as light… And who is called the salt and light in the earth? You&#x27;re exactly right. That is the church of Jesus Christ… What I&#x27;m trying to get across to you is that we are the restraining order in the earth.</p></blockquote><a href="#t-90" class="jump-link">Jump to transcript ↓</a></div><div class="contrast-side jesus"><h4>Jesus (Gospels)</h4><blockquote><strong>Matt 5:13–16 — the &#x27;salt and light&#x27; source text</strong><p>You are the salt of the earth… You are the light of the world… let your light shine before others, so that they may see your good works and give glory to your Father who is in heaven.</p></blockquote>
+<blockquote><strong>Matt 13:24–30 (parable of the wheat and tares — Jesus&#x27;s own picture of how the righteous and the wicked coexist until the end)</strong><p>Let both grow together until the harvest, and at harvest time I will tell the reapers, &#x27;Gather the weeds first and bind them in bundles to be burned, but gather the wheat into my barn.&#x27;</p></blockquote>
+<blockquote><strong>John 17:15</strong><p>I do not ask that you take them out of the world, but that you keep them from the evil one.</p></blockquote></div><div class="contrast-side wider-bible"><h4>Wider Bible (OT &amp; NT non-Gospel)</h4><blockquote><strong>2 Thess 2:6–7 (the actual text in question)</strong><p>And you know what is restraining him now so that he may be revealed in his time. For the mystery of lawlessness is already at work. Only he who now restrains it will do so until he is out of the way.</p></blockquote>
+<blockquote><strong>Rev 7:14 (the great multitude through the tribulation)</strong><p>These are the ones coming out of the great tribulation. They have washed their robes and made them white in the blood of the Lamb.</p></blockquote>
+<blockquote><strong>Rev 13:7 (the very text DiDio cites)</strong><p>Also it was allowed to make war on the saints and to conquer them.</p></blockquote>
+<blockquote><strong>Dan 7:21–22 (the Daniel &#x27;saints&#x27; passage DiDio appeals to)</strong><p>As I looked, this horn made war with the saints and prevailed over them, until the Ancient of Days came… and the time came when the saints possessed the kingdom.</p></blockquote></div></div></article>
+<article id="f4-2" class="finding sev-border-severe headline"><div class="finding-header"><span class="sev-badge sev-severe">severe</span><span class="axis-tag">Axis 4</span><a href="https://www.youtube.com/watch?v=VENtSz78VwY&t=270s" target="_blank" rel="noopener" class="timestamp-link">▶ 00:04:30</a><span class="headline-tag">Headline</span><h3>Bifurcation of &#x27;church&#x27; and &#x27;saints&#x27; so the church never suffers tribulation</h3></div><div style="font-size:.8rem; color: var(--c-muted); text-transform: uppercase; letter-spacing:.06em; margin:.25rem 0 .5rem;">Topic: Whether God&#x27;s people endure or are exempt from suffering during eschatological judgment</div><div class="why-flagged"><strong>Why flagged:</strong> The bifurcation of &#x27;saints&#x27; from &#x27;church&#x27; has no lexical, historical, or canonical basis; it is a systems requirement of pre-tribulationism. The unanimous NT pattern — Jesus, the Pauline letters, Hebrews, Peter, Revelation itself — frames God&#x27;s people as those who endure tribulation, not as those exempted from it. The rhetorical move functions to remove the contemporary American Christian listener from the costliness Jesus made central to discipleship.</div><div class="fact-check-block analysis" style="margin-bottom:.75rem;"><h4>Canonical analysis</h4><p>The Greek word translated &#x27;saints&#x27; in Revelation 13 (hagioi) is the SAME word Paul uses in his letter openings to address the living churches at Rome, Corinth, Ephesus, Philippi, and Colossae. There is no lexical basis for distinguishing &#x27;saints&#x27; from &#x27;the church&#x27; in the NT; it is a pure systems-imposed distinction created to preserve the pre-trib schema. John, writing Revelation, calls himself &#x27;your brother and partner in the tribulation&#x27; (Rev 1:9) — addressing actual first-century churches. Revelation 13:10 and 14:12 frame endurance through tribulation as the very calling of the saints. The wider canonical witness — Jesus, John, Peter, Paul — converges with unusual unanimity: God&#x27;s people endure suffering, they are not exempted from it. The framework DiDio proposes does not exist in the NT outside dispensational systematics; it has to be imported.</p></div><div class="contrast-3"><div class="contrast-side pastor"><h4>Pastor</h4><blockquote><p>When we are gone, it will go back to an old testament-like system where we have saints… So when we get into Revelation 13, we see these are saints. These are not the church.</p></blockquote><a href="#t-270" class="jump-link">Jump to transcript ↓</a></div><div class="contrast-side jesus"><h4>Jesus (Gospels)</h4><blockquote><strong>John 16:33</strong><p>In the world you will have tribulation. But take heart; I have overcome the world.</p></blockquote>
+<blockquote><strong>Matt 24:9–13</strong><p>Then they will deliver you up to tribulation and put you to death, and you will be hated by all nations for my name&#x27;s sake… But the one who endures to the end will be saved.</p></blockquote>
+<blockquote><strong>Matt 24:22 (concerning the elect IN the tribulation)</strong><p>And if those days had not been cut short, no human being would be saved. But for the sake of the elect those days will be cut short.</p></blockquote>
+<blockquote><strong>Luke 21:19</strong><p>By your endurance you will gain your lives.</p></blockquote></div><div class="contrast-side wider-bible"><h4>Wider Bible (OT &amp; NT non-Gospel)</h4><blockquote><strong>Rev 1:9 (John addressing the seven churches)</strong><p>I, John, your brother and partner in the tribulation and the kingdom and the patient endurance that are in Jesus, was on the island called Patmos.</p></blockquote>
+<blockquote><strong>Rev 7:14</strong><p>These are the ones coming out of the great tribulation. They have washed their robes and made them white in the blood of the Lamb.</p></blockquote>
+<blockquote><strong>Rev 13:10</strong><p>Here is a call for the endurance and faith of the saints.</p></blockquote>
+<blockquote><strong>Rev 14:12</strong><p>Here is a call for the endurance of the saints, those who keep the commandments of God and their faith in Jesus.</p></blockquote>
+<blockquote><strong>Acts 9:13; 26:10; Rom 1:7; 1 Cor 1:2; Eph 1:1; Phil 1:1; Col 1:2 — Pauline use of &#x27;saints&#x27; (hagioi) for ordinary church members</strong><p>[All of these passages address the living first-century church AS &#x27;the saints&#x27; — the term is Paul&#x27;s standard designation for baptized believers, not a separate post-rapture category.]</p></blockquote>
+<blockquote><strong>1 Pet 4:12–13</strong><p>Beloved, do not be surprised at the fiery trial when it comes upon you to test you, as though something strange were happening to you. But rejoice insofar as you share Christ&#x27;s sufferings.</p></blockquote>
+<blockquote><strong>2 Tim 3:12</strong><p>All who desire to live a godly life in Christ Jesus will be persecuted.</p></blockquote></div></div></article>
+<article id="f4-3" class="finding sev-border-moderate"><div class="finding-header"><span class="sev-badge sev-moderate">moderate</span><span class="axis-tag">Axis 4</span><a href="https://www.youtube.com/watch?v=VENtSz78VwY&t=165s" target="_blank" rel="noopener" class="timestamp-link">▶ 00:02:45</a><h3>Genesis 19 (Lot/Sodom) read as a rapture passage — against the actual text and against Jesus&#x27;s use of it</h3></div><div style="font-size:.8rem; color: var(--c-muted); text-transform: uppercase; letter-spacing:.06em; margin:.25rem 0 .5rem;">Topic: Whether the Lot/Sodom narrative typologically supports a pre-judgment rapture</div><div class="why-flagged"><strong>Why flagged:</strong> Jesus&#x27;s own typological use of Lot (Luke 17) directly contradicts the rapture-evacuation reading: he uses Lot to teach that judgment comes suddenly while ordinary life continues, with people unaware. The wider canon (Heb 11 on Noah, Gen 6–9 on Noah, 2 Pet 2 on Lot) consistently shows preservation THROUGH judgment, not removal before it. The pastor&#x27;s reading reverses Jesus&#x27;s reading.</div><div class="fact-check-block analysis" style="margin-bottom:.75rem;"><h4>Canonical analysis</h4><p>The Genesis 19 narrative is not a rapture: Lot WALKS out of Sodom on his own feet, escorted by angels, with his family — and one of them dies en route by looking back. He then lives in a cave. Noah goes THROUGH the flood inside the ark, not above it. Both stories are in fact images of God&#x27;s people being PRESERVED THROUGH judgment, not REMOVED before it. Jesus uses both stories in the same way: as warnings about the suddenness and unexpectedness of the coming judgment, with explicit warnings to his hearers (&#x27;remember Lot&#x27;s wife&#x27;) — not as templates for an evacuation. 2 Pet 2 frames the Lot story as a paradigm of God&#x27;s ability to &#x27;rescue the godly from trials&#x27; — language that could support either reading, but the actual narrative arc (walk out, family casualty, refugee in a cave) is not airlift-shaped. Reading Genesis 19 as a rapture-type requires importing the conclusion into the text.</p></div><div class="contrast-3"><div class="contrast-side pastor"><h4>Pastor</h4><blockquote><p>Here&#x27;s what it says in Genesis chapter 19, which I think is a fascinating rapture passage… So there was a restraining force that was holding back the wrath of God… It was someone in righteous covenant with God in the earth.</p></blockquote><a href="#t-150" class="jump-link">Jump to transcript ↓</a></div><div class="contrast-side jesus"><h4>Jesus (Gospels)</h4><blockquote><strong>Luke 17:28–32 — Jesus&#x27;s own use of Lot in eschatological teaching</strong><p>Likewise, just as it was in the days of Lot — they were eating and drinking, buying and selling, planting and building, but on the day when Lot went out from Sodom, fire and sulfur rained from heaven and destroyed them all — so will it be on the day when the Son of Man is revealed… Remember Lot&#x27;s wife.</p></blockquote>
+<blockquote><strong>Matt 24:37–39 — Jesus&#x27;s parallel use of Noah</strong><p>For as were the days of Noah, so will be the coming of the Son of Man. For as in those days before the flood they were eating and drinking, marrying and giving in marriage, until the day when Noah entered the ark, and they were unaware until the flood came and swept them all away.</p></blockquote></div><div class="contrast-side wider-bible"><h4>Wider Bible (OT &amp; NT non-Gospel)</h4><blockquote><strong>Gen 19:15–26 (the actual narrative)</strong><p>The angels urged Lot, saying, &#x27;Up! Take your wife and your two daughters who are here, lest you be swept away in the punishment of the city&#x27;… Then the Lord rained on Sodom and Gomorrah sulfur and fire from the Lord out of heaven… But Lot&#x27;s wife, behind him, looked back, and she became a pillar of salt.</p></blockquote>
+<blockquote><strong>2 Pet 2:7–9</strong><p>And if he rescued righteous Lot, greatly distressed by the sensual conduct of the wicked… then the Lord knows how to rescue the godly from trials, and to keep the unrighteous under punishment until the day of judgment.</p></blockquote>
+<blockquote><strong>Heb 11:7 (Noah)</strong><p>By faith Noah, being warned by God concerning events as yet unseen, in reverent fear constructed an ark for the saving of his household.</p></blockquote></div></div></article>
+
+<h2>Factual Claims &amp; Evidence Check (3)</h2>
+<p class="transcript-note">Empirical claims the pastor made during the sermon, with a verdict on whether independent evidence supports them. Verdict scale: Supported · Partially supported · Contested · Misleading · Unsupported · False. “Evidence the pastor cited” records whether any source was named in the sermon itself.</p>
+<article id="fc-1" class="fact-check verdict-contested"><div class="fact-check-header"><span class="verdict-badge verdict-contested">contested</span><a href="https://www.youtube.com/watch?v=VENtSz78VwY&t=90s" target="_blank" rel="noopener" class="timestamp-link">▶ 00:01:30</a><h3>“The &#x27;restrainer&#x27; of 2 Thessalonians 2:7 is the church.”</h3></div><div class="fact-check-block claim"><h4>Pastor's claim (full)</h4><blockquote>The &#x27;restrainer&#x27; of 2 Thessalonians 2:7 is the church.</blockquote></div><div class="fact-check-block evidence-cited"><h4>Evidence the pastor cited</h4><p>An associative chain: the church is salt and light (Matt 5); salt and light restrain decay/darkness; therefore the church is the restrainer. No engagement with the patristic, Reformed, Catholic, or Orthodox interpretive history.</p></div><div class="fact-check-block analysis"><h4>What the evidence shows</h4><p>The identity of the katechōn in 2 Thess 2:6–7 is one of the longest-running interpretive cruxes in NT studies. The dominant patristic reading was the Roman Empire / civil order (Tertullian, Chrysostom, Augustine). Subsequent candidates have included the Holy Spirit, the angel Michael, the principle of law/government, the proclamation of the gospel, and — only since the 19th-century rise of dispensationalism — the church itself. Standard reference works (e.g., Anchor Bible, NIGTC, NICNT commentaries on 1–2 Thessalonians) discuss the question as genuinely open. The &#x27;church-as-restrainer&#x27; reading is a minority position dependent on broader dispensational architecture and is not, on its own merits, a clear reading of the Greek. DiDio presents it as obvious.</p></div><div class="fact-check-sources"><h4>Sources consulted</h4><ul><li><a href="https://www.eerdmans.com/9780802823953/the-epistles-to-the-thessalonians/" target="_blank" rel="noopener">Charles Wanamaker, NIGTC: Commentary on 1 &amp; 2 Thessalonians (Eerdmans)</a></li><li><a href="https://www.eerdmans.com/9780802837387/the-letters-to-the-thessalonians/" target="_blank" rel="noopener">Gene Green, Pillar New Testament Commentary: The Letters to the Thessalonians (Eerdmans)</a></li><li><a href="https://www.newadvent.org/fathers/120120.htm" target="_blank" rel="noopener">Augustine, City of God, Book XX, ch. 19 (discussion of 2 Thess 2)</a></li></ul></div></article>
+<article id="fc-2" class="fact-check verdict-unsupported"><div class="fact-check-header"><span class="verdict-badge verdict-unsupported">unsupported</span><a href="https://www.youtube.com/watch?v=VENtSz78VwY&t=270s" target="_blank" rel="noopener" class="timestamp-link">▶ 00:04:30</a><h3>“The &#x27;saints&#x27; referenced in Revelation 13 (and in Daniel) are not the church but a separate post-rapture category.”</h3></div><div class="fact-check-block claim"><h4>Pastor's claim (full)</h4><blockquote>The &#x27;saints&#x27; referenced in Revelation 13 (and in Daniel) are not the church but a separate post-rapture category.</blockquote></div><div class="fact-check-block evidence-cited"><h4>Evidence the pastor cited</h4><p>Asserted; supported only by appeal to the existence of the term &#x27;saints&#x27; in Daniel.</p></div><div class="fact-check-block analysis"><h4>What the evidence shows</h4><p>The Greek word hagioi (&#x27;saints&#x27; / &#x27;holy ones&#x27;) is Paul&#x27;s standard NT term for the living church — see the openings of Romans (1:7), 1 Corinthians (1:2), Ephesians (1:1), Philippians (1:1), Colossians (1:2), and dozens of other occurrences. There is no lexical, syntactic, or contextual basis for distinguishing &#x27;saints&#x27; from &#x27;the church&#x27; in NT usage. Revelation itself uses hagioi for the same audience the seven letters address (Rev 5:8; 8:3–4; 11:18; 13:7,10; 14:12; 16:6; 17:6; 18:24; 19:8; 20:9). John explicitly identifies himself as &#x27;your brother and partner in the tribulation&#x27; (Rev 1:9) writing TO the actual first-century churches. The &#x27;saints ≠ church&#x27; distinction is a systems requirement of pre-tribulationism, not a result of exegesis. Standard NT lexicons (BDAG, Louw-Nida) and major Revelation commentaries (Beale, Bauckham, Koester, Mounce, Osborne) treat hagioi in Revelation as the church.</p></div><div class="fact-check-sources"><h4>Sources consulted</h4><ul><li><a href="https://www.eerdmans.com/9780802821744/the-book-of-revelation/" target="_blank" rel="noopener">G. K. Beale, NIGTC: The Book of Revelation (Eerdmans)</a></li><li><a href="https://www.cambridge.org/core/books/theology-of-the-book-of-revelation/" target="_blank" rel="noopener">Richard Bauckham, The Theology of the Book of Revelation (Cambridge UP)</a></li><li><a href="https://www.logos.com/product/3878/a-greek-english-lexicon-of-the-new-testament-and-other-early-christian-literature-3rd-ed" target="_blank" rel="noopener">BDAG (Bauer-Danker-Arndt-Gingrich), &#x27;hagios&#x27; entry — standard koine Greek lexicon</a></li></ul></div></article>
+<article id="fc-3" class="fact-check verdict-contested"><div class="fact-check-header"><span class="verdict-badge verdict-contested">contested</span><a href="https://www.youtube.com/watch?v=VENtSz78VwY&t=330s" target="_blank" rel="noopener" class="timestamp-link">▶ 00:05:30</a><h3>“When the church is removed, &#x27;the time for gospel grace preaching is over.&#x27;”</h3></div><div class="fact-check-block claim"><h4>Pastor's claim (full)</h4><blockquote>When the church is removed, &#x27;the time for gospel grace preaching is over.&#x27;</blockquote></div><div class="fact-check-block evidence-cited"><h4>Evidence the pastor cited</h4><p>None. Asserted as a consequence of the dispensational schema.</p></div><div class="fact-check-block analysis"><h4>What the evidence shows</h4><p>This claim sits in tension with Matt 24:14 (&#x27;this gospel of the kingdom will be proclaimed throughout the whole world as a testimony to all nations, and then the end will come&#x27;), which positions gospel proclamation as a precondition of the consummation, not as something terminated before it. It also sits against Rev 14:6 (&#x27;I saw another angel flying directly overhead, with an eternal gospel to proclaim to those who dwell on earth, to every nation and tribe and language and people&#x27;), which most commentators read as gospel proclamation continuing through the tribulation period. Within dispensational systematics there are workarounds (e.g., &#x27;kingdom gospel&#x27; vs. &#x27;grace gospel&#x27; bifurcation), but those workarounds themselves require the dispensational distinction-making framework that is, again, not directly present in the text. As a piece of biblical interpretation the claim is contested; as a piece of pastoral teaching the implication — that grace preaching has a time-limited window — has theological consequences worth flagging.</p></div><div class="fact-check-sources"><h4>Sources consulted</h4><ul><li><a href="https://bakerpublishinggroup.com/books/commentary-on-the-new-testament-use-of-the-old-testament/322360" target="_blank" rel="noopener">G. K. Beale &amp; Sean McDonough, &#x27;Revelation&#x27; in Commentary on the New Testament Use of the Old Testament (Baker)</a></li><li><a href="https://www.harpercollins.com/products/surprised-by-hope-n-t-wright" target="_blank" rel="noopener">N. T. Wright, Surprised by Hope (HarperOne) — critique of dispensational eschatology</a></li></ul></div></article>
+
+<h2>Tenets affirmed</h2>
+<ul class="list-affirm"><li>Acknowledges that the spirit of antichrist is already in the world (consistent with 1 John 4:3).</li><li>Affirms Christ&#x27;s promise that the gates of hell will not prevail against his church (Matt 16:18).</li><li>Closing benediction quotes 1 John 4:4 (&quot;greater is he that is in you than he that is in the world&quot;) — a faithful pastoral encouragement.</li></ul>
+
+<h2>Counter-signals</h2>
+<ul class="list-affirm"><li>No explicitly political content in this clip — no voting guidance, no party endorsement, no civil-religion imagery.</li><li>No anti-Muslim, anti-LGBTQ, anti-Jewish, or misogynistic framing surfaces in this short teaching.</li><li>Affirms the believer&#x27;s identity as &#x27;salt and light&#x27; — language Jesus actually used (Matt 5:13–16).</li><li>Acknowledges the existence of textual debate (&#x27;there&#x27;s a lot of debate over what the apostasy means&#x27;) before resolving it.</li></ul>
+
+<h2>Christian Nationalism marker rubric (Whitehead/Perry, Du Mez, Alberta)</h2>
+<table class="cn-markers"><thead><tr><th>Marker</th><th>Status</th><th>Notes</th></tr></thead><tbody><tr><td>A. Conflation of national &amp; Christian identity</td><td class="status-none">None detected</td><td>No national-identity content surfaces in this clip.</td></tr><tr><td>B. Militaristic / warrior framing</td><td class="status-none">None detected</td><td>No combat or armor-of-God framing in this short teaching.</td></tr><tr><td>C. Political opponents as spiritual enemies</td><td class="status-none">None detected</td><td>No political opponents named or implied.</td></tr><tr><td>D. Dominionist rhetoric</td><td class="status-none">None detected</td><td>The &#x27;we are the restraining order in the earth&#x27; framing is passive presence, not Christians-should-govern-institutions dominionism.</td></tr><tr><td>E. Civil religion (flag, pledge)</td><td class="status-none">None detected</td><td></td></tr><tr><td>F. Jeremiad / &#x27;Christianity under attack&#x27;</td><td class="status-none">None detected</td><td>No persecution-grievance framing in this clip.</td></tr><tr><td>G. Ethno-cultural &#x27;real American&#x27; undertones</td><td class="status-none">None detected</td><td></td></tr><tr><td>H. Strongman / authoritarian affinity</td><td class="status-none">None detected</td><td></td></tr></tbody></table>
+
+<h2>Other Axis-2 sub-rubrics</h2>
+<ul><li><strong>Anti-Muslim framing:</strong> Not present in this sermon</li><li><strong>Anti-LGBTQ framing:</strong> Not present in this sermon</li><li><strong>Misogynistic framing:</strong> Not present in this sermon</li><li><strong>Anti-Jewish framing:</strong> Mixed — <span style='color: var(--c-muted);'>The framing of post-rapture life as reverting to &#x27;an old testament-like system&#x27; carries faint supersessionist overtones (treating Israel/OT economy as a regression from the church age) but is not developed into explicit anti-Jewish rhetoric.</span></li><li><strong>Rapture / dispensational framework:</strong> Present — severe — <span style='color: var(--c-muted);'>The entire 6.5-minute teaching is a defense of the pre-tribulation rapture, anchored in Darby-Scofield dispensationalism. It depends on (1) identifying the church as the katechōn of 2 Thess 2:7, (2) reading Genesis 19 as a rapture-type, and (3) bifurcating &#x27;saints&#x27; from &#x27;the church&#x27; to remove Christians from Revelation&#x27;s tribulation. All three are minority positions imposed by systems requirements, not derived from the texts. The teaching closes with a fear-themed pitch for the speaker&#x27;s book and YouTube channel, completing the prophecy-content-product loop.</span></li></ul>
+
+<h2>Full transcript</h2>
+<p class="transcript-note">Highlighted paragraphs contain flagged content (color = severity). Click any timestamp to jump to that moment on YouTube.</p>
+<p id="t-0" class="transcript-para"><a href="https://www.youtube.com/watch?v=VENtSz78VwY&t=0s" target="_blank" rel="noopener" class="ts-link">[00:00:00]</a>Does 2 Thessalonians prove or disprove the rapture of the church? A lot of people look at it and for some reason, which I I can&#x27;t explain, they think it somehow disproves a pre-tribulational rapture. The exact opposite is true. In chapter 2, we have this interesting timeline here. When you read it, first we have the apostasy that is mentioned. Then we have something called the restrainer that is removed. This is in verse number seven where it says, &quot;For the mystery of iniquity doth already work. Only he who now letteth will let</p>
+<p id="t-30" class="transcript-para flagged-severe"><a href="https://www.youtube.com/watch?v=VENtSz78VwY&t=30s" target="_blank" rel="noopener" class="ts-link">[00:00:30]</a>until he be taken out of the way. Or he who restrains will restrain until he&#x27;s taken out of the way. And when the restrainer is removed, then the man of sin is revealed. And when the man of sin is revealed, then we enter in to the day of the Lord. Now, there&#x27;s a lot of debate over uh what the apostasy means. Is it a physical departure? Is it a spiritual departure? Actually, it doesn&#x27;t even matter because when you look at the context, we know that both are going to happen. We know that there will be a spiritual departure for many<span class="finding-refs">→ <a href="#f2-1">Rapture/dispensational framework as the load-bearing structure of the teaching</a></span></p>
+<p id="t-60" class="transcript-para flagged-severe"><a href="https://www.youtube.com/watch?v=VENtSz78VwY&t=60s" target="_blank" rel="noopener" class="ts-link">[00:01:00]</a>will depart from the faith. Paul said, giving heed to seducing spirits and doctrines of devils. And we know there&#x27;s a physical departure because this restrainer is removed. This is what is holding back the man of sin, the antichrist, from being revealed. And then, and only then, will the day of the Lord begin the tribulation. Now, restrainer or letteth. What exactly does that mean? He who now letth will let until he be taken out of the way. Well, it means to hold back, to detain,<span class="finding-refs">→ <a href="#f2-1">Rapture/dispensational framework as the load-bearing structure of the teaching</a></span></p>
+<p id="t-90" class="transcript-para flagged-severe"><a href="https://www.youtube.com/watch?v=VENtSz78VwY&t=90s" target="_blank" rel="noopener" class="ts-link">[00:01:30]</a>to retain from going away, to restrain, to hinder the course or the progress of. We already know that there are many antichrists in the world. We&#x27;re told that in the epistles. We know that the spirit of antichrist is already in the world. What is holding back the man of sin from being revealed? There is something hindering the course or progress of the antichrist agenda. That<span class="finding-refs">→ <a href="#f4-1">The &#x27;restrainer&#x27; (2 Thess 2:7) identified as the church — one minority option presented as the canonical answer</a></span></p>
+<p id="t-120" class="transcript-para flagged-severe"><a href="https://www.youtube.com/watch?v=VENtSz78VwY&t=120s" target="_blank" rel="noopener" class="ts-link">[00:02:00]</a>which hinders leth or restrain the antichrist from making his appearance to hold fast to keep secure to keep firm possession of to get possession of to take or to possess. So this is what he who now letth will let until he&#x27;s taken out of the way. So we have to ask ourselves then. Is there a force in the New Testament that is described as a restrainer? Well, there&#x27;s a couple references to a restrainer in the world. The Bible talks<span class="finding-refs">→ <a href="#f4-1">The &#x27;restrainer&#x27; (2 Thess 2:7) identified as the church — one minority option presented as the canonical answer</a></span></p>
+<p id="t-150" class="transcript-para flagged-severe"><a href="https://www.youtube.com/watch?v=VENtSz78VwY&t=150s" target="_blank" rel="noopener" class="ts-link">[00:02:30]</a>about there will be a force that is referenced as salt [music] and a force that is referenced as light. But what does salt do? [music] It holds back. It letth it restrainth decay. What does light do? [music] It holds back and it restrains darkness. And who is called the salt and light in the earth? You&#x27;re exactly right. That is the church of Jesus Christ. We are salt and light. Here&#x27;s what it says in Genesis chapter 19, which I think is a fascinating rapture<span class="finding-refs">→ <a href="#f1-1">Lot/Sodom read as rapture type — inverts Jesus&#x27;s own use of the same story</a>; <a href="#f4-3">Genesis 19 (Lot/Sodom) read as a rapture passage — against the actual text and against Jesus&#x27;s use of it</a></span></p>
+<p id="t-180" class="transcript-para flagged-severe"><a href="https://www.youtube.com/watch?v=VENtSz78VwY&t=180s" target="_blank" rel="noopener" class="ts-link">[00:03:00]</a>passage. And this is from the amplified version. It says, &quot;Hurry,&quot; referring to Lot. hurry and take refuge there. For here&#x27;s what God says. I cannot do anything to punish Sodom until you arrive there. For this reason, the town was named Zor few or small. So, there was a restraining force that was holding back the wrath of God, that was holding back the judgment of God. And what was it? It was someone in righteous covenant with God in the earth. In fact, when<span class="finding-refs">→ <a href="#f1-1">Lot/Sodom read as rapture type — inverts Jesus&#x27;s own use of the same story</a>; <a href="#f4-3">Genesis 19 (Lot/Sodom) read as a rapture passage — against the actual text and against Jesus&#x27;s use of it</a></span></p>
+<p id="t-210" class="transcript-para"><a href="https://www.youtube.com/watch?v=VENtSz78VwY&t=210s" target="_blank" rel="noopener" class="ts-link">[00:03:30]</a>Abraham is negotiating with God, he says, &quot;Will the God of all the earth, the judge of all the earth do what&#x27;s [music] right?&quot; And of course, the inference Abraham is making is, &quot;You cannot pour out your wrath while somebody who&#x27;s in covenant with you, even though they&#x27;re not perfect. It&#x27;s there in that city. [music] You can&#x27;t pour out your wrath.&quot; And God said, &quot;You&#x27;re exactly right. And I won&#x27;t. So, I&#x27;m going to send some angels and I&#x27;m going to bring them out, snatch them out of that city very quickly, and then I&#x27;ll pour my wrath out on the earth.&quot; which helps us understand kind of the</p>
+<p id="t-240" class="transcript-para"><a href="https://www.youtube.com/watch?v=VENtSz78VwY&t=240s" target="_blank" rel="noopener" class="ts-link">[00:04:00]</a>confusion because a lot of people will say Revelation 13:7 and it was given to him to make war with the saints, not the [music] church, and to overcome them. And power was given him over all kindreds [music] and tongues and nations. And people wonder, how is that even possible? How&#x27;s that possible? Because [music] we&#x27;re salt. We&#x27;re light. And here&#x27;s what the Bible says in Matthew chapter 16. And I say also unto you that you are Peter and upon this rock I will build my church. Different</p>
+<p id="t-270" class="transcript-para flagged-severe"><a href="https://www.youtube.com/watch?v=VENtSz78VwY&t=270s" target="_blank" rel="noopener" class="ts-link">[00:04:30]</a>[music] word here. And the gates of hell shall what? Not prevail. So here in Matthew [music] 16, the gates of hell, the agenda of the antichrist will not prevail. But when we get in revelation chapter 13, it says that he will overcome them. That he will prevail. What are we [music] dealing with here? The church as a special entity is the spirit embodied representation of Jesus Christ in [music] the earth. We house his spirit<span class="finding-refs">→ <a href="#f1-3">Bifurcates &#x27;church&#x27; and &#x27;saints&#x27; to remove Christians from suffering</a>; <a href="#f4-2">Bifurcation of &#x27;church&#x27; and &#x27;saints&#x27; so the church never suffers tribulation</a></span></p>
+<p id="t-300" class="transcript-para flagged-severe"><a href="https://www.youtube.com/watch?v=VENtSz78VwY&t=300s" target="_blank" rel="noopener" class="ts-link">[00:05:00]</a>within us and within our unity and our agreement. When we are gone, it will go back to an old testament-like system where we have saints. Saints are referenced [music] in the book of Daniel as an example. There are many different references to saints and it&#x27;s not always a reference to [music] the church. So when we get into Revelation 13, we see these are saints. These are not the church. And that&#x27;s how the antichrist is able to get power and authority over them because the church is a special entity. It is salt and light in [music]<span class="finding-refs">→ <a href="#f1-3">Bifurcates &#x27;church&#x27; and &#x27;saints&#x27; to remove Christians from suffering</a>; <a href="#f4-2">Bifurcation of &#x27;church&#x27; and &#x27;saints&#x27; so the church never suffers tribulation</a></span></p>
+<p id="t-330" class="transcript-para"><a href="https://www.youtube.com/watch?v=VENtSz78VwY&t=330s" target="_blank" rel="noopener" class="ts-link">[00:05:30]</a>the earth. What I&#x27;m trying to get across to you is that we are the restraining order in the earth. God has put us here as a restraining force. And when it comes time for his judgment to be poured out, the time for gospel grace preaching is over. And we&#x27;re going to be taken out of here. And so will the image of Jesus Christ in the church be taken out of here. The restraining force of the Holy Spiritfilled church will be removed. We are the restraining order. Have a whole teaching on this on YouTube. You can look it up on our YouTube channel. Go to</p>
+<p id="t-360" class="transcript-para flagged-moderate"><a href="https://www.youtube.com/watch?v=VENtSz78VwY&t=360s" target="_blank" rel="noopener" class="ts-link">[00:06:00]</a>Revival Nation on YouTube and you&#x27;ll find it there. But be encouraged. Greater is he that is in you than he that&#x27;s in the world. The Bible warns about [music] deception in the last days. But what if one of the great deceptions is what you believe or don&#x27;t believe about the rapture of the church? I dive into that and much more in my latest book, They Lied to You About the Rapture. Get your copy today.<span class="finding-refs">→ <a href="#f2-2">Teaching closes with a book sale tied to fear of being deceived</a></span></p>
+
+<footer>
+<h3>Methodology</h3>
+<p><strong>Axis 1 — Fidelity to Jesus's Teachings:</strong> findings flag contradictions with, tensions against, or notable absences from Jesus's direct words in the four Gospels. Reference translation: ESV.</p>
+<p><strong>Axis 2 — Identifiable Biases / Harmful Rhetoric:</strong> co-equal sub-rubrics for Christian nationalism (Whitehead &amp; Perry's <em>Taking America Back for God</em>; Du Mez, <em>Jesus and John Wayne</em>; Alberta, <em>The Kingdom, the Power, and the Glory</em>), anti-Muslim framing, anti-LGBTQ framing, misogynistic framing, and anti-Jewish framing. Findings weighted by <em>reach × specificity × real-world harm potential</em>.</p>
+<p><strong>Axis 3 — Factual Claims &amp; Evidence Check:</strong> empirical claims extracted from the sermon are compared against independent scholarly, journalistic, and primary sources. Each claim receives a verdict (Supported · Partially supported · Contested · Misleading · Unsupported · False) and records whether the pastor cited evidence when making the claim (a rhetorical concern distinct from the empirical verdict). No verdict is rendered without a cited source.</p>
+<p><strong>Axis 4 — Whole-Bible Engagement:</strong> for each major framing in the sermon, the pastor's claim is placed side-by-side with Jesus's Gospel witness and with the wider biblical canon (OT and non-Gospel NT). This surfaces cherry-picking (citing a favorable verse while ignoring hostile ones on the same topic) and unacknowledged canonical tension (presenting one biblical voice as the biblical position when the scripture itself contains disagreement). Gospel citations are in ESV; OT and non-Gospel NT citations are in ESV.</p>
+<p><strong>Transcript source:</strong> YouTube auto-captions (YouTube video ID VENtSz78VwY). Auto-caption text may have minor transcription errors; quoted passages have been sanity-checked against the audio.</p>
+<p style="margin-top:1rem;">Report generated 2026-05-06 21:03 UTC.</p>
+</footer>
+</body>
+</html>

@@ -1,0 +1,813 @@
+{
+  "meta": {
+    "sermon_title": "Satan’s End‑Time Deception: The Truth Behind Aliens and UFOs (Astrophysicist Exposes ALL)",
+    "preacher": "Pastor Mike Signorelli",
+    "church": "V1 Church",
+    "church_location": "New York, NY",
+    "series": "",
+    "preaching_text": "",
+    "youtube_id": "IvwE2Erojio",
+    "upload_date": "2026-01-14",
+    "runtime_seconds": 3173,
+    "transcript_path": "transcripts/20260114_pastor_mike_signorelli_satan_s_end_time_deception_the_truth_beh.txt",
+    "gospel_translation": "ESV"
+  },
+  "summary": "Signorelli hosts astrophysicist Hugh Ross for a 53-minute interview-format sermon staged as a personal-testimony plus apologetics conversation. The arc moves from Signorelli's college-deconversion-and-return story (driven by Ross's books) through Ross's 'progressive creationist' framework: a 4.5-billion-year Earth, a literal-but-'worldwide-not-global' Noah's flood placed >40,000 years ago, dinosaurs as part of God's pre-human bio-deposit plan, bipedal primates specially created to train animals to fear humans, and a closing block on UAPs/UFOs in which Ross identifies the 1% non-natural residual of UFO encounters as demonic/angelic incursions, asserts that Soviet scientists sponsored 'occult physics' and that 'as many as 20%' of Soviet scientists 'were possessed by demons,' and frames witchcraft and the occult as causally producing UFO experiences. The sermon closes with a Times-Square Easter teaser, a Ralph-Winter-sourced claim that the Great Commission can be completed in five years, and a QR-code pitch for partnership and Signorelli's book Inherit Your Freedom on bloodline 'inherited curses.' The frame is apologetic-empirical ('the Bible got the science right thousands of years before scientists') paired with a soft dispensational/spiritual-warfare overlay.",
+  "scorecard": {
+    "axis_1": {
+      "label": "Fidelity to Jesus's Teachings (Red Letters)",
+      "verdict": "Mixed — apologetic frame displaces Jesus's stated criteria",
+      "severity": "moderate",
+      "headline": "Jesus's red-letter teaching is largely absent; the sermon is built on Genesis-as-science apologetics. Where Jesus does appear (return / death / judgment), his stated criteria (Matt 25, Matt 24:36-39, Luke 17) are bypassed in favor of completion-of-mission timetables and a 'personal escort' deathbed framing not present in the Gospels."
+    },
+    "axis_2": {
+      "label": "Identifiable Biases / Harmful Rhetoric",
+      "verdict": "Severe demonization claim about a national/scientific population",
+      "severity": "severe",
+      "headline": "Ross's claim that 'as many as 20%' of Soviet scientists were demon-possessed, paired with the assertion that practitioners of 'witchcraft' and 'the occult' causally produce UAP/demonic encounters, is a specific, unhedged, mass-audience demonization of identifiable populations (Soviet/Russian scientists, equatorial-Brazilian religious practitioners, anyone the speaker categorizes as 'occult'). Signorelli affirms and amplifies. Plus a moderate spiritual-warfare reading of contemporary politics."
+    },
+    "axis_3": {
+      "label": "Factual Claims & Evidence Check",
+      "verdict": "Confident scientific framing, weak evidence hygiene",
+      "severity": "moderate",
+      "headline": "The sermon's rhetorical authority rests on scientific-sounding claims delivered by an astrophysicist. Several are accurate or defensible (4.54 Gyr Earth age; faint young sun); several are misstated, overstated, or unsupported (Lemaître/1925 Big Bang; pre-flood 95%+ murder rate; 'thousands can't evolve'; Neanderthal technological stasis; '20% of Soviet scientists possessed'; Ralph Winter 5-year Great Commission). No primary citation is offered for any empirical claim during the interview."
+    },
+    "axis_4": {
+      "label": "Whole-Bible Engagement",
+      "verdict": "Selective; Genesis-as-science crowds out Jesus's own answers",
+      "severity": "moderate",
+      "headline": "On the four major framings (Noah's flood as scientific apologetic, death and afterlife, the spiritual-warfare reading of politics, and end-times/Great-Commission urgency), Jesus's Gospel positions and the wider canon contain significant counter-witnesses (Matt 24:36-39 reading Noah as UNEXPECTED rather than as evidentiary; Luke 23:43 / Phil 1:23 on death without the 'personal escort' embellishment; Acts 1:7 on times and seasons). The pastor and guest draw heavily on Genesis, Psalm 104, and Daniel; little engagement with Jesus's red letters."
+    }
+  },
+  "tenets_affirmed": [
+    "Genuine conversion narrative shared without moral coercion: Signorelli describes his deconversion and re-conversion in personal, non-shaming terms.",
+    "Scriptural scope is broad and old-earth-friendly — affirms Genesis 1's 'day' as a long period (Hebrew yom range), avoids young-earth literalism that itself often produces faith-crisis fallout.",
+    "Affirms a multi-ethnic congregational identity: 'look at all of the cultures, look at all the heritages that are coming together and we're finding our identity in Jesus Christ.'",
+    "Quotes Psalm 23 directly and faithfully in a pastoral context (death/dying)."
+  ],
+  "counter_signals": [
+    "No partisan political endorsement; no flag, pledge, or US civil-religion imagery.",
+    "No anti-LGBTQ or misogynistic content in this sermon.",
+    "Old-earth creationism is itself a counter-signal against young-earth fundamentalism that has driven many deconversions.",
+    "Explicitly multi-ethnic congregational framing (Manhattan / 'crossroads of the world').",
+    "The Noah's-flood section avoids the global-genocidal-flood framing common in young-earth circles by limiting judgment geographically.",
+    "Ross repeatedly grounds claims in 'go check the text' and 'go check the science' rather than personal authority."
+  ],
+  "findings": [
+    {
+      "id": "f1-1",
+      "axis": 1,
+      "severity": "moderate",
+      "headline": true,
+      "title": "Noah used as scientific-apologetic proof rather than as Jesus used him (UNEXPECTEDNESS)",
+      "timestamp_seconds": 300,
+      "timestamp_display": "00:05:00",
+      "pastor_quote": "Noah's Flood in Genesis is the most ridiculed part of the entire Bible. It's the number one reason why people reject the Bible as the inspired and inerrant word of God. So I said, 'Hey, I need to write a book showing people this is not just an allegory. This is actually true chronological history...'",
+      "jesus_quotes": [
+        {
+          "citation": "Matt 24:37-39 — Jesus's one direct citation of Noah, applied to his return",
+          "text": "For as were the days of Noah, so will be the coming of the Son of Man. For as in those days before the flood they were eating and drinking, marrying and giving in marriage, until the day when Noah entered the ark, and they were unaware until the flood came and swept them all away, so will be the coming of the Son of Man."
+        },
+        {
+          "citation": "Luke 17:26-27 — parallel use of Noah by Jesus",
+          "text": "Just as it was in the days of Noah, so will it be in the days of the Son of Man. They were eating and drinking and marrying and being given in marriage, until the day when Noah entered the ark, and the flood came and destroyed them all."
+        },
+        {
+          "citation": "Matt 12:39-41 — Jesus refusing apologetic-sign demand",
+          "text": "An evil and adulterous generation seeks for a sign, but no sign will be given to it except the sign of the prophet Jonah... The men of Nineveh will rise up at the judgment with this generation and condemn it, for they repented at the preaching of Jonah."
+        }
+      ],
+      "rhetorical_mechanism": "certainty-under-ambiguity",
+      "why_flagged": "Jesus, the only NT figure to cite Noah directly in the Gospels, uses the story for a specific moral-eschatological point: people did not see it coming. The point is UNEXPECTEDNESS, not historical-scientific verifiability. The sermon inverts that — making the historicity of the flood the load-bearing evangelistic claim ('this is the number one reason why people reject the Bible'). Jesus does not present Noah as an evidentiary battleground; he presents Noah as a warning against complacency."
+    },
+    {
+      "id": "f1-2",
+      "axis": 1,
+      "severity": "moderate",
+      "headline": false,
+      "title": "Pre-flood humanity as 95%+ murderers — beyond what scripture or Jesus says",
+      "timestamp_seconds": 390,
+      "timestamp_display": "00:06:30",
+      "pastor_quote": "I show in the book that the murder rate was above 95%. Humanity was in danger of self-extermination. God had to step in to rescue humanity from wiping itself out.",
+      "jesus_quotes": [
+        {
+          "citation": "Matt 24:38-39 — Jesus's actual characterization of pre-flood humanity",
+          "text": "In those days before the flood they were eating and drinking, marrying and giving in marriage, until the day when Noah entered the ark, and they were unaware until the flood came..."
+        },
+        {
+          "citation": "Luke 17:27 — same characterization",
+          "text": "They were eating and drinking and marrying and being given in marriage, until the day when Noah entered the ark."
+        },
+        {
+          "citation": "Matt 7:1-2",
+          "text": "Judge not, that you be not judged. For with the judgment you pronounce you will be judged."
+        }
+      ],
+      "rhetorical_mechanism": "certainty-under-ambiguity",
+      "why_flagged": "Jesus's characterization of Noah's generation is strikingly mundane — eating, drinking, marrying — not a 95% murder rate. Genesis 6:5, 11-13 describes generalized 'violence' and 'wickedness,' but assigns no quantitative figure. A specific decimal claim ('above 95%') manufactures false precision out of a non-quantitative biblical text and reframes God's judgment as a numerically defensible surgical intervention. This is the certainty-under-ambiguity mechanism doing theological work — converting an ambiguous narrative into a precise, defensible statistic."
+    },
+    {
+      "id": "f1-3",
+      "axis": 1,
+      "severity": "low",
+      "headline": false,
+      "title": "Deathbed 'personal escort' embellishment beyond what Jesus said",
+      "timestamp_seconds": 2370,
+      "timestamp_display": "00:39:30",
+      "pastor_quote": "About a day or two before you pass, you're going to think you're going to recover... you feel warm, you feel wonderful. That's a sign it's going to happen really soon. And you know it's going to be within minutes when you hear your name being called and Jesus is wanting to give you a personal escort across this life to the next life.",
+      "jesus_quotes": [
+        {
+          "citation": "Luke 23:43 — Jesus's actual word to a dying man",
+          "text": "Truly, I say to you, today you will be with me in paradise."
+        },
+        {
+          "citation": "John 14:1-3",
+          "text": "Let not your hearts be troubled. Believe in God; believe also in me. In my Father's house are many rooms... I will come again and will take you to myself."
+        },
+        {
+          "citation": "John 11:25-26",
+          "text": "I am the resurrection and the life. Whoever believes in me, though he die, yet shall he live."
+        }
+      ],
+      "rhetorical_mechanism": "parasocial attachment",
+      "why_flagged": "Jesus's deathbed promises are real (Luke 23:43; John 14) but minimal — presence, paradise, resurrection. The detailed deathbed phenomenology offered here ('you'll feel warm,' 'you'll hear your name,' 'within minutes'), framed as instruction Ross gave his dying father, has no Gospel basis. Tension, not contradiction; flagged because it is offered with pastoral certainty about a specific experiential script Jesus did not provide."
+    },
+    {
+      "id": "f1-4",
+      "axis": 1,
+      "severity": "moderate",
+      "headline": false,
+      "title": "Great Commission as completable in 5 years displaces Acts 1:7 / Matt 24:36",
+      "timestamp_seconds": 2520,
+      "timestamp_display": "00:42:00",
+      "pastor_quote": "Ralph Winter... wrote a book basically saying that evangelical Christians today have the finances, they got the technology, they got the people to fulfill the Great Commission in less than 10 years. In fact, he said at one point they can do it in 5 years. All we lack is the motivation... I think we can get it done. We can do it in Manhattan, we can do it worldwide.",
+      "jesus_quotes": [
+        {
+          "citation": "Acts 1:7 — Jesus immediately before the ascension",
+          "text": "It is not for you to know times or seasons that the Father has fixed by his own authority."
+        },
+        {
+          "citation": "Matt 24:36",
+          "text": "But concerning that day and hour no one knows, not even the angels of heaven, nor the Son, but the Father only."
+        },
+        {
+          "citation": "Matt 24:14",
+          "text": "And this gospel of the kingdom will be proclaimed throughout the whole world as a testimony to all nations, and then the end will come."
+        },
+        {
+          "citation": "Mark 13:32",
+          "text": "But concerning that day or that hour, no one knows, not even the angels in heaven, nor the Son, but only the Father."
+        }
+      ],
+      "rhetorical_mechanism": "urgency / scarcity cues",
+      "why_flagged": "Jesus connects the gospel-to-all-nations promise (Matt 24:14) to the Father's reserved timing (Matt 24:36; Acts 1:7). The sermon collapses these — Jesus 'will return when we complete the task,' and the task is doable in five years given motivation. This relocates eschatological agency from the Father to the church's logistical capacity, exactly the move Acts 1:7 was uttered to refuse."
+    },
+    {
+      "id": "f1-5",
+      "axis": 1,
+      "severity": "low",
+      "headline": false,
+      "title": "Matthew 25 absent in a sermon framing end-times witness and judgment",
+      "timestamp_seconds": null,
+      "timestamp_display": "(absent from a sermon on end-times witness, evil rising, and final judgment)",
+      "pastor_quote": "[absent] — Across a sermon that frames Noah's flood as a model of God's judgment, places the listener in an end-times urgency frame, and discusses what happens at death, Matthew 25:31-46 is never engaged.",
+      "jesus_quotes": [
+        {
+          "citation": "Matt 25:31-46",
+          "text": "When the Son of Man comes in his glory, and all the angels with him, then he will sit on his glorious throne... 'I was hungry and you gave me food, I was thirsty and you gave me drink, I was a stranger and you welcomed me, I was naked and you clothed me, I was sick and you visited me, I was in prison and you came to me.'... 'Truly, I say to you, as you did it to one of the least of these my brothers, you did it to me.'"
+        }
+      ],
+      "rhetorical_mechanism": "certainty-under-ambiguity",
+      "why_flagged": "Jesus's most extended description of his return-and-judgment scene is Matthew 25:31-46. A sermon thematically built around return/judgment/witness (Noah-as-judgment, evil-rising, complete-the-Commission, demonic interference in politics) without engaging Matt 25 has displaced Jesus's stated judgment criterion (concrete care for the hungry, sick, imprisoned, stranger) with a Genesis-historicity-plus-occult-warning frame."
+    },
+    {
+      "id": "f2-1",
+      "axis": 2,
+      "severity": "severe",
+      "headline": true,
+      "title": "'20% of Soviet scientists were possessed by demons'",
+      "timestamp_seconds": 2220,
+      "timestamp_display": "00:37:00",
+      "timestamp_end_seconds": 2280,
+      "pastor_quote": "I spoke on this to scientists in the Soviet Union when it was run by the communists. And now that was a time when their major research institutions were sponsoring occult physics. And so I'd be speaking to scientists where as many as 20% of them you could tell were possessed by demons.",
+      "jesus_quotes": [
+        {
+          "citation": "Matt 7:1-2",
+          "text": "Judge not, that you be not judged. For with the judgment you pronounce you will be judged, and with the measure you use it will be measured to you."
+        },
+        {
+          "citation": "Matt 12:24-28 — Jesus on attributing spiritual states to demonic agency",
+          "text": "But when the Pharisees heard it, they said, 'It is only by Beelzebul, the prince of demons, that this man casts out demons.' Knowing their thoughts, he said to them, 'Every kingdom divided against itself is laid waste...'"
+        },
+        {
+          "citation": "Matt 5:44",
+          "text": "Love your enemies and pray for those who persecute you."
+        }
+      ],
+      "rhetorical_mechanism": "tribal identity activation",
+      "why_flagged": "A specific quantitative claim that ~1-in-5 scientists in an identifiable national/professional population were demonically possessed, delivered with the casual phrase 'you could tell,' is the demonization of a real human group with no falsifiable criterion offered. Reach: Signorelli's YouTube channel runs to multi-million-view shorts; the segment's structure ('this is testable — close the doors of the occult, the encounters stop') generalizes the demon-attribution to anyone the speaker categorizes as occult-practicing. The Pharisees' move in Matt 12 — attributing spiritual states they disliked to demonic agency — is the move Jesus rebuked. Severity: severe under the reach × specificity × harm calculus regardless of whether it ticks a named CN-rubric box."
+    },
+    {
+      "id": "f2-2",
+      "axis": 2,
+      "severity": "moderate",
+      "headline": false,
+      "title": "Equatorial Brazilians and 'occult' practitioners as causal source of UAP/demonic encounters",
+      "timestamp_seconds": 2280,
+      "timestamp_display": "00:37:30",
+      "pastor_quote": "Equatorial Brazil, the percentage is way higher. That's because people are practicing the occult to a much higher degree... close all the doors of the occult, that'll be the end of these UAP encounters that you have. This is a testable hypothesis. You know, get rid of the occult, it won't happen. Bring the occult in your life, it will happen.",
+      "jesus_quotes": [
+        {
+          "citation": "John 9:1-3 — Jesus refusing the cause-and-effect attribution of personal suffering to sin",
+          "text": "And his disciples asked him, 'Rabbi, who sinned, this man or his parents, that he was born blind?' Jesus answered, 'It was not that this man sinned, or his parents, but that the works of God might be displayed in him.'"
+        },
+        {
+          "citation": "Luke 13:1-5 — Jesus refusing the assumption that calamity tracks moral status",
+          "text": "Do you think that these Galileans were worse sinners than all the other Galileans, because they suffered in this way? No, I tell you."
+        },
+        {
+          "citation": "John 4:9-10 — Jesus engages a religious outsider on her own terms",
+          "text": "The Samaritan woman said to him, 'How is it that you, a Jew, ask for a drink from me, a woman of Samaria?'"
+        }
+      ],
+      "rhetorical_mechanism": "threat / fear activation",
+      "why_flagged": "A geographic/cultural population (equatorial Brazil) is named as the high-incidence zone for demonic encounters, with a causal mechanism ('they practice the occult'). 'Occult' is left undefined — implicating Afro-Brazilian religions (Candomblé, Umbanda) and Indigenous practices common across that geography. A specific cultural-religious population is rendered demonic by inference. Jesus systematically refused tracking-supernatural-misfortune-to-population's-sin (John 9; Luke 13) when his own disciples proposed it."
+    },
+    {
+      "id": "f2-3",
+      "axis": 2,
+      "severity": "moderate",
+      "headline": false,
+      "title": "Contemporary politics as demonic interference (book of Daniel framing)",
+      "timestamp_seconds": 2160,
+      "timestamp_display": "00:36:00",
+      "pastor_quote": "We know these beings are there because look at how much crazy the world's politics is. I mean, if it wasn't for interference like you see in the book of Daniel, politics would be a whole lot more rational. So don't get too overrought by politics. There really is a supernatural battle going on. And guess what? We're part of that battle.",
+      "jesus_quotes": [
+        {
+          "citation": "Mark 12:17",
+          "text": "Render to Caesar the things that are Caesar's, and to God the things that are God's."
+        },
+        {
+          "citation": "John 18:36",
+          "text": "My kingdom is not of this world. If my kingdom were of this world, my servants would have been fighting."
+        },
+        {
+          "citation": "Matt 5:9",
+          "text": "Blessed are the peacemakers, for they shall be called sons of God."
+        }
+      ],
+      "rhetorical_mechanism": "heroic / agency identification",
+      "why_flagged": "Routing the contemporary political condition through Daniel-10-style angelic conflict frames political opponents and conditions as supernaturally-driven rather than as human disagreements requiring deliberation, listening, or repair. 'We're part of that battle' positions ordinary listeners as combatants in a cosmic war whose terms are defined by the speaker. This is the heroic-identification mechanism in service of a politicized spiritual-warfare worldview, even though no party or candidate is named."
+    },
+    {
+      "id": "f2-4",
+      "axis": 2,
+      "severity": "low",
+      "headline": false,
+      "title": "Generational-curse / bloodline framing in the closing partnership pitch",
+      "timestamp_seconds": 3060,
+      "timestamp_display": "00:51:00",
+      "pastor_quote": "I want to mail you a copy of my book Inherit Your Freedom... there's quizzes inside here that are super quick and what they do is help you assess the inherited curses and patterns of sin that have come through your bloodline. And then I have links to these prayers... Scan that QR code now and partner with Mike Signorelli Ministries.",
+      "jesus_quotes": [
+        {
+          "citation": "John 9:1-3 — Jesus refuses bloodline/inherited-sin causation",
+          "text": "'Rabbi, who sinned, this man or his parents, that he was born blind?' Jesus answered, 'It was not that this man sinned, or his parents...'"
+        },
+        {
+          "citation": "Ezek 18:20 — OT direct refutation of inherited guilt",
+          "text": "The soul who sins shall die. The son shall not suffer for the iniquity of the father, nor the father suffer for the iniquity of the son."
+        },
+        {
+          "citation": "Jer 31:29-30 — same correction",
+          "text": "In those days they shall no longer say: 'The fathers have eaten sour grapes, and the children's teeth are set on edge.' But everyone shall die for his own iniquity."
+        }
+      ],
+      "rhetorical_mechanism": "urgency / scarcity cues",
+      "why_flagged": "The 'inherited curses through your bloodline' framework runs against an explicit OT correction (Ezek 18:20; Jer 31:29-30) and Jesus's direct refusal of the same logic (John 9). Severity is low (the broader sermon is not built on this) but it shapes the monetization pivot: the diagnostic ('quizzes' to find your inherited curses) and the cure (prayers in the book + monthly Zoom partnership) are bundled with the QR-code partnership pitch. This is the subscription-shape pattern in miniature — an open-ended diagnosis paired with a recurring-revenue resolution."
+    }
+  ],
+  "axis4_findings": [
+    {
+      "id": "f4-1",
+      "axis": 4,
+      "severity": "moderate",
+      "headline": true,
+      "title": "Noah's flood as scientific-apologetic rather than as Jesus's UNEXPECTEDNESS warning",
+      "topic": "How the Noah narrative functions in Christian teaching",
+      "timestamp_seconds": 300,
+      "timestamp_display": "00:05:00",
+      "pastor_quote": "It's the number one reason why people reject the Bible as the inspired and inerrant word of God. So I said, 'Hey, I need to write a book showing people this is not just an allegory. This is actually true chronological history and it's more scientifically defensible today than it was 2 years ago, 5 years ago and 10 years ago.'",
+      "jesus_passages": [
+        {
+          "citation": "Matt 24:37-39 — Jesus's one direct application of Noah",
+          "text": "For as were the days of Noah, so will be the coming of the Son of Man. For as in those days before the flood they were eating and drinking, marrying and giving in marriage, until the day when Noah entered the ark, and they were unaware until the flood came and swept them all away."
+        },
+        {
+          "citation": "Luke 17:26-27 — parallel",
+          "text": "Just as it was in the days of Noah, so will it be in the days of the Son of Man."
+        },
+        {
+          "citation": "Matt 12:39-41 — Jesus on Jonah, treated as repentance-sign not historicity-proof",
+          "text": "An evil and adulterous generation seeks for a sign, but no sign will be given to it except the sign of the prophet Jonah... The men of Nineveh will rise up at the judgment with this generation and condemn it, for they repented at the preaching of Jonah."
+        }
+      ],
+      "wider_bible_passages": [
+        {
+          "citation": "Gen 6:5-8",
+          "text": "The Lord saw that the wickedness of man was great in the earth... But Noah found favor in the eyes of the Lord."
+        },
+        {
+          "citation": "1 Pet 3:20-21 — Peter reads Noah typologically, not evidentially",
+          "text": "When God's patience waited in the days of Noah, while the ark was being prepared, in which a few, that is, eight persons, were brought safely through water. Baptism, which corresponds to this, now saves you."
+        },
+        {
+          "citation": "2 Pet 2:5 — Peter's other Noah reference, in a moral typology",
+          "text": "If he did not spare the ancient world, but preserved Noah, a herald of righteousness, with seven others..."
+        },
+        {
+          "citation": "Heb 11:7 — Noah as faith exemplar",
+          "text": "By faith Noah, being warned by God concerning events as yet unseen, in reverent fear constructed an ark for the saving of his household."
+        }
+      ],
+      "analysis": "Across the canon, Noah is read morally and typologically — faith under warning (Heb 11:7), forbearance and salvation through water (1 Pet 3:20-21), righteousness amid corruption (2 Pet 2:5), and unexpectedness of judgment (Matt 24:37-39 / Luke 17:26-27). Jesus, the only NT figure to apply Noah directly to his own teaching, draws the lesson of UNEXPECTEDNESS — the people 'did not know' until the flood came. The sermon inverts this: Noah's historical-scientific defensibility becomes the load-bearing apologetic claim ('the number one reason why people reject the Bible'). Jesus's actual reading runs in the other direction — Noah is precisely not a sign-readable apologetic event; he is a warning against confidence that you can read the signs.",
+      "why_flagged": "The pastor selects a use of Noah (historicity-as-evidence-for-inerrancy) that no NT writer, including Jesus, deploys. The canonical witness (Hebrews, 1 & 2 Peter, Jesus in the Synoptics) reads Noah morally and typologically. The historicity battleground is a 19th-21st century apologetic concern, not a biblical one."
+    },
+    {
+      "id": "f4-2",
+      "axis": 4,
+      "severity": "moderate",
+      "headline": false,
+      "title": "Death and the afterlife — 'personal escort' framing",
+      "topic": "What the Bible actually says about dying and what comes next",
+      "timestamp_seconds": 2370,
+      "timestamp_display": "00:39:30",
+      "pastor_quote": "And you know it's going to be within minutes when you hear your name being called and Jesus is wanting to give you a personal escort across this life to the next life.",
+      "jesus_passages": [
+        {
+          "citation": "Luke 23:43",
+          "text": "Truly, I say to you, today you will be with me in paradise."
+        },
+        {
+          "citation": "John 14:1-3",
+          "text": "Let not your hearts be troubled... In my Father's house are many rooms... I will come again and will take you to myself."
+        },
+        {
+          "citation": "John 11:25-26",
+          "text": "I am the resurrection and the life. Whoever believes in me, though he die, yet shall he live, and everyone who lives and believes in me shall never die."
+        },
+        {
+          "citation": "Luke 16:22 — the only Gospel passage approaching an 'escort' image, and it is parabolic",
+          "text": "The poor man died and was carried by the angels to Abraham's side."
+        }
+      ],
+      "wider_bible_passages": [
+        {
+          "citation": "Phil 1:21-23",
+          "text": "For to me to live is Christ, and to die is gain... My desire is to depart and be with Christ, for that is far better."
+        },
+        {
+          "citation": "2 Cor 5:6-8",
+          "text": "We are of good courage, and we would rather be away from the body and at home with the Lord."
+        },
+        {
+          "citation": "1 Thess 4:13-18",
+          "text": "We do not want you to be uninformed, brothers, about those who are asleep, that you may not grieve as others do who have no hope... The dead in Christ will rise first."
+        },
+        {
+          "citation": "1 Cor 15:51-52",
+          "text": "Behold! I tell you a mystery. We shall not all sleep, but we shall all be changed, in a moment, in the twinkling of an eye, at the last trumpet."
+        },
+        {
+          "citation": "Ps 23:4 — quoted by Signorelli in this sermon",
+          "text": "Even though I walk through the valley of the shadow of death, I will fear no evil, for you are with me."
+        }
+      ],
+      "analysis": "The canonical picture of dying-as-believer is sparse and consistent: presence ('with me in paradise'), companionship ('I am with you'), and bodily resurrection ('the dead in Christ will rise first'). Paul's 'depart and be with Christ' (Phil 1:23) is the most experiential statement and is still spare. The detailed deathbed phenomenology Ross offers his dying father — 'you'll feel warm, you'll feel wonderful,' 'you'll hear your name called,' 'within minutes,' 'personal escort' — has no Gospel or epistolary basis and risks producing pastoral cruelty when a dying person's experience does not match the script. Signorelli does correctly anchor the moment to Psalm 23 in his closing comment, which is canonical; Ross's prior buildup is not.",
+      "why_flagged": "A canonical pastoral teaching exists (Luke 23:43; John 14; Phil 1:21-23; 1 Thess 4:13-18) and is sparse for good reason — no biblical author claims experiential phenomenology beyond presence, sleep, and resurrection. Adding a specific minute-by-minute deathbed script and presenting it as instruction one gives a dying parent overcommits the canon."
+    },
+    {
+      "id": "f4-3",
+      "axis": 4,
+      "severity": "moderate",
+      "headline": false,
+      "title": "UAPs / aliens read through Daniel-10 plus a single demonology grid",
+      "topic": "How scripture engages 'other intelligent beings' — the canonical range",
+      "timestamp_seconds": 2040,
+      "timestamp_display": "00:34:00",
+      "pastor_quote": "God created two distinct species of intelligent life. We human beings that are constrained by the physics of the universe and angels who are not... [the 1% UAP residual] are non-physical... people of close encounters with these non-physical but real entities, it's always harmful. The best they come away with is recurring terrifying nightmares. Worst-case scenario, they get killed by the encounter.",
+      "jesus_passages": [
+        {
+          "citation": "Matt 4:11",
+          "text": "Then the devil left him, and behold, angels came and were ministering to him."
+        },
+        {
+          "citation": "Luke 1:28-30 — Gabriel's first words in Luke are reassurance, not terror",
+          "text": "And he came to her and said, 'Greetings, O favored one, the Lord is with you!'... 'Do not be afraid, Mary, for you have found favor with God.'"
+        },
+        {
+          "citation": "Matt 28:5 — angel at the tomb",
+          "text": "Do not be afraid, for I know that you seek Jesus who was crucified."
+        },
+        {
+          "citation": "Luke 22:43",
+          "text": "And there appeared to him an angel from heaven, strengthening him."
+        }
+      ],
+      "wider_bible_passages": [
+        {
+          "citation": "Heb 13:2",
+          "text": "Do not neglect to show hospitality to strangers, for thereby some have entertained angels unawares."
+        },
+        {
+          "citation": "Dan 10:12-14 — the passage Ross alludes to, set in spiritual conflict but ending in encouragement",
+          "text": "Fear not, Daniel, for from the first day that you set your heart to understand and humbled yourself before your God, your words have been heard, and I have come because of your words."
+        },
+        {
+          "citation": "Acts 12:7-10 — angelic encounter framed as deliverance",
+          "text": "And behold, an angel of the Lord stood next to him... And the chains fell off his hands."
+        },
+        {
+          "citation": "1 Pet 1:12 — angels as longing observers of redemption",
+          "text": "Things into which angels long to look."
+        },
+        {
+          "citation": "Rev 22:8-9 — angelic refusal of worship, framed peer-to-peer with humans",
+          "text": "I fell down to worship at the feet of the angel... but he said to me, 'You must not do that! I am a fellow servant with you and your brothers the prophets.'"
+        }
+      ],
+      "analysis": "The canonical witness on non-human intelligent beings is broader and more textured than the sermon admits. Jesus is ministered to by angels (Matt 4:11; Luke 22:43). Gabriel and the resurrection angels open with 'do not be afraid' but their function is reassurance and announcement, not terror. Hebrews 13:2 frames angelic encounter as a hospitality risk that goes well if you respond with welcome. Acts 12 frames it as deliverance. Daniel 10 — the very passage Ross deploys — ends with the angel telling Daniel 'fear not' and explaining he has come because of Daniel's prayer. The sermon's grid ('the 1% non-natural residual is always harmful: nightmares or death') flattens this canonical range into a single demonology channel, which is then mapped onto a contemporary UAP-discourse genre. Even granting the demonic-encounter category exists in scripture, the canonical position is not 'all non-physical encounter is harmful.' That is a category restriction the canon does not make.",
+      "why_flagged": "Scripture knows angelic encounter as ministry, deliverance, announcement, peer-fellowship, and hospitality test — not exclusively as terror or harm. The sermon's grid forecloses the canon's range, and then uses the foreclosure to do explanatory work on a 21st-century cultural object (the UAP phenomenon) the canon never addresses."
+    },
+    {
+      "id": "f4-4",
+      "axis": 4,
+      "severity": "moderate",
+      "headline": false,
+      "title": "Politics as demonic interference — one canonical voice presented as the canon's voice",
+      "topic": "How Christians should interpret contemporary political conditions",
+      "timestamp_seconds": 2160,
+      "timestamp_display": "00:36:00",
+      "pastor_quote": "If it wasn't for interference like you see in the book of Daniel, politics would be a whole lot more rational... There really is a supernatural battle going on. And guess what? We're part of that battle.",
+      "jesus_passages": [
+        {
+          "citation": "Mark 12:17",
+          "text": "Render to Caesar the things that are Caesar's, and to God the things that are God's."
+        },
+        {
+          "citation": "John 18:36",
+          "text": "My kingdom is not of this world. If my kingdom were of this world, my servants would have been fighting."
+        },
+        {
+          "citation": "Matt 5:9",
+          "text": "Blessed are the peacemakers, for they shall be called sons of God."
+        },
+        {
+          "citation": "Luke 13:1-3 — Jesus refusing to read political violence as a special supernatural marker",
+          "text": "Do you think that these Galileans were worse sinners than all the other Galileans, because they suffered in this way? No, I tell you; but unless you repent, you will all likewise perish."
+        }
+      ],
+      "wider_bible_passages": [
+        {
+          "citation": "Dan 10:13, 20 — the passage being invoked",
+          "text": "The prince of the kingdom of Persia withstood me twenty-one days... now I will return to fight against the prince of Persia."
+        },
+        {
+          "citation": "Eph 6:12 — the closest NT echo",
+          "text": "We do not wrestle against flesh and blood, but against the rulers, against the authorities, against the cosmic powers over this present darkness."
+        },
+        {
+          "citation": "Rom 13:1-2",
+          "text": "Let every person be subject to the governing authorities. For there is no authority except from God..."
+        },
+        {
+          "citation": "1 Tim 2:1-2",
+          "text": "I urge that supplications, prayers, intercessions, and thanksgivings be made for all people, for kings and all who are in high positions, that we may lead a peaceful and quiet life."
+        },
+        {
+          "citation": "Rev 13 / Rev 17-18 — apocalyptic anti-imperial reading",
+          "text": "[John of Patmos reads Rome as Babylon and the beast as imperial power.]"
+        }
+      ],
+      "analysis": "The Bible has at least four distinguishable readings of political life: Daniel-10 / Eph-6 cosmic-conflict (real, biblical, but specifically about spiritual resistance to prayer, not 'why is politics crazy'); Romans-13 / 1-Tim-2 institutional-authority and intercession; Jesus's own apolitical-withdrawal (Mark 12:17; John 18:36); and Revelation's prophetic-adversarial reading of imperial power. The sermon collapses these into the Daniel-10 frame and uses it to explain contemporary political dysfunction generally — a use Daniel 10 itself does not authorize (the Daniel passage is about a 21-day delay in answering prayer, not about why ambient political conditions feel chaotic). This is selection-without-acknowledgment within a genuinely contested intra-canonical question.",
+      "why_flagged": "Scripture contains at least four distinct postures toward political life. The pastor invokes one (Daniel-10 cosmic conflict) and applies it as if it were the canon's voice. None of the other three (Romans-13 submission, Jesus's apolitical withdrawal, Revelation's anti-imperial denunciation) is engaged or named."
+    },
+    {
+      "id": "f4-5",
+      "axis": 4,
+      "severity": "low",
+      "headline": false,
+      "title": "Eschatological optimism via Great-Commission completion timetable",
+      "topic": "Whether and how the timing of Christ's return can be calculated",
+      "timestamp_seconds": 2520,
+      "timestamp_display": "00:42:00",
+      "pastor_quote": "Jesus said he would return when we take the good news of salvation to all the people groups of the world... [Ralph Winter said] they can do it in 5 years. All we lack is the motivation... I think we can get it done.",
+      "jesus_passages": [
+        {
+          "citation": "Matt 24:14",
+          "text": "And this gospel of the kingdom will be proclaimed throughout the whole world as a testimony to all nations, and then the end will come."
+        },
+        {
+          "citation": "Matt 24:36",
+          "text": "But concerning that day and hour no one knows, not even the angels of heaven, nor the Son, but the Father only."
+        },
+        {
+          "citation": "Acts 1:7",
+          "text": "It is not for you to know times or seasons that the Father has fixed by his own authority."
+        },
+        {
+          "citation": "Matt 28:19-20 — the Great Commission with Jesus's promise, not a deadline",
+          "text": "Go therefore and make disciples of all nations... And behold, I am with you always, to the end of the age."
+        }
+      ],
+      "wider_bible_passages": [
+        {
+          "citation": "2 Pet 3:8-9",
+          "text": "With the Lord one day is as a thousand years, and a thousand years as one day. The Lord is not slow to fulfill his promise as some count slowness, but is patient toward you, not wishing that any should perish."
+        },
+        {
+          "citation": "1 Thess 5:2",
+          "text": "The day of the Lord will come like a thief in the night."
+        },
+        {
+          "citation": "Deut 29:29",
+          "text": "The secret things belong to the Lord our God, but the things that are revealed belong to us."
+        }
+      ],
+      "analysis": "Matthew 24:14 makes gospel-to-all-nations a precondition; Matt 24:36 / Acts 1:7 reserve timing to the Father. The wider canon (2 Pet 3:8-9) explicitly counters the 'we can finish in 5 years' instinct by saying that what looks like delay is patience — God not wishing any to perish. The sermon's logic ('we have the people, finances, technology — all we lack is motivation') treats the unfinished Commission as a project-management problem and Christ's return as a deliverable downstream. Even held within evangelical missiology, this is a contested move: most serious mission theology distinguishes the church's task from God's reserved timing.",
+      "why_flagged": "Combining Matt 24:14 (a precondition) with a five-year human timetable to trigger Christ's return understates Matt 24:36, Acts 1:7, and 2 Pet 3:9. The wider canon explicitly resists the conversion of eschatological timing into a measurable human deliverable."
+    }
+  ],
+  "factual_claims": [
+    {
+      "id": "fc-1",
+      "timestamp_seconds": 1530,
+      "timestamp_display": "00:25:30",
+      "claim": "Abbé Lemaître was the first scientist to discover that we live in a Big Bang universe, in 1925, and he was a Christian astrophysicist.",
+      "evidence_cited_by_pastor": "None. Asserted in passing.",
+      "verdict": "partially supported / overstated",
+      "analysis": "Georges Lemaître was indeed a Belgian Catholic priest and astrophysicist, and is correctly credited with the first formulation of what would become Big Bang cosmology. However, the date is wrong: Lemaître's foundational paper proposing an expanding universe was published in 1927 ('Un Univers homogène de masse constante et de rayon croissant rendant compte de la vitesse radiale des nébuleuses extragalactiques'), not 1925. His more developed 'primeval atom' / 'cosmic egg' hypothesis — closer to modern Big Bang language — followed in 1931. The claim that he was 'the first to discover' it requires hedging: Friedmann's 1922 equations independently produced expanding-universe solutions, and Hubble's 1929 observational paper is what cemented expansion empirically. So: real Christian astrophysicist, real Big Bang precedence, but the date and the framing of priority are imprecise.",
+      "sources": [
+        {
+          "title": "American Physical Society — Georges Lemaître and the Origin of the Big Bang",
+          "url": "https://www.aps.org/publications/apsnews/200712/physicshistory.cfm"
+        },
+        {
+          "title": "Nature — Georges Lemaître: father of the Big Bang",
+          "url": "https://www.nature.com/articles/nature10869"
+        }
+      ]
+    },
+    {
+      "id": "fc-2",
+      "timestamp_seconds": 390,
+      "timestamp_display": "00:06:30",
+      "claim": "The pre-flood human murder rate was 'above 95%.'",
+      "evidence_cited_by_pastor": "None offered in the interview; deferred to 'I show in the book.' The biblical text (Gen 6) describes 'wickedness' and 'violence' qualitatively but provides no quantitative figure.",
+      "verdict": "unsupported",
+      "analysis": "There is no biblical text that quantifies the pre-flood murder rate. Gen 6:5 ('every intention of the thoughts of his heart was only evil continually') and Gen 6:11 ('the earth was filled with violence') describe pervasive moral corruption qualitatively. There is also no archaeological or anthropological dataset that would license a >95% murder-rate figure for any pre-Holocene human population — Pinker's controversial pre-state violence estimates and Keeley's War Before Civilization propose elevated violent-death rates in pre-state societies (15-60% in some samples), but these are debated and nowhere approach 95%. The figure functions rhetorically as false precision. Without access to the specific argument in Ross's Noah's Flood Revisited, the number cannot be evaluated against a stated methodology — but no published demographic or anthropological literature supports it as a population-level claim.",
+      "sources": [
+        {
+          "title": "Steven Pinker — The Better Angels of Our Nature (Viking, 2011) — discussion of pre-state violent-death estimates",
+          "url": "https://stevenpinker.com/publications/better-angels-our-nature"
+        },
+        {
+          "title": "Lawrence Keeley — War Before Civilization (Oxford UP, 1996) — anthropology of prehistoric violence",
+          "url": "https://global.oup.com/academic/product/war-before-civilization-9780195119121"
+        }
+      ]
+    },
+    {
+      "id": "fc-3",
+      "timestamp_seconds": 2220,
+      "timestamp_display": "00:37:00",
+      "claim": "In Soviet research institutions during the late 1980s, 'as many as 20%' of scientists 'were possessed by demons,' and this percentage 'dropped' after 1994 because the Soviet state was no longer 'sponsoring occult physics.'",
+      "evidence_cited_by_pastor": "First-person observation: 'you could tell.' No further methodology, dataset, or independent corroboration.",
+      "verdict": "unsupported",
+      "analysis": "There is no validated diagnostic for demon possession that produces population-level percentages with methodological reliability — the claim is unfalsifiable on its face. Two ancillary historical claims need separation: (a) Did Soviet research institutions sponsor 'occult physics' research? Soviet-era parapsychology programs did exist (the KGB and military funded 'psychotronic' / parapsychology research alongside US Stargate Project-type work in the 1970s-80s) — that part is partially supported. Christopher Andrew & Vasili Mitrokhin's Sword and Shield and published Soviet-parapsychology histories confirm such programs. (b) Does that licensing yield a 20% demonic-possession figure? No methodology, dataset, or independent observer corroborates this. The claim combines a partially-real institutional-history detail with an undefined and unverifiable population-level supernatural diagnosis. The combination produces the rhetorical authority of a real fact while making a claim that is in principle unfalsifiable.",
+      "sources": [
+        {
+          "title": "Christopher Andrew & Vasili Mitrokhin — The Sword and the Shield: The Mitrokhin Archive and the Secret History of the KGB",
+          "url": "https://www.basicbooks.com/titles/christopher-andrew/the-sword-and-the-shield/9780465003129/"
+        },
+        {
+          "title": "FOIA — CIA Stargate Project archive (provides comparative US/Soviet parapsychology context)",
+          "url": "https://www.cia.gov/readingroom/collection/stargate"
+        }
+      ]
+    },
+    {
+      "id": "fc-4",
+      "timestamp_seconds": 1860,
+      "timestamp_display": "00:31:00",
+      "claim": "Neanderthal anatomy and technology were unchanged across their entire 400,000-to-40,000-years-ago range — 'no evolution,' 'no technological advance' — whereas modern humans went from cave to moon-landing in 'a few tens of thousands of years.'",
+      "evidence_cited_by_pastor": "None. Asserted as established science.",
+      "verdict": "misleading",
+      "analysis": "This significantly overstates Neanderthal stasis. Recent paleoanthropological work documents real Neanderthal change: the transition from earlier Mousterian tool industries to the more refined Châtelperronian (~45,000 BP) is widely interpreted as a Neanderthal-driven technological development, with personal ornamentation and bone tools appearing late in the Neanderthal record. Neanderthals controlled fire, used adhesives (birch-bark tar at Königsaue and Italian sites), produced pigment use, and engaged in symbolic behavior (cave art at La Pasiega, dated by Hoffmann et al. 2018 to >64,000 BP, predating modern-human arrival in Iberia). Anatomically, late Neanderthals also show measurable variation from earlier specimens. The framing of complete stasis is used in the sermon to argue Neanderthals could not 'evolve' and thus reflect special creation — but the empirical premise is not what mainstream paleoanthropology supports.",
+      "sources": [
+        {
+          "title": "Hoffmann et al. (2018) — U-Th dating of carbonate crusts reveals Neandertal origin of Iberian cave art (Science)",
+          "url": "https://www.science.org/doi/10.1126/science.aap7778"
+        },
+        {
+          "title": "Smithsonian — What Does It Mean to Be Human? Neanderthal",
+          "url": "https://humanorigins.si.edu/evidence/human-fossils/species/homo-neanderthalensis"
+        },
+        {
+          "title": "Mazza et al. (2006) — A new Palaeolithic discovery: tar-hafted stone tools (Journal of Archaeological Science)",
+          "url": "https://www.sciencedirect.com/science/article/abs/pii/S0305440306000537"
+        }
+      ]
+    },
+    {
+      "id": "fc-5",
+      "timestamp_seconds": 2520,
+      "timestamp_display": "00:42:00",
+      "claim": "Ralph Winter wrote that evangelical Christians today have the finances, technology, and people to fulfill the Great Commission in less than 10 years — and at one point said 5 years.",
+      "evidence_cited_by_pastor": "Attribution to 'Ralph Winter' and 'a book' he wrote; no title cited.",
+      "verdict": "needs verification",
+      "analysis": "Ralph D. Winter (1924-2009), founder of the U.S. Center for World Mission and architect of the 'unreached people groups' missiology framework, did argue across his career that completion of the Great Commission was within reach given motivation and strategic resource deployment. The specific claim that Winter wrote a book asserting 'less than 10 years' or 'in 5 years' completion would need to be cross-checked against his published corpus (The 25 Unbelievable Years; Frontiers in Mission; the International Journal of Frontier Missiology). What is verifiable: Winter's unreached-people-group metric was the basis for AD 2000 and Beyond Movement projections in the 1980s-90s, which set ambitious decade-scale completion targets that were not met. So the spirit of the attribution (Winter advocated time-bounded completion) is broadly accurate; the specific 5-year figure needs a chapter-and-verse citation.",
+      "sources": [
+        {
+          "title": "Frontier Ventures (formerly U.S. Center for World Mission) — Ralph D. Winter archive",
+          "url": "https://www.frontierventures.org/about/ralph-d-winter"
+        },
+        {
+          "title": "International Journal of Frontier Missiology — Winter writings index",
+          "url": "https://www.ijfm.org/archives.htm"
+        }
+      ]
+    },
+    {
+      "id": "fc-6",
+      "timestamp_seconds": 1680,
+      "timestamp_display": "00:28:00",
+      "claim": "Life can only tolerate a 1% change in the brightness of the sun, and only a mind that knows the future physics of the sun would know which life to remove and replace via mass extinctions.",
+      "evidence_cited_by_pastor": "Asserted as a recognized fact in evolutionary-biology / physics literature.",
+      "verdict": "partially supported / overstated",
+      "analysis": "The underlying physics claim has a real basis: the 'faint young sun paradox' (Sagan & Mullen, 1972) recognizes that the Sun's luminosity has increased ~25-30% since Earth's formation, which would have implied a frozen Earth in the early Hadean/Archean if greenhouse-gas composition had been constant. Earth's biogeochemical cycles have indeed regulated atmospheric CO2 across that range. However: (a) The '1% tolerance' figure is not a standard climatological boundary — Earth-system models tolerate solar variability beyond 1% on geological timescales given carbon-cycle feedbacks. (b) The leap from 'biogeochemical regulation occurred' to 'only a mind knowing future solar physics could engineer mass extinctions to swap species' is an interpretive theological inference, not an empirical finding. Mainstream paleoclimatology attributes the regulation to feedback processes (silicate weathering, ocean carbon uptake, biological evolution itself) — not to externally-engineered species replacement. The argument as presented compresses real science into a design-inference frame without flagging the inferential step.",
+      "sources": [
+        {
+          "title": "Sagan & Mullen (1972) — Earth and Mars: Evolution of Atmospheres and Surface Temperatures (Science)",
+          "url": "https://www.science.org/doi/10.1126/science.177.4043.52"
+        },
+        {
+          "title": "Feulner (2012) — The faint young Sun problem (Reviews of Geophysics)",
+          "url": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2011RG000375"
+        }
+      ]
+    }
+  ],
+  "cn_markers": [
+    {
+      "marker": "A. Conflation of national & Christian identity",
+      "status": "Not detected",
+      "note": "No US-as-Christian-nation framing in this sermon; multi-ethnic congregational identity affirmed."
+    },
+    {
+      "marker": "B. Militaristic / warrior framing",
+      "status": "Low",
+      "note": "'There really is a supernatural battle going on. And guess what? We're part of that battle.' [00:36:00] — biblical-spiritual register (Eph 6) but applied to contemporary politics."
+    },
+    {
+      "marker": "C. Political opponents as spiritual enemies",
+      "status": "Mixed",
+      "reference": "See Finding 2.3 — political dysfunction routed through demonic interference (Daniel-10 frame), but no specific party or political program named."
+    },
+    {
+      "marker": "D. Dominionist rhetoric",
+      "status": "Not detected"
+    },
+    {
+      "marker": "E. Civil religion (flag, pledge)",
+      "status": "Not detected"
+    },
+    {
+      "marker": "F. Jeremiad / 'Christianity under attack'",
+      "status": "Low",
+      "note": "Implicit jeremiad in 'evil rising to a degree you've never seen before' [00:41:00], but framed within mission-completion optimism rather than persecution grievance."
+    },
+    {
+      "marker": "G. Ethno-cultural 'real American' undertones",
+      "status": "Not detected",
+      "note": "Counter-signal: explicit multi-ethnic affirmation."
+    },
+    {
+      "marker": "H. Strongman / authoritarian affinity",
+      "status": "Not detected"
+    }
+  ],
+  "other_axis2_rubrics": [
+    {
+      "rubric": "Anti-Muslim framing",
+      "status": "Not present in this sermon"
+    },
+    {
+      "rubric": "Anti-LGBTQ framing",
+      "status": "Not present in this sermon"
+    },
+    {
+      "rubric": "Misogynistic framing",
+      "status": "Not present in this sermon"
+    },
+    {
+      "rubric": "Anti-Jewish framing",
+      "status": "Not present"
+    },
+    {
+      "rubric": "Demonization of identifiable populations (scientists, occult practitioners, equatorial Brazilians)",
+      "status": "Present — severe",
+      "note": "See Findings 2.1 and 2.2. The 20%-of-Soviet-scientists-possessed claim and the equatorial-Brazil-as-occult-zone framing demonize specific identifiable populations on unfalsifiable grounds. This is the headline harmful-rhetoric finding for the sermon."
+    },
+    {
+      "rubric": "Rapture / dispensational framework",
+      "status": "Mixed — low",
+      "note": "Hugh Ross is a progressive creationist, not a classical dispensationalist; the sermon avoids pre-trib rapture mechanics and Israel-as-prophetic-clock material. However, end-times urgency, signs-of-the-times framing ('exponential signs we're entering into that time'), and the demonization-of-political-opposition register sit adjacent to dispensational affect even without the doctrinal core. Matt 25 absent."
+    },
+    {
+      "rubric": "Generational-curse / bloodline theology",
+      "status": "Present — low",
+      "note": "See Finding 2.4. Closing partnership pitch frames 'inherited curses and patterns of sin... through your bloodline' — a framing OT scripture explicitly corrects (Ezek 18:20) and Jesus refuses (John 9:1-3)."
+    }
+  ],
+  "rhetorical_markers": [
+    {
+      "marker": "Tribal identity activation",
+      "status": "Present",
+      "note": "Out-group is constructed primarily as 'occult practitioners' (with geographic specification — Soviet scientists, equatorial Brazilians) and secondarily as 'evolutionists' / 'atheists.' The Christian in-group is positioned as both intellectually rigorous AND spiritually awake.",
+      "quote": "I'd be speaking to scientists where as many as 20% of them you could tell were possessed by demons.",
+      "timestamp_display": "00:37:00"
+    },
+    {
+      "marker": "Threat / fear activation",
+      "status": "Present",
+      "note": "UAP / occult / demonic framing presents non-physical encounters as uniformly harmful — terrifying nightmares as best case, death as worst.",
+      "quote": "It's always harmful. The best they come away with is recurring terrifying nightmares. Worst-case scenario, they get killed by the encounter.",
+      "timestamp_display": "00:35:30"
+    },
+    {
+      "marker": "Mortality salience",
+      "status": "Present",
+      "note": "Extended deathbed passage with phenomenological detail; pre-flood murder-rate framing; UAP-encounters-can-kill-you framing. Multiple stacked mortality-salience cues.",
+      "quote": "You know it's going to be within minutes when you hear your name being called and Jesus is wanting to give you a personal escort across this life to the next life.",
+      "timestamp_display": "00:39:30"
+    },
+    {
+      "marker": "Certainty-under-ambiguity",
+      "status": "Present",
+      "note": "The sermon's central rhetorical move: contested-or-ambiguous biblical and scientific terrain (Genesis-as-history, dating of pre-human migration, Big Bang priority, UFO-residual interpretation) is rendered as decoded, ordered, decimal-precise certainty.",
+      "quote": "We got that nailed down to five places at the decimal, 4.5662 billion years ago plus or minus 0.0001 billion.",
+      "timestamp_display": "00:10:00"
+    },
+    {
+      "marker": "Urgency / scarcity cues",
+      "status": "Present",
+      "note": "'I think the time is close.' / 'Exponential signs we're entering into that time.' / 'We can do it in 5 years.' / Closing QR-code partnership pitch with 'what are you waiting for?' Loss-aversion logic: act now, partner now, the moment is brief.",
+      "quote": "I think we can get it done. We can do it in Manhattan, we can do it worldwide... What are you waiting for? Scan that QR code now.",
+      "timestamp_display": "00:42:00"
+    },
+    {
+      "marker": "Vindication / status-restoration",
+      "status": "Present",
+      "note": "The 'Bible got the science right thousands of years before scientists' refrain functions as vindication for a community frequently ridiculed in mainstream-secular discourse. 'You're laughed at now, but the data proves you right.'",
+      "quote": "The Bible's the only ancient book that actually said we live in a Big Bang universe... they say, 'Wow, you're right. This is the only book that actually said it thousands of years before scientists discovered it.'",
+      "timestamp_display": "00:25:30"
+    },
+    {
+      "marker": "Grievance activation",
+      "status": "Mixed",
+      "note": "Lower than typical for the genre. Some grievance register ('Noah's flood is the most ridiculed part of the entire Bible') but framed apologetically rather than as cultural-political persecution. Counter-signal: tone is more confidently optimistic than aggrieved.",
+      "quote": "Noah's Flood in Genesis is the most ridiculed part of the entire Bible. It's the number one reason why people reject the Bible as the inspired and inerrant word of God.",
+      "timestamp_display": "00:05:00"
+    },
+    {
+      "marker": "Authority-submission cues",
+      "status": "Present",
+      "note": "Two stacked authority structures: scriptural inerrancy ('do I submit or rebel?' framed as the binary) and credential authority ('astrophysicist,' 'Dr. Hugh Ross,' 'I debate evolutionary biologists'). Contested interpretive moves are delivered with the authority of established scientific consensus.",
+      "quote": "If the Hebrew account of creation is true as recorded in scripture and the Bible is reliable, then everything else in scripture is also true. And then I have one decision. Do I submit or rebel?",
+      "timestamp_display": "00:13:30"
+    },
+    {
+      "marker": "Parasocial attachment",
+      "status": "Present",
+      "note": "Heavy use: the entire opening is Signorelli's personal testimony, framed as a debt of gratitude to Ross. First-name intimacy, backstage-crying disclosure, mid-sermon improvised peer-pressure ('like how I ask him in front of all of you?'), gift-giving, honorary-pastor adoption. Closing partnership pitch ('I can't wait to meet you there') extends the parasocial bond to monthly Zoom.",
+      "quote": "I'm proud of myself. I cried backstage... you've been a hero in the faith. You've been a mentor from a distance.",
+      "timestamp_display": "00:03:30"
+    },
+    {
+      "marker": "Heroic / agency identification",
+      "status": "Present",
+      "note": "Listener is positioned as: cosmic-battle combatant ('we're part of that battle'); Great-Commission completer ('we can do it in 5 years'); apologetics-equipped defender ('most people are only a few questions away from embracing Christ'); and discerning rejecter of occult practices that produce demonic UAP encounters. Ordinary belief becomes a cosmically-significant choice.",
+      "quote": "There really is a supernatural battle going on. And guess what? We're part of that battle.",
+      "timestamp_display": "00:36:00"
+    }
+  ],
+  "reach": {
+    "view_count": 34578,
+    "like_count": 1251,
+    "channel": "Mike Signorelli",
+    "channel_id": "UCasgUrucCx3jxcNIFSs6nPw",
+    "channel_follower_count": 2180000,
+    "upload_date": "20260114",
+    "source": "yt-dlp"
+  }
+}

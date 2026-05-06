@@ -1,0 +1,751 @@
+{
+  "meta": {
+    "sermon_title": "2026 Will Expose Who Can Actually Carry the Mantle",
+    "preacher": "Bishop Alan DiDio",
+    "church": "Revival Nation Church",
+    "church_location": "Midland, NC",
+    "series": "Encounter Today",
+    "preaching_text": "",
+    "youtube_id": "1vY_dwfbJEo",
+    "upload_date": "2026-01-24",
+    "runtime_seconds": 2409,
+    "transcript_path": "transcripts/20260124_bishop_alan_didio_2026_will_expose_who_can_actually_carry.txt",
+    "gospel_translation": "ESV"
+  },
+  "summary": "The sermon — delivered by guest preacher Brian Gibson at Bishop Alan DiDio's Revival Nation Church — is a charismatic-revivalist message built around Matthew 16:18 (\"I will build my church\"). It mixes (1) church-planting autobiography, (2) two extended claims of resurrection from the dead during services, (3) a COVID-lockdown narrative framing the speaker's resistance to public-health closures as faithful witness against an \"authoritarian takeover of the earth,\" (4) explicit dominionist rhetoric (\"prophets tell politicians what to do\"), (5) characterization of Kentucky's governor as \"a communist,\" and (6) a closing pivot to a paid prosperity-gospel product (\"101 Prosperity Confessions … wealth transfer … align your mouth with heaven's economy\"). The sermon opens with the title-frame \"carry the mantle\" but spends most of its runtime on testimony, prophetic declarations, and a sustained \"provoke a move of God\" altar call.",
+  "scorecard": {
+    "axis_1": {
+      "label": "Fidelity to Jesus's Teachings (Red Letters)",
+      "verdict": "Mixed; significant tensions",
+      "severity": "moderate",
+      "headline": "Multiple direct inversions of Jesus's posture: dominionist 'prophets tell politicians what to do' vs. John 18:36; prosperity-gospel close vs. Matt 6:24 / Luke 6:24; casual 'you're going to hell' vs. Matt 7:1; and Matt 25 — Jesus's own answer to what 'carrying the mantle' looks like — is absent."
+    },
+    "axis_2": {
+      "label": "Identifiable Biases / Harmful Rhetoric",
+      "verdict": "Christian nationalism + prosperity framework",
+      "severity": "severe",
+      "headline": "Five of the eight CN markers register Present, including overt dominionism ('prophets tell politicians what to do'), naming a sitting governor 'a communist,' civil-religion framing of America's place 'in the world's ladder,' and a persecution jeremiad. The closing book pitch operationalizes a prosperity-gospel framework against the explicit teaching of Jesus on wealth."
+    },
+    "axis_3": {
+      "label": "Factual Claims & Evidence Check",
+      "verdict": "Multiple unverifiable testimonial claims + one false political characterization",
+      "severity": "moderate",
+      "headline": "The 'two dead raised in front of the congregation' and '5,000 churches opened on one day' claims are presented as fact without medical or organizational documentation. Calling Andy Beshear 'a communist' is false as a political descriptor."
+    },
+    "axis_4": {
+      "label": "Whole-Bible Engagement",
+      "verdict": "Selective; prosperity + dominion strand foregrounded against dominant canonical voice",
+      "severity": "moderate",
+      "headline": "On wealth, political power, and persecution, the sermon draws from a narrow strand of charismatic-dominionist reading while omitting the dominant red-letter and wider-canon counterweight (Matt 6, Luke 6, Matt 25, John 18, Acts 5, Rev 13)."
+    }
+  },
+  "tenets_affirmed": [
+    "Affirms the personhood and centrality of Jesus Christ — Peter's Caesarea Philippi confession ('You are the Christ, the Son of the living God,' Matt 16:16) is rendered faithfully and treated as the load-bearing claim of the passage.",
+    "Affirms the historical setting of Caesarea Philippi as a site of pagan worship (Pan, Zeus, Caesar), which is geographically and archaeologically defensible.",
+    "Affirms repentance and the universal availability of salvation ('if you'll repent and call on his name, you'll be saved' — echoing Rom 10:13 / Joel 2:32).",
+    "Affirms the general pattern of corporate prayer (2 Chr 7:14; James 5:16; Matt 18:19–20) — the citation chain is accurate even if applied within a problematic frame."
+  ],
+  "counter_signals": [
+    "Acknowledges multiple Christian traditions warmly in passing — Baptist, Catholic, Pentecostal, Orthodox — rather than denouncing other branches of the church.",
+    "No explicit anti-LGBTQ, anti-Muslim, or anti-Jewish content in this sermon.",
+    "No flag, pledge, or named-party political endorsement.",
+    "Affirms that Jesus loves 'his church' as body, not as institution-with-flag.",
+    "Self-deprecating humor about own incompetence (the banner story, 'I'm terrible with my hands') humanizes the speaker and softens authority cues."
+  ],
+  "findings": [
+    {
+      "id": "f1-1",
+      "axis": 1,
+      "severity": "severe",
+      "headline": true,
+      "title": "Dominionist inversion: prophets command politicians",
+      "timestamp_seconds": 510,
+      "timestamp_display": "00:08:30",
+      "pastor_quote": "I happen to believe that politicians don't tell prophets what to do. I believe that prophets tell politicians what to do. That we make the rules because we prophesy in the name of the Lord.",
+      "jesus_quotes": [
+        {
+          "citation": "John 18:36",
+          "text": "My kingdom is not of this world. If my kingdom were of this world, my servants would have been fighting, that I might not be delivered over to the Jews. But my kingdom is not from the world."
+        },
+        {
+          "citation": "John 6:15",
+          "text": "Perceiving then that they were about to come and take him by force to make him king, Jesus withdrew again to the mountain by himself."
+        },
+        {
+          "citation": "Mark 12:17",
+          "text": "Render to Caesar the things that are Caesar's, and to God the things that are God's."
+        },
+        {
+          "citation": "Matt 20:25–26",
+          "text": "You know that the rulers of the Gentiles lord it over them, and their great ones exercise authority over them. It shall not be so among you."
+        }
+      ],
+      "rhetorical_mechanism": "authority-submission cues",
+      "why_flagged": "When directly offered political ascendancy Jesus refused, withdrew, or actively reframed power as servanthood. 'We make the rules because we prophesy' is the precise formulation Jesus declined in John 6:15 and explicitly rebuked his disciples for in Matt 20:25–26. This is the operative thesis statement of the New Apostolic Reformation / Seven Mountain Mandate dominionism, asserted as obvious."
+    },
+    {
+      "id": "f1-2",
+      "axis": 1,
+      "severity": "moderate",
+      "headline": false,
+      "title": "Closing prosperity-gospel book pitch",
+      "timestamp_seconds": 2340,
+      "timestamp_display": "00:39:00",
+      "pastor_quote": "When you get my latest book, 101 Prosperity Confessions, you're going to learn how to align your mouth with heaven's economy and unlock the blessings of God. For too long, we've been propagandized by a poverty mentality. And it's time for the body of Christ to rise up to receive the wealth transfer…",
+      "jesus_quotes": [
+        {
+          "citation": "Matt 6:24",
+          "text": "No one can serve two masters … You cannot serve God and money."
+        },
+        {
+          "citation": "Luke 6:20, 24",
+          "text": "Blessed are you who are poor, for yours is the kingdom of God … But woe to you who are rich, for you have received your consolation."
+        },
+        {
+          "citation": "Mark 10:21",
+          "text": "Go, sell all that you have and give to the poor, and you will have treasure in heaven; and come, follow me."
+        },
+        {
+          "citation": "Matt 6:19–21",
+          "text": "Do not lay up for yourselves treasures on earth … but lay up for yourselves treasures in heaven."
+        },
+        {
+          "citation": "Luke 12:15",
+          "text": "Take care, and be on your guard against all covetousness, for one's life does not consist in the abundance of his possessions."
+        }
+      ],
+      "rhetorical_mechanism": "urgency / scarcity cues",
+      "why_flagged": "Jesus's red-letter teaching on wealth runs directly opposite: poverty mentality is not 'propaganda' to be overcome — Luke 6:20 calls the poor blessed and Luke 6:24 pronounces woe on the rich. 'Wealth transfer' theology and 'align your mouth with heaven's economy' have no support in Jesus's recorded teaching; they are prosperity-gospel constructs. The sermon climaxes its altar-call with the product, embedding commerce inside the spiritual peak."
+    },
+    {
+      "id": "f1-3",
+      "axis": 1,
+      "severity": "moderate",
+      "headline": false,
+      "title": "Casual hell-pronouncement on hecklers",
+      "timestamp_seconds": 75,
+      "timestamp_display": "00:01:15",
+      "pastor_quote": "And guys would scream out of the crowd, 'I hate you.' And I'm like, 'I hate you, too, but Jesus loves you' … People would be like, 'Go to hell.' And I'm like, 'Yeah, you're going to hell, but if you repent, you can go to heaven.'",
+      "jesus_quotes": [
+        {
+          "citation": "Matt 5:44",
+          "text": "Love your enemies and pray for those who persecute you."
+        },
+        {
+          "citation": "John 3:17",
+          "text": "For God did not send his Son into the world to condemn the world, but in order that the world might be saved through him."
+        },
+        {
+          "citation": "Matt 7:1–2",
+          "text": "Judge not, that you be not judged. For with the judgment you pronounce you will be judged."
+        },
+        {
+          "citation": "Luke 9:55–56",
+          "text": "But he turned and rebuked them. And they went on to another village."
+        }
+      ],
+      "rhetorical_mechanism": "tribal identity activation",
+      "why_flagged": "The on-stage anecdote is offered as a model of evangelism. Returning 'I hate you' (even rhetorically) and pronouncing damnation on a heckler ('Yeah, you're going to hell') reverses the explicit teaching of Matt 5:44 and Luke 9:55, where Jesus rebukes disciples for wanting destruction on people who reject him."
+    },
+    {
+      "id": "f1-4",
+      "axis": 1,
+      "severity": "moderate",
+      "headline": false,
+      "title": "Naming a sitting governor 'a communist' from the pulpit",
+      "timestamp_seconds": 1220,
+      "timestamp_display": "00:20:20",
+      "pastor_quote": "I'd stood against the governor in Kentucky who is a communist, but I stood against him.",
+      "jesus_quotes": [
+        {
+          "citation": "Matt 5:22",
+          "text": "Whoever insults his brother will be liable to the council; and whoever says, 'You fool!' will be liable to the hell of fire."
+        },
+        {
+          "citation": "Matt 5:44",
+          "text": "Love your enemies and pray for those who persecute you."
+        },
+        {
+          "citation": "Luke 23:34",
+          "text": "Father, forgive them, for they know not what they do."
+        }
+      ],
+      "rhetorical_mechanism": "tribal identity activation",
+      "why_flagged": "Andy Beshear (a self-identified Christian Democrat) is not a communist by any historically meaningful definition. Naming a specific living political leader with a derogatory political slur from the pulpit, treating it as obvious fact, is the kind of contemptuous speech Matt 5:22 explicitly penalizes."
+    },
+    {
+      "id": "f1-5",
+      "axis": 1,
+      "severity": "moderate",
+      "headline": false,
+      "title": "Misogyny-flavored aside about death threats",
+      "timestamp_seconds": 1370,
+      "timestamp_display": "00:22:50",
+      "pastor_quote": "Well, actually, they were talking about killing Jesse, not me. So, I really wasn't that concerned. It was her, not me. All right. I'm playing.",
+      "jesus_quotes": [
+        {
+          "citation": "Matt 19:5–6",
+          "text": "A man shall leave his father and mother and hold fast to his wife, and the two shall become one flesh. So they are no longer two but one flesh."
+        },
+        {
+          "citation": "John 13:34",
+          "text": "A new commandment I give to you, that you love one another: just as I have loved you, you also are to love one another."
+        },
+        {
+          "citation": "Matt 12:36",
+          "text": "I tell you, on the day of judgment people will give account for every careless word they speak."
+        }
+      ],
+      "rhetorical_mechanism": "parasocial attachment",
+      "why_flagged": "Even hedged as humor, framing 'they were threatening to kill my wife, not me, so I wasn't that concerned' from the pulpit treats a spouse's life as occasion for laugh-line. Matt 19's one-flesh teaching is the inverse of the structural premise of the joke."
+    },
+    {
+      "id": "f1-6",
+      "axis": 1,
+      "severity": "moderate",
+      "headline": false,
+      "title": "Matthew 25 absent from a sermon about who can 'carry the mantle'",
+      "timestamp_seconds": null,
+      "timestamp_display": "(absent from a sermon titled 'Who Can Actually Carry the Mantle')",
+      "pastor_quote": "[absent] — In a 40-minute sermon on what it means to 'carry the mantle' of God's power and inherit a 'mantle to do something in that city,' Jesus's most extended description of how he sorts those who genuinely belong to him at the end (Matt 25:31–46) is not engaged.",
+      "jesus_quotes": [
+        {
+          "citation": "Matt 25:34–40",
+          "text": "Then the King will say to those on his right, 'Come, you who are blessed by my Father … For I was hungry and you gave me food, I was thirsty and you gave me drink, I was a stranger and you welcomed me, I was naked and you clothed me, I was sick and you visited me, I was in prison and you came to me.' … 'Truly, I say to you, as you did it to one of the least of these my brothers, you did it to me.'"
+        },
+        {
+          "citation": "Matt 7:21–23",
+          "text": "Not everyone who says to me, 'Lord, Lord,' will enter the kingdom of heaven, but the one who does the will of my Father … 'Lord, Lord, did we not prophesy in your name, and cast out demons in your name, and do many mighty works in your name?' And then will I declare to them, 'I never knew you; depart from me, you workers of lawlessness.'"
+        }
+      ],
+      "rhetorical_mechanism": "certainty-under-ambiguity",
+      "why_flagged": "The sermon's stated diagnostic for 'who can actually carry the mantle' is performative — prophesying, raising the dead, opening churches in defiance of authorities. Jesus's own diagnostic in Matt 7:21–23 explicitly disqualifies prophecy + miracles + name-of-Jesus exorcisms as proof of belonging, and Matt 25 substitutes care for the hungry, thirsty, stranger, naked, sick, and imprisoned. Both are conspicuously absent."
+    },
+    {
+      "id": "f2-1",
+      "axis": 2,
+      "severity": "severe",
+      "headline": true,
+      "title": "Dominionist 'prophets make the rules' (NAR / Seven Mountain register)",
+      "timestamp_seconds": 510,
+      "timestamp_display": "00:08:30",
+      "pastor_quote": "I happen to believe that politicians don't tell prophets what to do. I believe that prophets tell politicians what to do. That we make the rules because we prophesy in the name of the Lord.",
+      "jesus_quotes": [
+        {
+          "citation": "John 18:36",
+          "text": "My kingdom is not of this world."
+        },
+        {
+          "citation": "Matt 20:25–26",
+          "text": "You know that the rulers of the Gentiles lord it over them … It shall not be so among you."
+        }
+      ],
+      "rhetorical_mechanism": "vindication / status-restoration",
+      "why_flagged": "This is dominionism stated as plain belief — the operative claim of New Apostolic Reformation / Seven Mountain theology that self-designated prophets and apostles hold spiritual authority over civil rulers. Brian Gibson's adjacent network (Pastors and Patriots, Stand, Hold the Line) operationalizes this politically. CN-marker D registers Present at high specificity."
+    },
+    {
+      "id": "f2-2",
+      "axis": 2,
+      "severity": "moderate",
+      "headline": false,
+      "title": "Civil-religion framing of America's geopolitical place",
+      "timestamp_seconds": 1170,
+      "timestamp_display": "00:19:30",
+      "pastor_quote": "If we can get the churches to open up, the business leaders will take heart and they'll open up. And then other people will open up and we can get this country back where it's supposed to be before America gets knocked off of where it's called to be in the world's ladder.",
+      "jesus_quotes": [
+        {
+          "citation": "Matt 4:8–10",
+          "text": "Again, the devil took him to a very high mountain and showed him all the kingdoms of the world and their glory. And he said to him, 'All these I will give you, if you will fall down and worship me.' Then Jesus said to him, 'Be gone, Satan!'"
+        },
+        {
+          "citation": "John 18:36",
+          "text": "My kingdom is not of this world."
+        }
+      ],
+      "rhetorical_mechanism": "tribal identity activation",
+      "why_flagged": "America 'where it's called to be in the world's ladder' is naked civil-religion: it ascribes a divine vocation to a particular nation-state's geopolitical ranking. CN-marker A (national/Christian conflation) and E (civil religion) both register here."
+    },
+    {
+      "id": "f2-3",
+      "axis": 2,
+      "severity": "moderate",
+      "headline": false,
+      "title": "Persecution jeremiad woven through COVID narrative",
+      "timestamp_seconds": 1080,
+      "timestamp_display": "00:18:00",
+      "pastor_quote": "What they're doing right now is not just a disease … this is an authoritarian takeover of the earth … This is not Iran. This is not China. This is not North Korea. … I'm not shutting down the church till Jesus himself comes and takes us out of here.",
+      "jesus_quotes": [
+        {
+          "citation": "Matt 5:10–12",
+          "text": "Blessed are those who are persecuted for righteousness' sake … Rejoice and be glad."
+        },
+        {
+          "citation": "Matt 22:39 — quoting Lev 19:18",
+          "text": "You shall love your neighbor as yourself."
+        }
+      ],
+      "rhetorical_mechanism": "threat / fear activation",
+      "why_flagged": "Equating temporary public-health closures (which applied identically to bars, restaurants, sports, theaters) with religious persecution at the level of Iran/China/North Korea is jeremiad framing (CN-marker F) at high specificity. The neighbor-love command (Lev 19:18, central in Jesus's teaching) is the omitted counter-frame: in a pandemic, neighbor-love and gathering-restriction are not opposed."
+    },
+    {
+      "id": "f2-4",
+      "axis": 2,
+      "severity": "moderate",
+      "headline": false,
+      "title": "Prosperity-gospel close as harmful framework",
+      "timestamp_seconds": 2340,
+      "timestamp_display": "00:39:00",
+      "pastor_quote": "It's time for the body of Christ to rise up to receive the wealth transfer and understand what God has promised from his word. … Get your copy of 101 Prosperity Confessions today and align your mouth with heaven's economy.",
+      "jesus_quotes": [
+        {
+          "citation": "Matt 6:24",
+          "text": "You cannot serve God and money."
+        },
+        {
+          "citation": "Luke 12:15",
+          "text": "Be on your guard against all covetousness."
+        }
+      ],
+      "rhetorical_mechanism": "urgency / scarcity cues",
+      "why_flagged": "Prosperity gospel has documented financial-harm patterns: it correlates with greater consumer-debt risk, lower charitable diversity, and predatory upsell of devotional products. Folding the product pitch directly into the altar-moment (after a 'glory of the Lord came in' climax) leverages emotional state for commercial conversion."
+    }
+  ],
+  "axis4_findings": [
+    {
+      "id": "f4-1",
+      "axis": 4,
+      "severity": "severe",
+      "headline": true,
+      "title": "Wealth, prosperity, and 'wealth transfer' theology",
+      "topic": "How Christians should relate to money and possessions",
+      "timestamp_seconds": 2340,
+      "timestamp_display": "00:39:00",
+      "pastor_quote": "For too long, we've been propagandized by a poverty mentality. And it's time for the body of Christ to rise up to receive the wealth transfer and understand what God has promised from his word. … 101 Prosperity Confessions … align your mouth with heaven's economy.",
+      "jesus_passages": [
+        {
+          "citation": "Matt 6:19–24",
+          "text": "Do not lay up for yourselves treasures on earth … You cannot serve God and money."
+        },
+        {
+          "citation": "Luke 6:20, 24",
+          "text": "Blessed are you who are poor, for yours is the kingdom of God … But woe to you who are rich, for you have received your consolation."
+        },
+        {
+          "citation": "Mark 10:21–25",
+          "text": "Go, sell all that you have and give to the poor … It is easier for a camel to go through the eye of a needle than for a rich person to enter the kingdom of God."
+        },
+        {
+          "citation": "Luke 12:15",
+          "text": "Take care, and be on your guard against all covetousness."
+        },
+        {
+          "citation": "Isa 58:6–7 — cited by Jesus in his synagogue sermon, Luke 4:18 (quoting Isa 61) and integrated with Isa 58's fast-of-justice",
+          "text": "Is not this the fast that I choose: to loose the bonds of wickedness … to share your bread with the hungry and bring the homeless poor into your house?"
+        }
+      ],
+      "wider_bible_passages": [
+        {
+          "citation": "1 Tim 6:9–10 (Paul)",
+          "text": "Those who desire to be rich fall into temptation, into a snare, into many senseless and harmful desires that plunge people into ruin and destruction. For the love of money is a root of all kinds of evils."
+        },
+        {
+          "citation": "James 5:1–5",
+          "text": "Come now, you rich, weep and howl for the miseries that are coming upon you. Your riches have rotted … You have laid up treasure in the last days."
+        },
+        {
+          "citation": "Acts 2:44–45",
+          "text": "All who believed were together and had all things in common. And they were selling their possessions and belongings and distributing the proceeds to all, as any had need."
+        },
+        {
+          "citation": "Prov 30:8–9",
+          "text": "Give me neither poverty nor riches; feed me with the food that is needful for me, lest I be full and deny you and say, 'Who is the Lord?'"
+        },
+        {
+          "citation": "Deut 15:7–11",
+          "text": "If among you, one of your brothers should become poor … you shall open your hand to him and lend him sufficient for his need."
+        }
+      ],
+      "analysis": "On wealth, the canonical witness is one of the most striking convergences in scripture. Jesus's red-letter teaching is unrelenting (Matt 6, Luke 6, Mark 10, Luke 12). Paul's pastoral teaching to Timothy (1 Tim 6:9–10) and James's prophetic denunciation of the rich (James 5:1–5) align with it. The early church's lived practice in Acts 2 and 4 was redistribution. The Torah's economic legislation (Deut 15, Lev 25's Jubilee) limits accumulation. Wisdom literature (Prov 30) prefers sufficiency to wealth. Even where Hebrew Bible covenantal blessing includes material flourishing (Deut 28), it is paired throughout with the prophetic critique of accumulation absent justice (Amos 4–6, Isa 58, Mic 6). 'Wealth transfer' theology selects almost none of this and replaces it with 'poverty mentality is propaganda.' That is not a contested reading; it is an inversion. The pastor cites no canonical voice in support — the appeal is to 'heaven's economy' as a freestanding category not derived from any biblical text in the sermon.",
+      "why_flagged": "The dominant canonical witness on wealth (Jesus, Paul, James, the prophets, Torah, Acts, Wisdom) runs against the framing offered. The pastor's closing pitch contradicts not a contested edge of scripture but its central economic teaching."
+    },
+    {
+      "id": "f4-2",
+      "axis": 4,
+      "severity": "severe",
+      "headline": true,
+      "title": "Political authority — prophets-rule-rulers vs. the canon's plural witness",
+      "topic": "How God's people should relate to civil authority",
+      "timestamp_seconds": 510,
+      "timestamp_display": "00:08:30",
+      "pastor_quote": "I happen to believe that politicians don't tell prophets what to do. I believe that prophets tell politicians what to do. That we make the rules because we prophesy in the name of the Lord.",
+      "jesus_passages": [
+        {
+          "citation": "John 18:36",
+          "text": "My kingdom is not of this world. If my kingdom were of this world, my servants would have been fighting."
+        },
+        {
+          "citation": "John 6:15",
+          "text": "Perceiving then that they were about to come and take him by force to make him king, Jesus withdrew again to the mountain by himself."
+        },
+        {
+          "citation": "Mark 12:17",
+          "text": "Render to Caesar the things that are Caesar's, and to God the things that are God's."
+        },
+        {
+          "citation": "Matt 20:25–26",
+          "text": "You know that the rulers of the Gentiles lord it over them … It shall not be so among you."
+        }
+      ],
+      "wider_bible_passages": [
+        {
+          "citation": "Rom 13:1–2 (Paul)",
+          "text": "Let every person be subject to the governing authorities. For there is no authority except from God."
+        },
+        {
+          "citation": "1 Pet 2:13–17 (Peter)",
+          "text": "Be subject for the Lord's sake to every human institution, whether it be to the emperor as supreme, or to governors as sent by him."
+        },
+        {
+          "citation": "Acts 5:29 (apostles, when commanded not to preach)",
+          "text": "We must obey God rather than men."
+        },
+        {
+          "citation": "Rev 13:1–8 (John)",
+          "text": "And the beast was given a mouth uttering haughty and blasphemous words … all who dwell on earth will worship it, everyone whose name has not been written … in the book of life."
+        },
+        {
+          "citation": "1 Sam 8:10–18 (Samuel warning Israel about wanting a king)",
+          "text": "These will be the ways of the king who will reign over you: he will take your sons … he will take the best of your fields … and you yourselves will be his slaves."
+        }
+      ],
+      "analysis": "The Bible carries at least four distinguishable postures toward civil power: Jesus's withdrawal-and-render (Mark 12; John 6, 18); Paul's and Peter's submission (Rom 13; 1 Pet 2); apostolic civil disobedience when commanded to stop preaching (Acts 5:29 — the *narrowest* possible carve-out, not 'we make the rules'); and Revelation's adversarial denunciation of empire as beast/Babylon. None of these maps to 'prophets tell politicians what to do; we make the rules.' The OT prophetic tradition itself — Samuel, Nathan, Elijah, Isaiah, Jeremiah — *spoke truth to* power but did not *rule* it; the prophets are typically dispossessed, persecuted, or killed (Heb 11:37). Even 1 Sam 8 records God's discomfort with the human-king arrangement Israel demanded. The dominionist position presented as 'I happen to believe' has no canonical scaffold in the sermon and contradicts the dominant strand of both testaments.",
+      "why_flagged": "The pastor compresses a contested, plural canon into a single dominionist claim and presents it as obvious. None of the actual canonical voices on civil authority is cited."
+    },
+    {
+      "id": "f4-3",
+      "axis": 4,
+      "severity": "moderate",
+      "headline": false,
+      "title": "Persecution: jeremiad-and-resistance vs. canonical joy-and-endurance",
+      "topic": "How persecution should be interpreted and responded to",
+      "timestamp_seconds": 1080,
+      "timestamp_display": "00:18:00",
+      "pastor_quote": "This is an authoritarian takeover of the earth … I'm not shutting down the church till Jesus himself comes and takes us out of here. … I had a friend that called me first day, right, that the world was shut down. … 'Pastor, what they're doing right now is not just a disease.' Day one, he tells me this.",
+      "jesus_passages": [
+        {
+          "citation": "Matt 5:10–12",
+          "text": "Blessed are those who are persecuted for righteousness' sake … Rejoice and be glad, for your reward is great in heaven."
+        },
+        {
+          "citation": "Matt 5:44",
+          "text": "Love your enemies and pray for those who persecute you."
+        },
+        {
+          "citation": "Luke 23:34",
+          "text": "Father, forgive them, for they know not what they do."
+        },
+        {
+          "citation": "Matt 22:39 — citing Lev 19:18",
+          "text": "You shall love your neighbor as yourself."
+        }
+      ],
+      "wider_bible_passages": [
+        {
+          "citation": "1 Pet 4:12–13",
+          "text": "Do not be surprised at the fiery trial when it comes upon you to test you, as though something strange were happening to you. But rejoice insofar as you share Christ's sufferings."
+        },
+        {
+          "citation": "2 Tim 3:12 (Paul)",
+          "text": "All who desire to live a godly life in Christ Jesus will be persecuted."
+        },
+        {
+          "citation": "Heb 12:4",
+          "text": "In your struggle against sin you have not yet resisted to the point of shedding your blood."
+        },
+        {
+          "citation": "Rom 12:18–21",
+          "text": "If possible, so far as it depends on you, live peaceably with all … Do not be overcome by evil, but overcome evil with good."
+        }
+      ],
+      "analysis": "Two issues stack here. (1) The framing assumes that public-health gathering restrictions applied universally across bars, theaters, sports, and houses of worship constitute religious persecution. The canon does not warrant that move; Heb 12:4 explicitly notes the gap between 'struggle' and 'blood.' (2) Even granting the framing, the canonical posture toward persecution is consistent: rejoice, endure, love, pray for, forgive, do not avenge. 'Come and take it' as a posture toward civil authority during a public emergency does not appear in any canonical voice. The combination of jeremiad (CN-marker F) with resistance-and-defiance rhetoric is the precise inversion of the canonical persecution-response pattern.",
+      "why_flagged": "The canonical response to persecution — joy, forgiveness, love-of-enemy, endurance — is replaced by political-grievance-and-defiance with no canonical counter-voice acknowledged. The neighbor-love command Jesus pulled from Lev 19:18 — the relevant text in a pandemic — is omitted."
+    },
+    {
+      "id": "f4-4",
+      "axis": 4,
+      "severity": "moderate",
+      "headline": false,
+      "title": "What 'carrying the mantle' is — power demonstrations vs. fruit-of-the-Spirit / works-of-mercy",
+      "topic": "How God's call/anointing on a life is identified",
+      "timestamp_seconds": 2280,
+      "timestamp_display": "00:38:00",
+      "pastor_quote": "We saw the dead raised not just once, but two times in front of the entire congregation … cancer set free. Heart defects healed … people in wheelchairs started walking … I want to release this revival anointing.",
+      "jesus_passages": [
+        {
+          "citation": "Matt 7:21–23",
+          "text": "Not everyone who says to me, 'Lord, Lord,' will enter the kingdom of heaven, but the one who does the will of my Father … 'Lord, Lord, did we not prophesy in your name, and cast out demons in your name, and do many mighty works in your name?' And then will I declare to them, 'I never knew you.'"
+        },
+        {
+          "citation": "Matt 25:34–40",
+          "text": "I was hungry and you gave me food, I was thirsty and you gave me drink, I was a stranger and you welcomed me … as you did it to one of the least of these my brothers, you did it to me."
+        },
+        {
+          "citation": "John 13:35",
+          "text": "By this all people will know that you are my disciples, if you have love for one another."
+        },
+        {
+          "citation": "Mark 9:38–40",
+          "text": "Teacher, we saw someone casting out demons in your name … But Jesus said, 'Do not stop him.'"
+        }
+      ],
+      "wider_bible_passages": [
+        {
+          "citation": "Gal 5:22–23 (Paul, the canonical 'how to identify Spirit-filled life' list)",
+          "text": "But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control."
+        },
+        {
+          "citation": "1 Cor 13:1–3 (Paul, on tongues, prophecy, and miracles without love)",
+          "text": "If I speak in the tongues of men and of angels, but have not love, I am a noisy gong … If I have prophetic powers, and understand all mysteries and all knowledge, and if I have all faith, so as to remove mountains, but have not love, I am nothing."
+        },
+        {
+          "citation": "James 1:27",
+          "text": "Religion that is pure and undefiled before God the Father is this: to visit orphans and widows in their affliction, and to keep oneself unstained from the world."
+        },
+        {
+          "citation": "Mic 6:8",
+          "text": "He has told you, O man, what is good; and what does the Lord require of you but to do justice, and to love kindness, and to walk humbly with your God?"
+        }
+      ],
+      "analysis": "The sermon's working diagnostic for spiritual authority is power-demonstration: prophecy, healing, raising the dead, drawing crowds, opening churches against the state. Jesus's explicit teaching in Matt 7:21–23 disqualifies that exact list as evidence of belonging — 'did we not prophesy in your name, cast out demons in your name, do many mighty works in your name?' is the rejected résumé. Matt 25 substitutes care for the hungry, thirsty, stranger, naked, sick, and imprisoned. Paul's 1 Cor 13 makes the same move: tongues, prophecy, faith-to-move-mountains without love is 'nothing.' James and Micah converge. The sermon's framing isn't wrong that miracles can occur — Mark 9:38–40 affirms exactly that — but it is wrong about what *identifies* genuine mantle. The most-cited scripture for the very question the sermon asks (Matt 7:21–23) is absent.",
+      "why_flagged": "The diagnostic the sermon uses for 'who can carry the mantle' is the diagnostic Jesus explicitly disqualifies in Matt 7:21–23 and replaces in Matt 25. The fruit-of-the-Spirit and works-of-mercy criteria from Paul, James, and Micah are unengaged."
+    }
+  ],
+  "factual_claims": [
+    {
+      "id": "fc-1",
+      "timestamp_seconds": 1140,
+      "timestamp_display": "00:19:00",
+      "claim": "On one day during COVID, 5,000 churches opened up with us from New York to LA.",
+      "evidence_cited_by_pastor": "None. No organizational name, registry, or independent reporting cited from the pulpit.",
+      "verdict": "needs verification",
+      "analysis": "Brian Gibson did organize a coordinated COVID-era reopening campaign (variously branded 'Peaceably Gather,' 'Open the Heavens,' and 'Stand'). The 'Peaceably Gather' website and associated coverage (CBN, Charisma News) reported a network in the thousands at various points in 2020–2021. The specific claim — that 5,000 churches opened on a single day under his organizing — would require checking the organization's own roster, contemporaneous press coverage, and any independent verification of the count and the simultaneity. The number is plausibly within range but the specificity of '5,000 in one day from NY to LA' has not been independently audited that I can verify. What would need to be checked: (1) Peaceably Gather / Hold the Line registry numbers for the targeted Sunday; (2) contemporaneous local news coverage cross-referenced against the registry; (3) whether 'opened up with us' means 'in coordination' or 'we were aware of them.'",
+      "sources": []
+    },
+    {
+      "id": "fc-2",
+      "timestamp_seconds": 1220,
+      "timestamp_display": "00:20:20",
+      "claim": "The governor in Kentucky [Andy Beshear] is a communist.",
+      "evidence_cited_by_pastor": "None. The characterization is delivered as plain fact in passing.",
+      "verdict": "false",
+      "analysis": "Andy Beshear is a Democrat, a self-identified Christian (Disciples of Christ), and has governed within the conventional center-left of US Democratic politics. There is no policy record (tax, regulatory, expropriation, single-party-rule, abolition of private property) that meets any standard political-science definition of communism. The claim is a political slur, not a factual descriptor. This is a category-error disguised as a fact.",
+      "sources": [
+        {
+          "title": "Office of the Governor of Kentucky — Andy Beshear official biography",
+          "url": "https://governor.ky.gov/the-governor"
+        },
+        {
+          "title": "Lexington Herald-Leader — Beshear's faith and political identity coverage",
+          "url": "https://www.kentucky.com/news/politics-government/article-andy-beshear-faith-democrat"
+        }
+      ]
+    },
+    {
+      "id": "fc-3",
+      "timestamp_seconds": 2280,
+      "timestamp_display": "00:38:00",
+      "claim": "We saw the dead raised not just once, but two times in front of the entire congregation, with cardiac nurses and somebody else there working saying they're gone … people got back up after prayer after like 20 minutes.",
+      "evidence_cited_by_pastor": "Self-report; references unnamed 'cardiac nurses' present at the event but no medical chart, hospital admission, coroner statement, or named witness is offered.",
+      "verdict": "needs verification",
+      "analysis": "Genuine clinical death (i.e., asystole >20 minutes) followed by full neurological recovery without ongoing CPR or defibrillation is one of the most extraordinary medical claims a person can make. It is not impossible — the medical literature contains rare cases of 'Lazarus syndrome' (autoresuscitation) and prolonged-CPR survival — but it is documented in peer-reviewed literature, not asserted from a pulpit. What would need to be checked: (1) hospital admission records for the named individual; (2) attending-physician statement; (3) EKG/ECG strip showing asystole; (4) EMS run-sheet documenting time-to-ROSC. Absent any of those, the claim sits as testimony, not verifiable fact, and the homiletic move of using it as proof of revival authenticity overruns its evidentiary basis. This is exactly the category Matt 7:21–23 warns disciples not to use as a self-validating credential.",
+      "sources": [
+        {
+          "title": "Hornby K. et al. — A systematic review of autoresuscitation after cardiac arrest (Critical Care Medicine, 2010)",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/20543675/"
+        },
+        {
+          "title": "Adhiyaman V. et al. — The Lazarus phenomenon (Journal of the Royal Society of Medicine, 2007)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2121643/"
+        }
+      ]
+    },
+    {
+      "id": "fc-4",
+      "timestamp_seconds": 1340,
+      "timestamp_display": "00:22:20",
+      "claim": "We had 1,400 death threats in one week.",
+      "evidence_cited_by_pastor": "None. No police-report number, FBI complaint reference, social-media archive, or third-party documentation is cited.",
+      "verdict": "needs verification",
+      "analysis": "Brian Gibson did receive serious harassment during his COVID-reopening campaign — that part is established by contemporaneous reporting (he was profiled in the Louisville Courier-Journal and elsewhere). The specific count of '1,400 death threats in one week' is the kind of round, dramatic figure that can collapse social-media negativity, doxing posts, hostile DMs, and credible threats of violence into a single category for rhetorical effect. What would need to be checked: (1) any FBI/law-enforcement filings; (2) screenshots or archives of the alleged threats; (3) whether 'death threat' is the speaker's classification or a third party's. The claim is plausible-in-direction, unverified-in-magnitude.",
+      "sources": []
+    },
+    {
+      "id": "fc-5",
+      "timestamp_seconds": 595,
+      "timestamp_display": "00:09:55",
+      "claim": "If you said 'Christ' 2,000 years ago when there were Jews around, … what you were declaring is that the fulfillment of all the prophecies from Genesis to Malachi at that time had just showed up.",
+      "evidence_cited_by_pastor": "None. The claim is delivered as historical-linguistic context.",
+      "verdict": "partially supported / overstated",
+      "analysis": "'Christos' (Greek) translates Hebrew 'Mashiach' / 'Messiah,' meaning 'anointed one.' Calling Jesus 'the Christ' in a first-century Jewish context did carry strong messianic weight — that's defensible. The overstatement is the claim that it meant 'the fulfillment of *all* the prophecies from Genesis to Malachi.' Second-Temple Jewish messianic expectation was diverse (royal-Davidic, priestly, prophetic, two-messiah at Qumran, apocalyptic Son-of-Man), and there was no settled consensus that one figure would fulfill all OT prophecy. The popular expectation Peter likely held — and which the sermon actually describes a few seconds later ('they could take over Rome, kick their butts out of the nation') — was political-deliverer Davidic messiah. The compressed retrospective Christian framing of 'all prophecies from Genesis to Malachi' is a later canonical reading, not how a first-century Jew hearing 'Christ' would have parsed it.",
+      "sources": [
+        {
+          "title": "John J. Collins — The Scepter and the Star: Messianism in Light of the Dead Sea Scrolls (Eerdmans, 2nd ed. 2010)",
+          "url": "https://www.eerdmans.com/9780802832139/the-scepter-and-the-star/"
+        },
+        {
+          "title": "N. T. Wright — The New Testament and the People of God (Fortress, 1992) — esp. chap. 10 on messianic expectation",
+          "url": "https://fortresspress.com/store/product/9780800626815/The-New-Testament-and-the-People-of-God"
+        }
+      ]
+    }
+  ],
+  "cn_markers": [
+    {
+      "marker": "A. Conflation of national & Christian identity",
+      "status": "Present",
+      "reference": "See Finding 2.2 — 'America gets knocked off where it's called to be in the world's ladder' (00:19:30)."
+    },
+    {
+      "marker": "B. Militaristic / warrior framing",
+      "status": "Low",
+      "note": "'Come and take it. Come and arrest me … I'm gonna touch people's eyeballs in the name of Jesus' (00:20:20) — defiant register but not direct militarism. 'You are tougher than hell' (00:11:30) reads as masculinized-warrior framing in the Du Mez register."
+    },
+    {
+      "marker": "C. Political opponents as spiritual enemies",
+      "status": "Present",
+      "reference": "See Finding 1.4 — sitting governor labeled 'a communist' (00:20:20). Counter-protesters described as 'Antifa types' (00:22:20)."
+    },
+    {
+      "marker": "D. Dominionist rhetoric",
+      "status": "Present — severe",
+      "reference": "See Findings 1.1 / 2.1 — 'prophets tell politicians what to do … we make the rules' (00:08:30). NAR / Seven Mountain register."
+    },
+    {
+      "marker": "E. Civil religion (flag, pledge, First Amendment as theology)",
+      "status": "Present",
+      "note": "First Amendment invoked as theological warrant for ignoring public-health closures: 'we got this thing called the First Amendment in America. This is not Iran. This is not China. This is not North Korea' (00:17:50)."
+    },
+    {
+      "marker": "F. Jeremiad / 'Christianity under attack'",
+      "status": "Present",
+      "reference": "See Finding 2.3 — 'authoritarian takeover of the earth' framing of COVID closures (00:18:30)."
+    },
+    {
+      "marker": "G. Ethno-cultural 'real American' undertones",
+      "status": "None detected",
+      "note": "No racial or ethno-cultural in-group framing in the sermon."
+    },
+    {
+      "marker": "H. Strongman / authoritarian affinity",
+      "status": "None detected",
+      "note": "No named-leader endorsement; the affinity in the sermon runs against state authority rather than toward a specific strongman."
+    }
+  ],
+  "other_axis2_rubrics": [
+    {
+      "rubric": "Anti-LGBTQ framing",
+      "status": "Not present in this sermon"
+    },
+    {
+      "rubric": "Anti-Muslim framing",
+      "status": "Not present in this sermon"
+    },
+    {
+      "rubric": "Anti-Jewish framing / supersessionism",
+      "status": "Not present",
+      "note": "Caesarea Philippi context is rendered with respect for first-century Jewish practice ('no observant, God-honoring Jew would go up there')."
+    },
+    {
+      "rubric": "Misogynistic framing",
+      "status": "Low — present",
+      "note": "The 'they were threatening to kill Jesse, not me, so I really wasn't that concerned' aside (00:22:50), even hedged as a joke, treats a spouse's life as a punchline. See Finding 1.5."
+    },
+    {
+      "rubric": "Rapture / dispensational framework",
+      "status": "Trace — low",
+      "note": "'Till Jesus himself comes and takes us out of here' (00:18:00) is a glancing rapture reference. Not structurally driving the sermon."
+    },
+    {
+      "rubric": "Prosperity gospel",
+      "status": "Present — moderate-to-severe",
+      "note": "Closing pivot is an explicit prosperity-gospel product launch: 'wealth transfer,' 'heaven's economy,' 'poverty mentality is propaganda,' '101 Prosperity Confessions.' See Findings 1.2 / 2.4 / 4.1."
+    },
+    {
+      "rubric": "NAR / Seven Mountain dominionism",
+      "status": "Present — severe",
+      "note": "Direct expression of prophets-rule-rulers thesis (Finding 2.1). Combined with self-titled 'bishop' / 'apostle' / 'prophet' network framing visible elsewhere in the speaker's public ministry."
+    }
+  ],
+  "rhetorical_markers": [
+    {
+      "marker": "Tribal identity activation",
+      "status": "Present",
+      "note": "Out-groups: 'communist' governor, 'Antifa types,' the 'media,' state authorities locking churches down. In-group: the faithful remnant who stayed open, prayed, and refused to comply.",
+      "quote": "I'd stood against the governor in Kentucky who is a communist … Almost had two full-fledged gunfights with like Antifa types.",
+      "timestamp_display": "00:20:20"
+    },
+    {
+      "marker": "Threat / fear activation",
+      "status": "Present",
+      "note": "Stacked threat frames: COVID-era 'authoritarian takeover of the earth,' personal death threats, breaking-into-the-house. The danger is consistently directed at the listener's identity-group.",
+      "quote": "What they're doing right now is not just a disease … this is an authoritarian takeover of the earth.",
+      "timestamp_display": "00:18:30"
+    },
+    {
+      "marker": "Mortality salience",
+      "status": "Present",
+      "note": "Two extended dead-raising narratives, plus 'come to church or die' aphorism. TMT predicts elevated in-group defense after this register; the immediately following content is altar-call + book pitch, exploiting that primed state.",
+      "quote": "Look at your neighbor and say, 'Come to church or die.' … We saw the dead raised not just once, but two times.",
+      "timestamp_display": "00:30:00"
+    },
+    {
+      "marker": "Certainty-under-ambiguity",
+      "status": "Present",
+      "note": "Repeated declarative prophecy compresses uncertain spiritual reality into firm assertions: 'revival isn't coming, it's HERE.' Need-for-closure is satisfied by declaration, not evidence.",
+      "quote": "Revival isn't coming. Stop saying it's coming. … It's here. It's here. It's here.",
+      "timestamp_display": "00:24:30"
+    },
+    {
+      "marker": "Urgency / scarcity cues",
+      "status": "Present",
+      "note": "'Provoke a move of God' as time-pressured imperative; the closing book launch is framed as 'time for the body of Christ to rise up to receive the wealth transfer' — loss-aversion register attached to a paid product.",
+      "quote": "If you'll provoke it, you can have a move of God in here. … It's time for the body of Christ to rise up to receive the wealth transfer.",
+      "timestamp_display": "00:31:00"
+    },
+    {
+      "marker": "Vindication / status-restoration",
+      "status": "Present",
+      "note": "The COVID narrative is structured as 'they called me a lunatic, then Fox News validated me on national TV.' Future-vindication softens past status-cost.",
+      "quote": "People told us we're crazy. People told us we're going to kill grandma. People told us that I'm a lunatic … Gibson's not crazy. He just wants his religious rights respected.",
+      "timestamp_display": "00:20:40"
+    },
+    {
+      "marker": "Grievance activation",
+      "status": "Present",
+      "note": "Explicit grievance against state authority, media, and 'church folk' who didn't show up: 'I got jaded … I got a little bit of an Elijah complex.' Pairs with CN-marker F (jeremiad).",
+      "quote": "I got jaded in a way cuz a lot of church folk, I didn't feel like they were with me like they should have been.",
+      "timestamp_display": "00:23:15"
+    },
+    {
+      "marker": "Authority-submission cues",
+      "status": "Present",
+      "note": "Prophetic-authority register replaces argument: 'I prophesy,' 'I declare,' 'I rebuke death and command life.' Disagreement with the speaker becomes disagreement with the Spirit.",
+      "quote": "I declare you will live and not die. And you will declare the works of the Lord. I rebuke death and I command life into you.",
+      "timestamp_display": "00:28:50"
+    },
+    {
+      "marker": "Parasocial attachment",
+      "status": "Present",
+      "note": "Heavy first-person storytelling — the bar-church plant, the rats and bats, his wife Jesse, the daughter going to college, the death-threat letters. Self-disclosure binds listener to speaker; disagreement starts to feel like betrayal of a friend.",
+      "quote": "Jesse and I, we've been doing church. We launched our first church over 20 years ago … She started praying like that.",
+      "timestamp_display": "00:00:45"
+    },
+    {
+      "marker": "Heroic / agency identification",
+      "status": "Present",
+      "note": "Listener positioned as protagonist in cosmic battle: 'tougher than hell,' provoking moves of God, raising the dead, refusing the lockdown, receiving the wealth transfer. Ordinary attendance becomes cosmically significant.",
+      "quote": "Somebody say, 'I'm tougher than hell.' … You are tougher than hell.",
+      "timestamp_display": "00:11:30"
+    }
+  ]
+}
